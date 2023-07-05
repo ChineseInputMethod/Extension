@@ -5,3 +5,5 @@
 [香港轉用ISO/IEC 10646的基礎模塊-- 香港字形及輔助工具](http://glyph.iso10646hk.net/index.jsp)
 
 [中华文库](https://www.zhonghuashu.com)
+
+[千千秀字](https://www.qqxiuzi.cn/)
