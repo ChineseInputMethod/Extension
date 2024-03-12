@@ -1,0 +1,15 @@
+汉字	拼音	频率
+寽	lue	0
+稤	lue	0
+掠	lue	46818
+略	lue	109933
+畧	lue	0
+锊	lue	12
+圙	lue	0
+鋝	lue	0
+鋢	lue	0
+疟	nue	600
+虐	nue	8260
+硸	nue	0
+瘧	nue	0
+藥	lue	0
