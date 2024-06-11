@@ -1,0 +1,15 @@
+汉字	拼音	频率	
+瓸	baiwa	24	
+瓰	fenwa	0	
+兝	gongfen	1	
+兣	gongli	0	
+兙	shike	0	
+兛	qianke	0	
+兞	haoke	0	
+兡	baike	24	
+瓼	liwa	0	
+甅	liwa	0	
+嗧	jialun	0	
+瓩	qianwa	2	
+瓧	shiwa	0	
+瓱	maowa	0	
