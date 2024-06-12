@@ -4943,7 +4943,7 @@
 编委	bian wei	2463
 编伍	bian wu	100
 编舞	bian wu	100
-编校	bian xiao	2057
+编校	bian jiao	2057
 编写	bian xie	9532
 编修	bian xiu	3000
 编选	bian xuan	4060
@@ -5171,7 +5171,7 @@
 变作	bian zuo	2
 变做	bian zuo	2
 便嬖	pian bi	100
-便便	bian bian	2000
+便便	pian pian	2000
 便步	bian bu	3008
 便步走	bian bu zou	100
 便餐	bian can	4084
@@ -5215,7 +5215,7 @@
 便携式	bian xie shi	4216
 便鞋	bian xie	4230
 便旋	pian xuan	100
-便血	bian xue	158
+便血	bian xie	158
 便言	pian yan	100
 便宴	bian yan	4038
 便衣	bian yi	4545
@@ -5316,7 +5316,7 @@
 标签	biao qian	7287
 标枪	biao qiang	4531
 标石	biao shi	111
-标识	biao zhi	7041
+标识	biao shi	7041
 标示	biao shi	5458
 标售	biao shou	100
 标书	biao shu	3226
@@ -6150,7 +6150,7 @@
 波累	bo lei	100
 波棱盖	bo leng gai	100
 波流	bo liu	10
-波罗的海	bo luo de hai	601
+波罗的海	bo luo di hai	601
 波罗蜜	bo luo mi	3030
 波美度	bo mei du	100
 波谱	bo pu	3023
