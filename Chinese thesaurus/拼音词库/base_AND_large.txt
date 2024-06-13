@@ -6202,7 +6202,7 @@
 饽饽	bo bo	4150
 剥除	bao chu	10
 剥床及肤	bo chuang ji fu	100
-剥掉	bo diao	10
+剥掉	bao diao	10
 剥夺	bo duo	8765
 剥肤之痛	bo fu zhi tong	100
 剥花生	bao hua sheng	10
@@ -6211,7 +6211,7 @@
 剥落	bo luo	6684
 剥皮	bao pi	3116
 剥蚀	bo shi	4112
-剥脱	bao tuo	3000
+剥脱	bo tuo	3000
 剥削	bo xue	7064
 剥削阶级	bo xue jie ji	3177
 剥削者	bo xue zhe	3022
@@ -6663,7 +6663,7 @@
 不得而知	bu de er zhi	3329
 不得劲	bu de jin	2119
 不得开交	bu de kai jiao	100
-不得了	bu de le	4644
+不得了	bu de liao	4644
 不得其死	bu de qi si	10
 不得其所	bu de qi suo	2000
 不得人心	bu de ren xin	3665
