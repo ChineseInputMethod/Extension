@@ -7161,7 +7161,7 @@
 不入时宜	bu ru shi yi	2001
 不若	bu ruo	2170
 不弱	bu ruo	213
-不塞不流	bu se bu liu	100
+不塞不流	bu sai bu liu	100
 不三不四	bu san bu si	3603
 不杀	bu sha	299
 不衫不履	bu shan bu lv	3000
