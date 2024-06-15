@@ -7541,7 +7541,7 @@
 不坠	bu zhui	10
 不准	bu zhun	22948
 不赀	bu zi	104
-不子	bu zi	106
+不子	dun zi	106
 不自量	bu zi liang	3011
 不自量力	bu zi liang li	4988
 不自然	bu zi ran	238
@@ -7746,7 +7746,7 @@
 擦子	ca zi	10
 嚓嚓	ca ca	218
 礤床儿	ca chuang er	100
-偲偲	cai cai	2001
+偲偲	si si	2001
 猜测	cai ce	12403
 猜忖	cai cun	6
 猜度	cai duo	3267
@@ -7757,7 +7757,7 @@
 猜枚	cai mei	106
 猜枚行令	cai mei xing ling	100
 猜谜	cai mi	3288
-猜谜儿	cai mi er	2001
+猜谜儿	cai mei er	2001
 猜摸	cai mo	101
 猜拳	cai quan	4048
 猜拳行令	cai quan xing ling	100
