@@ -7974,7 +7974,7 @@
 采薪之疾	cai xin zhi ji	1
 采薪之忧	cai xin zhi you	2000
 采行	cai xing	10
-采血	cai xue	3109
+采血	cai xie	3109
 采样	cai yang	5504
 采药	cai yao	13
 采衣	cai yi	7
@@ -8415,7 +8415,7 @@
 苍颜白发	cang yan bai fa	100
 苍鹰	cang ying	3793
 苍蝇	cang ying	7946
-苍蝇见血	cang ying jian xie	100
+苍蝇见血	cang ying jian xue	100
 苍蝇座	cang ying zuo	4
 苍郁	cang yu	4017
 沧沧	cang cang	100
@@ -8440,7 +8440,7 @@
 舱面	cang mian	513
 舱室	cang shi	3112
 舱位	cang wei	5069
-藏胞	cang bao	2002
+藏胞	zang bao	2002
 藏躲	cang duo	4005
 藏锋	cang feng	108
 藏富	cang fu	103
@@ -8470,12 +8470,12 @@
 藏文	zang wen	2271
 藏污纳垢	cang wu na gou	2120
 藏戏	zang xi	3069
-藏香	cang xiang	2047
+藏香	zang xiang	2047
 藏象	zang xiang	10
 藏形匿影	cang xing ni ying	103
 藏药	zang yao	100
 藏掖	cang ye	3003
-藏医	cang yi	3037
+藏医	zang yi	3037
 藏语	zang yu	2128
 藏拙	cang zhuo	3016
 藏踪	cang zong	4001
