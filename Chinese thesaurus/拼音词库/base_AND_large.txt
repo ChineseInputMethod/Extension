@@ -9265,7 +9265,7 @@
 产业资本	chan ye zi ben	143
 产油国	chan you guo	2648
 产院	chan yuan	4030
-产仔	chan zi	3109
+产仔	chan zai	3109
 产值	chan zhi	11778
 产子	chan zi	10
 刬旧谋新	chan jiu mou xin	1
@@ -9278,7 +9278,7 @@
 谄上抑下	chan shang yi xia	1
 谄笑	chan xiao	4009
 谄谀	chan yu	4007
-啴啴	chan chan	100
+啴啴	tan tan	100
 铲车	chan che	4050
 铲除	chan chu	7673
 铲迹销声	chan ji xiao sheng	100
@@ -9567,7 +9567,7 @@
 唱空城计	chang kong cheng ji	2022
 唱名	chang ming	3014
 唱念	chang nian	10
-唱喏	chang nuo	2007
+唱喏	chang re	2007
 唱盘	chang pan	3158
 唱片	chang pian	7885
 唱片儿	chang pian er	2000
@@ -9598,7 +9598,7 @@
 抄近儿	chao jin er	2001
 抄近路	chao jin lu	2000
 抄录	chao lu	5318
-抄没	chao mei	2006
+抄没	chao mo	2006
 抄身	chao shen	4001
 抄收	chao shou	4007
 抄手	chao shou	2015
@@ -9742,7 +9742,7 @@
 朝华夕秀	zhao hua xi xiu	100
 朝晖	zhao hui	4011
 朝晖夕阴	zhao hui xi yin	100
-朝会	zhao hui	10
+朝会	chao hui	10
 朝齑暮盐	zhao ji mu yan	100
 朝见	chao jian	4476
 朝觐	chao jin	4031
@@ -9780,7 +9780,7 @@
 朝鲜半岛	chao xian ban dao	465
 朝鲜族	chao xian zu	2465
 朝向	chao xiang	5115
-朝旭	chao xu	10
+朝旭	zhao xu	10
 朝阳	zhao yang	7150
 朝阳	chao yang	2000
 朝阳产业	zhao yang chan ye	100
