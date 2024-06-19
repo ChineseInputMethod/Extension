@@ -9958,8 +9958,8 @@
 车无退表	che wu tui biao	100
 车辖	che xia	10
 车厢	che xiang	9828
-车行	che xing	4310
-车行道	che hang dao	100
+车行	che hang	4310
+车行道	che xing dao	100
 车型	che xing	3539
 车削	che xiao	4033
 车辕	che yuan	4012
@@ -10046,7 +10046,7 @@
 嗔怪	chen guai	4038
 嗔怒	chen nu	3017
 嗔怨	chen yuan	10
-綝纚	chen li	100
+綝纚	lin li	100
 瞋怪	chen guai	10
 瞋目	chen mu	100
 瞋目切齿	chen mu qie chi	100
