@@ -10883,7 +10883,7 @@
 吃刀	chi dao	2004
 吃得开	chi de kai	3285
 吃得来	chi de lai	3013
-吃得上	chi dei shang	100
+吃得上	chi de shang	100
 吃得下	chi de xia	100
 吃得消	chi de xiao	3245
 吃得住	chi de zhu	3098
@@ -11900,7 +11900,7 @@
 出炉	chu lu	4180
 出路	chu lu	11491
 出乱子	chu luan zi	4365
-出落	chu la	4593
+出落	chu luo	4593
 出马	chu ma	7562
 出卖	chu mai	12294
 出卖灵魂	chu mai ling hun	100
