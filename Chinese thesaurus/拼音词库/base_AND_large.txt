@@ -12536,7 +12536,7 @@
 穿凿	chuan zao	4014
 穿凿附会	chuan zao fu hui	2049
 穿着	chuan zhe	30376
-穿着打扮	chuan zhe da ban	290
+穿着打扮	chuan zhuo da ban	290
 穿着讲究	chuan zhuo jiang jiu	100
 穿针	chuan zhen	3000
 穿针引线	chuan zhen yin xian	3301
@@ -12610,13 +12610,13 @@
 传染性	chuan ran xing	1063
 传染源	chuan ran yuan	393
 传热	chuan re	4032
-传热学	zhuan re xue	2000
+传热学	chuan re xue	2000
 传人	chuan ren	9404
 传入	chuan ru	3692
 传入神经	chuan ru shen jing	2004
 传三过四	chuan san guo si	100
 传神	chuan shen	5204
-传神阿堵	chuan shen a du	100
+传神阿堵	chuan shen e du	100
 传审	chuan shen	10
 传声	chuan sheng	2000
 传声器	chuan sheng qi	2044
@@ -12756,7 +12756,7 @@
 串戏	chuan xi	2005
 串线	chuan xian	3009
 串乡	chuan xiang	100
-串行	chuan hang	3508
+串行	chuan xing	3508
 串烟	chuan yan	109
 串演	chuan yan	4013
 串游	chuan you	3002
@@ -12946,7 +12946,7 @@
 吹糠见米	chui kang jian mi	2000
 吹口哨	chui kou shao	2053
 吹喇叭	chui la ba	3015
-吹乐	chui le	10
+吹乐	chui yue	10
 吹了	chui le	198
 吹擂	chui lei	3002
 吹冷风	chui leng feng	3048
@@ -13223,7 +13223,7 @@
 纯美	chun mei	4189
 纯棉	chun mian	229
 纯品	chun pin	100
-纯朴	chun piao	7209
+纯朴	chun pu	7209
 纯情	chun qing	3251
 纯然	chun ran	3021
 纯色	chun se	2000
