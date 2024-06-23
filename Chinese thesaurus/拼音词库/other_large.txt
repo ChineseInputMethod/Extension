@@ -1,4 +1,3 @@
-𰻝𰻝面	biang biang mian	1
 吖吖	a a	1
 吖丁啶	a ding ding	1
 阿八	a ba	1
@@ -1017,7 +1016,6 @@
 腤臜	an za	1
 痷茶	an cha	1
 痷婪	an lan	1
-𩽾𩾌	an kang	1
 鞍鞴	an bei	1
 鞍不离马背	an bu li ma bei	1
 鞍车	an che	1
@@ -1343,7 +1341,6 @@
 暗曶	an hu	1
 暗化	an hua	1
 暗换	an huan	1
-暗灰鹃䴗	an hui juan ju	1
 暗秽	an hui	1
 暗昏	an hun	1
 暗昏昏	an hun hun	1
@@ -1839,7 +1836,6 @@
 懊悴	ao cui	1
 懊怀	ao huai	1
 懊憦	ao lao	1
-懊𢙐	ao nao	1
 懊恼歌	ao nao ge	1
 懊恼曲	ao nao qu	1
 懊恼泽家	ao nao ze jia	1
@@ -2428,7 +2424,6 @@
 把鲊	ba zha	1
 把醆	ba zhan	1
 把掌	ba zhang	1
-㞎㞎	ba ba	1
 靶镜	ba jing	1
 靶牌	ba pai	1
 靶纸	ba zhi	1
@@ -2572,7 +2567,6 @@
 白白地浪费了	bai bai de lang fei le	1
 白斑翅拟蜡嘴雀	bai ban chi ni la zui que	1
 白斑翅雪雀	bai ban chi xue que	1
-白斑黑石䳭	bai ban hei shi ji	1
 白斑军舰鸟	bai ban jun jian niao	1
 白斑尾柳莺	bai ban wei liu ying	1
 白版侯	bai ban hou	1
@@ -2655,7 +2649,6 @@
 白叠	bai die	1
 白叠布	bai die bu	1
 白叠巾	bai die jin	1
-白顶䳭	bai ding ji	1
 白顶鹀	bai ding wu	1
 白顶溪鸲	bai ding xi qu	1
 白顶玄鸥	bai ding xuan ou	1
@@ -2768,7 +2761,6 @@
 白喉林鹟	bai hou lin weng	1
 白喉林莺	bai hou lin ying	1
 白喉扇尾鹟	bai hou shan wei weng	1
-白喉石䳭	bai hou shi ji	1
 白喉犀鸟	bai hou xi niao	1
 白喉噪鹛	bai hou zao mei	1
 白喉针尾雨燕	bai hou zhen wei yu yan	1
@@ -2798,7 +2790,6 @@
 白鹡鸰	bai ji ling	1
 白籍	bai ji	1
 白罽裘	bai ji qiu	1
-白𬶨豚	bai ji tun	1
 白骥	bai ji	1
 白夹	bai jia	1
 白夹蓝衫	bai jia lan shan	1
@@ -2870,7 +2861,6 @@
 白莲池	bai lian chi	1
 白莲会	bai lian hui	1
 白脸鹭	bai lian lu	1
-白脸䴓	bai lian shi	1
 白练裙	bai lian qun	1
 白练衣	bai lian yi	1
 白凉衫	bai liang shan	1
@@ -3102,7 +3092,6 @@
 白头迭雪	bai tou die xue	1
 白头海雕	bai tou hai diao	1
 白头鹤	bai tou he	1
-白头䴗鹛	bai tou ju mei	1
 白头亲	bai tou qin	1
 白头人	bai tou ren	1
 白头山天池	bai tou shan tian chi	1
@@ -3129,7 +3118,6 @@
 白尾蓝仙鹟	bai wei lan xian weng	1
 白尾鹲	bai wei meng	1
 白尾梢虹雉	bai wei shao hong zhi	1
-白尾䴓	bai wei shi	1
 白尾鹞	bai wei yao	1
 白炜	bai wei	1
 白卫	bai wei	1
@@ -3180,7 +3168,6 @@
 白盐	bai yan	1
 白眼儿	bai yan er	1
 白眼河燕	bai yan he yan	1
-白眼𫛭鹰	bai yan kuang ying	1
 白眼窝	bai yan wo	1
 白眼香	bai yan xiang	1
 白眼珠儿	bai yan zhu er	1
@@ -6811,7 +6798,6 @@
 本资	ben zi	1
 本祖	ben zu	1
 本罪	ben zui	1
-苯二氮䓬	ben er dan zhuo	1
 苯那辛	ben na xin	1
 苯氧基	ben yang ji	1
 畚臿	ben cha	1
@@ -14358,8 +14344,6 @@
 察允	cha yun	1
 察战	cha zhan	1
 察只	cha zhi	1
-𥻗粥	cha zhou	1
-𥻗子	cha zi	1
 蹅蹅忽忽	cha cha hu hu	1
 蹅狗屎	cha gou shi	1
 蹅践	cha jian	1
@@ -18982,7 +18966,6 @@
 赤精子	chi jing zi	1
 赤颈鸫	chi jing dong	1
 赤颈鹤	chi jing he	1
-赤颈䴙䴘	chi jing pi ti	1
 赤颈鸭	chi jing ya	1
 赤胫	chi jing	1
 赤九	chi jiu	1
@@ -19931,7 +19914,6 @@
 帱茵	chou yin	1
 帱载	dao zai	1
 帱帐	chou zhang	1
-㤽㤽	chou chou	1
 菗蒢	chou chu	1
 惆怅若失	chou chang ruo shi	1
 惆惕	chou ti	1
@@ -22193,7 +22175,6 @@
 輴輴	chun chun	1
 輴欙	chun lei	1
 輴轩	chun xuan	1
-䲠鱼	chun yu	1
 纯备	chun bei	1
 纯纯地	chun chun de	1
 纯粹关系推理	chun cui guan xi tui li	1
@@ -25358,7 +25339,6 @@
 大草鹛	da cao mei	1
 大草莺	da cao ying	1
 大查科平原	da zha ke ping yuan	1
-大𥻗子	da cha zi	1
 大柴旦行政区	da chai dan xing zheng qu	1
 大柴旦行政委员会	da chai dan xing zheng wei yuan hui	1
 大铲鞋	da chan xie	1
@@ -25544,7 +25524,6 @@
 大居正	da ju zheng	1
 大俥	da che	1
 大矩	da ju	1
-大鹃䴗	da juan ju	1
 大觉金仙	da jue jin xian	1
 大绝灭	da jue mie	1
 大君子	da jun zi	1
@@ -25555,7 +25534,6 @@
 大口地	da kou de	1
 大块朵颐	da kuai duo yi	1
 大寛转	da kuan zhuan	1
-大𫛭	da kuang	1
 大夼镇	da kuang zhen	1
 大魁天下	da kui tian xia	1
 大廓	da kuo	1
@@ -26969,7 +26947,6 @@
 淡客	dan ke	1
 淡冷	dan leng	1
 淡虑	dan lv	1
-淡绿䴗鹛	dan lv ju mei	1
 淡眉柳莺	dan mei liu ying	1
 淡墨榜	dan mo bang	1
 淡默	dan mo	1
@@ -26997,7 +26974,6 @@
 淡粥	dan zhou	1
 淡伫	dan zhu	1
 淡竚	dan zhu	1
-淡紫䴓	dan zi shi	1
 淡嘴	dan zui	1
 惮避	dan bi	1
 惮惮	dan dan	1
@@ -29393,7 +29369,6 @@
 菧苨	di ni	1
 弚靡	tui mi	1
 弚佗	tui tuo	1
-玓𬍛	di li	1
 杕栗	di li	1
 杕社	di she	1
 旳旳	di di	1
@@ -29707,7 +29682,6 @@
 慸葪	di ji	1
 慸介	di jie	1
 慸芥	di jie	1
-䗖𬟽	di dong	1
 踶踣	di bo	1
 踶触	di chu	1
 踶趹	di gui	1
@@ -29726,7 +29700,6 @@
 傎踬	dian zhi	1
 滇藏	dian zang	1
 滇藏川	dian zang chuan	1
-滇䴓	dian shi	1
 瘨痫	dian xian	1
 瘨眩	dian xuan	1
 颠跋	dian ba	1
@@ -31832,7 +31805,6 @@
 东藩	dong fan	1
 东方阿閦佛	dong fang a chu fo	1
 东方白鹳	dong fang bai guan	1
-东方斑䳭	dong fang ban ji	1
 东方大苇莺	dong fang da wei ying	1
 东方鸻	dong fang heng	1
 东方汇理银行	dong fang hui li yin hang	1
@@ -32076,7 +32048,6 @@
 东学	dong xue	1
 东崖	dong ya	1
 东亚峰会	dong ya feng hui	1
-东亚石䳭	dong ya shi ji	1
 东亚运动会	dong ya yun dong hui	1
 东岩	dong yan	1
 东岩酒	dong yan jiu	1
@@ -32695,7 +32666,6 @@
 斗内	dou nei	1
 斗狞	dou ning	1
 斗牛服	dou niu fu	1
-斗牛㹴	dou niu geng	1
 斗牛梗	dou niu geng	1
 斗牛宫	dou niu gong	1
 斗牛士之歌	dou niu shi zhi ge	1
@@ -35395,7 +35365,6 @@
 愕睨	e ni	1
 愕怡	e yi	1
 愕疑	e yi	1
-𫫇嗪	e qin	1
 腭锋	e feng	1
 腭化	e hua	1
 鹗表	e biao	1
@@ -35727,7 +35696,6 @@
 二冬	er dong	1
 二斗	er dou	1
 二娥	er e	1
-二𫫇英	er e ying	1
 二而三	er er san	1
 二而一	er er yi	1
 二二八武装起义	er er ba wu zhuang qi yi	1
@@ -37905,7 +37873,6 @@
 方维	fang wei	1
 方尾鹟	fang wei weng	1
 方闻科	fang wen ke	1
-方𨰿	fang xi	1
 方釳	fang xi	1
 方舄	fang xi	1
 方先生	fang xian sheng	1
@@ -39759,7 +39726,6 @@
 粉荔枝	fen li zhi	1
 粉緑	fen lv	1
 粉绵	fen mian	1
-粉䎃	fen ran	1
 粉砂石	fen sha shi	1
 粉态	fen tai	1
 粉题	fen ti	1
@@ -41197,7 +41163,6 @@
 凤头蜂鹰	feng tou feng ying	1
 凤头冠	feng tou guan	1
 凤头履	feng tou lv	1
-凤头䴙䴘	feng tou pi ti	1
 凤头潜鸭	feng tou qian ya	1
 凤头雀莺	feng tou que ying	1
 凤头雀嘴鹎	feng tou que zui bei	1
@@ -46574,7 +46539,6 @@
 耕助	geng zhu	1
 耕筑	geng zhu	1
 耕鉏	geng chu	1
-㹴犬	geng quan	1
 赓本	geng ben	1
 赓唱	geng chang	1
 赓歌	geng ge	1
@@ -47559,7 +47523,6 @@
 恭奴	gong nu	1
 恭谦	gong qian	1
 恭虔	gong qian	1
-恭亲王奕䜣	gong qin wang yi xin	1
 恭慎	gong shen	1
 恭世子	gong shi zi	1
 恭素	gong su	1
@@ -48034,7 +47997,6 @@
 钩斫	gou zhuo	1
 钩子麻糖	gou zi ma tang	1
 钩鉏	gou chu	1
-钩嘴林䴗	gou zui lin ju	1
 钩嘴圆尾鹱	gou zui yuan wei hu	1
 缑峰	gou feng	1
 缑蒯	gou kuai	1
@@ -49060,7 +49022,6 @@
 罟网	gu wang	1
 罟弋	gu yi	1
 钴镆	gu mo	1
-钴𬭁	gu mu	1
 蛊弊	gu bi	1
 蛊虫	gu chong	1
 蛊荡	gu dang	1
@@ -56237,7 +56198,6 @@
 熇燥	he zao	1
 熇蒸	he zheng	1
 褐背地山雀	he bei di shan que	1
-褐背鹟䴗	he bei weng ju	1
 褐翅叉尾海燕	he chi cha wei hai yan	1
 褐翅雪雀	he chi xue que	1
 褐翅鸦鹃	he chi ya juan	1
@@ -56510,7 +56470,6 @@
 黑黯	hei an	1
 黑白菜	hei bai cai	1
 黑白货	hei bai huo	1
-黑白林䳭	hei bai lin ji	1
 黑白切	hei bai qie	1
 黑白月	hei bai yue	1
 黑百灵	hei bai ling	1
@@ -56620,7 +56579,6 @@
 黑喉潜鸟	hei hou qian niao	1
 黑喉山鹪莺	hei hou shan jiao ying	1
 黑喉山雀	hei hou shan que	1
-黑喉石䳭	hei hou shi ji	1
 黑喉雪雀	hei hou xue que	1
 黑喉鸦雀	hei hou ya que	1
 黑喉岩鹨	hei hou yan liu	1
@@ -56657,7 +56615,6 @@
 黑精	hei jing	1
 黑颈鸫	hei jing dong	1
 黑颈鸬鹚	hei jing lu ci	1
-黑颈䴙䴘	hei jing pi ti	1
 黑颈长尾雉	hei jing chang wei zhi	1
 黑卷尾	hei juan wei	1
 黑尻	hei kao	1
@@ -56775,7 +56732,6 @@
 黑头金翅雀	hei tou jin chi que	1
 黑头蜡嘴雀	hei tou la zui que	1
 黑头奇鹛	hei tou qi mei	1
-黑头䴓	hei tou shi	1
 黑头穗鹛	hei tou sui mei	1
 黑头鹀	hei tou wu	1
 黑头噪鸦	hei tou zao ya	1
@@ -57378,7 +57334,6 @@
 红橙黄绿蓝靛紫	hong cheng huang lv lan dian zi	1
 红叱拨	hong chi bo	1
 红翅凤头鹃	hong chi feng tou juan	1
-红翅䴗鹛	hong chi ju mei	1
 红翅绿鸠	hong chi lv jiu	1
 红翅薮鹛	hong chi sou mei	1
 红翅旋壁雀	hong chi xuan bi que	1
@@ -61752,7 +61707,6 @@
 黄腰	huang yao	1
 黄腰柳莺	huang yao liu ying	1
 黄腰太阳鸟	huang yao tai yang niao	1
-黄腰响蜜䴕	huang yao xiang mi lie	1
 黄要	huang yao	1
 黄冶	huang ye	1
 黄冶变化	huang ye bian hua	1
@@ -62039,11 +61993,9 @@
 灰蓝姬鹟	hui lan ji weng	1
 灰蓝山雀	hui lan shan que	1
 灰烂	hui lan	1
-灰脸𫛭鹰	hui lian kuang ying	1
 灰脸鹟莺	hui lian weng ying	1
 灰椋鸟	hui liang niao	1
 灰林鸽	hui lin ge	1
-灰林䳭	hui lin ji	1
 灰林鸮	hui lin xiao	1
 灰领	hui ling	1
 灰溜溜地跑了	hui liu liu de pao le	1
@@ -62106,14 +62058,11 @@
 灰眼短脚鹎	hui yan duan jiao bei	1
 灰雁	hui yan	1
 灰燕鸻	hui yan heng	1
-灰燕䴗	hui yan ju	1
 灰移火变	hui yi huo bian	1
 灰陨	hui yun	1
 灰殒	hui yun	1
 灰志	hui zhi	1
 灰滞	hui zhi	1
-㧑损	hui sun	1
-㧑挹	hui yi	1
 诙嘲	hui chao	1
 诙謿	hui zhao	1
 诙辞	hui ci	1
@@ -63608,7 +63557,6 @@
 騞分	huo fen	1
 騞砉	huo hua	1
 攉煤机	huo mei ji	1
-㺢㹢狓	huo jia pi	1
 活巴巴	huo ba ba	1
 活把戏	huo ba xi	1
 活鲅鲅	huo ba ba	1
@@ -64624,7 +64572,6 @@
 鸡珠	ji zhu	1
 鸡宗	ji zong	1
 枅栌	ji lu	1
-㚻奸	ji jian	1
 咭噔咯噔	ji deng ge deng	1
 咭叮	ji ding	1
 咭咕	ji gu	1
@@ -67341,7 +67288,6 @@
 浃浴	jia yu	1
 浃月	jia yue	1
 浃宙	jia zhou	1
-𬂩提	jia ti	1
 痂查	jia zha	1
 痂癞	jia lai	1
 家八哥	jia ba ge	1
@@ -68801,7 +68747,6 @@
 减震鞋	jian zhen xie	1
 减字木兰花	jian zi mu lan hua	1
 减罪	jian zui	1
-剪䌽	jian cai	1
 剪荡	jian dang	1
 剪刀拐	jian dao guai	1
 剪刀石头布	jian dao shi tou bu	1
@@ -71738,7 +71683,6 @@
 角目	jiao mu	1
 角难	jiao nan	1
 角弩	jiao nu	1
-角䴙䴘	jiao pi ti	1
 角绮	jiao qi	1
 角气	jiao qi	1
 角枪题注	jiao qiang ti zhu	1
@@ -73328,7 +73272,6 @@
 解医	jie yi	1
 解已	jie yi	1
 解役	jie yi	1
-解㑊	xie yi	1
 解衵	jie yi	1
 解意	jie yi	1
 解翳	jie yi	1
@@ -79209,7 +79152,6 @@
 巨蛇尾	ju she wei	1
 巨什	ju shi	1
 巨胜	ju sheng	1
-巨䴓	ju shi	1
 巨石柱群	ju shi zhu qun	1
 巨识	ju shi	1
 巨黍	ju shu	1
@@ -80401,7 +80343,6 @@
 谲智	jue zhi	1
 谲主	jue zhu	1
 獗竖	jue shu	1
-㵐水	jue shui	1
 憰怪	jue guai	1
 鴂舌	jue she	1
 爵韠	jue bi	1
@@ -81635,7 +81576,6 @@
 坎轲	kan ke	1
 坎坷多舛	kan ke duo chuan	1
 坎昆	kan kun	1
-坎𡒄	kan lan	1
 坎劳	kan lao	1
 坎廪	kan lin	1
 坎懔	kan lin	1
@@ -83445,7 +83385,6 @@
 抠迎	kou ying	1
 抠着手掌	kou zhe shou zhang	1
 眍兜	kou dou	1
-眍䁖	kou lou	1
 眍瞜	kou lou	1
 剾刀	kou dao	1
 彄沓	kou ta	1
@@ -85749,7 +85688,6 @@
 霩清	kuo qing	1
 鞹鞃	kuo hong	1
 垃圾桶	la ji tong	1
-拉㞎㞎	la ba ba	1
 拉白布条	la bai bu tiao	1
 拉绊	la ban	1
 拉包尔	la bao er	1
@@ -89225,7 +89163,6 @@
 丽神	li shen	1
 丽牲	li sheng	1
 丽牲之石	li sheng zhi shi	1
-丽䴓	li shi	1
 丽实	li shi	1
 丽食	li shi	1
 丽史	li shi	1
@@ -89528,7 +89465,6 @@
 栗背短脚鹎	li bei duan jiao bei	1
 栗背奇鹛	li bei qi mei	1
 栗背岩鹨	li bei yan liu	1
-栗额䴗鹛	li e ju mei	1
 栗耳短脚鹎	li er duan jiao bei	1
 栗耳凤鹛	li er feng mei	1
 栗耳鹀	li er wu	1
@@ -89537,12 +89473,10 @@
 栗跗	li fu	1
 栗腹歌鸲	li fu ge qu	1
 栗腹矶鸫	li fu ji dong	1
-栗腹䴓	li fu shi	1
 栗腹文鸟	li fu wen niao	1
 栗冈砚	li gang yan	1
 栗骇	li hai	1
 栗喉蜂虎	li hou feng hu	1
-栗喉䴗鹛	li hou ju mei	1
 栗颊噪鹛	li jia zao mei	1
 栗阶	li jie	1
 栗颈噪鹛	li jing zao mei	1
@@ -89564,7 +89498,6 @@
 栗头蜂虎	li tou feng hu	1
 栗头雀鹛	li tou que mei	1
 栗头鹟莺	li tou weng ying	1
-栗臀䴓	li tun shi	1
 栗苇鳽	li wei yan	1
 栗温	li wen	1
 栗鹀	li wu	1
@@ -93045,7 +92978,6 @@
 岭越	ling yue	1
 岭嶂	ling zhang	1
 岭左	ling zuo	1
-岭𫶕	ling ying	1
 领案	ling an	1
 领便当	ling bian dang	1
 领承	ling cheng	1
@@ -93070,7 +93002,6 @@
 领角鸮	ling jiao xiao	1
 领峤	ling qiao	1
 领絜	ling jie	1
-领䴗鹛	ling ju mei	1
 领览	ling lan	1
 领理	ling li	1
 领料	ling liao	1
@@ -94820,7 +94751,6 @@
 偻垢	lv gou	1
 偻句	lv ju	1
 偻啰	lou luo	1
-偻㑩	lou luo	1
 偻翣	lv sha	1
 偻数	lv shu	1
 蒌翣	lou sha	1
@@ -99369,7 +99299,6 @@
 毛胎	mao tai	1
 毛太	mao tai	1
 毛腿耳夜鹰	mao tui er ye ying	1
-毛腿𫛭	mao tui kuang	1
 毛腿沙鸡	mao tui sha ji	1
 毛丸	mao wan	1
 毛尾	mao wei	1
@@ -103904,7 +103833,6 @@
 貊謡	mo yao	1
 貊泽	mo ze	1
 貊炙	mo zhi	1
-漠䳭	mo ji	1
 寞寞落落	mo mo luo luo	1
 靺鞈	mo ge	1
 靺韐	mo ge	1
@@ -104616,7 +104544,6 @@
 目翫	mu wan	1
 目围	mu wei	1
 目为	mu wei	1
-目𥆧	mu run	1
 目卧	mu wo	1
 目无光泽	mu wu guang ze	1
 目想	mu xiang	1
@@ -107336,7 +107263,6 @@
 牛头阿旁	niu tou e pang	1
 牛头伯劳	niu tou bo lao	1
 牛头船	niu tou chuan	1
-牛头㹴	niu tou geng	1
 牛头夜叉	niu tou ye cha	1
 牛头旃檀	niu tou zhan tan	1
 牛蘈	niu tui	1
@@ -108051,7 +107977,6 @@
 欧血	ou xue	1
 欧轧	ou zha	1
 欧亚红尾鸲	ou ya hong wei qu	1
-欧亚𫛭	ou ya kuang	1
 欧亚鸲	ou ya qu	1
 欧阳尚书	ou yang shang shu	1
 欧冶	ou ye	1
@@ -110413,7 +110338,6 @@
 甓涂	pi tu	1
 甓甃	pi zhou	1
 甓珠	pi zhu	1
-䴙䴘	pi ti	1
 疈辜	pi gu	1
 疈事	pi shi	1
 譬比	pi bi	1
@@ -112504,12 +112428,10 @@
 普通赤杨	pu tong chi yang	1
 普通翠鸟	pu tong cui niao	1
 普通高等学校招生全国统一考试	pu tong gao deng xue xiao zhao sheng quan guo tong yi kao shi	1
-普通𫛭	pu tong kuang	1
 普通楼燕	pu tong lou yan	1
 普通鸬鹚	pu tong lu ci	1
 普通潜鸟	pu tong qian niao	1
 普通秋沙鸭	pu tong qiu sha ya	1
-普通䴓	pu tong shi	1
 普通问题	pu tong wen ti	1
 普通燕鸻	pu tong yan heng	1
 普通燕鸥	pu tong yan ou	1
@@ -123691,7 +123613,6 @@
 人陈	ren chen	1
 人畜共患症	ren chu gong huan zheng	1
 人传人	ren chuan ren	1
-人从众𠈌	ren cong zhong yu	1
 人道救援	ren dao jiu yuan	1
 人德	ren de	1
 人都	ren dou	1
@@ -124547,7 +124468,6 @@
 狨坐	rong zuo	1
 狨座	rong zuo	1
 绒螯蟹	rong ao xie	1
-绒额䴓	rong e shi	1
 绒毛性腺激素	rong mao xing xian ji su	1
 毧毯	rong tan	1
 容保	rong bao	1
@@ -127786,7 +127706,6 @@
 沙荒地	sha huang di	1
 沙蝗	sha huang	1
 沙棘属	sha ji shu	1
-沙䳭	sha ji	1
 沙际	sha ji	1
 沙加缅度	sha jia mian duo	1
 沙尖	sha jian	1
@@ -142757,7 +142676,6 @@
 燧人	sui ren	1
 燧色	sui se	1
 燧铜镜	sui tong jing	1
-穗䳭	sui ji	1
 穗头	sui tou	1
 邃岸	sui an	1
 邃奥	sui ao	1
@@ -155019,9 +154937,7 @@
 翁壻	weng xu	1
 嗡嗡弹	weng weng dan	1
 嗡嗡祖拉	weng weng zu la	1
-螉䗥	weng zong	1
 鎓酸	weng suan	1
-𥆧息	shun xi	1
 勜劜	weng ya	1
 塕埲	weng beng	1
 塕然	weng ran	1
@@ -158670,7 +158586,6 @@
 蟋蟀相公	xi shuai xiang gong	1
 貕养	xi yang	1
 鵗雉	xi zhi	1
-㶉鶒	xi chi	1
 醯醋	xi cu	1
 醯醢	xi hai	1
 醯壶	xi hu	1
@@ -159017,7 +158932,6 @@
 喜山白眉朱雀	xi shan bai mei zhu que	1
 喜山点翅朱雀	xi shan dian chi zhu que	1
 喜山红眉朱雀	xi shan hong mei zhu que	1
-喜山𫛭	xi shan kuang	1
 喜寿	xi shou	1
 喜提	xi ti	1
 喜喜欢欢	xi xi huan huan	1
@@ -164151,7 +164065,6 @@
 小飱	xiao sun	1
 小蚕	xiao can	1
 小仓库	xiao cang ku	1
-小𥻗子	xiao cha zi	1
 小蟾	xiao chan	1
 小程子	xiao cheng zi	1
 小池百合子	xiao chi bai he zi	1
@@ -164328,7 +164241,6 @@
 小旆	xiao pei	1
 小蓬莱	xiao peng lai	1
 小屁孩	xiao pi hai	1
-小䴙䴘	xiao pi ti	1
 小平津	xiao ping jin	1
 小平钱	xiao ping qian	1
 小婆娘	xiao po niang	1
@@ -165143,7 +165055,6 @@
 邪宗	xie zong	1
 邪足	xie zu	1
 邪阻	xie zu	1
-㐖毒	xie du	1
 胁谄	xie chan	1
 胁持	xie chi	1
 胁从犯	xie cong fan	1
@@ -167532,7 +167443,6 @@
 凶族	xiong zu	1
 兄公	xiong gong	1
 兄兄	xiong xiong	1
-芎䓖	xiong qiong	1
 芎藭	xiong qiong	1
 匈濭	xiong ai	1
 匈横	xiong heng	1
@@ -179545,7 +179455,6 @@
 蚁窠	yi ke	1
 蚁窠梦	yi ke meng	1
 蚁悃	yi kun	1
-蚁䴕	yi lie	1
 蚁楼	yi lou	1
 蚁蝼	yi lou	1
 蚁卵	yi luan	1
@@ -180488,11 +180397,9 @@
 奕碁	yi qi	1
 奕祀	yi si	1
 奕禩	yi si	1
-奕䜣	yi xin	1
 奕叶	yi ye	1
 奕偞	yi ye	1
 奕致	yi zhi	1
-奕𬣞	yi zhu	1
 帟幕	yi mu	1
 帟帟	yi yi	1
 疫疾	yi ji	1
@@ -181026,7 +180933,6 @@
 翼子	yi zi	1
 翼子板	yi zi ban	1
 翼佐	yi zuo	1
-𬟁草	yi cao	1
 鶂飞	yi fei	1
 鶂路	yi lu	1
 鶂尾	yi wei	1
@@ -199737,7 +199643,6 @@
 智谞	zhi xu	1
 智学	zhi xue	1
 智钥	zhi yue	1
-智𫖮	zhi yi	1
 智异山	zhi yi shan	1
 智意	zhi yi	1
 智鹢	zhi yi	1
@@ -205923,12 +205828,10 @@
 棕背雪雀	zong bei xue que	1
 棕草鹛	zong cao mei	1
 棕车	zong che	1
-棕翅𫛭鹰	zong chi kuang ying	1
 棕顶树莺	zong ding shu ying	1
 棕额长尾山雀	zong e chang wei shan que	1
 棕腹大仙鹟	zong fu da xian weng	1
 棕腹杜鹃	zong fu du juan	1
-棕腹䴗鹛	zong fu ju mei	1
 棕腹蓝仙鹟	zong fu lan xian weng	1
 棕腹林鸲	zong fu lin qu	1
 棕腹柳莺	zong fu liu ying	1
@@ -205969,7 +205872,6 @@
 棕尾伯劳	zong wei bo lao	1
 棕尾褐鹟	zong wei he weng	1
 棕尾虹雉	zong wei hong zhi	1
-棕尾𫛭	zong wei kuang	1
 棕胸佛法僧	zong xiong fo fa seng	1
 棕胸蓝姬鹟	zong xiong lan ji weng	1
 棕胸雅鹛	zong xiong ya mei	1
@@ -207973,4 +207875,3 @@
 酢味	cu wei	1
 酢酨	cu zai	1
 乶下	fu xia	1
-𫚉鱼	hong yu	1
