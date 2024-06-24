@@ -12695,7 +12695,7 @@
 打打谈谈	dadatantan	7
 打打停停	dadatingting	7
 打到	dadao	1080
-打倒帝国主义!	dadaodiguozhuyi	100
+打倒帝国主义	dadaodiguozhuyi	100
 打得	dade	1400
 打得准	dadezhun	10
 打地铺儿	dadipuer	100
@@ -68670,7 +68670,7 @@
 山中小湖	shanzhongxiaohu	7
 山茱萸科	shanzhuyuke	2
 山竹子	shanzhuzi	2
-山陬海噬	shanzouhaishi	100
+山陬海噬	shanzouhaishi	100
 删程序	shanchengxu	6
 删节版	shanjieban	1
 删了	shanle	10
