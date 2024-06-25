@@ -14,3 +14,5 @@
 `base_AND_large.txt`+`expand_corpus_AND_large.txt`+`other_large.txt`就是原`large_pinyin.txt`中收录的词。
 
 现对`base_AND_large.txt`中的拼音进行审核，校订其中大约一千多个词的拼音。
+
+`other.txt`中是非CJK字符集汉字构成的词，例如`𰻝𰻝面`。

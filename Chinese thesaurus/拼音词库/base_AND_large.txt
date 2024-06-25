@@ -60762,8 +60762,8 @@
 那是	na shi	5340
 那首	na shou	364
 那天	na tian	5980
-那些	na xie	126192
-那些	nei xie	126192
+那些	na xie	120000
+那些	nei xie	6192
 那行	na xing	10
 那样	na yang	73792
 那也好	na ye hao	100
