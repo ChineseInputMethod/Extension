@@ -2307,7 +2307,6 @@
 保健监督	baojianjiandu	7
 保健监护	baojianjianhu	7
 保健酒	baojianjiu	1
-保健器	baojianqi	6
 保健器材	baojianqicai	2
 保健器械	baojianqixie	2
 保健室	baojianshi	100
