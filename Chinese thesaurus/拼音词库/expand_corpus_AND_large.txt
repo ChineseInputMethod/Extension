@@ -32431,7 +32431,6 @@
 惊涛巨浪	jing tao ju lang	1
 惊涛怒浪	jing tao nu lang	1
 惊天地	jing tian de	3
-惊天地泣鬼神	jing tian di qi gui shen	2
 惊挺	jing ting	5
 惊湍	jing tuan	1
 惊惋	jing wan	1

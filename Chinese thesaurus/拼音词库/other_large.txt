@@ -27189,7 +27189,6 @@
 当土	dang tu	1
 当兔	dang tu	1
 当外人看	dang wai ren kan	1
-当晩	dang wan	1
 当位	dang wei	1
 当昔	dang xi	1
 当乡	dang xiang	1
@@ -56957,8 +56956,6 @@
 恨惋	hen wan	1
 恨望	hen wang	1
 恨嫌	hen xian	1
-恨相见晩	hen xiang jian wan	1
-恨相知晩	hen xiang zhi wan	1
 恨血	hen xue	1
 恨悒	hen yi	1
 恨咤	hen zha	1
@@ -59492,7 +59489,6 @@
 华珰	hua dang	1
 华镫	hua deng	1
 华颠	hua dian	1
-华蕚	hua e	1
 华阀	hua fa	1
 华风	hua feng	1
 华封	hua feng	1
@@ -62607,7 +62603,6 @@
 悔亡	hui wang	1
 悔望	hui wang	1
 悔寤	hui wu	1
-悔之晩矣	hui zhi wan yi	1
 悔志	hui zhi	1
 毁薄	hui bao	1
 毁敝	hui bi	1
@@ -125576,7 +125571,6 @@
 睿龄	rui ling	1
 睿虑	rui lv	1
 睿略	rui lve	1
-睿畧	rui lve	1
 睿敏	rui min	1
 睿命	rui ming	1
 睿谟	rui mo	1
@@ -143132,7 +143126,6 @@
 他岐	ta qi	1
 他清楚地	ta qing chu de	1
 他山之石	ta shan zhi shi	1
-他山之石可以攻玉	ta shan zhi shi ke yi gong yu	1
 他谁	ta shui	1
 他适	ta shi	1
 他室	ta shi	1
@@ -179931,7 +179924,6 @@
 异伦	yi lun	1
 异虑	yi lv	1
 异略	yi lve	1
-异畧	yi lve	1
 异民	yi min	1
 异亩	yi mu	1
 异木	yi mu	1
