@@ -553,7 +553,6 @@
 挨踢	ai ti	1
 挨推	ai tui	1
 挨脱	ai tuo	1
-挨晩	ai wan	1
 挨也	ai ye	1
 挨倚	ai yi	1
 挨匝	ai za	1
@@ -148923,7 +148922,6 @@
 投售	tou shou	1
 投擿	tou ti	1
 投讬	tou tuo	1
-投晩	tou wan	1
 投文	tou wen	1
 投文牌	tou wen pai	1
 投檄	tou xi	1
