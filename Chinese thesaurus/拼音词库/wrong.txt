@@ -13,3 +13,4 @@
 挨晩	ai wan	1
 投晩	tou wan	1
 派遗	pai yi	6
+治晩	zhi wan	1

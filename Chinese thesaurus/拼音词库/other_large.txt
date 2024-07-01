@@ -199338,7 +199338,6 @@
 治统	zhi tong	1
 治徒	zhi tu	1
 治晚	zhi wan	1
-治晩	zhi wan	1
 治未病	zhi wei bing	1
 治象	zhi xiang	1
 治性	zhi xing	1
