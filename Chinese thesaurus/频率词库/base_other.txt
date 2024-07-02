@@ -99209,7 +99209,6 @@
 油针	youzhen	6
 油脂加工	youzhijiagong	7
 油脂粒	youzhili	6
-油脂酉旨	youzhiyouzhi	7
 油脂酯	youzhizhi	6
 油纸绝缘	youzhijueyuan	2
 油纸伞	youzhisan	4
