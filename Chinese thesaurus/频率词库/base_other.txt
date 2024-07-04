@@ -282,7 +282,6 @@
 爱生气	aishengqi	7
 爱诗	aishi	2
 爱使	aishi	6
-爱室	aishi	6
 爱书	aishu	10
 爱书人	aishuren	1
 爱书者	aishuzhe	2
@@ -74038,7 +74037,6 @@
 受惊吓	shoujingxia	10
 受控	shoukong	281
 受苦人	shoukuren	10
-受款	shoukuan	10
 受了	shoule	1140
 受了伤	shouleshang	222
 受领人	shoulingren	10
