@@ -32980,8 +32980,6 @@
 独放异彩	du fang yi cai	1
 独非	du fei	1
 独分儿	du fen er	1
-独峯牛	du feng niu	1
-独峯驼	du feng tuo	1
 独峰牛	du feng niu	1
 独峰驼	du feng tuo	1
 独幅	du fu	1
@@ -127423,7 +127421,6 @@
 穑督	se du	1
 穑民	se min	1
 穑养	se yang	1
-璱璱	se se	1
 轖驾	se jia	1
 轖结	se jie	1
 轖舌	se she	1
@@ -189557,7 +189554,6 @@
 院宇	yuan yu	1
 垸田	yuan tian	1
 掾曹	yuan cao	1
-瑗珲	yuan hui	1
 愿安	yuan an	1
 愿船	yuan chuan	1
 愿法	yuan fa	1
