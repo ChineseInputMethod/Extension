@@ -13993,7 +13993,6 @@
 策力	ce li	1
 策厉	ce li	1
 策虑	ce lv	1
-策畧	ce lve	1
 策帽儿	ce mao er	1
 策免	ce mian	1
 策目	ce mu	1
@@ -39441,7 +39440,6 @@
 纷舛	fen chuan	1
 纷错	fen cuo	1
 纷霏	fen fei	1
-纷纷穣穣	fen fen rang rang	1
 纷纷穰穰	fen fen rang rang	1
 纷纷洋洋	fen fen yang yang	1
 纷敷	fen fu	1
@@ -96763,7 +96761,6 @@
 洛子峰	luo zi feng	1
 络车	luo che	1
 络鞮	luo di	1
-络络	luo luo	1
 络漠	luo mo	1
 络幕	luo mu	1
 络脑	luo nao	1
@@ -97340,7 +97337,6 @@
 緑蛾	lv e	1
 緑萼	lv e	1
 緑萼梅	lv e mei	1
-緑蕚梅	lv e mei	1
 緑耳	lv er	1
 緑耳公	lv er gong	1
 緑耳梯	lv er ti	1
