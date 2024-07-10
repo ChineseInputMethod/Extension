@@ -22593,7 +22593,6 @@
 词锷	ci e	1
 词犯	ci fan	1
 词费	ci fei	1
-词峯	ci feng	1
 词府	ci fu	1
 词赋	ci fu	1
 词赋科	ci fu ke	1
@@ -69248,7 +69247,6 @@
 见天见	jian tian jian	1
 见天见地	jian tian jian di	1
 见天见晚	jian tian jian wan	1
-见天见晩	jian tian jian wan	1
 见头角	jian tou jiao	1
 见徒	jian tu	1
 见托	jian tuo	1
