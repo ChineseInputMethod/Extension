@@ -73241,7 +73241,6 @@
 试验局	shiyanju	2
 试验楼	shiyanlou	3
 试验品	shiyanpin	100
-试验器	shiyanqi	2
 试验区	shiyanqu	2262
 试验设备	shiyanshebei	3
 试验设计	shiyansheji	3

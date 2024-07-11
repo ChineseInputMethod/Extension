@@ -89626,7 +89626,6 @@
 连独	lian du	1
 连牍	lian du	1
 连萼	lian e	1
-连蕚	lian e	1
 连洏	lian er	1
 连二灶	lian er zao	1
 连犿	lian fan	1
@@ -89637,7 +89636,6 @@
 连舫	lian fang	1
 连霏	lian fei	1
 连封	lian feng	1
-连峯	lian feng	1
 连烽	lian feng	1
 连锋	lian feng	1
 连缝	lian feng	1
