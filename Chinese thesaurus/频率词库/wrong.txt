@@ -18,3 +18,4 @@
 试验器	shiyanqi	2
 皇扌		6
 贮存品		6
+铜制器	tongzhiqi	10

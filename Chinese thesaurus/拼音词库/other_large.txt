@@ -147229,7 +147229,6 @@
 铁官	tie guan	1
 铁官钱	tie guan qian	1
 铁冠	tie guan	1
-铁絙	tie geng	1
 铁唤头	tie huan tou	1
 铁火轮	tie huo lun	1
 铁蒺藜骨朵	tie ji li gu duo	1
@@ -194341,7 +194340,6 @@
 长引	chang yin	1
 长印鱼	chang yin yu	1
 长嬴	chang ying	1
-长赢	chang ying	1
 长墉	chang yong	1
 长永	chang yong	1
 长咏	chang yong	1

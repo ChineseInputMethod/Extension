@@ -80596,7 +80596,6 @@
 铜原子	tongyuanzi	6
 铜制	tongzhi	7
 铜制品	tongzhipin	4
-铜制器	tongzhiqi	10
 铜质	tongzhi	3
 铜钟	tongzhong	4
 铜椎	tongzhui	10
