@@ -100433,7 +100433,6 @@
 门下侍郎	men xia shi lang	1
 门下侍郞	men xia shi lang	1
 门下晚生	men xia wan sheng	1
-门下晩生	men xia wan sheng	1
 门下掾	men xia yuan	1
 门罅	men xia	1
 门向	men xiang	1
