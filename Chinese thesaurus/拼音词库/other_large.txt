@@ -7089,7 +7089,6 @@
 逼突	bi tu	1
 逼涂	bi tu	1
 逼晚	bi wan	1
-逼晩	bi wan	1
 逼危	bi wei	1
 逼威	bi wei	1
 逼畏	bi wei	1
@@ -11970,7 +11969,6 @@
 不遭时	bu zao shi	1
 不凿	bu zao	1
 不早当晚	bu zao dang wan	1
-不早当晩	bu zao dang wan	1
 不皂	bu zao	1
 不眨眼地	bu zha yan de	1
 不斩眼	bu zhan yan	1
@@ -31841,7 +31839,6 @@
 东宫三师	dong gong san shi	1
 东宫三太	dong gong san tai	1
 东沟镇	dong gou zhen	1
-东瓜穣青花	dong gua rang qing hua	1
 东瓜穰青花	dong gua rang qing hua	1
 东观汉记	dong guan han ji	1
 东龟	dong gui	1
@@ -65702,7 +65699,6 @@
 急农	ji nong	1
 急骑	ji qi	1
 急切地说	ji qie de shuo	1
-急穣穣	ji rang rang	1
 急热	ji re	1
 急人	ji ren	1
 急缮	ji shan	1
@@ -126103,7 +126099,6 @@
 三寸管	san cun guan	1
 三寸黄甘	san cun huang gan	1
 三寸鸡毛	san cun ji mao	1
-三寸鸟七寸嘴	san cun niao qi cun zui	1
 三寸气	san cun qi	1
 三寸弱管	san cun ruo guan	1
 三寸弱翰	san cun ruo han	1
@@ -159924,7 +159919,6 @@
 下死手	xia si shou	1
 下潠田	xia sun tian	1
 下驮	xia tuo	1
-下晩	xia wan	1
 下帏	xia wei	1
 下无卓锥	xia wu zhuo zhui	1
 下五旗	xia wu qi	1
@@ -169823,7 +169817,6 @@
 悬乏	xuan fa	1
 悬飞	xuan fei	1
 悬封	xuan feng	1
-悬峯	xuan feng	1
 悬符	xuan fu	1
 悬釜	xuan fu	1
 悬附	xuan fu	1
@@ -169938,7 +169931,6 @@
 悬枭	xuan xiao	1
 悬泻	xuan xie	1
 悬厓	xuan ya	1
-悬崕峭壁	xuan ya qiao bi	1
 悬眼	xuan yan	1
 悬羊击鼓	xuan yang ji gu	1
 悬仰	xuan yang	1
@@ -192033,7 +192025,6 @@
 造化主	zao hua zhu	1
 造怀	zao huai	1
 造祸	zao huo	1
-造极登峯	zao ji deng feng	1
 造见	zao jian	1
 造口孽	zao kou nie	1
 造口业	zao kou ye	1

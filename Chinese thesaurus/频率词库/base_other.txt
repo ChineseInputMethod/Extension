@@ -95506,7 +95506,6 @@
 一不	yi bu	305
 一不留神	yi bu liu shen	112
 一不做，二不休	yi bu zuo er bu xiu	118
-一不做二不休	yi bu zuo er bu xiu	100
 一步法	yi bu fa	40
 一步距离	yi bu ju li	10
 一步一个脚印儿	yi bu yi ge jiao yin er	2001
