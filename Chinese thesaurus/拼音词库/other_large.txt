@@ -78460,7 +78460,6 @@
 鹫岛	jiu dao	1
 鹫殿	jiu dian	1
 鹫堞	jiu die	1
-鹫峯	jiu feng	1
 鹫峯寺	jiu feng si	1
 鹫科	jiu ke	1
 鹫窟	jiu ku	1
@@ -93867,7 +93866,6 @@
 六司	liu si	1
 六四事件	liu si shi jian	1
 六岁旱	liu sui han	1
-六岁穣	liu sui rang	1
 六岁穰	liu sui rang	1
 六遂	liu sui	1
 六穗	liu sui	1
@@ -138171,7 +138169,6 @@
 衰统	shuai tong	1
 衰隤	shuai tui	1
 衰晚	shuai wan	1
-衰晩	shuai wan	1
 衰王	shuai wang	1
 衰委	shuai wei	1
 衰痿	shuai wei	1
@@ -176965,7 +176962,6 @@
 夜天	ye tian	1
 夜庭	ye ting	1
 夜柝	ye tuo	1
-夜晩	ye wan	1
 夜午	ye wu	1
 夜夕	ye xi	1
 夜香	ye xiang	1
