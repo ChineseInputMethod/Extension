@@ -123610,7 +123610,6 @@
 人籍	ren ji	1
 人家牵驴你拔橛	ren jia qian lv ni ba jue	1
 人间第一黄	ren jian di yi huang	1
-人间重晩晴	ren jian zhong wan qing	1
 人艰不拆	ren jian bu chai	1
 人匠	ren jiang	1
 人节	ren jie	1
@@ -152612,7 +152611,6 @@
 望阀	wang fa	1
 望氛	wang fen	1
 望风希旨	wang feng xi zhi	1
-望峯息心	wang feng xi xin	1
 望夫歌	wang fu ge	1
 望夫云	wang fu yun	1
 望妇堠	wang fu hou	1
@@ -158322,7 +158320,6 @@
 翕应	xi ying	1
 翕振	xi zhen	1
 翕訿	xi zi	1
-翖侯	xi hou	1
 焬耀	xi yao	1
 犀伻	xi beng	1
 犀比	xi bi	1
@@ -191547,7 +191544,6 @@
 瓒罍	zan lei	1
 酇白	zan bai	1
 酇鄙	zan bi	1
-酇侯	zan hou	1
 酇台	zan tai	1
 饡饭	zan fan	1
 喒家	zan jia	1

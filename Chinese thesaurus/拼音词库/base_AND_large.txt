@@ -70602,7 +70602,6 @@
 人保	ren bao	3474
 人不可貌相	ren bu ke mao xiang	100
 人不知	ren bu zhi	3680
-人不知鬼不觉	ren bu zhi gui bu jue	100
 人才	ren cai	41321
 人才辈出	ren cai bei chu	3227
 人才出众	ren cai chu zhong	171
@@ -92529,7 +92528,6 @@
 先悉必具	xian xi bi ju	10
 先下手为强	xian xia shou wei qiang	986
 先贤	xian xian	4409
-先小人后君子	xian xiao ren hou jun zi	100
 先行	xian xing	13160
 先行词	xian xing ci	100
 先行官	xian xing guan	3093
