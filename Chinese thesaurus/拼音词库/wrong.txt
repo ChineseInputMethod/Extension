@@ -61,3 +61,13 @@
 翖侯	xi hou	1
 先小人后君子	xian xiao ren hou jun zi	100
 酇侯	zan hou	1
+酇台	zan tai	1
+酇鄙	zan bi	1
+酇白	zan bai	1
+农穣	nong rang	1
+凄飈	qi biao	1
+盗簒	dao cuan	1
+前怕狼后怕虎	qian pa lang hou pa hu	3005
+前晩	qian wan	1
+前亲晩后	qian qin wan hou	1
+边畧	bian lve	1
