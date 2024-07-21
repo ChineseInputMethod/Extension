@@ -4483,7 +4483,6 @@
 半涂而废	ban tu er fei	1
 半袜	ban wa	1
 半晚	ban wan	1
-半晩	ban wan	1
 半夏稻	ban xia dao	1
 半闲堂	ban xian tang	1
 半响	ban xiang	1
@@ -26503,7 +26502,6 @@
 单房差	dan fang cha	1
 单非	dan fei	1
 单费	dan fei	1
-单峯驼	dan feng tuo	1
 单幅门	dan fu men	1
 单父	shan fu	1
 单父琴	chan fu qin	1
@@ -29779,7 +29777,6 @@
 颠旭	dian xu	1
 颠眴	dian xuan	1
 颠窨	dian xun	1
-颠崕	dian ya	1
 颠崖	dian ya	1
 颠颜	dian yan	1
 颠夭	dian yao	1
@@ -127060,8 +127057,6 @@
 桑畦	sang qi	1
 桑钱	sang qian	1
 桑丘	sang qiu	1
-桑穣	sang rang	1
-桑穣纸	sang rang zhi	1
 桑穰	sang rang	1
 桑穰纸	sang rang zhi	1
 桑楺	sang rou	1
@@ -127093,7 +127088,6 @@
 桑榆暮	sang yu mu	1
 桑榆年	sang yu nian	1
 桑榆暖	sang yu nuan	1
-桑榆晩景	sang yu wan jing	1
 桑榆之礼	sang yu zhi li	1
 桑虞	sang yu	1
 桑域	sang yu	1
@@ -132441,7 +132435,6 @@
 圣论	sheng lun	1
 圣虑	sheng lv	1
 圣略	sheng lve	1
-圣畧	sheng lve	1
 圣马洛	sheng ma luo	1
 圣门	sheng men	1
 圣米	sheng mi	1
@@ -133297,7 +133290,6 @@
 十二度	shi er du	1
 十二分星	shi er fen xing	1
 十二分野	shi er fen ye	1
-十二峯	shi er feng	1
 十二峰	shi er feng	1
 十二公	shi er gong	1
 十二国	shi er guo	1
@@ -174382,7 +174374,6 @@
 雁断鱼沈	yan duan yu shen	1
 雁风	yan feng	1
 雁封	yan feng	1
-雁峯	yan feng	1
 雁峰	yan feng	1
 雁妇	yan fu	1
 雁关	yan guan	1
@@ -191857,7 +191848,6 @@
 蚤图	zao tu	1
 蚤退	zao tui	1
 蚤晚	zao wan	1
-蚤晩	zao wan	1
 蚤亡	zao wang	1
 蚤蚊	zao wen	1
 蚤闲	zao xian	1
