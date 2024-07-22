@@ -21839,7 +21839,6 @@
 垂头搨翼	chui tou da yi	1
 垂橐稛载	chui tuo kun zai	1
 垂晚	chui wan	1
-垂晩	chui wan	1
 垂帷	chui wei	1
 垂委	chui wei	1
 垂文	chui wen	1
@@ -25617,7 +25616,6 @@
 大气儿	da qi er	1
 大气逆辐射	da qi ni fu she	1
 大气暖化	da qi nuan hua	1
-大器晩成	da qi wan cheng	1
 大鼜	da qi	1
 大钱大物	da qian da wu	1
 大秦景教流行中国碑	da qin jing jiao liu xing zhong guo bei	1
@@ -25635,7 +25633,6 @@
 大阙	da que	1
 大搉	da que	1
 大榷	da que	1
-大穣	da rang	1
 大穰	da rang	1
 大桡	da rao	1
 大人不见小人怪	da ren bu jian xiao ren guai	1
@@ -34617,7 +34614,6 @@
 多栽花少栽刺	duo zai hua shao zai ci	1
 多昝	duo zan	1
 多攒	duo zan	1
-多早晩	duo zao wan	1
 多站地址	duo zhan di zhi	1
 多种语言支持	duo zhong yu yan zhi chi	1
 多重结局	duo chong jie ju	1
@@ -62409,7 +62405,6 @@
 回濑	hui lai	1
 回栏	hui lan	1
 回澜	hui lan	1
-回乐峯	hui le feng	1
 回乐峰	hui le feng	1
 回连	hui lian	1
 回脸	hui lian	1
@@ -62494,7 +62489,6 @@
 回岩	hui yan	1
 回颜	hui yan	1
 回眼	hui yan	1
-回雁峯	hui yan feng	1
 回雁峰	hui yan feng	1
 回腰	hui yao	1
 回漪	hui yi	1
@@ -146195,7 +146189,6 @@
 天揖	tian yi	1
 天仪	tian yi	1
 天宜	tian yi	1
-天彜	tian yi	1
 天彝	tian yi	1
 天乙	tian yi	1
 天荫	tian yin	1
@@ -163185,7 +163178,6 @@
 向拓	xiang tuo	1
 向搨	xiang ta	1
 向涂	xiang tu	1
-向晩	xiang wan	1
 向吴亭	xiang wu ting	1
 向物	xiang wu	1
 向夕	xiang xi	1
@@ -169349,7 +169341,6 @@
 喧填	xuan tian	1
 喧头	xuan tou	1
 喧譊	xuan nao	1
-喧嚻	xuan xiao	1
 喧言	xuan yan	1
 喧妍	xuan yan	1
 喧议	xuan yi	1
