@@ -18445,7 +18445,6 @@
 迟曙	chi shu	1
 迟数	chi shu	1
 迟停	chi ting	1
-迟晩	chi wan	1
 迟违	chi wei	1
 迟悮	chi wu	1
 迟想	chi xiang	1
@@ -43740,7 +43739,6 @@
 富平津	fu ping jin	1
 富谦	fu qian	1
 富强纤维	fu qiang xian wei	1
-富穣	fu rang	1
 富穰	fu rang	1
 富人侯	fu ren hou	1
 富奢	fu she	1
@@ -47298,7 +47296,6 @@
 宫车出	gong che chu	1
 宫车上仙	gong che shang xian	1
 宫车晚出	gong che wan chu	1
-宫车晩出	gong che wan chu	1
 宫车远驭	gong che yuan yu	1
 宫臣	gong chen	1
 宫城县	gong cheng xian	1
@@ -48354,7 +48351,6 @@
 孤饭	gu fan	1
 孤偾	gu fen	1
 孤风	gu feng	1
-孤峯	gu feng	1
 孤奉	gu feng	1
 孤负	gu fu	1
 孤干	gu gan	1
@@ -54201,7 +54197,6 @@
 寒橐	han tuo	1
 寒柝	han tuo	1
 寒晚	han wan	1
-寒晩	han wan	1
 寒往暑来	han wang shu lai	1
 寒威	han wei	1
 寒纬	han wei	1
@@ -54916,7 +54911,6 @@
 好佚恶劳	hao yi wu lao	1
 好讔	hao yin	1
 好运符	hao yun fu	1
-好早晩	hao zao wan	1
 好憎	hao zeng	1
 好畤侯	hao zhi hou	1
 好畤田	hao zhi tian	1
@@ -116582,7 +116576,6 @@
 乔材	qiao cai	1
 乔答摩	qiao da mo	1
 乔忿	qiao fen	1
-乔峯	qiao feng	1
 乔干	qiao gan	1
 乔戈里峰	qiao ge li feng	1
 乔格里峰	qiao ge li feng	1
@@ -136041,7 +136034,6 @@
 守祧	shou tiao	1
 守兔	shou tu	1
 守晚	shou wan	1
-守晩	shou wan	1
 守望台	shou wang tai	1
 守危	shou wei	1
 守委	shou wei	1
@@ -151715,7 +151707,6 @@
 婉惬	wan qie	1
 婉淑	wan shu	1
 婉晚	wan wan	1
-婉晩	wan wan	1
 婉委	wan wei	1
 婉谐	wan xie	1
 婉秀	wan xiu	1
