@@ -14988,7 +14988,6 @@
 巉巗	chan yan	1
 巉崱	chan ze	1
 巉崒	chan zu	1
-巉崪	chan zu	1
 躔陛	chan bi	1
 躔度	chan du	1
 躔结	chan jie	1
@@ -40666,7 +40665,6 @@
 疯子院	feng zi yuan	1
 峯岑	feng cen	1
 峯巅	feng dian	1
-峯顶	feng ding	1
 峯朵	feng duo	1
 峯腹	feng fu	1
 峯回路转	feng hui lu zhuan	1
@@ -40677,14 +40675,11 @@
 峯岚	feng lan	1
 峯林	feng lin	1
 峯岭	feng ling	1
-峯峦	feng luan	1
 峯牛	feng niu	1
-峯头	feng tou	1
 峯胁	feng xie	1
 峯岫	feng xiu	1
 峯巘	feng yan	1
 峯腰	feng yao	1
-峯颖	feng ying	1
 峯嶂	feng zhang	1
 峰峰矿	feng feng kuang	1
 峰岚	feng lan	1
@@ -65402,7 +65397,6 @@
 吉主	ji zhu	1
 吉祝	ji zhu	1
 吉字节	ji zi jie	1
-岌峩	ji e	1
 岌峇	ji ba	1
 岌嶷	ji ni	1
 汲短	ji duan	1
@@ -121388,7 +121382,6 @@
 曲子相公	qu zi xiang gong	1
 曲滓	qu zi	1
 岖嵠	qu xi	1
-岖崟	qu yin	1
 岖崯	qu yin	1
 佉仓	qu cang	1
 佉经	qu jing	1
@@ -128007,7 +128000,6 @@
 山矾水	shan fan shui	1
 山樊	shan fan	1
 山扉	shan fei	1
-山峯	shan feng	1
 山夫	shan fu	1
 山肤	shan fu	1
 山趺	shan fu	1
@@ -177012,7 +177004,6 @@
 靥饰	ye shi	1
 靥文	ye wen	1
 靥星	ye xing	1
-嶪峨	ye e	1
 嶪峩	ye e	1
 嶪騀	ye e	1
 嶪岌	ye ji	1

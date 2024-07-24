@@ -6321,7 +6321,6 @@
 参综	can zong	1
 参纂	can zuan	5
 骖靳	can jin	1
-嵾嵯	cen cuo	1
 餐布	can bu	3
 餐风	can feng	5
 餐风啮雪	can feng nie xue	1
