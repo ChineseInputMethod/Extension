@@ -7317,7 +7317,6 @@
 彼拉提斯	bi la ti si	1
 彼其	bi qi	1
 彼我	bi wo	1
-彼一时此一时	bi yi shi ci yi shi	1
 彼哉彼哉	bi zai bi zai	1
 彼中	bi zhong	1
 柀子	bi zi	1
@@ -24034,7 +24033,6 @@
 崔莺	cui ying	1
 崔萤	cui ying	1
 崔崒	cui zu	1
-崔崪	cui zu	1
 催迸	cui beng	1
 催膘	cui biao	1
 催肥剂	cui fei ji	1
@@ -92188,7 +92186,6 @@
 灵芬	ling fen	1
 灵鼖	ling fen	1
 灵封	ling feng	1
-灵峯	ling feng	1
 灵峰	ling feng	1
 灵凤	ling feng	1
 灵凫	ling fu	1
@@ -106433,7 +106430,6 @@
 年统	nian tong	1
 年头禁	nian tou jin	1
 年晚生	nian wan sheng	1
-年晩生	nian wan sheng	1
 年位	nian wei	1
 年味	nian wei	1
 年翁	nian weng	1
@@ -145560,7 +145556,6 @@
 稊秕	ti bi	1
 稊气钱	ti qi qian	1
 稊田	ti tian	1
-鹈峯	ti feng	1
 鹈峰	ti feng	1
 鹈胡	ti hu	1
 鹈鴂	ti jue	1
@@ -153314,12 +153309,10 @@
 嵬岸	wei an	1
 嵬昂	wei ang	1
 嵬崔	wei cui	1
-嵬峩	wei e	1
 嵬騀	wei e	1
 嵬崿	wei e	1
 嵬岌	wei ji	1
 嵬崛	wei jue	1
-嵬崫	wei jue	1
 嵬丽	wei li	1
 嵬苶	wei nie	1
 嵬巍	wei wei	1
@@ -168369,7 +168362,6 @@
 须次	xu ci	1
 须达多	xu da duo	1
 须柢	xu di	1
-须蕚	xu e	1
 须浮鸥	xu fu ou	1
 须管教	xu guan jiao	1
 须合	xu he	1
@@ -179778,7 +179770,6 @@
 屹兀	yi wu	1
 屹峙	yi zhi	1
 屹崒	yi zu	1
-屹崪	yi zu	1
 亦敌亦友	yi di yi you	1
 亦都护	yi du hu	1
 亦何	yi he	1
@@ -182840,7 +182831,6 @@
 鹰架栈台	ying jia zhan tai	1
 鹰鹃	ying juan	1
 鹰军	ying jun	1
-鹰窠峯	ying ke feng	1
 鹰窠峰	ying ke feng	1
 鹰卢	ying lu	1
 鹰马	ying ma	1
