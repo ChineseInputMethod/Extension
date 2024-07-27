@@ -75196,7 +75196,6 @@
 近俗	jin su	1
 近台	jin tai	1
 近途	jin tu	1
-近晩	jin wan	1
 近卫文麿	jin wei wen mo	1
 近午	jin wu	1
 近务	jin wu	1
@@ -123363,7 +123362,6 @@
 扰劫	rao jie	1
 扰惧	rao ju	1
 扰叛	rao pan	1
-扰穣	rao rang	1
 扰穰	rao rang	1
 扰躟	rao rang	1
 扰扰胶胶	rao rao jiao jiao	1
@@ -124089,7 +124087,6 @@
 日偷	ri tou	1
 日完	ri wan	1
 日晚	ri wan	1
-日晩	ri wan	1
 日围	ri wei	1
 日午	ri wu	1
 日西	ri xi	1
@@ -134945,7 +134942,6 @@
 势不可当	shi bu ke dang	1
 势刀铜铩	shi dao tong sha	1
 势分	shi fen	1
-势峯	shi feng	1
 势峰	shi feng	1
 势火	shi huo	1
 势藉	shi jie	1
@@ -151716,7 +151712,6 @@
 晩出	wan chu	1
 晩春	wan chun	1
 晩爨	wan cuan	1
-晩点	wan dian	1
 晩雕	wan diao	1
 晩发	wan fa	1
 晩饭	wan fan	1
@@ -151777,8 +151772,6 @@
 晩香	wan xiang	1
 晩饷	wan xiang	1
 晩歇	wan xie	1
-晩学	wan xue	1
-晩学生	wan xue sheng	1
 晩叶	wan ye	1
 晩夜	wan ye	1
 晩造	wan zao	1
@@ -195473,7 +195466,6 @@
 这样就能更快地	zhe yang jiu neng geng kuai de	1
 这样可以更好地	zhe yang ke yi geng hao de	1
 这也是为了更好地	zhe ye shi wei le geng hao de	1
-这早晩	zhe zao wan	1
 这蚤晩	zhe zao wan	1
 柘杓	zhe shao	1
 柘杵	zhe chu	1
