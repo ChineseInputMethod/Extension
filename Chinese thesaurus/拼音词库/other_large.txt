@@ -151705,7 +151705,6 @@
 椀脱	wan tuo	1
 椀珠	wan zhu	1
 椀珠伎	wan zhu ji	1
-晩报	wan bao	1
 晩步	wan bu	1
 晩春	wan chun	1
 晩饭	wan fan	1
@@ -151719,8 +151718,6 @@
 晩间	wan jian	1
 晩节香	wan jie xiang	1
 晩粳	wan jing	1
-晩景	wan jing	1
-晩快边	wan kuai bian	1
 晩来	wan lai	1
 晩老子	wan lao zi	1
 晩漏	wan lou	1
@@ -151729,24 +151726,17 @@
 晩末	wan mo	1
 晩莫	wan mo	1
 晩暮	wan mu	1
-晩年	wan nian	1
 晩婆婆	wan po po	1
 晩憇	wan qi	1
 晩憩	wan qi	1
 晩晴	wan qing	1
 晩秋	wan qiu	1
 晩膳	wan shan	1
-晩晌	wan shang	1
 晩菘	wan song	1
-晩唐	wan tang	1
 晩田	wan tian	1
-晩晩	wan wan	1
-晩悟	wan wu	1
 晩西	wan xi	1
 晩香	wan xiang	1
 晩饷	wan xiang	1
-晩歇	wan xie	1
-晩照	wan zhao	1
 晼晼	wan wan	1
 皖公	wan gong	1
 皖公山	wan gong shan	1
