@@ -151708,21 +151708,11 @@
 晩春	wan chun	1
 晩饭	wan fan	1
 晩谷	wan gu	1
-晩禾	wan he	1
-晩红	wan hong	1
 晩霁	wan ji	1
-晩稼	wan jia	1
 晩间	wan jian	1
-晩节香	wan jie xiang	1
-晩粳	wan jing	1
-晩老子	wan lao zi	1
-晩米	wan mi	1
 晩谬	wan miu	1
 晩莫	wan mo	1
 晩暮	wan mu	1
-晩憇	wan qi	1
-晩憩	wan qi	1
-晩秋	wan qiu	1
 晩菘	wan song	1
 晩西	wan xi	1
 晩香	wan xiang	1
