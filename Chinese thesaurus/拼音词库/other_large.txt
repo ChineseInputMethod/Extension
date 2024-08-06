@@ -50462,7 +50462,6 @@
 冠座	guan zuo	1
 棺椑	guan bei	1
 棺殡椁葬	guan bin guo zang	1
-棺材穣子	guan cai rang zi	1
 棺材穰子	guan cai rang zi	1
 棺榇	guan chen	1
 棺钉	guan ding	1
@@ -65450,7 +65449,6 @@
 极罚	ji fa	1
 极法	ji fa	1
 极愤	ji fen	1
-极峯	ji feng	1
 极服	ji fu	1
 极福	ji fu	1
 极工	ji gong	1
@@ -85285,7 +85283,6 @@
 昆娣	kun di	1
 昆调	kun diao	1
 昆都仑	kun du lun	1
-昆峯	kun feng	1
 昆峰	kun feng	1
 昆府	kun fu	1
 昆岗	kun gang	1
@@ -91631,7 +91628,6 @@
 林菁	lin jing	1
 林坰	lin jiong	1
 林扃	lin jiong	1
-林埛	lin jiong	1
 林居	lin ju	1
 林卡	lin ka	1
 林柯	lin ke	1
@@ -140687,7 +140683,6 @@
 松变	song bian	1
 松标	song biao	1
 松飙	song biao	1
-松颷	song biao	1
 松飈	song biao	1
 松波波	song bo bo	1
 松钗	song chai	1
@@ -144760,7 +144755,6 @@
 桃蹊	tao qi	1
 桃圈	tao quan	1
 桃雀	tao que	1
-桃穣	tao rang	1
 桃穰	tao rang	1
 桃蕊	tao rui	1
 桃塞	tao sai	1
@@ -151705,8 +151699,6 @@
 椀脱	wan tuo	1
 椀珠	wan zhu	1
 椀珠伎	wan zhu ji	1
-晩春	wan chun	1
-晩香	wan xiang	1
 晼晼	wan wan	1
 皖公	wan gong	1
 皖公山	wan gong shan	1
@@ -164671,7 +164663,6 @@
 歇斯特里	xie si te li	1
 歇台	xie tai	1
 歇晚	xie wan	1
-歇晩	xie wan	1
 歇微	xie wei	1
 歇午	xie wu	1
 歇息牌	xie xi pai	1
@@ -166243,7 +166234,6 @@
 星头啄木鸟	xing tou zhuo mu niao	1
 星土	xing tu	1
 星晚	xing wan	1
-星晩	xing wan	1
 星亡	xing wang	1
 星闱	xing wei	1
 星纬	xing wei	1
