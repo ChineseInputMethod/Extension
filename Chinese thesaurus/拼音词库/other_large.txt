@@ -55023,7 +55023,6 @@
 浩闹	hao nao	1
 浩蜺	hao ni	1
 浩滂	hao pang	1
-浩穣	hao rang	1
 浩室	hao shi	1
 浩首	hao shou	1
 浩思	hao si	1
@@ -63715,7 +63714,6 @@
 火盆柿	huo pen shi	1
 火迫	huo po	1
 火迫酂侯	huo po zan hou	1
-火迫酇侯	huo po zan hou	1
 火脯	huo fu	1
 火齐镜	huo ji jing	1
 火齐汤	huo ji tang	1
@@ -111013,7 +111011,6 @@
 琕琫	bing beng	1
 频并	pin bing	1
 频顣	pin cu	1
-频緐	pin fan	1
 频繁地更换	pin fan de geng huan	1
 频繁地更新	pin fan de geng xin	1
 频伽	pin jia	1
@@ -119041,7 +119038,6 @@
 清便	qing bian	1
 清辩	qing bian	1
 清飙	qing biao	1
-清颷	qing biao	1
 清飇	qing biao	1
 清飈	qing biao	1
 清才	qing cai	1
@@ -120354,7 +120350,6 @@
 琼妃	qiong fei	1
 琼扉	qiong fei	1
 琼粉	qiong fen	1
-琼峯	qiong feng	1
 琼峰	qiong feng	1
 琼荂	qiong fu	1
 琼荂露	qiong fu lu	1
@@ -169886,7 +169881,6 @@
 璇除	xuan chu	1
 璇鼎	xuan ding	1
 璇萼	xuan e	1
-璇蕚	xuan e	1
 璇盖	xuan gai	1
 璇瑰	xuan gui	1
 璇衡	xuan heng	1
@@ -172160,7 +172154,6 @@
 烟帆	yan fan	1
 烟犯	yan fan	1
 烟氛	yan fen	1
-烟峯	yan feng	1
 烟烽	yan feng	1
 烟腹毛脚燕	yan fu mao jiao yan	1
 烟皋	yan gao	1
@@ -186894,7 +186887,6 @@
 玉房	yu fang	1
 玉妃	yu fei	1
 玉棐	yu fei	1
-玉峯	yu feng	1
 玉锋	yu feng	1
 玉肤	yu fu	1
 玉芙蓉	yu fu rong	1
@@ -199117,7 +199109,6 @@
 治墙	zhi qiang	1
 治蘠	zhi qiang	1
 治亲	zhi qin	1
-治穣	zhi rang	1
 治穰	zhi rang	1
 治缮	zhi shan	1
 治身	zhi shen	1
@@ -205077,7 +205068,6 @@
 紫庭	zi ting	1
 紫脱	zi tuo	1
 紫陁尼	zi tuo ni	1
-紫驼峯	zi tuo feng	1
 紫驼峰	zi tuo feng	1
 紫驼尼	zi tuo ni	1
 紫駞峯	zi tuo feng	1
