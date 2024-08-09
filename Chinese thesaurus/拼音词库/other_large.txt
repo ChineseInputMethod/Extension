@@ -2737,7 +2737,6 @@
 白豪	bai hao	1
 白浩浩	bai hao hao	1
 白鹤茶	bai he cha	1
-白鹤峯	bai he feng	1
 白鹤峰	bai he feng	1
 白鹤翎	bai he ling	1
 白鹤拳	bai he quan	1
@@ -2986,7 +2985,6 @@
 白蕖	bai qu	1
 白犬	bai quan	1
 白鹊	bai que	1
-白穣	bai rang	1
 白穰	bai rang	1
 白壤	bai rang	1
 白仁	bai ren	1
@@ -3262,7 +3260,6 @@
 白云谣	bai yun yao	1
 白云謡	bai yun yao	1
 白酂	bai zan	1
-白酇	bai zan	1
 白枣	bai zao	1
 白皂	bai zao	1
 白帻	bai ze	1
@@ -23817,7 +23814,6 @@
 踧笮	cu ze	1
 踧足	di zu	1
 瘯瘰	cu luo	1
-瘯癳	cu luo	1
 簇箔	cu bo	1
 簇蚕	cu can	1
 簇簇新	cu cu xin	1
@@ -99799,7 +99795,6 @@
 眉虫	mei chong	1
 眉寸	mei cun	1
 眉蛾	mei e	1
-眉峯	mei feng	1
 眉峯碧	mei feng bi	1
 眉斧	mei fu	1
 眉耉	mei gou	1
@@ -124716,7 +124711,6 @@
 柔情密意	rou qing mi yi	1
 柔牷	rou quan	1
 柔悫	rou que	1
-柔穣	rou rang	1
 柔穰	rou rang	1
 柔桡	rou rao	1
 柔扰	rou rao	1
@@ -130749,7 +130743,6 @@
 神飞	shen fei	1
 神瀵	shen fen	1
 神风突击队	shen feng tu ji dui	1
-神峯	shen feng	1
 神凤	shen feng	1
 神凤操	shen feng cao	1
 神凫	shen fu	1
@@ -133502,7 +133495,6 @@
 石房	shi fang	1
 石扉	shi fei	1
 石封	shi feng	1
-石峯	shi feng	1
 石跗	shi fu	1
 石浮	shi fu	1
 石鳆	shi fu	1
@@ -147840,7 +147832,6 @@
 通腿	tong tui	1
 通侻	tong tui	1
 通晚	tong wan	1
-通晩	tong wan	1
 通望	tong wang	1
 通微	tong wei	1
 通渭	tong wei	1
