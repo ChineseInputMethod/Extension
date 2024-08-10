@@ -123172,17 +123172,10 @@
 染指甲草	ran zhi jia cao	1
 染指书	ran zhi shu	1
 染渍	ran zi	1
-穣川	rang chuan	1
-穣浩	rang hao	1
-穣俭	rang jian	1
 穣穣	rang rang	1
 穣穣垓垓	rang rang gai gai	1
 穣穣劳劳	rang rang lao lao	1
-穣人	rang ren	1
-穣岁	rang sui	1
 穣田	rang tian	1
-穣灾	rang zai	1
-穣子	rang zi	1
 禳避	rang bi	1
 禳祷	rang dao	1
 禳禬	rang gui	1
@@ -168083,7 +168076,6 @@
 秀恩爱	xiu en ai	1
 秀耳	xiu er	1
 秀发垂肩	xiu fa chui jian	1
-秀峯	xiu feng	1
 秀孚	xiu fu	1
 秀格	xiu ge	1
 秀骨	xiu gu	1
@@ -186258,7 +186250,6 @@
 愚怯	yu qie	1
 愚情	yu qing	1
 愚悫	yu que	1
-愚愨	yu que	1
 愚冗	yu rong	1
 愚柔	yu rou	1
 愚儒	yu ru	1
@@ -200350,7 +200341,6 @@
 种民天	zhong min tian	1
 种末	zhong mo	1
 种孽	zhong nie	1
-种穣	zhong rang	1
 种穰	zhong rang	1
 种山	zhong shan	1
 种石	zhong shi	1
