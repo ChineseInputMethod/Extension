@@ -19996,7 +19996,6 @@
 稠闹	chou nao	1
 稠黏	chou nian	1
 稠浓	chou nong	1
-稠穣	chou rang	1
 稠穰	chou rang	1
 稠人广座	chou ren guang zuo	1
 稠缛	chou ru	1
@@ -120707,7 +120706,6 @@
 秋兔毫	qiu tu hao	1
 秋箨	qiu tuo	1
 秋晚	qiu wan	1
-秋晩	qiu wan	1
 秋芜	qiu wu	1
 秋务	qiu wu	1
 秋物	qiu wu	1
@@ -123172,10 +123170,6 @@
 染指甲草	ran zhi jia cao	1
 染指书	ran zhi shu	1
 染渍	ran zi	1
-穣穣	rang rang	1
-穣穣垓垓	rang rang gai gai	1
-穣穣劳劳	rang rang lao lao	1
-穣田	rang tian	1
 禳避	rang bi	1
 禳祷	rang dao	1
 禳禬	rang gui	1
@@ -154828,7 +154822,6 @@
 窝囊相	wo nang xiang	1
 窝脓包	wo nong bao	1
 窝弩	wo nu	1
-窝穣	wo rang	1
 窝穰	wo rang	1
 窝丝糖	wo si tang	1
 窝挑	wo tiao	1
@@ -180519,7 +180512,6 @@
 意量	yi liang	1
 意虑	yi lv	1
 意略	yi lve	1
-意畧	yi lve	1
 意脉	yi mai	1
 意貌	yi mao	1
 意眄	yi mian	1
@@ -186738,7 +186730,6 @@
 窳朽	yu xiu	1
 窳圔	yu ya	1
 窳呰	yu zi	1
-窳啙	yu zi	1
 玉鞍	yu an	1
 玉岸	yu an	1
 玉靶	yu ba	1
