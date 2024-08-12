@@ -66327,7 +66327,6 @@
 起首	qi shou	4038
 起死回生	qi si hui sheng	4096
 起死人	qi si ren	100
-起死人肉白骨	qi si ren rou bai gu	100
 起诉	qi su	8436
 起诉书	qi su shu	2204
 起诉者	qi su zhe	3
