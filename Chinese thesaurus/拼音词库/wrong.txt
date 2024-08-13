@@ -272,3 +272,10 @@
 起死人肉白骨	qi si ren rou bai gu	100
 跗蕚	fu e	1
 跗蕚载韡	fu e zai wei	1
+跗蕚连晖	fu e lian hui	1
+那咱晩	na zan wan	1
+那昝晩	na zan wan	1
+那早晩	na zao wan	1
+金穣	jin rang	1
+闹穣穣	nao rang rang	1
+闹闹穣穣	nao nao rang rang	1

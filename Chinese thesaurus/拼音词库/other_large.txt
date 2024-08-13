@@ -14211,7 +14211,6 @@
 茶马互市	cha ma hu shi	1
 茶茗	cha ming	1
 茶瓯	cha ou	1
-茶毘	cha pi	1
 茶榷	cha que	1
 茶笋	cha sun	1
 茶胸斑啄木鸟	cha xiong ban zhuo mu niao	1
@@ -32786,7 +32785,6 @@
 逗耍方	dou shua fang	1
 逗宿	dou su	1
 逗头	dou tou	1
-逗晩	dou wan	1
 逗五逗六	dou wu dou liu	1
 逗晓	dou xiao	1
 逗药	dou yao	1
@@ -41472,9 +41470,6 @@
 趺足	fu zu	1
 跗鄂	fu e	1
 跗萼	fu e	1
-跗蕚	fu e	1
-跗蕚连晖	fu e lian hui	1
-跗蕚载韡	fu e zai wei	1
 跗猴	fu hou	1
 鈇锁	fu suo	1
 鈇砧	fu zhen	1
@@ -74026,7 +74021,6 @@
 金屈巵	jin qu zhi	1
 金躯	jin qu	1
 金蕖	jin qu	1
-金穣	jin rang	1
 金穰	jin rang	1
 金人偈	jin ren ji	1
 金人捧露盘	jin ren peng lu pan	1
@@ -104821,14 +104815,11 @@
 那衍	na yan	1
 那移	na yi	1
 那咱晚	na zan wan	1
-那咱晩	na zan wan	1
 那昝	na zan	1
 那昝晚	na zan wan	1
-那昝晩	na zan wan	1
 那攒	na zan	1
 那趱	na zan	1
 那早晚	na zao wan	1
-那早晩	na zao wan	1
 那咤	ne zha	1
 那摘	na zhai	1
 那着	na zhe	1
@@ -105477,13 +105468,11 @@
 闹乱	nao luan	1
 闹麻	nao ma	1
 闹闹和和	nao nao he he	1
-闹闹穣穣	nao nao rang rang	1
 闹年成	nao nian cheng	1
 闹跑肚	nao pao du	1
 闹枪	nao qiang	1
 闹腔	nao qiang	1
 闹情緖	nao qing xu	1
-闹穣穣	nao rang rang	1
 闹穰穰	nao rang rang	1
 闹攘攘	nao rang rang	1
 闹茸茸	nao rong rong	1
@@ -114204,8 +114193,6 @@
 起缘	qi yuan	1
 起云剂	qi yun ji	1
 起攒	qi zan	1
-起早挂晩	qi zao gua wan	1
-起早睡晩	qi zao shui wan	1
 起灶	qi zao	1
 起造	qi zao	1
 起造员	qi zao yuan	1
@@ -183003,7 +182990,6 @@
 营绘	ying hui	1
 营慧	ying hui	1
 营魂	ying hun	1
-营火晩会	ying huo wan hui	1
 营或	ying huo	1
 营惑	ying huo	1
 营缉	ying ji	1
@@ -183104,7 +183090,6 @@
 营运钱	ying yun qian	1
 营运长	ying yun zhang	1
 营酂	ying zan	1
-营酇	ying zan	1
 营栅	ying shan	1
 营斋	ying zhai	1
 营债	ying zhai	1
