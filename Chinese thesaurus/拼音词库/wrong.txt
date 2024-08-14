@@ -279,3 +279,13 @@
 金穣	jin rang	1
 闹穣穣	nao rang rang	1
 闹闹穣穣	nao nao rang rang	1
+霜峯	shuang feng	1
+霜晩	shuang wan	1
+雷峯	lei feng	1
+雷峯塔	lei feng ta	1
+雷峯夕照	lei feng xi zhao	1
+霁峯	ji feng	1
+青峯	qing feng	1
+飞穣	fei rang	1
+饥穣	ji rang	1
+骊峯	li feng	1
