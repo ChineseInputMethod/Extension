@@ -9656,7 +9656,6 @@
 表用	biao yong	1
 表载	biao zai	1
 表酂	biao zan	1
-表酇	biao zan	1
 表则	biao ze	1
 表丈	biao zhang	1
 表丈人	biao zhang ren	1
@@ -16048,7 +16047,6 @@
 朝听	chao ting	1
 朝庭	chao ting	1
 朝晚	chao wan	1
-朝晩	chao wan	1
 朝纬	chao wei	1
 朝位	chao wei	1
 朝闻道	zhao wen dao	1
@@ -37020,7 +37018,6 @@
 繁巧	fan qiao	1
 繁曲	fan qu	1
 繁然	fan ran	1
-繁穣	fan rang	1
 繁穰	fan rang	1
 繁扰	fan rao	1
 繁人	fan ren	1
@@ -45054,7 +45051,6 @@
 高分子化工	gao fen zi hua gong	1
 高芬	gao fen	1
 高奋	gao fen	1
-高峯	gao feng	1
 高凤	gao feng	1
 高符	gao fu	1
 高富帅	gao fu shuai	1
@@ -61501,7 +61497,6 @@
 黄雀报	huang que bao	1
 黄雀风	huang que feng	1
 黄雀环	huang que huan	1
-黄穣穣	huang rang rang	1
 黄穰穰	huang rang rang	1
 黄热病毒	huang re bing du	1
 黄碝	huang ruan	1
@@ -103457,7 +103452,6 @@
 磨駞	mo tuo	1
 磨刓	mo wan	1
 磨晚	mo wan	1
-磨晩	mo wan	1
 磨问	mo wen	1
 磨蝎宫	mo xie gong	1
 磨旋	mo xuan	1
@@ -137207,7 +137201,6 @@
 黍米酒	shu mi jiu	1
 黍民	shu min	1
 黍黏子	shu nian zi	1
-黍穣	shu rang	1
 黍穰	shu rang	1
 黍觞	shu shang	1
 黍秫	shu shu	1
@@ -141641,7 +141634,6 @@
 素璧	su bi	1
 素标	su biao	1
 素飙	su biao	1
-素颷	su biao	1
 素飈	su biao	1
 素鬓	su bin	1
 素冰	su bing	1
@@ -150572,7 +150564,6 @@
 驼骋	tuo cheng	1
 驼毳	tuo cui	1
 驼队	tuo dui	1
-驼峯	tuo feng	1
 驼峰命名法	tuo feng ming ming fa	1
 驼羹	tuo geng	1
 驼钩	tuo gou	1
@@ -160310,7 +160301,6 @@
 鲜卑山	xian bi shan	1
 鲜扁	xian bian	1
 鲜飙	xian biao	1
-鲜颷	xian biao	1
 鲜飇	xian biao	1
 鲜飈	xian biao	1
 鲜灿	xian can	1

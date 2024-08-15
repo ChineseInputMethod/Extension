@@ -289,3 +289,13 @@
 飞穣	fei rang	1
 饥穣	ji rang	1
 骊峯	li feng	1
+驼峯	tuo feng	1
+高峯	gao feng	1
+鲜颷	xian biao	1
+磨晩	mo wan	1
+黄穣穣	huang rang rang	1
+黍穣	shu rang	1
+繁穣	fan rang	1
+素颷	su biao	1
+表酇	biao zan	1
+朝晩	chao wan	1
