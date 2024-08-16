@@ -46451,7 +46451,6 @@
 蓬莱米	peng lai mi	6
 蓬莱市	peng lai shi	2
 蓬阆	peng lang	1
-蓬虆	peng lei	1
 蓬麻	peng ma	5
 蓬茆	peng mao	1
 蓬茅	peng mao	1
@@ -77239,7 +77238,6 @@
 蝇攒蚁附	ying cuan yi fu	1
 蝇攒蚁聚	ying cuan yi ju	1
 嬴绌	ying chu	1
-嬴得	ying de	6
 嬴粮	ying liang	1
 嬴氏	ying shi	5
 嬴余	ying yu	1
@@ -77248,8 +77246,6 @@
 赢定	ying ding	6
 赢勾	ying gou	1
 赢金一经	ying jin yi jing	1
-赢粮	ying liang	1
-赢缩	ying suo	1
 赢羡	ying xian	5
 瀛台	ying tai	7
 郢都	ying du	1

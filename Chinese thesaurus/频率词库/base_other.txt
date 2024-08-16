@@ -26080,7 +26080,6 @@
 耕作法	geng zuo fa	6
 耕作者	geng zuo zhe	6
 耕作制度	geng zuo zhi du	100
-縆索	geng suo	100
 埂堰	geng yan	10
 耿建国	geng jian guo	6
 耿良	geng liang	2

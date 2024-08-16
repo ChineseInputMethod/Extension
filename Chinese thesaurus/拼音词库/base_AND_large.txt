@@ -10865,7 +10865,6 @@
 吃不开	chi bu kai	4064
 吃不来	chi bu lai	3012
 吃不了	chi bu liao	2103
-吃不了兜着走	chi bu liao dou zhe zou	100
 吃不上	chi bu shang	3745
 吃不透	chi bu tou	2000
 吃不消	chi bu xiao	5394
@@ -27683,7 +27682,6 @@
 高倍	gao bei	2097
 高拨子	gao bo zi	2002
 高不成	gao bu cheng	2071
-高不成低不就	gao bu cheng di bu jiu	2000
 高不可攀	gao bu ke pan	3436
 高步阔视	gao bu kuo shi	1
 高步通衢	gao bu tong qu	1
@@ -30760,7 +30758,6 @@
 挂心	gua xin	4039
 挂靴	gua xue	3000
 挂羊头	gua yang tou	190
-挂羊头卖狗肉	gua yang tou mai gou rou	2034
 挂一漏万	gua yi lou wan	3030
 挂意	gua yi	100
 挂印	gua yin	10
@@ -50284,7 +50281,6 @@
 拉场子	la chang zi	2002
 拉扯	la che	7003
 拉大片	la da pian	101
-拉大旗作虎皮	la da qi zuo hu pi	2000
 拉倒	la dao	4140
 拉德	la de	100
 拉登	la deng	797
@@ -105097,7 +105093,6 @@
 有鬼	you gui	2139
 有国有家者	you guo you jia zhe	100
 有过之而无不及	you guo zhi er wu bu ji	2002
-有过之无不及	you guo zhi wu bu ji	2050
 有害	you hai	7042
 有害无益	you hai wu yi	746
 有何	you he	3900
@@ -115142,7 +115137,6 @@
 梓里	zi li	4004
 梓童	zi tong	100
 梓潼	zi tong	10
-啙窳	zi yu	100
 紫斑	zi ban	10
 紫菜	zi cai	4058
 紫菜苔	zi cai tai	104
