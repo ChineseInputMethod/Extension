@@ -112753,7 +112753,7 @@
 桤树	qi shu	1
 凄黯	qi an	1
 凄悲	qi bei	1
-凄颷	qi biao	1
+凄飈	qi biao	1
 凄怅	qi chang	1
 凄蹙	qi cu	1
 凄单	qi dan	1
@@ -128833,7 +128833,7 @@
 商飙观	shang biao guan	1
 商飙馆	shang biao guan	1
 商飙徐起	shang biao xu qi	1
-商颷	shang biao	1
+商飈	shang biao	1
 商飇	shang biao	1
 商舶	shang bo	1
 商部	shang bu	1

@@ -50,7 +50,7 @@
 凶穣	xiong rang	1
 云峯	yun feng	1
 云蕚	yun e	1
-商飈	shang biao	1
+商颷	shang biao	1
 夜晩	ye wan	1
 六岁穣	liu sui rang	1
 鹫峯	jiu feng	1
@@ -65,7 +65,7 @@
 酇鄙	zan bi	1
 酇白	zan bai	1
 农穣	nong rang	1
-凄飈	qi biao	1
+凄颷	qi biao	1
 盗簒	dao cuan	1
 前怕狼后怕虎	qian pa lang hou pa hu	3005
 前晩	qian wan	1
