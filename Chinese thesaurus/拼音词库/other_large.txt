@@ -399,7 +399,6 @@
 哀厚	ai hou	1
 哀荒	ai huang	1
 哀惶	ai huang	1
-哀毀骨立	ai hui gu li	1
 哀激	ai ji	1
 哀急	ai ji	1
 哀家梨	ai jia li	1
@@ -64043,7 +64042,6 @@
 蠖曲	huo qu	1
 蠖伸	huo shen	1
 矐睒	huo shan	1
-靃靃	huo huo	1
 靃靡	huo mi	1
 靃靡靡	huo mi mi	1
 丌官	ji guan	1
@@ -71577,7 +71575,6 @@
 角掎	jiao ji	1
 角技	jiao ji	1
 角髻	jiao ji	1
-角糭	jiao zong	1
 角家	jiao jia	1
 角茧栗	jiao jian li	1
 角剑	jiao jian	1
@@ -73599,7 +73596,6 @@
 金蓓	jin bei	1
 金鞴	jin bei	1
 金奔巴瓶	jin ben ba ping	1
-金鈚	jin pi	1
 金鎞	jin pi	1
 金匕药	jin bi yao	1
 金毕逋	jin bi bu	1
@@ -80185,7 +80181,6 @@
 倔僵	jue jiang	1
 倔犟	jue jiang	1
 倔奇	jue qi	1
-倔強	jue jiang	1
 掘藏	jue cang	1
 掘发	jue fa	1
 掘蛊	jue gu	1
@@ -127670,7 +127665,6 @@
 沙岫	sha xiu	1
 沙墟	sha xu	1
 沙溆	sha xu	1
-沙潊	sha xu	1
 沙压	sha ya	1
 沙魇	sha yan	1
 沙雁	sha yan	1
@@ -144130,7 +144124,6 @@
 闛鞈	tang ta	1
 闛合	tang he	1
 闛阖	tang he	1
-闛鞳	tang ta	1
 鞺鞑	tang da	1
 鞺鞈	tang ge	1
 鞺鞜	tang ta	1
@@ -168199,7 +168192,6 @@
 姁妪	xu yu	1
 须奰	xu bi	1
 须髩	xu bin	1
-须鬂	xu bin	1
 须鬓	xu bin	1
 须卜	xu bu	1
 须不	xu bu	1
@@ -189372,7 +189364,6 @@
 约艳	yue yan	1
 约正	yue zheng	1
 彟矩	huo ju	1
-彠矩	huo ju	1
 月爱	yue ai	1
 月陂	yue bei	1
 月闭	yue bi	1
@@ -193723,7 +193714,6 @@
 鄣隐	zhang yin	1
 獐皇	zhang huang	1
 獐徨	zhang huang	1
-獐麕马鹿	zhang jun ma lu	1
 獐狂	zhang kuang	1
 彰败	zhang bai	1
 彰暴	zhang bao	1
