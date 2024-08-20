@@ -9996,8 +9996,6 @@
 豳雅	bin ya	1
 豳籥	bin yue	1
 豳奏	bin zou	1
-璸斒	bin ban	1
-璸晖	bin hui	1
 摈薄	bin bao	1
 摈厄	bin e	1
 摈放	bin fang	1
@@ -41693,7 +41691,6 @@
 凫绎	fu yi	1
 凫臾	fu yu	1
 凫浴	fu yu	1
-凫薻	fu zao	1
 凫钟	fu zhong	1
 凫舟	fu zhou	1
 凫渚	fu zhu	1
@@ -45083,7 +45080,6 @@
 高话	gao hua	1
 高怀	gao huai	1
 高絙百尺	gao geng bai chi	1
-高絙伎	gao geng ji	1
 高鬟	gao huan	1
 高肓	gao huang	1
 高翚	gao hui	1
@@ -53425,7 +53421,6 @@
 海源阁	hai yuan ge	1
 海岳高深	hai yue gao shen	1
 海枣	hai zao	1
-海薻	hai zao	1
 海贼版	hai zei ban	1
 海站	hai zhan	1
 海之歌	hai zhi ge	1
@@ -53815,8 +53810,6 @@
 函钟	han zhong	1
 函轴	han zhou	1
 函装	han zhuang	1
-凾谷	han gu	1
-凾洛	han luo	1
 凾刃之地	han ren zhi di	1
 唅呀	han ya	1
 涵察	han cha	1
@@ -58581,7 +58574,6 @@
 胡公头	hu gong tou	1
 胡宫	hu gong	1
 胡耇	hu gou	1
-胡耉	hu gou	1
 胡姑姑假姨姨	hu gu gu jia yi yi	1
 胡鼓	hu gu	1
 胡簋	hu gui	1
@@ -113357,7 +113349,6 @@
 耆定	qi ding	1
 耆阇	qi du	1
 耆阇崛山	qi du jue shan	1
-耆耉	qi gou	1
 耆龟	qi gui	1
 耆户长	qi hu chang	1
 耆将	qi jiang	1
@@ -147076,7 +147067,6 @@
 铁杆蒲	tie gan pu	1
 铁肝御史	tie gan yu shi	1
 铁哥们儿	tie ge men er	1
-铁絚	tie geng	1
 铁绠	tie geng	1
 铁钩儿	tie gou er	1
 铁钩枪	tie gou qiang	1
