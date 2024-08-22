@@ -4917,7 +4917,6 @@
 襃拜	bao bai	1
 襃被	bao bei	1
 襃贲	bao ben	1
-襃贬	bao bian	1
 襃表	bao biao	1
 襃博	bao bo	1
 襃襮	bao bo	1
@@ -4973,14 +4972,12 @@
 襃劝	bao quan	1
 襃荣	bao rong	1
 襃善	bao shan	1
-襃赏	bao shang	1
 襃升	bao sheng	1
 襃圣侯	bao sheng hou	1
 襃饰	bao shi	1
 襃授	bao shou	1
 襃述	bao shu	1
 襃朔	bao shuo	1
-襃姒	bao si	1
 襃颂	bao song	1
 襃谈	bao tan	1
 襃叹	bao tan	1
@@ -4999,9 +4996,7 @@
 襃言	bao yan	1
 襃阎	bao yan	1
 襃艳	bao yan	1
-襃扬	bao yang	1
 襃衣	bao yi	1
-襃衣博带	bao yi bo dai	1
 襃异	bao yi	1
 襃益	bao yi	1
 襃引	bao yin	1
@@ -5013,7 +5008,6 @@
 襃责	bao ze	1
 襃增	bao zeng	1
 襃赠	bao zeng	1
-襃忠	bao zhong	1
 襃重	bao zhong	1
 襃擢	bao zhuo	1
 窇穵	bao ya	1
@@ -112690,7 +112684,6 @@
 栖泊	qi bo	1
 栖栖遑遑	qi qi huang huang	1
 栖栖默默	xi xi mo mo	1
-栖憇	qi qi	1
 栖憩	qi qi	1
 栖情	qi qing	1
 栖鵀	qi ren	1
@@ -151519,7 +151512,6 @@
 晚婆婆	wan po po	1
 晚魄	wan po	1
 晚气	wan qi	1
-晚憇	wan qi	1
 晚憩	wan qi	1
 晚磬	wan qing	1
 晚热	wan re	1
@@ -163972,7 +163964,6 @@
 小畦	xiao qi	1
 小气腔	xiao qi qiang	1
 小愒	xiao kai	1
-小憇	xiao qi	1
 小俏步	xiao qiao bu	1
 小峭	xiao qiao	1
 小亲亲	xiao qin qin	1
@@ -205016,7 +205007,6 @@
 紫宙	zi zhou	1
 紫朱	zi zhu	1
 紫锥花	zi zhui hua	1
-訾嗸	zi ao	1
 訾嗷	zi ao	1
 訾謷	zi ao	1
 訾谤	zi bang	1
