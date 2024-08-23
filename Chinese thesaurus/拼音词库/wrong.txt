@@ -355,3 +355,13 @@
 襃姒	bao si	1
 襃忠	bao zhong	1
 襃赏	bao shang	1
+堆垜死尸	dui duo si shi	1
+堆垜	dui duo	1
+堆垜场	dui duo chang	1
+钱垜	qian duo	1
+长垜	chang duo	1
+恶垜	e duo	1
+鷰雀	yan que	1
+鷰颔	yan han	1
+烧鷰	shao yan	1
+双飞鷰	shuang fei yan	1

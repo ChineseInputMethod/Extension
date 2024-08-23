@@ -33958,9 +33958,6 @@
 堆迭	dui die	1
 堆垛场	dui duo chang	1
 堆垛死尸	dui duo si shi	1
-堆垜	dui duo	1
-堆垜场	dui duo chang	1
-堆垜死尸	dui duo si shi	1
 堆垜子	dui duo zi	1
 堆阜	dui fu	1
 堆积木	dui ji mu	1
@@ -35110,7 +35107,6 @@
 恶得	e de	1
 恶德	e de	1
 恶垛	e duo	1
-恶垜	e duo	1
 恶菲	e fei	1
 恶搞文化	e gao wen hua	1
 恶耗	e hao	1
@@ -115542,7 +115538,6 @@
 钱唇	qian chun	1
 钱刀	qian dao	1
 钱点	qian dian	1
-钱垜	qian duo	1
 钱额	qian e	1
 钱法	qian fa	1
 钱封	qian feng	1
@@ -129298,7 +129293,6 @@
 烧砚	shao yan	1
 烧焰儿	shao yan er	1
 烧燕	shao yan	1
-烧鷰	shao yan	1
 烧羊	shao yang	1
 烧药	shao yao	1
 烧夷	shao yi	1
@@ -138097,7 +138091,6 @@
 双独	shuang du	1
 双独夫妇	shuang du fu fu	1
 双鹅	shuang e	1
-双飞鷰	shuang fei yan	1
 双非	shuang fei	1
 双峰镇	shuang feng zhen	1
 双俸	shuang feng	1
@@ -174513,8 +174506,6 @@
 爓祭	yan ji	1
 爓然	yan ran	1
 爓肉	yan rou	1
-鷰颔	yan han	1
-鷰雀	yan que	1
 鷰戏	yan xi	1
 鷰濯	yan zhuo	1
 醼集	yan ji	1
@@ -193764,7 +193755,6 @@
 长短星	chang duan xing	1
 长短言	chang duan yan	1
 长垛	chang duo	1
-长垜	chang duo	1
 长蛾	chang e	1
 长恩	chang en	1
 长贰	chang er	1
