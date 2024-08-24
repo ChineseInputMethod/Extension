@@ -40273,7 +40273,6 @@
 风沤	feng ou	1
 风派	feng pai	1
 风佩	feng pei	1
-风斾	feng pei	1
 风旆	feng pei	1
 风鹏	feng peng	1
 风披	feng pi	1
@@ -174506,8 +174505,6 @@
 爓祭	yan ji	1
 爓然	yan ran	1
 爓肉	yan rou	1
-鷰戏	yan xi	1
-鷰濯	yan zhuo	1
 醼集	yan ji	1
 醼乐	yan le	1
 醼饮	yan yin	1
@@ -176708,7 +176705,6 @@
 夜宵儿	ye xiao er	1
 夜星子	ye xing zi	1
 夜行游女	ye xing you nv	1
-夜鷰	ye yan	1
 夜央	ye yang	1
 夜妖	ye yao	1
 夜夜曲	ye ye qu	1
@@ -187190,7 +187186,6 @@
 玉雁	yu yan	1
 玉滟	yu yan	1
 玉燕钗	yu yan chai	1
-玉鷰投怀	yu yan tou huai	1
 玉阳	yu yang	1
 玉腰	yu yao	1
 玉腰奴	yu yao nu	1
@@ -190017,7 +190012,6 @@
 云袍	yun pao	1
 云炮	yun pao	1
 云帔	yun pei	1
-云斾	yun pei	1
 云旆	yun pei	1
 云辔	yun pei	1
 云輣	yun peng	1
@@ -204973,7 +204967,6 @@
 紫雪丹	zi xue dan	1
 紫岩	zi yan	1
 紫燕骝	zi yan liu	1
-紫鷰	zi yan	1
 紫阳观	zi yang guan	1
 紫阳花	zi yang hua	1
 紫阳书法	zi yang shu fa	1

@@ -365,3 +365,12 @@
 鷰颔	yan han	1
 烧鷰	shao yan	1
 双飞鷰	shuang fei yan	1
+紫鷰	zi yan	1
+鷰戏	yan xi	1
+鷰濯	yan zhuo	1
+玉鷰投怀	yu yan tou huai	1
+夜鷰	ye yan	1
+菫菜	jin cai	5
+菫色	jin se	5
+云斾	yun pei	1
+风斾	feng pei	1
