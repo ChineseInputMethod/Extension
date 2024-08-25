@@ -18987,7 +18987,6 @@
 赤鸟	chi niao	1
 赤鸟夹日	chi niao jia ri	1
 赤牛中尉	chi niu zhong wei	1
-赤斾	chi pei	1
 赤旆	chi pei	1
 赤罴	chi pi	1
 赤萍	chi ping	1
@@ -37247,7 +37246,6 @@
 返袂	fan mei	1
 返迷	fan mi	1
 返命	fan ming	1
-返斾	fan pei	1
 返朴归真	fan pu gui zhen	1
 返期	fan qi	1
 返券黄牛	fan quan huang niu	1
@@ -62364,7 +62362,6 @@
 回佞	hui ning	1
 回盼	hui pan	1
 回畔	hui pan	1
-回斾	hui pei	1
 回旆	hui pei	1
 回辔	hui pei	1
 回飘	hui piao	1
@@ -63668,7 +63665,6 @@
 火耨	huo nou	1
 火弩	huo nu	1
 火暖	huo nuan	1
-火斾	huo pei	1
 火旆	huo pei	1
 火盆柿	huo pen shi	1
 火迫	huo po	1
@@ -75831,7 +75827,6 @@
 旌密	jing mi	1
 旌命	jing ming	1
 旌木	jing mu	1
-旌斾	jing pei	1
 旌旆	jing pei	1
 旌蒲	jing pu	1
 旌棨	jing qi	1
@@ -78000,7 +77995,6 @@
 酒盘	jiu pan	1
 酒柸	jiu bei	1
 酒醅	jiu pei	1
-酒斾	jiu pei	1
 酒斾子	jiu pei zi	1
 酒盆	jiu pen	1
 酒朋	jiu peng	1
@@ -169617,7 +169611,6 @@
 悬纳	xuan na	1
 悬怒	xuan nu	1
 悬匏	xuan pao	1
-悬斾	xuan pei	1
 悬旆	xuan pei	1
 悬瓢	xuan piao	1
 悬企	xuan qi	1
@@ -169731,7 +169724,6 @@
 旋木	xuan mu	1
 旋目	xuan mu	1
 旋沤	xuan ou	1
-旋斾	xuan pei	1
 旋旆	xuan pei	1
 旋辔	xuan pei	1
 旋蓬	xuan peng	1
@@ -186999,7 +186991,6 @@
 玉牌	yu pai	1
 玉盘龙	yu pan long	1
 玉盘盂	yu pan yu	1
-玉斾	yu pei	1
 玉旆	yu pei	1
 玉辔	yu pei	1
 玉偏提	yu pian ti	1
@@ -196628,7 +196619,6 @@
 征鸟	zheng niao	1
 征派	zheng pai	1
 征袍	zheng pao	1
-征斾	zheng pei	1
 征辔	zheng pei	1
 征蓬	zheng peng	1
 征鼙	zheng pi	1
