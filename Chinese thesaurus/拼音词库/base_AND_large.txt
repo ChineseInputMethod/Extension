@@ -63998,7 +63998,6 @@
 批条子	pi tiao zi	2025
 批头	pi tou	2
 批文	pi wen	5200
-批郤导窽	pi xi dao kuan	100
 批语	pi yu	4170
 批阅	pi yue	5323
 批注	pi zhu	4200

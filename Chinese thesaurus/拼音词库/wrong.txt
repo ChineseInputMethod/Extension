@@ -384,3 +384,13 @@
 征斾	zheng pei	1
 赤斾	chi pei	1
 酒斾	jiu pei	1
+青斾	qing pei	1
+批郤导窽	pi xi dao kuan	100
+窋室	ku shi	1
+窋窡	ku zhuo	1
+轩窓	xuan chuang	1
+轇輵	jiao ge	1
+灵轜	ling er	1
+胶輵	jiao ge	1
+龙轜	long er	1
+廫廓	liao kuo	1
