@@ -51597,7 +51597,6 @@
 庋阁	gui ge	1
 庋架	gui jia	1
 庋间	gui jian	1
-庋县	gui xian	1
 庋置	gui zhi	1
 匦牍	gui du	1
 匦旌	gui jing	1
@@ -149396,7 +149395,6 @@
 团窠锦	tuan ke jin	1
 团量	tuan liang	1
 团挛	tuan luan	1
-团圝	tuan luan	1
 团茅	tuan mao	1
 团貌	tuan mao	1
 团灭	tuan mie	1
