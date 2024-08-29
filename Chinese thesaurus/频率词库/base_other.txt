@@ -101578,7 +101578,6 @@
 远心点	yuan xin dian	10
 远洋扁舟	yuan yang pian zhou	100
 远洋货轮	yuan yang huo lun	100
-远颺	yuan yang	10
 远影	yuan ying	10
 远缘杂交	yuan yuan za jiao	100
 远远近近	yuan yuan jin jin	7

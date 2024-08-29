@@ -870,7 +870,6 @@
 安民榜	an min bang	1
 安穆	an mu	1
 安南区	an nan qu	1
-安內	an nei	1
 安宁病房	an ning bing fang	1
 安宁片	an ning pian	1
 安宁温泉	an ning wen quan	1
@@ -16877,7 +16876,6 @@
 谌挚	chen zhi	1
 霃霃	chen chen	1
 螴蜳	chen dun	1
-鷐风	chen feng	1
 碜碜	chen chen	1
 碜大	chen da	1
 碜黩	chen du	1
@@ -18952,7 +18950,6 @@
 赤鲤	chi li	1
 赤历	chi li	1
 赤历历	chi li li	1
-赤縺蛇	chi lian she	1
 赤粱	chi liang	1
 赤烈	chi lie	1
 赤裂	chi lie	1
@@ -42417,7 +42414,6 @@
 辐线	fu xian	1
 辐至	fu zhi	1
 蜉结	fu jie	1
-蜉蝤	fu you	1
 蜉蝣岛	fu you dao	1
 蜉蝣羽	fu you yu	1
 鉜鏂	fu ou	1
@@ -83681,7 +83677,6 @@
 窟栊	ku long	1
 窟笼	ku long	1
 窟窿桥	ku long qiao	1
-窟竉	ku long	1
 窟弄	ku nong	1
 窟窍	ku qiao	1
 窟泉	ku quan	1
@@ -95035,7 +95030,6 @@
 鲁中叟	lu zhong sou	1
 鲁斫	lu zhuo	1
 鲁子敬	lu zi jing	1
-磠砂	lu sha	1
 甪端	lu duan	1
 甪里先生	lu li xian sheng	1
 陆贝	lu bei	1
@@ -98561,7 +98555,6 @@
 蛮髦	man mao	1
 蛮民	man min	1
 蛮莫	man mo	1
-蛮貃	man mo	1
 蛮男	man nan	1
 蛮娘	man niang	1
 蛮牌	man pai	1
@@ -146705,7 +146698,6 @@
 岧嵽	tiao di	1
 岧崹	tiao ti	1
 岧亭	tiao ting	1
-岧嶤	tiao yao	1
 岧直	tiao zhi	1
 迢逓	tiao di	1
 迢遰	tiao di	1
@@ -156170,7 +156162,6 @@
 梧岸	wu an	1
 梧宫	wu gong	1
 梧槚	wu jia	1
-梧榎	wu jia	1
 梧丘	wu qiu	1
 梧丘之首	wu qiu zhi shou	1
 梧邱之魂	wu qiu zhi hun	1
@@ -177470,7 +177461,6 @@
 衣褒带博	yi bao dai bo	1
 衣禀	yi bing	1
 衣盋	yi bo	1
-衣缽	yi bo	1
 衣补	yi bu	1
 衣不兼彩	yi bu jian cai	1
 衣彩	yi cai	1
@@ -190533,7 +190523,6 @@
 韫匵	yun du	1
 韫匵而藏	yun du er cang	1
 韫韣	yun du	1
-韫韥	yun du	1
 韫韨	yun fu	1
 韫怀	yun huai	1
 韫晦	yun hui	1
@@ -193558,7 +193547,6 @@
 张易之	zhang yi zhi	1
 张荫桓	zhang yin huan	1
 张御	zhang yu	1
-张旜	zhang zhan	1
 张展	zhang zhan	1
 张张巴巴	zhang zhang ba ba	1
 张张屈屈	zhang zhang qu qu	1
@@ -193741,7 +193729,6 @@
 长干	chang gan	1
 长告	chang gao	1
 长戈	chang ge	1
-长赓	chang geng	1
 长更	chang geng	1
 长弓射	chang gong she	1
 长公	chang gong	1
@@ -196142,7 +196129,6 @@
 轸域	zhen yu	1
 轸辙	zhen zhe	1
 轸转	zhen zhuan	1
-姫路市	ji lu shi	1
 眕盱	zhen xu	1
 畛封	zhen feng	1
 畛畍	zhen jie	1
