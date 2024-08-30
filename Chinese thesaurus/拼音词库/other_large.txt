@@ -152545,7 +152545,6 @@
 逶遟	wei zhi	1
 逶媠	wei duo	1
 逶逦	wei li	1
-逶丽	wei li	1
 逶靡	wei mi	1
 逶逝	wei shi	1
 逶邃	wei sui	1
@@ -198344,7 +198343,6 @@
 纸枚	zhi mei	1
 纸媒	zhi mei	1
 纸煤儿	zhi mei er	1
-纸撚	zhi nian	1
 纸帊	zhi pa	1
 纸镪	zhi qiang	1
 纸衾	zhi qin	1
