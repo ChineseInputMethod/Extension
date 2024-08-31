@@ -413,3 +413,6 @@
 纸撚	zhi nian	1
 无病自炙	wu bing zi jiu	1
 逶丽	wei li	1
+注音符號	zhu yin fu hao	1
+栖遅	qi chi	1
+逶遅	wei chi	1

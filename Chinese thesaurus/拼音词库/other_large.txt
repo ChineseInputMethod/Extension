@@ -112626,7 +112626,6 @@
 栖槎	qi cha	1
 栖禅	qi chan	1
 栖诚	qi cheng	1
-栖遅	qi chi	1
 栖遟	qi zhi	1
 栖处	qi chu	1
 栖窜	qi cuan	1
@@ -152541,7 +152540,6 @@
 威壮	wei zhuang	1
 威尊	wei zun	1
 烓灶	wei zao	1
-逶遅	wei chi	1
 逶遟	wei zhi	1
 逶媠	wei duo	1
 逶逦	wei li	1
@@ -202662,7 +202660,6 @@
 注意力缺失症	zhu yi li que shi zheng	1
 注意力缺陷多动症	zhu yi li que xian duo dong zheng	1
 注意力缺陷过动症	zhu yi li que xian guo dong zheng	1
-注音符號	zhu yin fu hao	1
 注音一式	zhu yin yi shi	1
 注荧	zhu ying	1
 注萤	zhu ying	1
