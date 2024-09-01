@@ -191240,7 +191240,6 @@
 赃负	zang fu	1
 赃供	zang gong	1
 赃估	zang gu	1
-赃官汚吏	zang guan wu li	1
 赃害	zang hai	1
 赃贿	zang hui	1
 赃贿狼籍	zang hui lang ji	1
@@ -191263,8 +191262,6 @@
 赃污狼籍	zang wu lang ji	1
 赃械	zang xie	1
 赃验	zang yan	1
-赃汚	zang wu	1
-赃汚狼籍	zang wu lang ji	1
 赃状	zang zhuang	1
 赃罪	zang zui	1
 牂羝不辨	zang di bu bian	1

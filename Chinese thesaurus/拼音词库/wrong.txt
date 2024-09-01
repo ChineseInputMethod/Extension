@@ -416,3 +416,6 @@
 注音符號	zhu yin fu hao	1
 栖遅	qi chi	1
 逶遅	wei chi	1
+赃汚	zang wu	1
+赃官汚吏	zang guan wu li	1
+赃汚狼籍	zang wu lang ji	1
