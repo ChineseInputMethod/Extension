@@ -26225,7 +26225,6 @@
 花贼	hua zei	1
 花枝	hua zhi	2
 花枝招颤	hua zhi zhao chan	1
-花枝招颭	hua zhi zhao zhan	1
 花烛洞房	hua zhu dong fang	4
 花烛夜	hua zhu ye	5
 花籽儿	hua zi er	7

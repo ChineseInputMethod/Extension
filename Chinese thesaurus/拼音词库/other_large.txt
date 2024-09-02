@@ -84436,7 +84436,6 @@
 狂愎	kuang bi	1
 狂蔽	kuang bi	1
 狂鞭	kuang bian	1
-狂颷	kuang biao	1
 狂病	kuang bing	1
 狂波	kuang bo	1
 狂勃	kuang bo	1
@@ -84649,7 +84648,6 @@
 旷隔	kuang ge	1
 旷观	kuang guan	1
 旷瘝	kuang guan	1
-旷癏	kuang guan	1
 旷贵	kuang gui	1
 旷怀	kuang huai	1
 旷瘠	kuang ji	1
@@ -147838,8 +147836,6 @@
 通尊	tong zun	1
 痌瘝一体	tong guan yi ti	1
 痌瘝在抱	tong guan zai bao	1
-痌癏	tong guan	1
-痌癏在抱	tong guan zai bao	1
 痌切	tong qie	1
 痌伤	tong shang	1
 痌心	tong xin	1
