@@ -173264,8 +173264,6 @@
 筵笫	yan zi	1
 綖环	yan huan	1
 綖环钱	yan huan qian	1
-揅究	yan jiu	1
-揅摩	yan mo	1
 揅榷	yan que	1
 碞槎	yan cha	1
 颜鲍	yan bao	1
@@ -206430,7 +206428,6 @@
 钻修	zuan xiu	1
 钻玄	zuan xuan	1
 钻穴踰隙	zuan xue yu xi	1
-钻揅	zuan yan	1
 钻咏	zuan yong	1
 钻逾	zuan yu	1
 钻踰	zuan yu	1
