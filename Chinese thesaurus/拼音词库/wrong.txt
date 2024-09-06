@@ -437,3 +437,5 @@
 浮脃	fu cui	1
 贞脃	zhen cui	1
 柔脃	rou cui	1
+安分守已	an fen shou ji	1
+严于律已	yan yu lv ji	6

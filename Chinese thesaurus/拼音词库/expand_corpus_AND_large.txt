@@ -434,7 +434,6 @@
 安多	an duo	2
 安多县	an duo xian	3
 安非他命	an fei ta ming	2
-安分守已	an fen shou ji	1
 安份地	an fen de	6
 安伏	an fu	1
 安抚奶嘴	an fu nai zui	1
@@ -72592,7 +72591,6 @@
 严颜	yan yan	7
 严毅	yan yi	5
 严翼	yan yi	5
-严于律已	yan yu lv ji	6
 严谕	yan yu	5
 严振	yan zhen	1
 严正地	yan zheng de	6
