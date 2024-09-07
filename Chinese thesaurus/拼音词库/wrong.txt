@@ -439,3 +439,5 @@
 柔脃	rou cui	1
 安分守已	an fen shou ji	1
 严于律已	yan yu lv ji	6
+往甯	wang ning	1
+无甯	wu ning	1

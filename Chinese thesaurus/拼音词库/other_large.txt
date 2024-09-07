@@ -152228,7 +152228,6 @@
 往路	wang lu	1
 往略	wang lve	1
 往宁	wang ning	1
-往甯	wang ning	1
 往篇	wang pian	1
 往人	wang ren	1
 往任	wang ren	1
@@ -155680,7 +155679,6 @@
 无年	wu nian	1
 无撚指	wu nian zhi	1
 无宁	wu ning	1
-无甯	wu ning	1
 无牛	wu niu	1
 无牛使犊	wu niu shi du	1
 无狃	wu niu	1
