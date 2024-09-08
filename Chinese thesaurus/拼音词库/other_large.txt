@@ -122816,7 +122816,6 @@
 逡逡	qun qun	1
 逡速	qun su	1
 逡缩	qun suo	1
-逡廵	qun xun	1
 逡巡酒	qun xun jiu	1
 逡巡术	qun xun shu	1
 逡循	qun xun	1
