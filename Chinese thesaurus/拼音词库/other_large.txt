@@ -25492,7 +25492,6 @@
 大窠	da ke	1
 大口地	da kou de	1
 大块朵颐	da kuai duo yi	1
-大寛转	da kuan zhuan	1
 大夼镇	da kuang zhen	1
 大魁天下	da kui tian xia	1
 大廓	da kuo	1
@@ -58623,7 +58622,6 @@
 胡螓	hu qin	1
 胡吢	hu qin	1
 胡觑	hu qu	1
-胡髥	hu ran	1
 胡髯郎	hu ran lang	1
 胡日鬼	hu ri gui	1
 胡塞	hu sai	1
@@ -66540,7 +66538,6 @@
 济治	ji zhi	1
 济州特别自治道	ji zhou te bie zi zhi dao	1
 既龀	ji chen	1
-既齓	ji chen	1
 既得期间	ji de qi jian	1
 既尔	ji er	1
 既灌	ji guan	1
@@ -94135,7 +94132,6 @@
 龙趋	long qu	1
 龙阙	long que	1
 龙雀	long que	1
-龙髥	long ran	1
 龙髯	long ran	1
 龙髯攀泣	long ran pan qi	1
 龙扰	long rao	1
@@ -133502,7 +133498,6 @@
 石墨气冷堆	shi mo qi leng dui	1
 石墨烯	shi mo xi	1
 石母	shi mu	1
-石枏	shi nan	1
 石泥	shi ni	1
 石碾	shi nian	1
 石涅	shi nie	1
@@ -134858,7 +134853,6 @@
 事酒	shi jiu	1
 事居	shi ju	1
 事局	shi ju	1
-事寛即圆	shi kuan ji yuan	1
 事况	shi kuang	1
 事力	shi li	1
 事利	shi li	1
@@ -146698,7 +146692,6 @@
 笤篱	tiao li	1
 笤帚星	tiao zhou xing	1
 笤箒	tiao zhou	1
-龆齓	tiao chen	1
 龆齿	tiao chi	1
 龆发	tiao fa	1
 龆丱	tiao guan	1
@@ -146724,7 +146717,6 @@
 蜩翼	tiao yi	1
 蜩蚻	tiao zha	1
 髫龀	tiao chen	1
-髫齓	tiao chen	1
 髫齿	tiao chi	1
 髫初	tiao chu	1
 髫鬌	tiao duo	1
@@ -168145,7 +168137,6 @@
 须强如	xu qiang ru	1
 须顷	xu qing	1
 须胊	xu qu	1
-须髥	xu ran	1
 须髯若神	xu ran ruo sheng	1
 须蕊	xu rui	1
 须时	xu shi	1
@@ -183843,7 +183834,6 @@
 优课	you ke	1
 优酷	you ku	1
 优宽	you kuan	1
-优寛	you kuan	1
 优赉	you lai	1
 优劳	you lao	1
 优老	you lao	1
@@ -205064,7 +205054,6 @@
 自克	zi ke	1
 自刻	zi ke	1
 自快	zi kuai	1
-自寛	zi kuan	1
 自来食	zi lai shi	1
 自勑	zi lai	1
 自牢	zi lao	1
