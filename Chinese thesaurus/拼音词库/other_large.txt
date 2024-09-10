@@ -70628,7 +70628,6 @@
 交迹	jiao ji	1
 交浃	jiao jia	1
 交戛	jiao jia	1
-交戞	jiao jia	1
 交荐	jiao jian	1
 交交关	jiao jiao guan	1
 交交关关	jiao jiao guan guan	1
@@ -161958,7 +161957,6 @@
 相加性的	xiang jia xing de	1
 相家	xiang jia	1
 相戛	xiang jia	1
-相戞	xiang jia	1
 相甲	xiang jia	1
 相假	xiang jia	1
 相坚	xiang jian	1
@@ -164610,7 +164608,6 @@
 邪惑	xie huo	1
 邪疾	xie ji	1
 邪戛	xie jia	1
-邪戞	xie jia	1
 邪见幢	xie jian zhuang	1
 邪见网	xie jian wang	1
 邪交	xie jiao	1
@@ -171242,8 +171239,6 @@
 巽与	xun yu	1
 巽羽	xun yu	1
 愻畅	xun chang	1
-愻辞	xun ci	1
-愻顺	xun shun	1
 丫钯	ya ba	1
 丫槎	ya cha	1
 丫铲	ya chan	1
