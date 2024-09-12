@@ -97991,7 +97991,6 @@
 盈通	ying tong	1
 盈袖	ying xiu	10
 盈讯	ying xun	1
-莹石	ying shi	10
 萤光板	ying guang ban	7
 萤光笔	ying guang bi	6
 萤光黄	ying guang huang	2
