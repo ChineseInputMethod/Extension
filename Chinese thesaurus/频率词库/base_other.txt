@@ -28448,7 +28448,6 @@
 冠军锦带	guan jun jin dai	7
 冠军联赛	guan jun lian sai	1
 冠军相	guan jun xiang	6
-冠軍	guan jun	4
 冠林	guan lin	2
 冠毛	guan mao	4
 冠醚	guan mi	3
