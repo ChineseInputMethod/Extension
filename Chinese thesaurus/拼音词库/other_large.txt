@@ -18590,7 +18590,6 @@
 齿齿	chi chi	1
 齿错	chi cuo	1
 齿弟	chi di	1
-齿臷	chi die	1
 齿耋	chi die	1
 齿蠹	chi du	1
 齿颚矫正学	chi e jiao zheng xue	1
@@ -63084,7 +63083,6 @@
 昏嫚	hun man	1
 昏盲	hun mang	1
 昏茫	hun mang	1
-昏髦	hun mao	1
 昏冒	hun mao	1
 昏耄	hun mao	1
 昏霿	hun meng	1
@@ -99238,12 +99236,10 @@
 锚纲	mao gang	1
 髦蔽	mao bi	1
 髦髧	mao dan	1
-髦耋	mao die	1
 髦儿班	mao er ban	1
 髦儿戏子	mao er xi zi	1
 髦发	mao fa	1
 髦皇	mao huang	1
-髦昏	mao hun	1
 髦峤	mao qiao	1
 髦节	mao jie	1
 髦杰	mao jie	1
@@ -99252,8 +99248,6 @@
 髦马	mao ma	1
 髦蛮	mao man	1
 髦民	mao min	1
-髦倪	mao ni	1
-髦期	mao qi	1
 髦硕	mao shuo	1
 髦髿	mao suo	1
 髦徒	mao tu	1
@@ -99711,7 +99705,6 @@
 眉蛾	mei e	1
 眉峯碧	mei feng bi	1
 眉斧	mei fu	1
-眉耉	mei gou	1
 眉耈	mei gou	1
 眉毫	mei hao	1
 眉痕	mei hen	1
