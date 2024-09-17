@@ -26429,7 +26429,6 @@
 担羞	dan xiu	1
 担延	dan yan	1
 担忧地	dan you de	1
-担懮	dan you	1
 担舁	dan yu	1
 担舆	dan yu	1
 担值	dan zhi	1
@@ -99525,7 +99524,6 @@
 瞀妄	mao wang	1
 瞀眩	mao xuan	1
 瞀忧	mao you	1
-瞀懮	mao you	1
 懋册	mao ce	1
 懋成	mao cheng	1
 懋德	mao de	1
@@ -184309,8 +184307,6 @@
 悠哉悠哉	you zai you zai	1
 悠哉游哉	you zai you zai	1
 麀鹿	you lu	1
-懮虑	you lv	1
-懮受	you shou	1
 耰锄	you chu	1
 耰耦	you ou	1
 尤谤	you bang	1
