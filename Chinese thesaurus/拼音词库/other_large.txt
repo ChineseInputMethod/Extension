@@ -133328,7 +133328,6 @@
 石锛	shi ben	1
 石璧	shi bi	1
 石表	shi biao	1
-石鼈	shi bie	1
 石钵	shi bo	1
 石步	shi bu	1
 石策	shi ce	1
@@ -149054,7 +149053,6 @@
 土帮	tu bang	1
 土帮土成墙	tu bang tu cheng qiang	1
 土笔	tu bi	1
-土鼈	tu bie	1
 土伯	tu bo	1
 土步	tu bu	1
 土藏	tu cang	1
@@ -154626,8 +154624,6 @@
 瓮下	weng xia	1
 瓮溢	weng yi	1
 瓮罂	weng ying	1
-瓮中之鼈	weng zhong zhi bie	1
-瓮中捉鼈	weng zhong zhuo bie	1
 瓮子	weng zi	1
 甕尽杯干	weng jin bei gan	1
 甕里酰鸡	weng li xi ji	1
@@ -167802,7 +167798,6 @@
 脩作	xiu zuo	1
 羞笾	xiu bian	1
 羞鳖	xiu bie	1
-羞鼈	xiu bie	1
 羞不打	xiu bu da	1
 羞鼎	xiu ding	1
 羞豆	xiu dou	1
@@ -181758,7 +181753,6 @@
 饮伴	yin ban	1
 饮被	yin bei	1
 饮鳖	yin bie	1
-饮鼈	yin bie	1
 饮博	yin bo	1
 饮吃	yin chi	1
 饮储	yin chu	1
@@ -185348,7 +185342,6 @@
 鱼婢	yu bi	1
 鱼鞞	yu bi	1
 鱼鳔白	yu biao bai	1
-鱼鼈	yu bie	1
 鱼兵	yu bing	1
 鱼丙	yu bing	1
 鱼箔	yu bo	1
@@ -188730,7 +188723,6 @@
 圆足布	yuan zu bu	1
 圆坐	yuan zuo	1
 鼋鳖	yuan bie	1
-鼋鼈	yuan bie	1
 鼋漦	yuan chi	1
 鼋羹	yuan geng	1
 鼋壑	yuan he	1
@@ -192717,7 +192709,6 @@
 窄隘	zhai ai	1
 窄巴巴	zhai ba ba	1
 窄逼	zhai bi	1
-窄鼈鼈	zhai bie bie	1
 窄缝	zhai feng	1
 窄卡	zhai ka	1
 窄隆	zhai long	1
@@ -197068,7 +197059,6 @@
 证逮	zheng dai	1
 证定	zheng ding	1
 证父攘羊	zheng fu rang yang	1
-证龟成鼈	zheng gui cheng bie	1
 证见人	zheng jian ren	1
 证讲	zheng jiang	1
 证盟	zheng meng	1
@@ -201245,7 +201235,6 @@
 朱镳	zhu biao	1
 朱飈	zhu biao	1
 朱鳖	zhu bie	1
-朱鼈	zhu bie	1
 朱波	zhu bo	1
 朱袚	zhu bo	1
 朱驳	zhu bo	1
