@@ -14192,7 +14192,6 @@
 茶铛	cha cheng	1
 茶夫	cha fu	1
 茶鼓	cha gu	1
-茶皷	cha gu	1
 茶馆儿	cha guan er	1
 茶聚	cha ju	1
 茶令	cha ling	1
@@ -55679,7 +55678,6 @@
 河夫	he fu	1
 河公	he gong	1
 河宫	he gong	1
-河皷	he gu	1
 河关	he guan	1
 河龟	he gui	1
 河汉女	he han nv	1
@@ -59725,7 +59723,6 @@
 画栱	hua gong	1
 画骨	hua gu	1
 画毂	hua gu	1
-画皷	hua gu	1
 画冠	hua guan	1
 画馆	hua guan	1
 画规	hua gui	1
@@ -72386,7 +72383,6 @@
 节干	jie gan	1
 节构	jie gou	1
 节鼓	jie gu	1
-节皷	jie gu	1
 节和	jie he	1
 节华	jie hua	1
 节麾	jie hui	1
@@ -87233,7 +87229,6 @@
 雷公琴	lei gong qin	1
 雷骨	lei gu	1
 雷毂	lei gu	1
-雷皷	lei gu	1
 雷鬼	lei gui	1
 雷辊	lei gun	1
 雷轰荐福碑	lei hong jian fu bei	1
@@ -95331,7 +95326,6 @@
 路梗	lu geng	1
 路弓	lu gong	1
 路鼓	lu gu	1
-路皷	lu gu	1
 路虎	lu hu	1
 路环	lu huan	1
 路箭	lu jian	1
@@ -112918,7 +112912,6 @@
 齐功	qi gong	1
 齐宫	qi gong	1
 齐鼓	qi gu	1
-齐皷	qi gu	1
 齐冠	qi guan	1
 齐光	qi guang	1
 齐规	qi gui	1
@@ -149101,7 +149094,6 @@
 土骨堆	tu gu dui	1
 土骨蛇	tu gu she	1
 土鼓	tu gu	1
-土皷	tu gu	1
 土怪	tu guai	1
 土圭	tu gui	1
 土簋	tu gui	1
@@ -150517,7 +150509,6 @@
 鮀浦	tuo pu	1
 鼍参鼋史	tuo can yuan shi	1
 鼍风鱼	tuo feng yu	1
-鼍皷	tuo gu	1
 鼍吼	tuo hou	1
 鼍矶	tuo ji	1
 鼍窟	tuo ku	1
@@ -150607,7 +150598,6 @@
 蛙吹	wa chui	1
 蛙吠	wa fei	1
 蛙歌	wa ge	1
-蛙皷	wa gu	1
 蛙蝈	wa guo	1
 蛙蛤	wa ge	1
 蛙讙	wa huan	1
@@ -169488,7 +169478,6 @@
 悬钩	xuan gou	1
 悬鹄	xuan hu	1
 悬鼓	xuan gu	1
-悬皷	xuan gu	1
 悬挂式滑翔	xuan gua shi hua xiang	1
 悬光	xuan guang	1
 悬规	xuan gui	1
@@ -185415,7 +185404,6 @@
 鱼鼓道情	yu gu dao qing	1
 鱼鼓简	yu gu jian	1
 鱼鼓简子	yu gu jian zi	1
-鱼皷	yu gu	1
 鱼官	yu guan	1
 鱼鲑	yu gui	1
 鱼国	yu guo	1
@@ -200006,9 +199994,6 @@
 钟非饭	zhong fei fan	1
 钟阜	zhong fu	1
 钟鼓司	zhong gu si	1
-钟皷	zhong gu	1
-钟皷楼	zhong gu lou	1
-钟皷之色	zhong gu zhi se	1
 钟官	zhong guan	1
 钟胡	zhong hu	1
 钟斛	zhong hu	1

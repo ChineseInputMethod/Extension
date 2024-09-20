@@ -488,3 +488,18 @@
 石鼈	shi bie	1
 羞鼈	xiu bie	1
 证龟成鼈	zheng gui cheng bie	1
+画皷	hua gu	1
+鼍皷	tuo gu	1
+钟皷	zhong gu	1
+节皷	jie gu	1
+钟皷楼	zhong gu lou	1
+钟皷之色	zhong gu zhi se	1
+雷皷	lei gu	1
+悬皷	xuan gu	1
+路皷	lu gu	1
+蛙皷	wa gu	1
+鱼皷	yu gu	1
+河皷	he gu	1
+茶皷	cha gu	1
+土皷	tu gu	1
+齐皷	qi gu	1
