@@ -21418,7 +21418,6 @@
 传诏	chuan zhao	1
 传诏童	chuan zhao tong	1
 传卮	chuan zhi	1
-传巵	chuan zhi	1
 传纸条	chuan zhi tiao	1
 传指	chuan zhi	1
 传志	chuan zhi	1
@@ -73954,7 +73953,6 @@
 金虬	jin qiu	1
 金曲卮	jin qu zhi	1
 金屈卮	jin qu zhi	1
-金屈巵	jin qu zhi	1
 金躯	jin qu	1
 金蕖	jin qu	1
 金穰	jin rang	1
@@ -74183,7 +74181,6 @@
 金支	jin zhi	1
 金卮	jin zhi	1
 金芝	jin zhi	1
-金巵	jin zhi	1
 金枝叶	jin zhi ye	1
 金祗	jin zhi	1
 金鳷	jin zhi	1
@@ -75022,7 +75019,6 @@
 进鸩	jin zhen	1
 进征	jin zheng	1
 进卮	jin zhi	1
-进巵	jin zhi	1
 进直	jin zhi	1
 进旨	jin zhi	1
 进质	jin zhi	1
@@ -78054,7 +78050,6 @@
 酒正	jiu zheng	1
 酒政	jiu zheng	1
 酒卮	jiu zhi	1
-酒巵	jiu zhi	1
 酒直	jiu zhi	1
 酒帜	jiu zhi	1
 酒中八仙	jiu zhong ba xian	1
@@ -95002,7 +94997,6 @@
 鲁语	lu yu	1
 鲁哲	lu zhe	1
 鲁卮	lu zhi	1
-鲁巵	lu zhi	1
 鲁质	lu zhi	1
 鲁雉	lu zhi	1
 鲁中叟	lu zhong sou	1
@@ -120316,7 +120310,6 @@
 琼珍	qiong zhen	1
 琼卮	qiong zhi	1
 琼芝	qiong zhi	1
-琼巵	qiong zhi	1
 琼枝班	qiong zhi ban	1
 琼中县	qiong zhong xian	1
 琼舟	qiong zhou	1
@@ -160924,7 +160917,6 @@
 衔怨	xian yuan	1
 衔璅	xian zao	1
 衔卮	xian zhi	1
-衔巵	xian zhi	1
 衔知	xian zhi	1
 衔指	xian zhi	1
 衔志	xian zhi	1
@@ -175756,7 +175748,6 @@
 瑶轸	yao zhen	1
 瑶筝	yao zheng	1
 瑶卮	yao zhi	1
-瑶巵	yao zhi	1
 瑶枝	yao zhi	1
 瑶帙	yao zhi	1
 瑶质	yao zhi	1
@@ -187154,8 +187145,6 @@
 玉镇纸	yu zhen zhi	1
 玉筝	yu zheng	1
 玉芝	yu zhi	1
-玉巵	yu zhi	1
-玉巵无当	yu zhi wu dang	1
 玉脂芝	yu zhi zhi	1
 玉旨	yu zhi	1
 玉指	yu zhi	1

@@ -503,3 +503,14 @@
 茶皷	cha gu	1
 土皷	tu gu	1
 齐皷	qi gu	1
+传巵	chuan zhi	1
+琼巵	qiong zhi	1
+玉巵	yu zhi	1
+玉巵无当	yu zhi wu dang	1
+瑶巵	yao zhi	1
+衔巵	xian zhi	1
+金屈巵	jin qu zhi	1
+进巵	jin zhi	1
+酒巵	jiu zhi	1
+金巵	jin zhi	1
+鲁巵	lu zhi	1
