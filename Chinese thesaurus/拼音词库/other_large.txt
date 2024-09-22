@@ -23234,7 +23234,6 @@
 聡聡	cong cong	1
 骢马客	cong ma ke	1
 骢马郎	cong ma lang	1
-骢马郞	cong ma lang	1
 骢马使	cong ma shi	1
 璁珩	cong hang	1
 瑽琤	cong cheng	1
@@ -29892,7 +29891,6 @@
 点翅朱雀	dian chi zhu que	1
 点充	dian chong	1
 点筹郎	dian chou lang	1
-点筹郞	dian chou lang	1
 点除	dian chu	1
 点触	dian chu	1
 点次	dian ci	1
@@ -40796,7 +40794,6 @@
 冯赖	feng lai	1
 冯阑	feng lan	1
 冯郎	feng lang	1
-冯郞	feng lang	1
 冯凌	feng ling	1
 冯陵	feng ling	1
 冯六郎	feng liu lang	1
@@ -49457,7 +49454,6 @@
 顾睨	gu ni	1
 顾愆	gu qian	1
 顾倩	gu qian	1
-顾曲周郞	gu qu zhou lang	1
 顾券	gu quan	1
 顾让	gu rang	1
 顾山钱	gu shan qian	1
@@ -56566,7 +56562,6 @@
 黑煤玉	hei mei yu	1
 黑门坎儿	hei men kan er	1
 黑面郎	hei mian lang	1
-黑面郞	hei mian lang	1
 黑牡	hei mu	1
 黑牡丹	hei mu dan	1
 黑幕派	hei mu pai	1
@@ -70005,7 +70000,6 @@
 将然	jiang ran	1
 将丧	jiang sang	1
 将慎	jiang shen	1
-将仕郞	jiang shi lang	1
 将宿	jiang su	1
 将妄	jiang wang	1
 将卫	jiang wei	1
@@ -97755,7 +97749,6 @@
 马郎党	ma lang dang	1
 马郎房	ma lang fang	1
 马郎妇	ma lang fu	1
-马郞	ma lang	1
 马浪荡	ma lang dang	1
 马酪	ma lao	1
 马勒口	ma le kou	1
@@ -100211,7 +100204,6 @@
 门捆	men kun	1
 门阃	men kun	1
 门郎	men lang	1
-门郞	men lang	1
 门历	men li	1
 门隶	men li	1
 门燎	men liao	1
@@ -100267,7 +100259,6 @@
 门下生	men xia sheng	1
 门下史	men xia shi	1
 门下侍郎	men xia shi lang	1
-门下侍郞	men xia shi lang	1
 门下晚生	men xia wan sheng	1
 门下掾	men xia yuan	1
 门罅	men xia	1
@@ -185440,7 +185431,6 @@
 鱼溃	yu kui	1
 鱼腊	yu la	1
 鱼篮会	yu lan hui	1
-鱼郞	yu lang	1
 鱼浪	yu lang	1
 鱼劳	yu lao	1
 鱼老鸦	yu lao ya	1
@@ -192620,7 +192610,6 @@
 斋客	zhai ke	1
 斋库	zhai ku	1
 斋郎	zhai lang	1
-斋郞	zhai lang	1
 斋粮	zhai liang	1
 斋料	zhai liao	1
 斋舲	zhai ling	1

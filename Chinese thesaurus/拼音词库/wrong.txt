@@ -514,3 +514,15 @@
 酒巵	jiu zhi	1
 金巵	jin zhi	1
 鲁巵	lu zhi	1
+顾曲周郞	gu qu zhou lang	1
+黑面郞	hei mian lang	1
+冯郞	feng lang	1
+认奴作郞	ren nu zuo lang	100
+门郞	men lang	1
+马郞	ma lang	1
+鱼郞	yu lang	1
+点筹郞	dian chou lang	1
+骢马郞	cong ma lang	1
+门下侍郞	men xia shi lang	1
+将仕郞	jiang shi lang	1
+斋郞	zhai lang	1

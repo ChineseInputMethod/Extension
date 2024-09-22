@@ -71050,7 +71050,6 @@
 认明	ren ming	2000
 认命	ren ming	6970
 认奴作郎	ren nu zuo lang	1
-认奴作郞	ren nu zuo lang	100
 认赔	ren pei	100
 认亲	ren qin	4000
 认清	ren qing	6652
