@@ -90250,7 +90250,6 @@
 无盐不解淡	wu yan bu jie dan	100
 无颜	wu yan	10
 无厌	wu yan	10
-无餍	wu yan	10
 无恙	wu yang	4201
 无业	wu ye	5269
 无业游民	wu ye you min	100
@@ -99585,7 +99584,6 @@
 焰心	yan xin	2030
 酽酽	yan yan	2
 餍食	yan shi	10
-餍足	yan zu	107
 燕巢	yan chao	10
 燕巢幕上	yan chao mu shang	100
 燕巢危幕	yan chao wei mu	100

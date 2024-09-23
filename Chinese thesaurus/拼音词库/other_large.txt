@@ -116808,7 +116808,6 @@
 切空间	qie kong jian	1
 切勑	qie lai	1
 切类	qie lei	1
-切理餍心	qie li yan xin	1
 切力效应	qie li xiao ying	1
 切励	qie li	1
 切蚂	qie ma	1
@@ -137169,7 +137168,6 @@
 属续	shu xu	1
 属言	zhu yan	1
 属厌	shu yan	1
-属餍	shu yan	1
 属音	shu yin	1
 属膺	shu ying	1
 属咏	shu yong	1
@@ -143497,7 +143495,6 @@
 贪沓	tan ta	1
 贪叨	tan dao	1
 贪盗	tan dao	1
-贪得无餍	tan de wu yan	1
 贪毒	tan du	1
 贪妒	tan du	1
 贪妬	tan du	1
@@ -143538,7 +143535,6 @@
 贪赖	tan lai	1
 贪婪地看着	tan lan de kan zhe	1
 贪婪是万恶之源	tan lan shi wan e zhi yuan	1
-贪婪无餍	tan lan wu yan	1
 贪懒	tan lan	1
 贪滥蹹婪	tan lan ta lan	1
 贪狼风	tan lang feng	1
@@ -183800,7 +183796,6 @@
 优迁	you qian	1
 优轻	you qing	1
 优然	you ran	1
-优柔餍饫	you rou yan yu	1
 优缛	you ru	1
 优润	you run	1
 优赡	you shan	1

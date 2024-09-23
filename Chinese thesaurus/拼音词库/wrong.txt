@@ -526,3 +526,12 @@
 门下侍郞	men xia shi lang	1
 将仕郞	jiang shi lang	1
 斋郞	zhai lang	1
+贪得无餍	tan de wu yan	1
+贪婪无餍	tan lan wu yan	1
+属餍	shu yan	1
+餍足	yan zu	107
+无餍	wu yan	10
+餍饫	yan yu	1
+餍服	yan fu	5
+优柔餍饫	you rou yan yu	1
+切理餍心	qie li yan xin	1
