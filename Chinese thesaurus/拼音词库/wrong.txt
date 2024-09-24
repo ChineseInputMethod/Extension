@@ -535,3 +535,5 @@
 餍服	yan fu	5
 优柔餍饫	you rou yan yu	1
 切理餍心	qie li yan xin	1
+事寔	shi shi	1
+行寔	xing shi	1

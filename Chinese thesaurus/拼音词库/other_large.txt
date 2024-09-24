@@ -134834,7 +134834,6 @@
 事戎	shi rong	1
 事色	shi se	1
 事实胜于雄辩	shi shi sheng yu xiong bian	1
-事寔	shi shi	1
 事使	shi shi	1
 事始	shi shi	1
 事守	shi shou	1
@@ -166437,7 +166436,6 @@
 行师动众	xing shi dong zhong	1
 行施	xing shi	1
 行实	xing shi	1
-行寔	xing shi	1
 行世	xing shi	1
 行事官	xing shi guan	1
 行事举例	xing shi ju li	1
