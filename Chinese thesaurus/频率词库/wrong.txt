@@ -34,3 +34,5 @@
 冠軍	guan jun	4
 令郞	ling lang	10
 惊蜇	jing zhe	10
+鰟鮍	pang pi	100
+鯷鱼	ti yu	10

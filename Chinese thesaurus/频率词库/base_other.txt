@@ -59708,7 +59708,6 @@
 旁岔	pang cha	10
 旁切圆	pang qie yuan	100
 旁若	pang ruo	10
-鰟鮍	pang pi	100
 胖得	pang de	10
 胖的	pang de	10
 胖墩	pang dun	2000
@@ -79050,7 +79049,6 @@
 题为	ti wei	4590
 题着	ti zhe	10
 蹄垫	ti dian	10
-鯷鱼	ti yu	10
 体操房	ti cao fang	110
 体操课	ti cao ke	122
 体操器械	ti cao qi xie	10

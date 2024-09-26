@@ -92778,7 +92778,6 @@
 輘輷	ling hong	1
 鲮鲤甲	ling li jia	1
 鲮鲤科	ling li ke	1
-鲮鳢	ling li	1
 霝龠	ling yue	1
 酃酒	ling jiu	1
 酃醁	ling lu	1
@@ -94866,7 +94865,6 @@
 鲈江	lu jiang	1
 鲈脍	lu kuai	1
 鲈鲤	lu li	1
-鲈鳢	lu li	1
 鲈乡	lu xiang	1
 鲈乡亭	lu xiang ting	1
 鲈鱼脍	lu yu kuai	1
