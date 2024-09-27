@@ -90861,7 +90861,6 @@
 辽东白鸖	liao dong bai he	1
 辽东丁	liao dong ding	1
 辽东归鹤	liao dong gui he	1
-辽东隺	liao dong he	1
 辽东华表	liao dong hua biao	1
 辽队	liao dui	1
 辽歌	liao ge	1
@@ -96453,7 +96452,6 @@
 骡驮	luo tuo	1
 骡子军	luo zi jun	1
 骡子营	luo zi ying	1
-螺蜯	luo bang	1
 螺呗	luo bai	1
 螺刀	luo dao	1
 螺蜔	luo dian	1

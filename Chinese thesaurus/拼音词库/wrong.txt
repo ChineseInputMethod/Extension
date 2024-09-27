@@ -539,3 +539,5 @@
 行寔	xing shi	1
 鲮鳢	ling li	1
 鲈鳢	lu li	1
+辽东隺	liao dong he	1
+螺蜯	luo bang	1
