@@ -39153,7 +39153,6 @@
 积金累玉	ji jin lei yu	100
 积久	ji jiu	100
 积聚	ji ju	5706
-积痾	ji ke	10
 积劳	ji lao	4006
 积劳成病	ji lao cheng bing	100
 积劳成疾	ji lao cheng ji	2164

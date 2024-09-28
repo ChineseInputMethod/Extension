@@ -541,3 +541,20 @@
 鲈鳢	lu li	1
 辽东隺	liao dong he	1
 螺蜯	luo bang	1
+怀痾	huai ke	1
+痾痒	ke yang	1
+疲痾	pi ke	1
+积痾	ji ke	10
+驽痾	nu ke	1
+陈痾	chen ke	1
+宿痾	su ke	1
+婴痾	ying ke	1
+沈痾	shen ke	1
+吃乌饭痾黑屎	chi wu fan ke hei shi	1
+烦痾	fan ke	1
+养痾	yang ke	1
+痾祸	ke huo	1
+痊痾	quan ke	1
+笃痾	du ke	1
+抱痾	bao ke	1
+微痾	wei ke	1

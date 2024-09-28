@@ -59632,7 +59632,6 @@
 宿憾	su han	1
 宿好	su hao	5
 宿慧	su hui	1
-宿痾	su ke	1
 宿老	su lao	1
 宿吏	su li	5
 宿瘤	su liu	1
@@ -73500,7 +73499,6 @@
 养精	yang jing	5
 养静	yang jing	1
 养军	yang jun	1
-养痾	yang ke	1
 养寇	yang kou	1
 养老保险	yang lao bao xian	5
 养乐多	yang le duo	7

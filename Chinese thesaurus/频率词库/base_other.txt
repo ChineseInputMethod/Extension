@@ -52868,7 +52868,6 @@
 裸浴	luo yu	1
 裸装	luo zhuang	2000
 裸装货	luo zhuang huo	2
-瘰疠	luo li	3
 泺源	luo yuan	1
 洛贝林	luo bei lin	2
 洛宾	luo bin	2
@@ -63630,7 +63629,6 @@
 清色	qing se	10
 清盛	qing sheng	10
 清史	qing shi	12
-清痩	qing shou	10
 清爽爽	qing shuang shuang	2
 清水桶	qing shui tong	6
 清水湾	qing shui wan	2
