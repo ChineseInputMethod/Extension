@@ -558,3 +558,15 @@
 笃痾	du ke	1
 抱痾	bao ke	1
 微痾	wei ke	1
+干凈	gan jing	1
+洁凈	jie jing	1
+干干凈凈	gan gan jing jing	1
+凈尽	jing jin	1
+干凈利落	gan jing li luo	1
+眼不见为凈	yan bu jian wei jing	1
+凈洁	jing jie	1
+干凈利索	gan jing li suo	1
+风轻云凈	feng qing yun jing	1
+剿凈	jiao jing	1
+华凈	hua jing	1
+鲜凈	xian jing	1

@@ -40267,7 +40267,6 @@
 风茄	feng qie	1
 风禽	feng qin	1
 风轻云浄	feng qing yun jing	1
-风轻云凈	feng qing yun jing	1
 风裘	feng qiu	1
 风趋	feng qu	1
 风衢	feng qu	1
@@ -44510,7 +44509,6 @@
 干丐	gan gai	1
 干干净	qian qian jing	1
 干干凈	gan gan jing	1
-干干凈凈	gan gan jing jing	1
 干槁	gan gao	1
 干革	gan ge	1
 干嗝	gan ge	1
@@ -44546,10 +44544,7 @@
 干浄利落	gan jing li luo	1
 干浄利索	gan jing li suo	1
 干浄土	qian jing tu	1
-干凈	gan jing	1
 干凈地	gan jing di	1
-干凈利落	gan jing li luo	1
-干凈利索	gan jing li suo	1
 干凈土	gan jing tu	1
 干咎	gan jiu	1
 干局	gan ju	1
@@ -59402,7 +59397,6 @@
 华景	hua jing	1
 华净	hua jing	1
 华浄	hua jing	1
-华凈	hua jing	1
 华竞	hua jing	1
 华裾	hua ju	1
 华剧	hua ju	1
@@ -71858,7 +71852,6 @@
 剿击	jiao ji	1
 剿截	jiao jie	1
 剿净	jiao jing	1
-剿凈	jiao jing	1
 剿绝	jiao jue	1
 剿绝儿	jiao jue er	1
 剿戮	jiao lu	1
@@ -72652,7 +72645,6 @@
 洁精	jie jing	1
 洁净无瑕	jie jing wu xia	1
 洁浄	jie jing	1
-洁凈	jie jing	1
 洁静	jie jing	1
 洁居	jie ju	1
 洁矩	jie ju	1
@@ -76657,8 +76649,6 @@
 凈饭王	jing fan wang	1
 凈国	jing guo	1
 凈话	jing hua	1
-凈洁	jing jie	1
-凈尽	jing jin	1
 凈觉	jing jue	1
 凈军	jing jun	1
 凈濑	jing lai	1
@@ -160185,7 +160175,6 @@
 鲜晶	xian jing	1
 鲜净	xian jing	1
 鲜浄	xian jing	1
-鲜凈	xian jing	1
 鲜薧	xian kao	1
 鲜鲙	xian kuai	1
 鲜腊	xian la	1
@@ -173411,7 +173400,6 @@
 眼饱肚中饥	yan bao du zhong ji	1
 眼边	yan bian	1
 眼不见为浄	yan bu jian wei jing	1
-眼不见为凈	yan bu jian wei jing	1
 眼不眨	yan bu zha	1
 眼不着砂	yan bu zhe sha	1
 眼藏	yan cang	1
