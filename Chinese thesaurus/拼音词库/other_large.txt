@@ -18356,7 +18356,6 @@
 驰田	chi tian	1
 驰湍	chi tuan	1
 驰望	chi wang	1
-驰鹜	chi wu	1
 驰袭	chi xi	1
 驰系	chi xi	1
 驰侠	chi xia	1
@@ -54771,7 +54770,6 @@
 好端端地	hao duan duan de	1
 好妇	hao fu	1
 好高务远	hao gao wu yuan	1
-好高鹜远	hao gao wu yuan	1
 好共歹	hao gong dai	1
 好故事百听不厌	hao gu shi bai ting bu yan	1
 好官缺	hao guan que	1
@@ -63962,7 +63960,6 @@
 霍氏鹰鹃	huo shi ying juan	1
 霍眼	huo yan	1
 霍绎	huo yi	1
-霍驿	huo yi	1
 霍玉	huo yu	1
 獲伽狓	huo jia pi	1
 矆睒	huo shan	1
@@ -96580,7 +96577,6 @@
 络丝娘	luo si niang	1
 络秀	luo xiu	1
 络驿	luo yi	1
-络驿不绝	luo yi bu jue	1
 骆丞	luo cheng	1
 骆田	luo tian	1
 骆驼杖	luo tuo zhang	1
@@ -121525,7 +121521,6 @@
 趋隅	qu yu	1
 趋泽	qu ze	1
 趋战	qu zhan	1
-趋之若骛	qu zhi ruo wu	1
 趋织	qu zhi	1
 趋直	qu zhi	1
 趋职	qu zhi	1
@@ -157257,8 +157252,6 @@
 鹜没	wu mei	1
 鹜溏	wu tang	1
 鹜新	wu xin	1
-鹜行	wu xing	1
-鹜置	wu zhi	1
 鋈錞	wu dui	1
 鋈器	wu qi	1
 鋈铣	wu xi	1
@@ -159195,7 +159188,6 @@
 遐望	xia wang	1
 遐武	xia wu	1
 遐骛	xia wu	1
-遐鹜	xia wu	1
 遐睎	xia xi	1
 遐鶱	xia xian	1
 遐险	xia xian	1
@@ -180165,7 +180157,6 @@
 逸网	yi wang	1
 逸味	yi wei	1
 逸骛	yi wu	1
-逸鹜	yi wu	1
 逸贤	yi xian	1
 逸响	yi xiang	1
 逸象	yi xiang	1

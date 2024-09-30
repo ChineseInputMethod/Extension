@@ -91321,7 +91321,6 @@
 新设座席	xin she zuo xi	7
 新社会	xin she hui	210
 新神雕	xin shen diao	1
-新生黛	xin sheng dai	1
 新生党	xin sheng dang	2
 新生活	xin sheng huo	1350
 新生霉素	xin sheng mei su	2
