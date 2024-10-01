@@ -580,3 +580,31 @@
 遐鹜	xia wu	1
 鹜行	wu xing	1
 鹜置	wu zhi	1
+呪骂	zhou ma	1
+诅呪	zu zhou	1
+诵呪	song zhou	1
+讽呪	feng zhou	1
+符呪	fu zhou	1
+赌呪	du zhou	1
+呪语	zhou yu	1
+呪诅	zhou zu	1
+呪旛儿	zhou fan er	1
+持呪	chi zhou	1
+呪文	zhou wen	1
+呪师	zhou shi	1
+经呪	jing zhou	1
+呪诀	zhou jue	1
+剔抽禿刷	ti chou tu shua	1
+呪术	zhou shu	1
+禁呪	jin zhou	1
+呪说	zhou shuo	1
+海盟山呪	hai meng shan zhou	1
+谴呪	qian zhou	1
+婆罗门呪	po luo men zhou	1
+秘呪	mi zhou	1
+呪厌	zhou yan	1
+呪愿	zhou yuan	1
+呪枣	zhou zao	1
+呪禁师	zhou jin shi	1
+呪罚	zhou fa	1
+梵呪	fan zhou	1

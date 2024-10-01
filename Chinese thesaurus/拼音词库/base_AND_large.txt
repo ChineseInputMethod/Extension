@@ -83534,7 +83534,6 @@
 藤箱	teng xiang	2059
 藤椅	teng yi	4748
 藤子	teng zi	4112
-剔抽禿刷	ti chou tu shua	1
 剔除	ti chu	6566
 剔骨	ti gu	100
 剔红	ti hong	3014

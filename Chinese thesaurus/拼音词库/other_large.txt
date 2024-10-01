@@ -18514,7 +18514,6 @@
 持政	chi zheng	1
 持支	chi zhi	1
 持中	chi zhong	1
-持呪	chi zhou	1
 持咒	chi zhou	1
 蚳醢	chi hai	1
 蚳母	chi mu	1
@@ -33242,7 +33241,6 @@
 赌兴	du xing	1
 赌贼	du zei	1
 赌帐	du zhang	1
-赌呪	du zhou	1
 睹当	du dang	1
 睹记	du ji	1
 睹睐	du lai	1
@@ -37621,7 +37619,6 @@
 梵帙	fan zhi	1
 梵钟	fan zhong	1
 梵众天	fan zhong tian	1
-梵呪	fan zhou	1
 梵咒	fan zhou	1
 梵字	fan zi	1
 笵金	fan jin	1
@@ -40905,7 +40902,6 @@
 讽诏	feng zhao	1
 讽职	feng zhi	1
 讽旨	feng zhi	1
-讽呪	feng zhou	1
 讽咒	feng zhou	1
 讽籀	feng zhou	1
 唪诵	beng song	1
@@ -42354,7 +42350,6 @@
 符镇	fu zhen	1
 符征	fu zheng	1
 符旨	fu zhi	1
-符呪	fu zhou	1
 符竹	fu zhu	1
 符祝	fu zhu	1
 符桩	fu zhuang	1
@@ -53283,7 +53278,6 @@
 海马体	hai ma ti	1
 海漫	hai man	1
 海湄	hai mei	1
-海盟山呪	hai meng shan zhou	1
 海绵宝宝	hai mian bao bao	1
 海男子	hai nan zi	1
 海南孔雀雉	hai nan kong que zhi	1
@@ -75452,7 +75446,6 @@
 禁中语	jin zhong yu	1
 禁钟	jin zhong	1
 禁重	jin zhong	1
-禁呪	jin zhou	1
 禁驻	jin zhu	1
 禁祝	jin zhu	1
 禁字体	jin zi ti	1
@@ -75672,7 +75665,6 @@
 经制钱	jing zhi qian	1
 经治	jing zhi	1
 经袠	jing zhi	1
-经呪	jing zhou	1
 经撞	jing zhuang	1
 经资	jing zi	1
 经总	jing zong	1
@@ -101116,7 +101108,6 @@
 秘着	mi zhe	1
 秘珍	mi zhen	1
 秘重	mi zhong	1
-秘呪	mi zhou	1
 秘咒	mi zhou	1
 秘祝	mi zhu	1
 密白	mi bai	1
@@ -111542,7 +111533,6 @@
 婆兰	po lan	1
 婆留	po liu	1
 婆罗浮屠	po luo fu tu	1
-婆罗门呪	po luo men zhou	1
 婆罗门咒	po luo men zhou	1
 婆律	po lv	1
 婆然	po ran	1
@@ -115831,7 +115821,6 @@
 谴悟	qian wu	1
 谴讶	qian ya	1
 谴域	qian yu	1
-谴呪	qian zhou	1
 谴罪	qian zui	1
 缱绻司	qian quan si	1
 欠抽	qian chou	1
@@ -141037,7 +141026,6 @@
 诵诤	song zheng	1
 诵志	song zhi	1
 诵帚	song zhou	1
-诵呪	song zhou	1
 诵咒	song zhou	1
 颂祷	song dao	1
 颂德碑	song de bei	1
@@ -201006,27 +200994,13 @@
 纣绝阴	zhou jue yin	1
 纣绝阴天宫	zhou jue yin tian gong	1
 纣辛	zhou xin	1
-呪罚	zhou fa	1
-呪旛儿	zhou fan er	1
 呪禁	zhou jin	1
-呪禁师	zhou jin shi	1
-呪诀	zhou jue	1
 呪詈	zhou li	1
-呪骂	zhou ma	1
 呪念	zhou nian	1
-呪师	zhou shi	1
 呪誓	zhou shi	1
-呪术	zhou shu	1
 呪水	zhou shui	1
-呪说	zhou shuo	1
-呪文	zhou wen	1
 呪延	zhou yan	1
-呪厌	zhou yan	1
-呪语	zhou yu	1
-呪愿	zhou yuan	1
-呪枣	zhou zao	1
 呪祝	zhou zhu	1
-呪诅	zhou zu	1
 咒罚	zhou fa	1
 咒旛儿	zhou fan er	1
 咒禁师	zhou jin shi	1
@@ -206043,7 +206017,6 @@
 诅誓	zu shi	1
 诅书	zu shu	1
 诅啼	zu ti	1
-诅呪	zu zhou	1
 阻拗	zu niu	1
 阻奥	zu ao	1
 阻兵	zu bing	1
