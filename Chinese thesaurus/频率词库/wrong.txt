@@ -39,3 +39,8 @@
 清痩	qing shou	10
 瘰疠	luo li	3
 新生黛	xin sheng dai	1
+硫酸氨	liu suan an	10
+硝酸氨	xiao suan an	10
+氯化氨	lv hua an	10
+碳酸铵	tan suan an	10
+碳酸氢氨	tan suan qing an	2

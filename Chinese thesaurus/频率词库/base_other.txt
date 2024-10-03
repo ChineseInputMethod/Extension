@@ -51795,7 +51795,6 @@
 硫化银	liu hua yin	10
 硫磺泉	liu huang quan	101
 硫矿	liu kuang	10
-硫酸氨	liu suan an	10
 硫酸汞	liu suan gong	10
 硫酸锂	liu suan li	10
 硫酸锰	liu suan meng	10
@@ -53197,7 +53196,6 @@
 氯氛	lv fen	10
 氯酚	lv fen	2
 氯化	lv hua	2098
-氯化氨	lv hua an	10
 氯化钡	lv hua bei	10
 氯化碘	lv hua dian	10
 氯化汞	lv hua gong	10
@@ -78215,7 +78213,6 @@
 碳素塑料	tan su su liao	7
 碳素制品	tan su zhi pin	2
 碳酸氨	tan suan an	10
-碳酸铵	tan suan an	10
 碳酸铵水	tan suan an shui	7
 碳酸钡	tan suan bei	10
 碳酸钡矿	tan suan bei kuang	3
@@ -78230,7 +78227,6 @@
 碳酸镍	tan suan nie	2
 碳酸气	tan suan qi	2008
 碳酸氢	tan suan qing	804
-碳酸氢氨	tan suan qing an	2
 碳酸氢铵	tan suan qing an	119
 碳酸氢纳	tan suan qing na	6
 碳酸氢盐	tan suan qing yan	2
@@ -89082,7 +89078,6 @@
 萧逸	xiao yi	1
 萧远山	xiao yuan shan	2
 硝镪水	xiao qiang shui	109
-硝酸氨	xiao suan an	10
 硝酸钡	xiao suan bei	10
 硝酸锂	xiao suan li	10
 硝酸铯	xiao suan se	10
