@@ -44,3 +44,5 @@
 氯化氨	lv hua an	10
 碳酸铵	tan suan an	10
 碳酸氢氨	tan suan qing an	2
+蕓薹	yun tai	100
+蕓豆	yun dou	100

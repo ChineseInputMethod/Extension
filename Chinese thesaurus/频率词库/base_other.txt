@@ -101856,8 +101856,6 @@
 耘耥	yun tang	100
 耘田	yun tian	3
 涢水	yun shui	10
-蕓豆	yun dou	100
-蕓薹	yun tai	100
 允可	yun ke	10
 允许的	yun xu de	857
 允许进入	yun xu jin ru	10
