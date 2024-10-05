@@ -46,3 +46,7 @@
 碳酸氢氨	tan suan qing an	2
 蕓薹	yun tai	100
 蕓豆	yun dou	100
+弹葯	dan yao	10
+禁葯	jin yao	10
+朱紘	zhu hong	2000
+縕袍	yun pao	10

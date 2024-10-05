@@ -609,3 +609,133 @@
 呪罚	zhou fa	1
 梵呪	fan zhou	1
 洗潄	xi shu	1
+精藴	jing yun	1
+柳緑	liu lv	1
+緑化	lv hua	1
+碧緑	bi lv	1
+缉緖	ji xu	1
+緑林	lu lin	1
+緑洲	lv zhou	1
+緑野	lv ye	1
+緑林豪客	lu lin hao ke	1
+緑地	lv di	1
+翠緑	cui lv	1
+緑豆	lv dou	1
+緑灯	lv deng	1
+緑油油	lv you you	1
+吐緑	tu lv	1
+嫩緑	nen lv	1
+緑茶	lv cha	1
+草緑	cao lv	1
+义藴	yi yun	1
+墨緑	mo lv	1
+红緑灯	hong lv deng	1
+緑肥	lv fei	1
+緑线	lv xian	1
+底藴	di yun	1
+緑茵	lv yin	1
+苹果緑	ping guo lv	1
+青緑	qing lv	1
+緑帽子	lv mao zi	1
+葱緑	cong lv	1
+緑意	lv yi	1
+縴夫	qian fu	1
+开緑灯	kai lv deng	1
+意藴	yi yun	1
+无緖	wu xu	1
+緑莹莹	lv ying ying	1
+闹情緖	nao qing xu	1
+水緑	shui lv	1
+緑藻	lv zao	1
+豆緑	dou lv	1
+緑篱	lv li	1
+含藴	han yun	1
+油緑	you lv	1
+黛緑	dai lv	1
+緑内障	lv nei zhang	1
+鲜緑	xian lv	1
+花花緑緑	hua hua lv lv	1
+緑水	lv shui	1
+鸭緑江	ya lu jiang	1
+新緑	xin lv	1
+萼緑	e lv	1
+縴手	qian shou	1
+铜緑	tong lv	1
+緑茸茸	lv rong rong	1
+悰緖	cong xu	1
+緑衣使者	lv yi shi zhe	1
+緑头鸭	lv tou ya	1
+包藴	bao yun	1
+品緑	pin lv	1
+緑矾	lv fan	1
+緑寳石	lv bao shi	1
+緑林好汉	lu lin hao han	1
+祖母緑	zu mu lv	1
+意緖	yi xu	1
+緑茵茵	lv yin yin	1
+緑头巾	lv tou jin	1
+緑芽	lv ya	1
+緑生生	lv sheng sheng	1
+大红大緑	da hong da lv	1
+緑萍	lv ping	1
+緑浪	lv lang	1
+除红捉緑	chu hong zhuo lv	1
+挂緑	gua lv	1
+鹦哥緑	ying ge lv	1
+官緑	guan lv	1
+五藴	wu yun	1
+緑肥作物	lv fei zuo wu	1
+采緑	cai lv	1
+緑衣	lv yi	1
+萼緑华	e lv hua	1
+缝絍	feng ren	1
+涨緑	zhang lv	1
+黑緑	hei lv	1
+緑汀	lv ting	1
+緑油	lv you	1
+余緖	yu xu	1
+石华娥緑	shi hua e lv	1
+开緖	kai xu	1
+惨緑	can lv	1
+忧緖	you xu	1
+緑林强盗	lu lin qiang dao	1
+娥緑	e lv	1
+粉緑	fen lv	1
+萼緑君	e lv jun	1
+风緖	feng xu	1
+森緑	sen lv	1
+沁緑	qin lv	1
+青緑山水	qing lv shan shui	1
+石緑	shi lv	1
+縴道	qian dao	1
+桂緑	gui lv	1
+緑林豪杰	lu lin hao jie	1
+织絍	zhi ren	1
+炎緖	yan xu	1
+呼红喝緑	hu hong he lv	1
+緑荫	lv yin	1
+抱腰緑	bao yao lv	1
+睿緖	rui xu	1
+緑林大盗	lu lin da dao	1
+稚緑	zhi lv	1
+空緑	kong lv	1
+品红评緑	pin hong ping lv	1
+緑林豪士	lu lin hao shi	1
+緑阴	lv yin	1
+繁緑	fan lv	1
+红嘴緑鹦哥	hong zui lv ying ge	1
+红緑帖	hong lv tie	1
+柔緑	rou lv	1
+青门緑玉房	qing men lv yu fang	1
+花緑头	hua lv tou	1
+蛾緑	e lv	1
+平緑	ping lv	1
+愁红怨緑	chou hong yuan lv	1
+赤緑	chi lv	1
+杯中緑	bei zhong lv	1
+酃緑	ling lv	1
+敝綈恶粟	bi ti e su	1
+暗緑稀红	an lv xi hong	1
+朱緑	zhu lv	1
+静緑	jing lv	1
+柏枝緑	bai zhi lv	1

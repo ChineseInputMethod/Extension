@@ -1361,7 +1361,6 @@
 暗绿背鸬鹚	an lv bei lu ci	1
 暗绿柳莺	an lv liu ying	1
 暗绿绣眼鸟	an lv xiu yan niao	1
-暗緑稀红	an lv xi hong	1
 暗门襟	an men jin	1
 暗蒙	an meng	1
 暗蒙蒙	an meng meng	1
@@ -3696,7 +3695,6 @@
 柏招	bai zhao	1
 柏昭	bai zhao	1
 柏枝绿	bai zhi lv	1
-柏枝緑	bai zhi lv	1
 柏脂	bai zhi	1
 柏舟节	bai zhou jie	1
 柏装	bai zhuang	1
@@ -4868,7 +4866,6 @@
 包邮	bao you	1
 包元	bao yuan	1
 包韫	bao yun	1
-包藴	bao yun	1
 包长	bao chang	1
 包竹	bao zhu	1
 包准儿	bao zhun er	1
@@ -5514,7 +5511,6 @@
 抱蓄	bao xu	1
 抱学	bao xue	1
 抱腰绿	bao yao lv	1
-抱腰緑	bao yao lv	1
 抱膺	bao ying	1
 抱拥	bao yong	1
 抱玉	bao yu	1
@@ -5841,7 +5837,6 @@
 杯中渌	bei zhong lu	1
 杯中醁	bei zhong lu	1
 杯中绿	bei zhong lv	1
-杯中緑	bei zhong lv	1
 杯筯	bei zhu	1
 卑隘	bei ai	1
 卑庳	bei bi	1
@@ -7756,7 +7751,6 @@
 敝舌	bi she	1
 敝室	bi shi	1
 敝素	bi su	1
-敝綈恶粟	bi ti e su	1
 敝帏	bi wei	1
 敝帷	bi wei	1
 敝习	bi xi	1
@@ -7922,7 +7916,6 @@
 碧落碑	bi luo bei	1
 碧落界	bi luo jie	1
 碧落侍郎	bi luo shi lang	1
-碧緑	bi lv	1
 碧麦	bi mai	1
 碧旻	bi min	1
 碧幕	bi mu	1
@@ -12762,7 +12755,6 @@
 采旒	cai liu	1
 采録	cai lu	1
 采捋	cai lv	1
-采緑	cai lv	1
 采掠	cai lve	1
 采旄	cai mao	1
 采芼	cai mao	1
@@ -13433,7 +13425,6 @@
 惨廪	can lin	1
 惨懔	can lin	1
 惨戮	can lu	1
-惨緑	can lv	1
 惨緑愁红	can lu chou hong	1
 惨緑年华	can lu nian hua	1
 惨緑少年	can lu shao nian	1
@@ -13762,7 +13753,6 @@
 草骡	cao luo	1
 草律	cao lv	1
 草绿篱莺	cao lv li ying	1
-草緑	cao lv	1
 草麻	cao ma	1
 草茆	cao mao	1
 草莓族	cao mei zu	1
@@ -18964,7 +18954,6 @@
 赤躶	chi luo	1
 赤律律	chi lv lv	1
 赤绿	chi lv	1
-赤緑	chi lv	1
 赤麻	chi ma	1
 赤麻鸭	chi ma ya	1
 赤马劫	chi ma jie	1
@@ -20016,7 +20005,6 @@
 愁辜	chou gu	1
 愁红	chou hong	1
 愁红惨緑	chou hong can lu	1
-愁红怨緑	chou hong yuan lv	1
 愁胡	chou hu	1
 愁环	chou huan	1
 愁惛	chou hun	1
@@ -20616,7 +20604,6 @@
 除宫	chu gong	1
 除关	chu guan	1
 除红	chu hong	1
-除红捉緑	chu hong zhuo lv	1
 除毁	chu hui	1
 除豁	chu huo	1
 除疾	chu ji	1
@@ -23220,7 +23207,6 @@
 葱昽	cong long	1
 葱聋	cong long	1
 葱嶐	cong long	1
-葱緑	cong lv	1
 葱蒙	cong meng	1
 葱曚	cong meng	1
 葱芊	cong qian	1
@@ -23479,7 +23465,6 @@
 淙灂	cong zhuo	1
 悰灵	cong ling	1
 悰绪	cong xu	1
-悰緖	cong xu	1
 琮璧	cong bi	1
 琮琮	cong cong	1
 琮玺	cong xi	1
@@ -24209,7 +24194,6 @@
 翠罗	cui luo	1
 翠螺	cui luo	1
 翠履	cui lv	1
-翠緑	cui lv	1
 翠幔	cui man	1
 翠旄	cui mao	1
 翠茂	cui mao	1
@@ -25414,7 +25398,6 @@
 大桁	da heng	1
 大哄大嗡	da hong da weng	1
 大红鼻子	da hong bi zi	1
-大红大緑	da hong da lv	1
 大红鹳	da hong guan	1
 大红全帖	da hong quan tie	1
 大洪山	da hong shan	1
@@ -26152,7 +26135,6 @@
 黛尖	dai jian	1
 黛娇	dai jiao	1
 黛耒	dai lei	1
-黛緑	dai lv	1
 黛面	dai mian	1
 黛墨	dai mo	1
 黛泼	dai po	1
@@ -29258,7 +29240,6 @@
 底须	di xu	1
 底也伽	di ye jia	1
 底豫	di yu	1
-底藴	di yun	1
 底掌	di zhang	1
 底帐	di zhang	1
 底着	di zhe	1
@@ -32718,7 +32699,6 @@
 豆酒	dou jiu	1
 豆寇年华	dou kou nian hua	1
 豆卢	dou lu	1
-豆緑	dou lv	1
 豆马	dou ma	1
 豆满江	dou man jiang	1
 豆糜	dou mi	1
@@ -34851,7 +34831,6 @@
 峨嶪	e ye	1
 娥姜水	e jiang shui	1
 娥陵氏	e ling shi	1
-娥緑	e lv	1
 娥媌	e miao	1
 娥婺	e wu	1
 娥娙	e xing	1
@@ -34944,7 +34923,6 @@
 蛾黄	e huang	1
 蛾类	e lei	1
 蛾罗	e luo	1
-蛾緑	e lv	1
 蛾眉	e mei	1
 蛾眉皓齿	e mei hao chi	1
 蛾眉曼睩	e mei man lu	1
@@ -35250,9 +35228,6 @@
 谔然	e ran	1
 萼绿	e lv	1
 萼绿华	e lv hua	1
-萼緑	e lv	1
-萼緑华	e lv hua	1
-萼緑君	e lv jun	1
 遏閟	e bi	1
 遏勃	e bo	1
 遏籴	e di	1
@@ -36967,7 +36942,6 @@
 繁路	fan lu	1
 繁虑	fan lv	1
 繁绿	fan lv	1
-繁緑	fan lv	1
 繁略	fan lve	1
 繁漫	fan man	1
 繁靡	fan mi	1
@@ -39645,7 +39619,6 @@
 粉泪	fen lei	1
 粉荔	fen li	1
 粉荔枝	fen li zhi	1
-粉緑	fen lv	1
 粉绵	fen mian	1
 粉砂石	fen sha shi	1
 粉态	fen tai	1
@@ -40347,7 +40320,6 @@
 风虚	feng xu	1
 风序	feng xu	1
 风绪	feng xu	1
-风緖	feng xu	1
 风轩	feng xuan	1
 风宣	feng xuan	1
 风旋	feng xuan	1
@@ -41294,7 +41266,6 @@
 缝人	feng ren	1
 缝纴	feng ren	1
 缝衽	feng ren	1
-缝絍	feng ren	1
 缝罅	feng xia	1
 缝掖	feng ye	1
 缝腋	feng ye	1
@@ -49743,7 +49714,6 @@
 挂鳞	gua lin	1
 挂龙	gua long	1
 挂履	gua lv	1
-挂緑	gua lv	1
 挂马	gua ma	1
 挂冕	gua mian	1
 挂衲	gua na	1
@@ -50221,7 +50191,6 @@
 官漏	guan lou	1
 官炉钱	guan lu qian	1
 官侣	guan lv	1
-官緑	guan lv	1
 官满	guan man	1
 官茂	guan mao	1
 官梅	guan mei	1
@@ -52162,7 +52131,6 @@
 桂陵	gui ling	1
 桂露	gui lu	1
 桂绿	gui lv	1
-桂緑	gui lv	1
 桂木属	gui mu shu	1
 桂偶	gui ou	1
 桂圃	gui pu	1
@@ -53681,7 +53649,6 @@
 含元	han yuan	1
 含元殿	han yuan dian	1
 含韫	han yun	1
-含藴	han yun	1
 含章殿	han zhang dian	1
 含粻	han zhang	1
 含贞	han zhen	1
@@ -56526,7 +56493,6 @@
 黑碌碌	hei lu lu	1
 黑绿	hei lv	1
 黑氯土	hei lv tu	1
-黑緑	hei lv	1
 黑麻	hei ma	1
 黑霾	hei mai	1
 黑鳗	hei man	1
@@ -57300,8 +57266,6 @@
 红螺盏	hong luo zhan	1
 红蠃	hong luo	1
 红绿帖	hong lv tie	1
-红緑灯	hong lv deng	1
-红緑帖	hong lv tie	1
 红毛刀	hong mao dao	1
 红眉松雀	hong mei song que	1
 红眉朱雀	hong mei zhu que	1
@@ -57428,7 +57392,6 @@
 红嘴蓝鹊	hong zui lan que	1
 红嘴椋鸟	hong zui liang niao	1
 红嘴绿鹦哥	hong zui lv ying ge	1
-红嘴緑鹦哥	hong zui lv ying ge	1
 红嘴鹲	hong zui meng	1
 红嘴鸥	hong zui ou	1
 红嘴山鸦	hong zui shan ya	1
@@ -58303,7 +58266,6 @@
 呼嚎	hu hao	1
 呼和	hu he	1
 呼红喝绿	hu hong he lv	1
-呼红喝緑	hu hong he lv	1
 呼呼哱	hu hu bo	1
 呼偈	hu ji	1
 呼揭	hu jie	1
@@ -59148,7 +59110,6 @@
 花胡同	hua hu tong	1
 花花公主	hua hua gong zhu	1
 花花碌碌	hua hua lu lu	1
-花花緑緑	hua hua lv lv	1
 花花面	hua hua mian	1
 花蘤	hua hua	1
 花话	hua hua	1
@@ -59184,7 +59145,6 @@
 花柳症	hua liu zheng	1
 花罗	hua luo	1
 花绿头	hua lv tou	1
-花緑头	hua lv tou	1
 花麻调嘴	hua ma tiao zui	1
 花马掉嘴	hua ma diao zui	1
 花霾脖子	hua mai bo zi	1
@@ -64877,7 +64837,6 @@
 缉艇	ji ting	1
 缉谐	ji xie	1
 缉绪	ji xu	1
-缉緖	ji xu	1
 缉学	ji xue	1
 缉御	ji yu	1
 缉治	ji zhi	1
@@ -76183,7 +76142,6 @@
 精荧	jing ying	1
 精莹	jing ying	1
 精约	jing yue	1
-精藴	jing yun	1
 精凿	jing zao	1
 精择	jing ze	1
 精贼	jing zei	1
@@ -76864,7 +76822,6 @@
 静落	jing luo	1
 静侣	jing lv	1
 静绿	jing lv	1
-静緑	jing lv	1
 静脉点滴	jing mai dian di	1
 静脉吸毒	jing mai xi du	1
 静秘	jing mi	1
@@ -81060,7 +81017,6 @@
 开罗大学	kai luo da xue	1
 开律	kai lv	1
 开率	kai lv	1
-开緑灯	kai lv deng	1
 开略	kai lve	1
 开迈	kai mai	1
 开貌	kai mao	1
@@ -81131,7 +81087,6 @@
 开兴	kai xing	1
 开许	kai xu	1
 开绪	kai xu	1
-开緖	kai xu	1
 开延	kai yan	1
 开秧元	kai yang yuan	1
 开颐	kai yi	1
@@ -82925,7 +82880,6 @@
 空侣	kong lv	1
 空履	kong lv	1
 空绿	kong lv	1
-空緑	kong lv	1
 空门面	kong men mian	1
 空门士	kong men shi	1
 空门友	kong men you	1
@@ -92752,7 +92706,6 @@
 酃酒	ling jiu	1
 酃醁	ling lu	1
 酃绿	ling lv	1
-酃緑	ling lv	1
 醽酒	ling jiu	1
 醽渌	ling lu	1
 麢羊	ling yang	1
@@ -93428,7 +93381,6 @@
 柳笼栲栳	liu long kao lao	1
 柳隆卿	liu long qing	1
 柳楼	liu lou	1
-柳緑	liu lv	1
 柳緑花红	liu lu hua hong	1
 柳緑桃红	liu lu tao hong	1
 柳麻子	liu ma zi	1
@@ -97103,7 +97055,6 @@
 緑暗红稀	lu an hong xi	1
 緑拗儿	lv niu er	1
 緑白	lv bai	1
-緑寳石	lv bao shi	1
 緑碧	lv bi	1
 緑鬓	lv bin	1
 緑鬓红颜	lu bin hong yan	1
@@ -97111,7 +97062,6 @@
 緑波	lv bo	1
 緑惨红愁	lu can hong chou	1
 緑惨红销	lu can hong xiao	1
-緑茶	lv cha	1
 緑昌明	lv chang ming	1
 緑朝云	lv zhao yun	1
 緑车	lv che	1
@@ -97126,11 +97076,8 @@
 緑丛	lv cong	1
 緑翠	lv cui	1
 緑黛	lv dai	1
-緑地	lv di	1
-緑灯	lv deng	1
 緑蒂	lv di	1
 緑蔕	lv di	1
-緑豆	lv dou	1
 緑豆皮儿	lv dou pi er	1
 緑豆青	lv dou qing	1
 緑豆芽	lv dou ya	1
@@ -97142,11 +97089,8 @@
 緑耳梯	lv er ti	1
 緑駬	lv er	1
 緑发	lv fa	1
-緑矾	lv fan	1
 緑房	lv fang	1
-緑肥	lv fei	1
 緑肥红瘦	lu fei hong shou	1
-緑肥作物	lv fei zuo wu	1
 緑粉	lv fen	1
 緑盖	lv gai	1
 緑甘	lv gan	1
@@ -97156,7 +97100,6 @@
 緑核	lv he	1
 緑花緑叶	lv hua lv ye	1
 緑华	lv hua	1
-緑化	lv hua	1
 緑化物	lv hua wu	1
 緑鬟	lv huan	1
 緑蕙	lv hui	1
@@ -97171,20 +97114,11 @@
 緑柯	lv ke	1
 緑葵	lv kui	1
 緑蜡	lv la	1
-緑浪	lv lang	1
 緑醪	lv lao	1
 緑老	lv lao	1
-緑篱	lv li	1
 緑李	lv li	1
 緑荔枝	lv li zhi	1
 緑綟绶	lv li shou	1
-緑林	lu lin	1
-緑林大盗	lu lin da dao	1
-緑林豪杰	lu lin hao jie	1
-緑林豪客	lu lin hao ke	1
-緑林豪士	lu lin hao shi	1
-緑林好汉	lu lin hao han	1
-緑林强盗	lu lin qiang dao	1
 緑林山	lu lin shan	1
 緑酃	lv ling	1
 緑醽	lv ling	1
@@ -97197,12 +97131,10 @@
 緑毛仙	lv mao xian	1
 緑毛幺凤	lv mao yao feng	1
 緑帽儿	lv mao er	1
-緑帽子	lv mao zi	1
 緑蒙蒙	lv meng meng	1
 緑茗	lv ming	1
 緑柰	lv nai	1
 緑呢大轿	lv ne da jiao	1
-緑内障	lv nei zhang	1
 緑女红男	lu nv hong nan	1
 緑袍	lv pao	1
 緑袍槐简	lv pao huai jian	1
@@ -97210,7 +97142,6 @@
 緑片	lv pian	1
 緑缥	lv piao	1
 緑苹	lv ping	1
-緑萍	lv ping	1
 緑葡萄	lv pu tao	1
 緑蒲节	lv pu jie	1
 緑浦	lv pu	1
@@ -97225,7 +97156,6 @@
 緑卿	lv qing	1
 緑秋	lv qiu	1
 緑茸	lv rong	1
-緑茸茸	lv rong rong	1
 緑乳	lv ru	1
 緑缛	lv ru	1
 緑莎	lv sha	1
@@ -97234,25 +97164,20 @@
 緑舌	lv she	1
 緑蛇	lv she	1
 緑沈	lv shen	1
-緑生生	lv sheng sheng	1
 緑施	lv shi	1
 緑石	lv shi	1
 緑石砚	lv shi yan	1
 緑绶	lv shou	1
-緑水	lv shui	1
 緑水青山	lu shui qing shan	1
 緑丝	lv si	1
 緑檀枪	lv tan qiang	1
 緑縢	lv teng	1
 緑绨	lv ti	1
 緑天	lv tian	1
-緑汀	lv ting	1
 緑桐	lv tong	1
 緑头	lv tou	1
-緑头巾	lv tou jin	1
 緑头牌	lv tou pai	1
 緑头签	lv tou qian	1
-緑头鸭	lv tou ya	1
 緑图	lv tu	1
 緑箨	lv tuo	1
 緑汪汪	lv wang wang	1
@@ -97261,42 +97186,29 @@
 緑芜	lv wu	1
 緑雾	lv wu	1
 緑弦	lv xian	1
-緑线	lv xian	1
 緑筱	lv xiao	1
 緑熊席	lv xiong xi	1
 緑须姜	lv xu jiang	1
 緑醑	lv xu	1
 緑鸭	lv ya	1
-緑芽	lv ya	1
 緑盐	lv yan	1
 緑幺	lv yao	1
 緑腰	lv yao	1
 緑虵	lv she	1
-緑野	lv ye	1
 緑野堂	lv ye tang	1
 緑叶成阴	lu ye cheng yin	1
 緑叶緑花草	lv ye lv hua cao	1
-緑衣	lv yi	1
 緑衣郎	lv yi lang	1
 緑衣人	lv yi ren	1
-緑衣使者	lv yi shi zhe	1
 緑衣元寳	lv yi yuan bao	1
 緑依依	lv yi yi	1
 緑蚁	lv yi	1
-緑意	lv yi	1
 緑鹢	lv yi	1
-緑阴	lv yin	1
 緑阴阴	lv yin yin	1
-緑茵	lv yin	1
-緑茵茵	lv yin yin	1
-緑荫	lv yin	1
 緑荫荫	lv yin yin	1
 緑英	lv ying	1
 緑英梅	lv ying mei	1
-緑莹莹	lv ying ying	1
 緑营	lu ying	1
-緑油	lv you	1
-緑油油	lv you you	1
 緑玉	lv yu	1
 緑玉君	lv yu jun	1
 緑玉树	lv yu shu	1
@@ -97306,13 +97218,11 @@
 緑云鬟	lv yun huan	1
 緑云衣	lv yun yi	1
 緑筠	lv yun	1
-緑藻	lv zao	1
 緑帻	lv ze	1
 緑章	lv zhang	1
 緑针	lv zhen	1
 緑蓁蓁	lv zhen zhen	1
 緑峥峥	lv zheng zheng	1
-緑洲	lv zhou	1
 緑酎	lv zhou	1
 緑珠	lv zhu	1
 緑珠江	lv zhu jiang	1
@@ -103652,7 +103562,6 @@
 墨累达令流域	mo lei da ling liu yu	1
 墨林	mo lin	1
 墨路	mo lu	1
-墨緑	mo lv	1
 墨麻	mo ma	1
 墨梅图	mo mei tu	1
 墨蒙	mo meng	1
@@ -105327,7 +105236,6 @@
 闹跑肚	nao pao du	1
 闹枪	nao qiang	1
 闹腔	nao qiang	1
-闹情緖	nao qing xu	1
 闹穰穰	nao rang rang	1
 闹攘攘	nao rang rang	1
 闹茸茸	nao rong rong	1
@@ -105693,7 +105601,6 @@
 恁约	nen yue	1
 嫩妇女子	nen fu nv zi	1
 嫩江地区	nen jiang di qu	1
-嫩緑	nen lv	1
 嫩苗龟	nen miao gui	1
 嫩醅	nen pei	1
 嫩气	nen qi	1
@@ -110895,7 +110802,6 @@
 品核	pin he	1
 品衡	pin heng	1
 品红评绿	pin hong ping lv	1
-品红评緑	pin hong ping lv	1
 品级山	pin ji shan	1
 品极	pin ji	1
 品件	pin jian	1
@@ -110908,7 +110814,6 @@
 品料	pin liao	1
 品令	pin ling	1
 品録	pin lu	1
-品緑	pin lv	1
 品命	pin ming	1
 品排	pin pai	1
 品品	pin pin	1
@@ -111092,7 +110997,6 @@
 平虑	ping lv	1
 平虑草	ping lv cao	1
 平绿	ping lv	1
-平緑	ping lv	1
 平码馆	ping ma guan	1
 平满	ping man	1
 平漫	ping man	1
@@ -111245,7 +111149,6 @@
 苹蘩	ping fan	1
 苹果核	ping guo he	1
 苹果篮子静物画	ping guo lan zi jing wu hua	1
-苹果緑	ping guo lv	1
 苹末	ping mo	1
 苹苹	ping ping	1
 苹葲	ping quan	1
@@ -115896,9 +115799,6 @@
 輤裧	qian chan	1
 輤车	qian che	1
 輤舆	qian yu	1
-縴道	qian dao	1
-縴夫	qian fu	1
-縴手	qian shou	1
 呛白	qiang bai	1
 呛哼	qiang heng	1
 呛劲	qiang jin	1
@@ -117645,7 +117545,6 @@
 螼蚓	qin yin	1
 螼螾	qin yin	1
 沁漉	qin lu	1
-沁緑	qin lv	1
 沁脾	qin pi	1
 沁沁涀涀	qin qin xian xian	1
 沁透	qin tou	1
@@ -117962,8 +117861,6 @@
 青洛	qing luo	1
 青络	qing luo	1
 青律	qing lv	1
-青緑	qing lv	1
-青緑山水	qing lv shan shui	1
 青霾	qing mai	1
 青脉	qing mai	1
 青芒	qing mang	1
@@ -117982,7 +117879,6 @@
 青门解袂	qing men jie mei	1
 青门柳	qing men liu	1
 青门绿玉房	qing men lv yu fang	1
-青门緑玉房	qing men lv yu fang	1
 青门桥	qing men qiao	1
 青门隐	qing men yin	1
 青面圣者	qing mian sheng zhe	1
@@ -124495,7 +124391,6 @@
 柔橹	rou lu	1
 柔露	rou lu	1
 柔绿	rou lv	1
-柔緑	rou lv	1
 柔蔓	rou man	1
 柔茂	rou mao	1
 柔靡	rou mi	1
@@ -125321,7 +125216,6 @@
 睿孝	rui xiao	1
 睿性	rui xing	1
 睿绪	rui xu	1
-睿緖	rui xu	1
 睿学	rui xue	1
 睿训	rui xun	1
 睿艳	rui yan	1
@@ -127178,7 +127072,6 @@
 森凛	sen lin	1
 森罗	sen luo	1
 森罗宝殿	sen luo bao dian	1
-森緑	sen lv	1
 森芒	sen mang	1
 森美兰	sen mei lan	1
 森密	sen mi	1
@@ -133337,7 +133230,6 @@
 石瓠	shi hu	1
 石华	shi hua	1
 石华娥绿	shi hua e lv	1
-石华娥緑	shi hua e lv	1
 石黄	shi huang	1
 石隍	shi huang	1
 石挥	shi hui	1
@@ -133407,7 +133299,6 @@
 石萝	shi luo	1
 石骆驼	shi luo tuo	1
 石履	shi lv	1
-石緑	shi lv	1
 石芒	shi mang	1
 石铓	shi mang	1
 石密	shi mi	1
@@ -138546,7 +138437,6 @@
 水陆堂	shui lu tang	1
 水陆斋	shui lu zhai	1
 水落归漕	shui luo gui cao	1
-水緑	shui lv	1
 水码头	shui ma tou	1
 水满金山	shui man jin shan	1
 水漫地	shui man di	1
@@ -148089,7 +147979,6 @@
 铜锣乡	tong luo xiang	1
 铜律	tong lv	1
 铜绿层	tong lv ceng	1
-铜緑	tong lv	1
 铜马	tong ma	1
 铜马祠	tong ma ci	1
 铜马帝	tong ma di	1
@@ -149190,7 +149079,6 @@
 吐喽	tu lou	1
 吐噜	tu lu	1
 吐论	tu lun	1
-吐緑	tu lv	1
 吐骂	tu ma	1
 吐懑	tu men	1
 吐葩	tu pa	1
@@ -155722,7 +155610,6 @@
 无星秤	wu xing cheng	1
 无刑	wu xing	1
 无形进出口	wu xing jin chu kou	1
-无緖	wu xu	1
 无谖	wu xuan	1
 无萱	wu xuan	1
 无眩	wu xuan	1
@@ -156592,7 +156479,6 @@
 五云乡	wu yun xiang	1
 五云字	wu yun zi	1
 五运六气	wu yun liu qi	1
-五藴	wu yun	1
 五杂俎	wu za zu	1
 五臧	wu zang	1
 五凿	wu zao	1
@@ -160165,7 +160051,6 @@
 鲜伶伶	xian ling ling	1
 鲜凌凌	xian ling ling	1
 鲜令	xian ling	1
-鲜緑	xian lv	1
 鲜毛	xian mao	1
 鲜茂	xian mao	1
 鲜媚	xian mei	1
@@ -165579,7 +165464,6 @@
 新哢	xin long	1
 新罗王朝	xin luo wang chao	1
 新旅	xin lv	1
-新緑	xin lv	1
 新麦	xin mai	1
 新美	xin mei	1
 新民报	xin min bao	1
@@ -171303,7 +171187,6 @@
 鸭渌水	ya lu shui	1
 鸭卵	ya luan	1
 鸭緑	ya lu	1
-鸭緑江	ya lu jiang	1
 鸭緑水	ya lu shui	1
 鸭母	ya mu	1
 鸭母船	ya mu chuan	1
@@ -172821,7 +172704,6 @@
 炎性	yan xing	1
 炎序	yan xu	1
 炎绪	yan xu	1
-炎緖	yan xu	1
 炎轩	yan xuan	1
 炎曛	yan xun	1
 炎崖	yan ya	1
@@ -179259,7 +179141,6 @@
 义译	yi yi	1
 义渊	yi yuan	1
 义园	yi yuan	1
-义藴	yi yun	1
 义赃	yi zang	1
 义赈	yi zhen	1
 义征	yi zheng	1
@@ -180300,14 +180181,12 @@
 意小	yi xiao	1
 意行	yi xing	1
 意性	yi xing	1
-意緖	yi xu	1
 意悬悬	yi xuan xuan	1
 意言	yi yan	1
 意疑	yi yi	1
 意义变化	yi yi bian hua	1
 意亦	yi yi	1
 意谊	yi yi	1
-意藴	yi yun	1
 意造	yi zao	1
 意折	yi she	1
 意挣	yi zheng	1
@@ -182384,7 +182263,6 @@
 樱桃小番茄	ying tao xiao fan qie	1
 鹦哥花	ying ge hua	1
 鹦哥娇	ying ge jiao	1
-鹦哥緑	ying ge lv	1
 鹦哥舌	ying ge she	1
 鹦哥嘴	ying ge zui	1
 鹦歌	ying ge	1
@@ -183869,7 +183747,6 @@
 忧危	you wei	1
 忧务	you wu	1
 忧险	you xian	1
-忧緖	you xu	1
 忧谑	you xue	1
 忧颜	you yan	1
 忧纡	you yu	1
@@ -184379,7 +184256,6 @@
 油蛉	you ling	1
 油卤卤	you lu lu	1
 油络车	you luo che	1
-油緑	you lv	1
 油麻团	you ma tuan	1
 油帽	you mao	1
 油幕	you mu	1
@@ -185169,7 +185045,6 @@
 余胥	yu xu	1
 余糈	yu xu	1
 余煦	yu xu	1
-余緖	yu xu	1
 余绚	yu xuan	1
 余熏	yu xun	1
 余薰	yu xun	1
@@ -193879,7 +193754,6 @@
 涨进	zhang jin	1
 涨溃	zhang kui	1
 涨潦	zhang liao	1
-涨緑	zhang lv	1
 涨溢	zhang yi	1
 涨姿势	zhang zi shi	1
 掌鞭的	zhang bian de	1
@@ -197494,7 +197368,6 @@
 织皮	zhi pi	1
 织蒲	zhi pu	1
 织纴	zhi ren	1
-织絍	zhi ren	1
 织室	zhi shi	1
 织素	zhi su	1
 织文	zhi wen	1
@@ -199215,7 +199088,6 @@
 稚酒	zhi jiu	1
 稚老	zhi lao	1
 稚绿	zhi lv	1
-稚緑	zhi lv	1
 稚昧	zhi mei	1
 稚梦	zhi meng	1
 稚免	zhi wen	1
@@ -201243,7 +201115,6 @@
 朱履客	zhu lv ke	1
 朱律	zhu lv	1
 朱绿	zhu lv	1
-朱緑	zhu lv	1
 朱马	zhu ma	1
 朱鬕	zhu ma	1
 朱幔	zhu man	1
@@ -206150,7 +206021,6 @@
 祖祢	zu mi	1
 祖祢庙	zu mi miao	1
 祖明	zu ming	1
-祖母緑	zu mu lv	1
 祖衲	zu na	1
 祖鸟	zu niao	1
 祖鸟类	zu niao lei	1

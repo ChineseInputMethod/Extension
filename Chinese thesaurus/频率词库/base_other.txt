@@ -14097,7 +14097,6 @@
 弹下	tan xia	10
 弹性的	tan xing de	252
 弹药筒	dan yao tong	10
-弹葯	dan yao	10
 弹着	tan zhe	10
 弹着点	dan zhuo dian	2014
 弹筝	tan zheng	10
@@ -42554,7 +42553,6 @@
 禁杀牛	jin sha niu	6
 禁卫队	jin wei dui	2
 禁向	jin xiang	10
-禁葯	jin yao	10
 禁用代码	jin yong dai ma	2
 禁用码	jin yong ma	6
 禁用品	jin yong pin	6
@@ -102090,7 +102088,6 @@
 蕴藏着	yun cang zhe	449
 熨衣工	yun yi gong	10
 熨整	yun zheng	10
-縕袍	yun pao	10
 匝数	za shu	10
 咂咂嘴	za za zui	2
 杂草丛生	za cao cong sheng	472
@@ -109377,7 +109374,6 @@
 骤燃	zhou ran	2
 骤雪	zhou xue	6
 朱红色	zhu hong se	100
-朱紘	zhu hong	2000
 朱立元	zhu li yuan	10
 朱鎔基	zhu rong ji	10
 朱色	zhu se	10
