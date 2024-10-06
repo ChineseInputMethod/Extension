@@ -21421,7 +21421,6 @@
 船丁	chuan ding	1
 船舫	chuan fang	1
 船宫	chuan gong	1
-船檝	chuan ji	1
 船人	chuan ren	1
 船山	chuan shan	1
 船师	chuan shi	1
@@ -33608,7 +33607,6 @@
 短黄	duan huang	1
 短毁	duan hui	1
 短楫	duan ji	1
-短檝	duan ji	1
 短景	duan jing	1
 短卷	duan juan	1
 短裤党	duan ku dang	1
@@ -36377,7 +36375,6 @@
 帆幅	fan fu	1
 帆腹	fan fu	1
 帆楫	fan ji	1
-帆檝	fan ji	1
 帆脚	fan jiao	1
 帆力	fan li	1
 帆伞	fan san	1
@@ -49031,7 +49028,6 @@
 鼓翰	gu han	1
 鼓惑	gu huo	1
 鼓楫	gu ji	1
-鼓檝	gu ji	1
 鼓笳	gu jia	1
 鼓筴	gu jia	1
 鼓甲	gu jia	1
@@ -51016,7 +51012,6 @@
 归艎	gui huang	1
 归槥	gui hui	1
 归楫	gui ji	1
-归檝	gui ji	1
 归忌	gui ji	1
 归祭	gui ji	1
 归寂	gui ji	1
@@ -52120,7 +52115,6 @@
 桂花糖	gui hua tang	1
 桂花醑	gui hua xu	1
 桂楫	gui ji	1
-桂檝	gui ji	1
 桂姜	gui jiang	1
 桂椒	gui jiao	1
 桂科	gui ke	1
@@ -52178,7 +52172,6 @@
 桂罇	gui zun	1
 桧花蜜	gui hua mi	1
 桧楫	gui ji	1
-桧檝	gui ji	1
 桧烟	gui yan	1
 桧樾	gui yue	1
 桧宅	gui zhai	1
@@ -59668,7 +59661,6 @@
 画缋	hua hui	1
 画鸡	hua ji	1
 画楫	hua ji	1
-画檝	hua ji	1
 画戟门	hua ji men	1
 画计	hua ji	1
 画迹	hua ji	1
@@ -64007,7 +63999,6 @@
 击毂	ji gu	1
 击楫	ji ji	1
 击楫誓	ji ji shi	1
-击檝	ji ji	1
 击戛	ji jia	1
 击奸	ji jian	1
 击角歌	ji jiao ge	1
@@ -88491,7 +88482,6 @@
 理怀	li huai	1
 理极	li ji	1
 理楫	li ji	1
-理檝	li ji	1
 理纪	li ji	1
 理迹	li ji	1
 理济	li ji	1
@@ -100879,7 +100869,6 @@
 弭盖	mi gai	1
 弭合	mi he	1
 弭楫	mi ji	1
-弭檝	mi ji	1
 弭口	mi kou	1
 弭毛	mi mao	1
 弭髦	mi mao	1
@@ -118359,7 +118348,6 @@
 轻羁	qing ji	1
 轻吉利	qing ji li	1
 轻楫	qing ji	1
-轻檝	qing ji	1
 轻甲	qing jia	1
 轻假	qing jia	1
 轻驾	qing jia	1
@@ -152835,7 +152823,6 @@
 维基数据	wei ji shu ju	1
 维基物种	wei ji wu zhong	1
 维楫	wei ji	1
-维檝	wei ji	1
 维结	wei jie	1
 维口食	wei kou shi	1
 维匡	wei kuang	1
@@ -163603,7 +163590,6 @@
 小姬	xiao ji	1
 小亟	xiao ji	1
 小楫	xiao ji	1
-小檝	xiao ji	1
 小祭祀	xiao ji si	1
 小家败气	xiao jia bai qi	1
 小家局	xiao jia ju	1
@@ -174310,7 +174296,6 @@
 扬火	yang huo	1
 扬疾	yang ji	1
 扬楫	yang ji	1
-扬檝	yang ji	1
 扬己	yang ji	1
 扬浇	yang jiao	1
 扬较	yang jiao	1
@@ -178891,7 +178876,6 @@
 蚁族	yi zu	1
 蚁尊	yi zun	1
 舣楫	yi ji	1
-舣檝	yi ji	1
 酏食	yi shi	1
 倚爱	yi ai	1
 倚拜	yi bai	1
@@ -186038,7 +186022,6 @@
 羽盖车	yu gai che	1
 羽觥	yu gong	1
 羽褐	yu he	1
-羽檝	yu ji	1
 羽嘉	yu jia	1
 羽节	yu jie	1
 羽巾	yu jin	1
@@ -188946,7 +188929,6 @@
 愿果	yuan guo	1
 愿海	yuan hai	1
 愿楫	yuan ji	1
-愿檝	yuan ji	1
 愿醮	yuan jiao	1
 愿洁	yuan jie	1
 愿欵	yuan kuan	1
@@ -200565,7 +200547,6 @@
 舟杭	zhou hang	1
 舟航	zhou hang	1
 舟壑	zhou he	1
-舟檝	zhou ji	1
 舟艥	zhou ji	1
 舟鲛	zhou jiao	1
 舟军	zhou jun	1
