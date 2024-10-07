@@ -758,3 +758,6 @@
 桂檝	gui ji	1
 桧檝	gui ji	1
 鼓檝	gu ji	1
+篔筜	yun dang	1
+腌臢	a za	10
+真贗	zhen yan	1

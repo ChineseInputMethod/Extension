@@ -98823,7 +98823,6 @@
 腌货	yan huo	2000
 腌肉	yan rou	3000
 腌臜	a za	102
-腌臢	a za	10
 腌汁	yan zhi	10
 腌制	yan zhi	4000
 腌渍	yan zi	4036
