@@ -63496,7 +63496,6 @@
 氢氰气	qing qing qi	6
 氢氰酸	qing qing suan	104
 氢酸	qing suan	11
-氢酸盐	qing suan yan	2
 氢武器	qing wu qi	2
 氢吸收	qing xi shou	6
 氢压	qing ya	6

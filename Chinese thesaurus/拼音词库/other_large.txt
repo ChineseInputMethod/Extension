@@ -24783,7 +24783,6 @@
 错违	cuo wei	1
 错文	cuo wen	1
 错忤	cuo wu	1
-错啎	cuo wu	1
 错牾	cuo wu	1
 错误地认为	cuo wu de ren wei	1
 错逜	cuo wu	1
@@ -29179,7 +29178,6 @@
 抵午	di wu	1
 抵忤	di wu	1
 抵捂	di wu	1
-抵啎	di wu	1
 抵戏	di xi	1
 抵瑕	di xia	1
 抵瑕蹈隙	di xia dao xi	1
@@ -118568,7 +118566,6 @@
 轻卒	qing zu	1
 轻嘴	qing zui	1
 氢氟烃	qing fu ting	1
-氢化氰	qing hua qing	1
 氢净合成油	qing jing he cheng you	1
 氢酶	qing mei	1
 氢氧根离子	qing yang gen li zi	1
@@ -186310,7 +186307,6 @@
 窳敝	yu bi	1
 窳窆	yu bian	1
 窳怠	yu dai	1
-窳墯	yu duo	1
 窳隳	yu hui	1
 窳苦	yu ku	1
 窳滥	yu lan	1

@@ -50,3 +50,4 @@
 禁葯	jin yao	10
 朱紘	zhu hong	2000
 縕袍	yun pao	10
+氢酸盐	qing suan yan	2

@@ -40535,7 +40535,6 @@
 氯胺酮	lv an tong	6
 氯化苦	lv hua ku	2
 氯化铝	lv hua lv	3
-氯化氰	lv hua qing	2
 氯磷定	lv lin ding	1
 氯酸钠	lv suan na	3
 滤饼	lv bing	4

@@ -761,3 +761,8 @@
 篔筜	yun dang	1
 腌臢	a za	10
 真贗	zhen yan	1
+抵啎	di wu	1
+窳墯	yu duo	1
+氯化氰	lv hua qing	2
+氢化氰	qing hua qing	1
+错啎	cuo wu	1
