@@ -33,7 +33,6 @@
 阿达比尔	a da bi er	1
 阿得拉	a de la	1
 阿得拉尔	a de la er	1
-阿得莱德	a de lai de	1
 阿德莱德	a de lai de	1
 阿等	a deng	1
 阿狄森氏病	a di sen shi bing	1
@@ -28074,7 +28073,6 @@
 纛遫	dao chi	1
 纛章京	dao zhang jing	1
 得案	de an	1
-得薄能鲜	de bo neng xian	1
 得宝歌	de bao ge	1
 得便宜卖乖	de pian yi mai guai	1
 得卜	de bu	1
@@ -41476,7 +41474,6 @@
 弗雷	fu lei	1
 弗雷德里克	fu lei de li ke	1
 弗雷德里克顿	fu lei de li ke dun	1
-弗里得里希	fu li de li xi	1
 弗里曼	fu li man	1
 弗里斯兰	fu li si lan	1
 弗罗茨瓦夫	fu luo ci wa fu	1
@@ -63884,7 +63881,6 @@
 霍格沃茨	huo ge wo ci	1
 霍亨索伦家族	huo heng suo lun jia zu	1
 霍曶	huo hu	1
-霍华得	huo hua de	1
 霍濩	huo hu	1
 霍加狓	huo jia pi	1
 霍将军	huo jiang jun	1
