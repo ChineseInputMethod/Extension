@@ -22052,7 +22052,6 @@
 飞标	fei biao	2
 飞标板	fei biao ban	6
 飞镖盘	fei biao pan	2
-飞镳	fei biao	6
 飞捕	fei bu	6
 飞彩牌	fei cai pai	6
 飞出去	fei chu qu	7

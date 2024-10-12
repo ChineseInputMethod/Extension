@@ -773,3 +773,46 @@
 霍华得	huo hua de	1
 阿得莱德	a de lai de	1
 学斅	xue xiao	1
+谥寳	shi bao	1
+珠寳	zhu bao	1
+保镳	bao biao	1
+镳客	biao ke	10
+心甘情原	xin gan qing yuan	1
+无价之寳	wu jia zhi bao	1
+国寳	guo bao	1
+财寳	cai bao	1
+活寳	huo bao	1
+心满原足	xin man yuan zu	1
+镳局	biao ju	7
+事与原违	shi yu yuan wei	1
+珠光寳气	zhu guang bao qi	1
+文房四寳	wen fang si bao	1
+鬉毛	zong mao	1
+甘心情原	gan xin qing yuan	1
+如获至寳	ru huo zhi bao	1
+马鬉	ma zong	1
+传家寳	chuan jia bao	1
+如原以偿	ru yuan yi chang	1
+乌寳	wu bao	1
+枕中鸿寳	zhen zhong hong bao	1
+封官许原	feng guan xu yuan	1
+大寳	da bao	1
+天从人原	tian cong ren yuan	1
+天随人原	tian sui ren yuan	1
+一厢情原	yi xiang qing yuan	1
+无价寳	wu jia bao	1
+向平之原	xiang ping zhi yuan	1
+走镳	zou biao	1
+好力寳	hao li bao	1
+二寳	er bao	1
+耍活寳	shua huo bao	1
+一相情原	yi xiang qing yuan	1
+赌誓发原	du shi fa yuan	1
+银元寳	yin yuan bao	1
+美寳	mei bao	1
+赛寳	sai bao	1
+万寳	wan bao	1
+两相情原	liang xiang qing yuan	1
+爱寳	ai bao	1
+金莲寳相	jin lian bao xiang	1
+无事不登三寳殿	wu shi bu deng san bao dian	1

@@ -664,7 +664,6 @@
 爱奥华州	ai ao hua zhou	1
 爱奥尼亚海	ai ao ni ya hai	1
 爱宝	ai bao	1
-爱寳	ai bao	1
 爱彼迎	ai bi ying	1
 爱吃枣儿汤	ai chi zao er tang	1
 爱词霸	ai ci ba	1
@@ -5253,7 +5252,6 @@
 保白	bao bai	1
 保弼	bao bi	1
 保壁	bao bi	1
-保镳	bao biao	1
 保不全	bao bu quan	1
 保不准	bao bu zhun	1
 保残守缺	bao can shou que	1
@@ -12546,7 +12544,6 @@
 材致	cai zhi	1
 材子	cai zi	1
 材卒	cai zu	1
-财寳	cai bao	1
 财贝	cai bei	1
 财本	cai ben	1
 财币	cai bi	1
@@ -21312,7 +21309,6 @@
 传纪	chuan ji	1
 传继	chuan ji	1
 传寄	chuan ji	1
-传家寳	chuan jia bao	1
 传讲	chuan jiang	1
 传教旛	chuan jiao fan	1
 传节	chuan jie	1
@@ -25235,7 +25231,6 @@
 大包单	da bao dan	1
 大包干儿	da bao gan er	1
 大保长	da bao chang	1
-大寳	da bao	1
 大寳龟	da bao gui	1
 大寳局	da bao ju	1
 大北	da bei	1
@@ -35545,7 +35540,6 @@
 二百方针	er bai fang zhen	1
 二斑百灵	er ban bai ling	1
 二宝	er bao	1
-二寳	er bao	1
 二鲍	er bao	1
 二辈子	er bei zi	1
 二屄	er bi	1
@@ -40450,7 +40444,6 @@
 封公	feng gong	1
 封估	feng gu	1
 封锢	feng gu	1
-封官许原	feng guan xu yuan	1
 封圭	feng gui	1
 封匦	feng gui	1
 封裹	feng guo	1
@@ -44161,7 +44154,6 @@
 甘王	gan wang	1
 甘味料	gan wei liao	1
 甘限文书	gan xian wen shu	1
-甘心情原	gan xin qing yuan	1
 甘心氏	gan xin shi	1
 甘馨	gan xin	1
 甘言蜜语	gan yan mi yu	1
@@ -52313,7 +52305,6 @@
 国哀	guo ai	1
 国奥会	guo ao hui	1
 国保	guo bao	1
-国寳	guo bao	1
 国备	guo bei	1
 国蔽	guo bi	1
 国表	guo biao	1
@@ -54745,7 +54736,6 @@
 好来寳	hao lai bao	1
 好了疮疤忘了痛	hao le chuang ba wang le tong	1
 好了伤疤忘了疼	hao le shang ba wang le teng	1
-好力寳	hao li bao	1
 好模当样儿	hao mo dang yang er	1
 好慕	hao mu	1
 好男不吃婚时饭	hao nan bu chi hun shi fan	1
@@ -63363,7 +63353,6 @@
 活巴巴	huo ba ba	1
 活把戏	huo ba xi	1
 活鲅鲅	huo ba ba	1
-活寳	huo bao	1
 活笔	huo bi	1
 活标本	huo biao ben	1
 活兵	huo bing	1
@@ -73761,7 +73750,6 @@
 金醴	jin li	1
 金奁	jin lian	1
 金莲宝相	jin lian bao xiang	1
-金莲寳相	jin lian bao xiang	1
 金莲花炬	jin lian hua ju	1
 金莲华炬	jin lian hua ju	1
 金莲炬	jin lian ju	1
@@ -90631,7 +90619,6 @@
 两夏	liang xia	1
 两贤相厄	liang xian xiang e	1
 两献	liang xian	1
-两相情原	liang xiang qing yuan	1
 两相情愿	liang xiang qing yuan	1
 两谢	liang xie	1
 两形	liang xing	1
@@ -97869,7 +97856,6 @@
 马訾水	ma zi shui	1
 马骔	ma zong	1
 马鬃雨	ma zong yu	1
-马鬉	ma zong	1
 马走	ma zou	1
 马卒	ma zu	1
 马祖	ma zu	1
@@ -99816,7 +99802,6 @@
 每时每日	mei shi mei ri	1
 每限	mei xian	1
 美巴	mei ba	1
-美寳	mei bao	1
 美偲	mei cai	1
 美朝	mei chao	1
 美疢	mei chen	1
@@ -124573,7 +124558,6 @@
 如黄	ru huang	1
 如火晚霞	ru huo wan xia	1
 如或	ru huo	1
-如获至寳	ru huo zhi bao	1
 如金似玉	ru jin si yu	1
 如雷灌耳	ru lei guan er	1
 如律	ru lv	1
@@ -124585,7 +124569,6 @@
 如意娘	ru yi niang	1
 如意套	ru yi tao	1
 如意珠	ru yi zhu	1
-如原以偿	ru yuan yi chang	1
 茹笔	ru bi	1
 茹菜	ru cai	1
 茹黄	ru huang	1
@@ -125573,7 +125556,6 @@
 顋巴	sai ba	1
 顋颊	sai jia	1
 赛百味	sai bai wei	1
-赛寳	sai bao	1
 赛车场赛	sai che chang sai	1
 赛答	sai da	1
 赛祷	sai dao	1
@@ -134694,7 +134676,6 @@
 事役	shi yi	1
 事意	shi yi	1
 事用	shi yong	1
-事与原违	shi yu yuan wei	1
 事在必行	shi zai bi xing	1
 事在肚里	shi zai du li	1
 事在心头	shi zai xin tou	1
@@ -135239,7 +135220,6 @@
 释种	shi zhong	1
 释宗	shi zong	1
 谥宝	shi bao	1
-谥寳	shi bao	1
 谥碑	shi bei	1
 谥笔	shi bi	1
 谥册	shi ce	1
@@ -137668,7 +137648,6 @@
 耍花舌子	shua hua she zi	1
 耍花坛	shua hua tan	1
 耍花头	shua hua tou	1
-耍活寳	shua huo bao	1
 耍尖头	shua jian tou	1
 耍奸取巧	shua jian qu qiao	1
 耍金耍银	shua jin shua yin	1
@@ -145528,7 +145507,6 @@
 天次	tian ci	1
 天聪	tian cong	1
 天从	tian cong	1
-天从人原	tian cong ren yuan	1
 天蹴	tian cu	1
 天粹	tian cui	1
 天亶	tian dan	1
@@ -145728,7 +145706,6 @@
 天素	tian su	1
 天筭	tian suan	1
 天随	tian sui	1
-天随人原	tian sui ren yuan	1
 天随子	tian sui zi	1
 天邃	tian sui	1
 天孙娘娘	tian sun niang niang	1
@@ -151355,7 +151332,6 @@
 踠趾	wan zhi	1
 踠足	wan zu	1
 万柏林	wan bo lin	1
-万寳	wan bao	1
 万博省	wan bo sheng	1
 万春	wan chun	1
 万代兰	wan dai lan	1
@@ -153849,7 +153825,6 @@
 文阀	wen fa	1
 文法吏	wen fa li	1
 文旛	wen fan	1
-文房四寳	wen fang si bao	1
 文鲂	wen fang	1
 文舫	wen fang	1
 文粪	wen fen	1
@@ -154716,7 +154691,6 @@
 乌爱	wu ai	1
 乌拜迪	wu bai di	1
 乌宝	wu bao	1
-乌寳	wu bao	1
 乌椑	wu bei	1
 乌驳	wu bo	1
 乌布帐	wu bu zhang	1
@@ -155306,9 +155280,7 @@
 无加	wu jia	1
 无筴	wu jia	1
 无假	wu jia	1
-无价寳	wu jia bao	1
 无价珍珠	wu jia zhen zhu	1
-无价之寳	wu jia zhi bao	1
 无奸不商	wu jian bu shang	1
 无间狱	wu jian yu	1
 无渐	wu jian	1
@@ -155514,7 +155486,6 @@
 无士马	wu shi ma	1
 无世	wu shi	1
 无事不登三宝殿	wu shi bu deng san bao dian	1
-无事不登三寳殿	wu shi bu deng san bao dian	1
 无事处	wu shi chu	1
 无是非	wu shi fei	1
 无是公	wu shi gong	1
@@ -162656,7 +162627,6 @@
 向令	xiang ling	1
 向马贼	xiang ma zei	1
 向平愿	xiang ping yuan	1
-向平之原	xiang ping zhi yuan	1
 向蕲	xiang qi	1
 向遣	xiang qian	1
 向去	xiang qu	1
@@ -165119,7 +165089,6 @@
 心伏	xin fu	1
 心佛	xin fo	1
 心府	xin fu	1
-心甘情原	xin gan qing yuan	1
 心根	xin gen	1
 心垢	xin gou	1
 心关	xin guan	1
@@ -165169,7 +165138,6 @@
 心虑	xin lv	1
 心略	xin lve	1
 心马	xin ma	1
-心满原足	xin man yuan zu	1
 心慢	xin man	1
 心忙	xin mang	1
 心盟	xin meng	1
@@ -176967,7 +176935,6 @@
 一夕三迁	yi xi san qian	1
 一线之间	yi xian zhi jian	1
 一相情愿	yi xiang qing yuan	1
-一厢情原	yi xiang qing yuan	1
 一向眠	yi xiang mian	1
 一向卧	yi xiang wo	1
 一向子	yi xiang zi	1
@@ -181147,7 +181114,6 @@
 银盂	yin yu	1
 银鱼袋	yin yu dai	1
 银鱼符	yin yu fu	1
-银元寳	yin yuan bao	1
 银圆	yin yuan	1
 银圆局	yin yuan ju	1
 银章	yin zhang	1
@@ -195791,7 +195757,6 @@
 枕櫂	zhen zhao	1
 枕中编	zhen zhong bian	1
 枕中丹	zhen zhong dan	1
-枕中鸿寳	zhen zhong hong bao	1
 枕中梦	zhen zhong meng	1
 枕中秘	zhen zhong mi	1
 枕中术	zhen zhong shu	1
@@ -201354,7 +201319,6 @@
 咮咮	zhou zhou	1
 洙泗	zhu si	1
 珠澳	zhu ao	1
-珠寳	zhu bao	1
 珠琲	zhu bei	1
 珠碧	zhu bi	1
 珠璧	zhu bi	1
@@ -201386,7 +201350,6 @@
 珠冠	zhu guan	1
 珠馆	zhu guan	1
 珠贯	zhu guan	1
-珠光寳气	zhu guang bao qi	1
 珠龟	zhu gui	1
 珠桂	zhu gui	1
 珠蛤	zhu ge	1
@@ -205172,7 +205135,6 @@
 鬃帽	zong mao	1
 鬃头	zong tou	1
 鬉髢	zong di	1
-鬉毛	zong mao	1
 鬷嘏	zong gu	1
 鬷假	zong jia	1
 鬷迈	zong mai	1
@@ -205407,7 +205369,6 @@
 走变	zou bian	1
 走便门	zou bian men	1
 走骠骑	zou piao qi	1
-走镳	zou biao	1
 走藏	zou cang	1
 走草	zou cao	1
 走场	zou chang	1

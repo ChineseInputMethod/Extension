@@ -5388,8 +5388,6 @@
 镖师	biao shi	5355
 镖头	biao tou	100
 瘭疽	biao ju	2001
-镳局	biao ju	7
-镳客	biao ke	10
 表白	biao bai	7117
 表报	biao bao	115
 表笔	biao bi	107
@@ -20781,7 +20779,6 @@
 赌神	du shen	6
 赌神发咒	du shen fa zhou	1
 赌誓	du shi	10
-赌誓发原	du shi fa yuan	1
 赌誓发愿	du shi fa yuan	1
 赌徒	du tu	4938
 赌窝	du wo	3005
