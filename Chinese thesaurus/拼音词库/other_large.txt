@@ -3456,7 +3456,6 @@
 百畮	bai mu	1
 百木	bai mu	1
 百木长	bai mu chang	1
-百慕达	bai mu da	1
 百衲碑	bai na bei	1
 百男	bai nan	1
 百囊网	bai nang wang	1
@@ -92789,7 +92788,6 @@
 令辞	ling ci	1
 令达	ling da	1
 令诞	ling dan	1
-令导人	ling dao ren	1
 令范	ling fan	1
 令芳	ling fang	1
 令妇	ling fu	1
@@ -106949,7 +106947,6 @@
 狃泰	niu tai	1
 狃虓	niu xiao	1
 忸忕	niu tai	1
-忸忲	niu tai	1
 纽奥良	niu ao liang	1
 纽绊	niu ban	1
 纽芬兰与拉布拉多	niu fen lan yu la bu la duo	1
