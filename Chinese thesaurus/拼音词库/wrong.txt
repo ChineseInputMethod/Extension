@@ -819,3 +819,20 @@
 令导人	ling dao ren	1
 百慕达	bai mu da	1
 忸忲	niu tai	1
+肥皁	fei zao	1
+青红皁白	qing hong zao bai	1
+恋皁	lian zao	1
+肹响	xi xiang	1
+牛骥同皁	niu ji tong zao	1
+阁皁	ge zao	1
+舆皁	yu zao	1
+呹肹	yi xi	1
+朱轓皁盖	zhu fan zao gai	1
+服皁	fu zao	1
+白皁	bai zao	1
+指皁为白	zhi zao wei bai	1
+翻黄倒皁	fan huang dao zao	1
+说啰说皁	shuo luo shuo zao	1
+贩夫皁隶	fan fu zao li	1
+凤凰皁隶	feng huang zao li	1
+门皁	men zao	1

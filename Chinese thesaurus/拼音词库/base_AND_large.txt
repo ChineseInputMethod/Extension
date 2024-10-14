@@ -23064,7 +23064,6 @@
 翻过儿	fan guo er	100
 翻过来	fan guo lai	112
 翻黄	fan huang	103
-翻黄倒皁	fan huang dao zao	1
 翻黄倒皂	fan huang dao zao	1
 翻悔	fan hui	4101
 翻检	fan jian	4023

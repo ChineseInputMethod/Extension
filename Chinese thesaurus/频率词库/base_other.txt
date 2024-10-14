@@ -103347,7 +103347,6 @@
 藻酸	zao suan	2
 藻文	zao wen	2
 藻棁	zao zhuo	2000
-皁荚	zao jia	10
 皂甙	zao dai	10
 皂粉	zao fen	2
 皂苷	zao gan	4

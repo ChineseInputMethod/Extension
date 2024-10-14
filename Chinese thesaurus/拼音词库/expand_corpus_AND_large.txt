@@ -1658,7 +1658,6 @@
 白云母	bai yun mu	4
 白云乡	bai yun xiang	5
 白灾	bai zai	6
-白皁	bai zao	1
 白泽	bai ze	1
 白贼	bai zei	5
 白斋	bai zhai	1
@@ -42013,7 +42012,6 @@
 门楹	men ying	1
 门墉	men yong	5
 门源回族自治县	men yuan hui zu zi zhi xian	6
-门皁	men zao	1
 门状	men zhuang	1
 门资	men zi	1
 门祚	men zuo	5

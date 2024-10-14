@@ -37468,7 +37468,6 @@
 贩籴	fan di	1
 贩儿	fan er	1
 贩夫俗子	fan fu su zi	1
-贩夫皁隶	fan fu zao li	1
 贩夫驺卒	fan fu zou zu	1
 贩负	fan fu	1
 贩沽	fan gu	1
@@ -38848,7 +38847,6 @@
 肥益	fei yi	1
 肥逸	fei yi	1
 肥油油	fei you you	1
-肥皁	fei zao	1
 肥张	fei zhang	1
 肥秩	fei zhi	1
 肥重	fei zhong	1
@@ -40934,7 +40932,6 @@
 凤凰台上忆吹箫	feng huang tai shang yi chui xiao	1
 凤凰蜕	feng huang tui	1
 凤凰衔书	feng huang xian shu	1
-凤凰皁隶	feng huang zao li	1
 凤凰皂隶	feng huang zao li	1
 凤凰诏	feng huang zhao	1
 凤凰柱	feng huang zhu	1
@@ -41960,7 +41957,6 @@
 服约	fu yue	1
 服臧	fu zang	1
 服藻	fu zao	1
-服皁	fu zao	1
 服皂	fu zao	1
 服泽	fu ze	1
 服斩	fu zhan	1
@@ -45865,7 +45861,6 @@
 阁鲜	ge xian	1
 阁学	ge xue	1
 阁压	ge ya	1
-阁皁	ge zao	1
 阁皂	ge zao	1
 阁斋	ge zhai	1
 阁长	ge chang	1
@@ -90203,7 +90198,6 @@
 恋惜	lian xi	1
 恋乡	lian xiang	1
 恋轩	lian xuan	1
-恋皁	lian zao	1
 恋皂	lian zao	1
 恋着	lian zhe	1
 恋滞	lian zhi	1
@@ -106835,7 +106829,6 @@
 牛矶	niu ji	1
 牛脊雨	niu ji yu	1
 牛继马后	niu ji ma hou	1
-牛骥同皁	niu ji tong zao	1
 牛胶	niu jiao	1
 牛角号	niu jiao hao	1
 牛角椒	niu jiao jiao	1
@@ -117664,7 +117657,6 @@
 青河战	qing he zhan	1
 青荷	qing he	1
 青红帮	qing hong bang	1
-青红皁白	qing hong zao bai	1
 青虹	qing hong	1
 青澒	qing hong	1
 青后	qing hou	1
@@ -138895,7 +138887,6 @@
 说例	shuo li	1
 说溜嘴	shuo liu zui	1
 说论	shuo lun	1
-说啰说皁	shuo luo shuo zao	1
 说啰说皂	shuo luo shuo zao	1
 说满	shuo man	1
 说媒拉纤	shuo mei la qian	1
@@ -157488,7 +157479,6 @@
 肸响	xi xiang	1
 肸向	xi xiang	1
 肸蝢	xi xie	1
-肹响	xi xiang	1
 穸台	xi tai	1
 穸窀	xi zhun	1
 俙然	xi ran	1
@@ -179588,7 +179578,6 @@
 易资	yi zi	1
 易子食	yi zi shi	1
 呹肸	yi xi	1
-呹肹	yi xi	1
 峄山碑	yi shan bei	1
 峄阳	yi yang	1
 峄阳孤桐	yi yang gu tong	1
@@ -185882,7 +185871,6 @@
 舆謡	yu yao	1
 舆舆	yu yu	1
 舆愿	yu yuan	1
-舆皁	yu zao	1
 舆仗	yu zhang	1
 舆轸	yu zhen	1
 舆卒	yu zu	1
@@ -198129,7 +198117,6 @@
 指喻	zhi yu	1
 指约	zhi yue	1
 指月	zhi yue	1
-指皁为白	zhi zao wei bai	1
 指占	zhi zhan	1
 指着和尚骂秃子	zhi zhe he shang ma tu zi	1
 指支	zhi zhi	1
@@ -200954,7 +200941,6 @@
 朱幡	zhu fan	1
 朱旛	zhu fan	1
 朱轓	zhu fan	1
-朱轓皁盖	zhu fan zao gai	1
 朱矾	zhu fan	1
 朱方	zhu fang	1
 朱扉	zhu fei	1
