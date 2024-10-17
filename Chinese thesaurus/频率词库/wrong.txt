@@ -53,3 +53,5 @@
 氢酸盐	qing suan yan	2
 飞镳	fei biao	6
 皁荚	zao jia	10
+博奕	bo yi	6
+博奕论	bo yi lun	2

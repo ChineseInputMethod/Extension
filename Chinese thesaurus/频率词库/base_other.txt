@@ -5420,8 +5420,6 @@
 博学多识	bo xue duo shi	10
 博弈图	bo yi tu	6
 博弈者	bo yi zhe	10
-博奕	bo yi	6
-博奕论	bo yi lun	2
 博宇	bo yu	1
 博知	bo zhi	6
 鹁鲆	bo ping	6

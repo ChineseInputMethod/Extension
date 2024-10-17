@@ -76084,7 +76084,6 @@
 轶事遗闻	yi shi yi wen	1
 弈谱	yi pu	5
 弈楸	yi qiu	5
-奕棋	yi qi	5
 奕山	yi shan	5
 奕世	yi shi	5
 疫病地	yi bing de	6
