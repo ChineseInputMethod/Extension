@@ -63890,7 +63890,6 @@
 镬索	huo suo	1
 镬汤	huo tang	1
 镬灶	huo zao	1
-镬煑	huo zhu	1
 镬煮	huo zhu	1
 蠖伏	huo fu	1
 蠖略	huo lve	1
@@ -202457,7 +202456,6 @@
 铸凝	zhu ning	1
 铸镕	zhu rong	1
 铸山	zhu shan	1
-铸山煑海	zhu shan zhu hai	1
 铸烁	zhu shuo	1
 铸陶	zhu tao	1
 铸消	zhu xiao	1

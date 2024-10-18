@@ -846,3 +846,5 @@
 奕棊	yi qi	1
 奕碁	yi qi	1
 弈赫	yi he	1
+铸山煑海	zhu shan zhu hai	1
+镬煑	huo zhu	1
