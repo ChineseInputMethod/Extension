@@ -848,3 +848,8 @@
 弈赫	yi he	1
 铸山煑海	zhu shan zhu hai	1
 镬煑	huo zhu	1
+敏卲	min shao	1
+年高德卲	nian gao de shao	1
+清邵	qing shao	1
+孤卲	gu shao	1
+高卲	gao shao	1
