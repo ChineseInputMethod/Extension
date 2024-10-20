@@ -79852,7 +79852,6 @@
 庭良	ting liang	2
 庭前	ting qian	10
 庭上	ting shang	6
-庭庭	ting ting	6
 庭讯	ting xun	10
 庭院布置	ting yuan bu zhi	7
 庭院交易	ting yuan jiao yi	7
