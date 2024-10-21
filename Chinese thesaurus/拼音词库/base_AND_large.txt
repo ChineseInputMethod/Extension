@@ -26400,7 +26400,6 @@
 负离子	fu li zi	3186
 负利率	fu li lv	438
 负面	fu mian	4710
-负驽前驱	fu nu qian qu	2000
 负片	fu pian	4010
 负气	fu qi	4052
 负气斗狠	fu qi dou hen	2000

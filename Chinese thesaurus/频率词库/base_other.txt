@@ -9648,7 +9648,6 @@
 池水	chi shui	2976
 池浴	chi yu	2002
 池中	chi zhong	187
-弛过	chi guo	5
 驰过	chi guo	10
 驰名商标	chi ming shang biao	6
 驰名世界	chi ming shi jie	6
@@ -76451,7 +76450,6 @@
 松弛下来	song chi xia lai	7
 松弛现象	song chi xian xiang	2
 松弛应力	song chi ying li	7
-松驰表	song chi biao	6
 松醇油	song chun you	2
 松脆饼	song cui bing	3
 松脆物	song cui wu	6
@@ -93244,7 +93242,6 @@
 讯怡	xun yi	1
 讯宜	xun yi	1
 汛站	xun zhan	6
-迅弛	xun chi	1
 迅驰	xun chi	3
 迅故	xun gu	6
 迅集	xun ji	6
@@ -109268,7 +109265,6 @@
 周向宽	zhou xiang kuan	6
 周向应力	zhou xiang ying li	7
 周小燕	zhou xiao yan	1
-周星弛	zhou xing chi	1
 周星星	zhou xing xing	1
 周旋者	zhou xuan zhe	6
 周迅	zhou xun	6

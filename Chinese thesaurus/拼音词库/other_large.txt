@@ -18245,7 +18245,6 @@
 弛慢	chi man	1
 弛谬	chi miu	1
 弛期	chi qi	1
-弛声走誉	chi sheng zou yu	1
 弛替	chi ti	1
 弛柝	chi tuo	1
 弛玩	chi wan	1
@@ -76451,7 +76450,6 @@
 净身出户	jing shen chu hu	1
 净胜	jing sheng	1
 净心修身	jing xin xiu shen	1
-弪度	jing du	1
 迳复	jing fu	1
 迳会	jing hui	1
 迳迹	jing ji	1
