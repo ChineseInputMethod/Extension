@@ -863,3 +863,9 @@
 负驽前驱	fu nu qian qu	2000
 弛魂宕魄	chi hun dang po	1
 弛声走誉	chi sheng zou yu	1
+欧打	ou da	1
+欧击	ou ji	6
+欧詈	ou li	1
+欧捶	ou chui	1
+欧攘	ou rang	1
+欧杖	ou zhang	1

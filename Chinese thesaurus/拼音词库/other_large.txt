@@ -107546,8 +107546,6 @@
 欧曾	ou zeng	1
 欧车前	ou che qian	1
 欧褚	ou chu	1
-欧捶	ou chui	1
-欧打	ou da	1
 欧当归	ou dang gui	1
 欧蝶鱼	ou die yu	1
 欧恶	ou e	1
@@ -107563,7 +107561,6 @@
 欧剑	ou jian	1
 欧金斑鸻	ou jin ban heng	1
 欧金翅雀	ou jin chi que	1
-欧詈	ou li	1
 欧柳莺	ou liu ying	1
 欧骆	ou luo	1
 欧梅	ou mei	1
@@ -107579,7 +107576,6 @@
 欧朋	ou peng	1
 欧泊	ou bo	1
 欧秦	ou qin	1
-欧攘	ou rang	1
 欧石鸻	ou shi heng	1
 欧莳萝	ou shi luo	1
 欧氏几何学	ou shi ji he xue	1
@@ -107603,7 +107599,6 @@
 欧虞法	ou yu fa	1
 欧越	ou yue	1
 欧瞻	ou zhan	1
-欧杖	ou zhang	1
 欧榛	ou zhen	1
 欧洲安全和合作组织	ou zhou an quan he he zuo zu zhi	1
 欧洲安全与合作组织	ou zhou an quan yu he zuo zu zhi	1
