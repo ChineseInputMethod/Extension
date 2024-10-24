@@ -29413,7 +29413,6 @@
 甲扎	jia zha	5
 甲长	jia chang	1
 甲帐	jia zhang	1
-甲冑	jia zhou	1
 甲状	jia zhuang	5
 甲卒	jia zu	1
 甲族	jia zu	5

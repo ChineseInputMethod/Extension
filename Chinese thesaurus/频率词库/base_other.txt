@@ -33866,7 +33866,6 @@
 华筝	hua zheng	2
 华中局	hua zhong ju	6
 华中师范	hua zhong shi fan	1
-华冑	hua zhou	2
 滑冰鞋	hua bing xie	10
 滑冰者	hua bing zhe	11
 滑步	hua bu	100
