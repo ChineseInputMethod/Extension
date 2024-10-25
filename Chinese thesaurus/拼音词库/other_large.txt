@@ -4807,7 +4807,6 @@
 搒械	peng xie	1
 磅蛋糕	bang dan gao	1
 磅磕	bang ke	1
-磅礚	bang ke	1
 磅唐	bang tang	1
 磅磄	bang tang	1
 磅纸	bang zhi	1
@@ -8473,7 +8472,6 @@
 边毒	bian du	1
 边埵	bian duo	1
 边番	bian fan	1
-边蕃	bian fan	1
 边藩	bian fan	1
 边防警察	bian fang jing cha	1
 边费	bian fei	1
@@ -10451,7 +10449,6 @@
 并船	bing chuan	1
 并床	bing chuang	1
 并凑	bing cou	1
-并蔕	bing di	1
 并覆	bing fu	1
 并概	bing gai	1
 并隔	bing ge	1
@@ -15220,7 +15217,6 @@
 昌披	chang pi	1
 昌仆	chang pu	1
 昌蒲菹	chang pu zu	1
-昌蒲葅	chang pu zu	1
 昌濮	chang pu	1
 昌衢	chang qu	1
 昌瑞	chang rui	1
@@ -15250,7 +15246,6 @@
 昌运	chang yun	1
 昌志	chang zhi	1
 昌菹	chang zu	1
-昌葅	chang zu	1
 昌族	chang zu	1
 昌作	chang zuo	1
 菖歜	chang chu	1
@@ -16967,7 +16962,6 @@
 称德	cheng de	1
 称动	cheng dong	1
 称伐	cheng fa	1
-称蕃	cheng fan	1
 称藩	cheng fan	1
 称伏	cheng fu	1
 称服	cheng fu	1
@@ -26835,7 +26829,6 @@
 啖赵	dan zhao	1
 淡霭	dan ai	1
 淡巴姑	dan ba gu	1
-淡巴苽	dan ba gu	1
 淡不济	dan bu ji	1
 淡辞	dan ci	1
 淡淡地回答	dan dan de hui da	1
@@ -31865,7 +31858,6 @@
 东钱	dong qian	1
 东羌	dong qiang	1
 东墙窥宋	dong qiang kui song	1
-东蔷	dong qiang	1
 东廧	dong qiang	1
 东蘠	dong qiang	1
 东秦	dong qin	1
@@ -32463,7 +32455,6 @@
 抖闪	dou shan	1
 抖手	dou shou	1
 抖摔	dou shuai	1
-抖薮	dou sou	1
 抖觫	dou su	1
 抖簌簌	dou su su	1
 枓拱	dou gong	1
@@ -32617,7 +32608,6 @@
 斗耸	dou song	1
 斗讼	dou song	1
 斗叟	dou sou	1
-斗擞	dou sou	1
 斗笋	dou sun	1
 斗榫合缝	dou sun he feng	1
 斗桶	dou tong	1
@@ -33870,7 +33860,6 @@
 断渚	duan zhu	1
 断剸	duan tuan	1
 断庄	duan zhuang	1
-断葘	duan zi	1
 断足	duan zu	1
 断阻	duan zu	1
 缎匹	duan pi	1
@@ -41659,7 +41648,6 @@
 扶清灭洋	fu qing mie yang	1
 扶笻	fu qiong	1
 扶渠	fu qu	1
-扶蕖	fu qu	1
 扶生	fu sheng	1
 扶世	fu shi	1
 扶疎	fu shu	1
@@ -41691,7 +41679,6 @@
 扶质	fu zhi	1
 扶佐	fu zuo	1
 芙奴传	fu nu chuan	1
-芙渠	fu qu	1
 芙蓉府	fu rong fu	1
 芙蓉膏	fu rong gao	1
 芙蓉剑	fu rong jian	1
@@ -41975,7 +41962,6 @@
 绋絻	fu wen	1
 绋讴	fu ou	1
 韨佩	fu pei	1
-茯蕶	fu ling	1
 罘罟	fu gu	1
 罘罕	fu han	1
 罘罝	fu ju	1
@@ -46178,11 +46164,9 @@
 根疵	gen ci	1
 根地	gen di	1
 根柢	gen di	1
-根蔕	gen di	1
 根钝	gen dun	1
 根方差	gen fang cha	1
 根蕟	gen fa	1
-根垓	gen gai	1
 根荄	gen gai	1
 根秆	gen gan	1
 根格	gen ge	1
@@ -46209,14 +46193,11 @@
 根磨	gen mo	1
 根牟	gen mu	1
 根拿	gen na	1
-根盘蔕结	gen pan di jie	1
 根蟠节错	gen pan jie cuo	1
 根谱	gen pu	1
 根前	gen qian	1
 根穷	gen qiong	1
 根深柢固	gen shen di gu	1
-根深蔕固	gen shen di gu	1
-根深蔕结	gen shen di jie	1
 根实	gen shi	1
 根熟	gen shu	1
 根水	gen shui	1
@@ -47466,7 +47447,6 @@
 共德	gong de	1
 共递	gong di	1
 共蒂莲	gong di lian	1
-共蔕莲	gong di lian	1
 共吺	gong dou	1
 共兜	gong dou	1
 共轭不尽根	gong e bu jin gen	1
@@ -49504,7 +49484,6 @@
 瓜脐	gua qi	1
 瓜丘	gua qiu	1
 瓜润	gua run	1
-瓜熟蔕落	gua shu di luo	1
 瓜戍	gua shu	1
 瓜条	gua tiao	1
 瓜娃子	gua wa zi	1
@@ -49518,7 +49497,6 @@
 瓜子儿脸	gua zi er lian	1
 瓜子仁儿	gua zi ren er	1
 瓜菹	gua zu	1
-苽米	gu mi	1
 刮蹭	gua ceng	1
 刮刬	gua chan	1
 刮肠篦	gua chang bi	1
@@ -50963,7 +50941,6 @@
 归断	gui duan	1
 归遁	gui dun	1
 归遯	gui dun	1
-归蕃	gui fan	1
 归藩	gui fan	1
 归反	gui fan	1
 归飞	gui fei	1
@@ -52921,7 +52898,6 @@
 还东	huan dong	1
 还东山	huan dong shan	1
 还牍	hai du	1
-还蕃	hai fan	1
 还藩	hai fan	1
 还反	hai fan	1
 还返	hai fan	1
@@ -57031,7 +57007,6 @@
 訇豁	hong huo	1
 訇击	hong ji	1
 訇磕	hong ke	1
-訇礚	hong ke	1
 訇棱	hong leng	1
 訇輘	hong ling	1
 訇殷	hong yin	1
@@ -59050,7 +59025,6 @@
 花簇簇	hua cu cu	1
 花当	hua dang	1
 花地玛堂区	hua di ma tang qu	1
-花蔕	hua di	1
 花调	hua diao	1
 花丁	hua ding	1
 花洞子	hua dong zi	1
@@ -59100,7 +59074,6 @@
 花蜡	hua la	1
 花蜡烛	hua la zhu	1
 花琅琅	hua lang lang	1
-花藟	hua lei	1
 花颣	hua lei	1
 花狸狐哨	hua li hu shao	1
 花黎胡哨	hua li hu shao	1
@@ -73204,7 +73177,6 @@
 戒装	jie zhuang	1
 芥菜	jie cai	1
 芥虿	jie chai	1
-芥蔕	jie di	1
 芥兰牛肉	jie lan niu rou	1
 芥茉	jie mo	1
 芥视	jie shi	1
@@ -77716,7 +77688,6 @@
 韭菁	jiu jing	1
 韭萍	jiu ping	1
 韭菹	jiu zu	1
-韭葅	jiu zu	1
 酒媪	jiu ao	1
 酒巴	jiu ba	1
 酒把持	jiu ba chi	1
@@ -82089,7 +82060,6 @@
 蝌斗篆文	ke dou zhuan wen	1
 蝌篆	ke zhuan	1
 髁身	ke shen	1
-礚礚	ke ke	1
 壳壳	ke ke	1
 壳漏子	ke lou zi	1
 壳幔	ke man	1
@@ -86340,7 +86310,6 @@
 榔榔	lang lang	1
 榔梅	lang mei	1
 硠磕	lang ke	1
-硠礚	lang ke	1
 硠硠	lang lang	1
 锒镗	lang tang	1
 稂秕	lang bi	1
@@ -89348,7 +89317,6 @@
 连第	lian di	1
 连蒂	lian di	1
 连棣	lian di	1
-连蔕	lian di	1
 连颠	lian dian	1
 连迭	lian die	1
 连叠	lian die	1
@@ -92652,7 +92620,6 @@
 零作	ling zuo	1
 龄梦	ling meng	1
 駖磕	ling ke	1
-駖礚	ling ke	1
 輘輷	ling hong	1
 鲮鲤甲	ling li jia	1
 鲮鲤科	ling li ke	1
@@ -97029,7 +96996,6 @@
 緑翠	lv cui	1
 緑黛	lv dai	1
 緑蒂	lv di	1
-緑蔕	lv di	1
 緑豆皮儿	lv dou pi er	1
 緑豆青	lv dou qing	1
 緑豆芽	lv dou ya	1
@@ -98665,7 +98631,6 @@
 芒履	mang lv	1
 芒芒苦海	mang mang ku hai	1
 芒茅	mang mao	1
-芒然自失	mang ran zi shi	1
 芒粟	mang su	1
 芒芠	mang wen	1
 芒芴	mang wu	1
@@ -100517,7 +100482,6 @@
 迷留目乱	mi liu mu luan	1
 迷露	mi lu	1
 迷漫	mi man	1
-迷芒	mi mang	1
 迷瞀	mi mao	1
 迷没	mi mei	1
 迷昧	mi mei	1
@@ -101570,7 +101534,6 @@
 眇略	miao lve	1
 眇曼	miao man	1
 眇漫	miao man	1
-眇芒	miao mang	1
 眇茫	miao mang	1
 眇莽	miao mang	1
 眇么	miao mo	1
@@ -102849,7 +102812,6 @@
 命盗案	ming dao an	1
 命镫	ming deng	1
 命蒂	ming di	1
-命蔕	ming di	1
 命犯	ming fan	1
 命风	ming feng	1
 命干	ming gan	1
@@ -104773,7 +104735,6 @@
 南渡江	nan du jiang	1
 南顿北渐	nan dun bei jian	1
 南讹	nan e	1
-南蕃	nan fan	1
 南藩	nan fan	1
 南方澳渔港	nan fang ao yu gang	1
 南方八省红军三年游击战争	nan fang ba sheng hong jun san nian you ji zhan zheng	1
@@ -105887,7 +105848,6 @@
 逆厄	ni e	1
 逆恶	ni e	1
 逆法	ni fa	1
-逆蕃	ni fan	1
 逆藩	ni fan	1
 逆犯	ni fan	1
 逆防	ni fang	1
@@ -108947,7 +108907,6 @@
 砰鍧	peng hong	1
 砰击	peng ji	1
 砰磕	peng ke	1
-砰礚	peng ke	1
 砰铿	peng keng	1
 砰朗	peng lang	1
 砰磷郁律	peng lin yu lv	1
@@ -112542,7 +112501,6 @@
 戚惨	qi can	1
 戚宠	qi chong	1
 戚促	qi cu	1
-戚蕃	qi fan	1
 戚藩	qi fan	1
 戚辅	qi fu	1
 戚闬	qi han	1
@@ -113602,7 +113560,6 @@
 启椗	qi ding	1
 启伐	qi fa	1
 启蕃	qi fan	1
-启藩	qi fan	1
 启烦	qi fan	1
 启服	qi fu	1
 启复	qi fu	1
@@ -125262,7 +125219,6 @@
 弱齿	ruo chi	1
 弱翅	ruo chi	1
 弱弟	ruo di	1
-弱蔕	ruo di	1
 弱电统一	ruo dian tong yi	1
 弱房	ruo fang	1
 弱弓	ruo gong	1
@@ -125944,7 +125900,6 @@
 三内	san nei	1
 三能	san neng	1
 三臡	san ni	1
-三臡八葅	san ni ba zu	1
 三逆	san ni	1
 三年碧	san nian bi	1
 三年不成	san nian bu cheng	1
@@ -130171,7 +130126,6 @@
 深伏	shen fu	1
 深覆	shen fu	1
 深根固蒂	shen gen gu di	1
-深根固蔕	shen gen gu di	1
 深弓	shen gong	1
 深功	shen gong	1
 深辜	shen gu	1
@@ -133845,7 +133799,6 @@
 食牌	shi pai	1
 食苹	shi ping	1
 食苹鹿	shi ping lu	1
-食萍	shi ping	1
 食蓱	shi ping	1
 食齐	shi qi	1
 食芹	shi qin	1
@@ -134931,7 +134884,6 @@
 贳死	shi si	1
 贳貣	shi te	1
 贳账	shi zhang	1
-柿蔕	shi di	1
 柿膏儿	shi gao er	1
 柿花	shi hua	1
 柿盘	shi pan	1
@@ -135541,7 +135493,6 @@
 守杜	shou du	1
 守度	shou du	1
 守贰	shou er	1
-守蕃	shou fan	1
 守藩	shou fan	1
 守风	shou feng	1
 守符	shou fu	1
@@ -139811,7 +139762,6 @@
 四堵墙	si du qiang	1
 四恶	si e	1
 四伐	si fa	1
-四蕃	si fan	1
 四犯	si fan	1
 四饭	si fan	1
 四梵	si fan	1
@@ -155149,7 +155099,6 @@
 无底藏	wu di cang	1
 无底窦	wu di dou	1
 无底壑	wu di he	1
-无蔕	wu di	1
 无颠倒	wu dian dao	1
 无点	wu dian	1
 无玷	wu dian	1
@@ -157100,7 +157049,6 @@
 西第颂	xi di song	1
 西番雅书	xi fan ya shu	1
 西蕃	xi fan	1
-西藩	xi fan	1
 西方滨鹬	xi fang bin yu	1
 西方浄国	xi fang jing guo	1
 西方浄土	xi fang jing tu	1
@@ -160529,7 +160477,6 @@
 咸秩	xian zhi	1
 咸擢	xian zhuo	1
 咸菹	xian zu	1
-咸葅	xian zu	1
 涎不痴	xian bu chi	1
 涎不答	xian bu da	1
 涎缠	xian chan	1
@@ -172890,7 +172837,6 @@
 盐子	yan zi	1
 盐宗	yan zong	1
 盐菹	yan zu	1
-盐葅	yan zu	1
 盐钻粱	yan zuan liang	1
 盐酢	yan cu	1
 阎扶	yan fu	1
@@ -188564,7 +188510,6 @@
 远端转移	yuan duan zhuan yi	1
 远遯	yuan dun	1
 远迩	yuan er	1
-远蕃	yuan fan	1
 远藩	yuan fan	1
 远范	yuan fan	1
 远放	yuan fang	1
@@ -192125,7 +192070,6 @@
 鲊荅	zha da	1
 鲊瓮	zha weng	1
 鲊菹	zha zu	1
-鲊葅	zha zu	1
 乍得湖	zha de hu	1
 乍地	zha di	1
 乍富人	zha fu ren	1
@@ -204894,7 +204838,6 @@
 宗党	zong dang	1
 宗道	zong dao	1
 宗牒	zong die	1
-宗蕃	zong fan	1
 宗奉	zong feng	1
 宗父	zong fu	1
 宗附	zong fu	1

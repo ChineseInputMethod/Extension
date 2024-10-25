@@ -6653,7 +6653,6 @@
 恻怆	ce chuang	1
 恻怛	ce da	1
 恻怛之心	ce da zhi xin	1
-萴子	ce zi	1
 策划人	ce hua ren	4
 策蹇	ce jian	1
 策进	ce jin	5
@@ -8612,7 +8611,6 @@
 赤紧的	chi jin de	1
 赤坎	chi kan	5
 赤坎区	chi kan qu	3
-赤崁楼	chi kan lou	6
 赤口	chi kou	5
 赤口烧城	chi kou shao cheng	4
 赤老	chi lao	1
@@ -41217,14 +41215,12 @@
 芒彩	mang cai	5
 芒刺在躬	mang ci zai gong	4
 芒果汁	mang guo zhi	3
-芒乎	mang hu	5
 芒屩	mang jue	1
 芒屩布衣	mang jue bu yi	3
 芒康县	mang kang xian	6
 芒郎	mang lang	1
 芒芒	mang mang	5
 芒昧	mang mei	5
-芒然	mang ran	4
 芒神	mang shen	1
 芒头	mang tou	1
 芒鞋竹笠	mang xie zhu li	1
@@ -41285,7 +41281,6 @@
 茫无涯际	mang wu ya ji	1
 茫崖	mang ya	6
 茫崖行政委员会	mang ya xing zheng wei yuan hui	5
-茫洋	mang yang	6
 哤聒	mang guo	1
 蛖蝼	mang lou	1
 莽大夫	mang dai fu	1

@@ -876,3 +876,66 @@
 枯笻	ku qiong	1
 卭杖	qiong zhang	1
 甲冑	jia zhou	1
+芒然	mang ran	4
+命蔕	ming di	1
+根深蔕固	gen shen di gu	1
+茯蕶	fu ling	1
+花藟	hua lei	1
+迷芒	mi mang	1
+瓜熟蔕落	gua shu di luo	1
+芥蔕	jie di	1
+根深蔕结	gen shen di jie	1
+荷泽	he ze	10
+根蔕	gen di	1
+根盘蔕结	gen pan di jie	1
+还蕃	hai fan	1
+边蕃	bian fan	1
+守蕃	shou fan	1
+柿蔕	shi di	1
+断葘	duan zi	1
+并蔕	bing di	1
+无蔕	wu di	1
+花蔕	hua di	1
+眇芒	miao mang	1
+宗蕃	zong fan	1
+归蕃	gui fan	1
+苽米	gu mi	1
+韭葅	jiu zu	1
+鲊葅	zha zu	1
+萴子	ce zi	1
+茫洋	mang yang	6
+芒乎	mang hu	5
+戚蕃	qi fan	1
+弱蔕	ruo di	1
+食萍	shi ping	1
+东蔷	dong qiang	1
+淡巴苽	dan ba gu	1
+深根固蔕	shen gen gu di	1
+南蕃	nan fan	1
+共蔕莲	gong di lian	1
+盐葅	yan zu	1
+启藩	qi fan	1
+称蕃	cheng fan	1
+咸葅	xian zu	1
+四蕃	si fan	1
+緑蔕	lv di	1
+昌蒲葅	chang pu zu	1
+芒然自失	mang ran zi shi	1
+西藩	xi fan	1
+远蕃	yuan fan	1
+连蔕	lian di	1
+逆蕃	ni fan	1
+昌葅	chang zu	1
+三臡八葅	san ni ba zu	1
+抖薮	dou sou	1
+礚礚	ke ke	1
+硠礚	lang ke	1
+扶蕖	fu qu	1
+赤崁楼	chi kan lou	6
+砰礚	peng ke	1
+根垓	gen gai	1
+磅礚	bang ke	1
+芙渠	fu qu	1
+訇礚	hong ke	1
+斗擞	dou sou	1
+駖礚	ling ke	1

@@ -7065,7 +7065,6 @@
 采蘑菇	cai mo gu	10
 采纳者	cai na zhe	10
 采泥器	cai ni qi	6
-采萍	cai ping	6
 采取步骤	cai qu bu zhou	10
 采取对策	cai qu dui ce	7
 采取了	cai qu le	3350
