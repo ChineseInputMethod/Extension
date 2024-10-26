@@ -5244,7 +5244,6 @@
 辨认	bian ren	8448
 辨色	bian se	10
 辨识	bian shi	4838
-辨士	bian shi	10
 辨析	bian xi	4123
 辨正	bian zheng	113
 辨证论治	bian zheng lun zhi	3056
@@ -110535,7 +110534,6 @@
 镇住	zhen zhu	101
 镇子	zhen zi	5414
 争霸	zheng ba	5230
-争辨	zheng bian	10
 争辩	zheng bian	8212
 争吵	zheng chao	8327
 争臣	zheng chen	100

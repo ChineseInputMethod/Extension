@@ -4340,7 +4340,6 @@
 辩护者	bian hu zhe	10
 辩解者	bian jie zhe	10
 辩论会	bian lun hui	89
-辩认	bian ren	10
 辩术	bian shu	10
 辫编	bian bian	2
 辫带	bian dai	6

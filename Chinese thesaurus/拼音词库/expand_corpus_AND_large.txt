@@ -4001,13 +4001,11 @@
 遍处	bian chu	1
 遍行	bian xing	5
 遍于	bian yu	7
-辨驳	bian bo	6
 辨裁	bian cai	1
 辨复	bian fu	1
 辨告	bian gao	5
 辨给	bian gei	1
 辨核	bian he	1
-辨护	bian hu	6
 辨惑	bian huo	1
 辨论	bian lun	1
 辨敏	bian min	1
@@ -4033,7 +4031,6 @@
 辩人	bian ren	1
 辩赡	bian shan	1
 辩识	bian shi	5
-辩析	bian xi	5
 辩章	bian zhang	5
 辩证法地	bian zheng fa de	7
 杓棒	shao bang	5
@@ -54828,7 +54825,6 @@
 谁是谁非	shui shi shui fei	2
 谁行	shui xing	5
 谁知道	shei zhi dao	6
-申辨	shen bian	5
 申不害	shen bu hai	7
 申斥似地	shen chi shi de	7
 申黜	shen chu	5
@@ -56377,7 +56373,6 @@
 时至运来	shi zhi yun lai	1
 时装鞋	shi zhuang xie	2
 识变从宜	shi bian cong yi	1
-识辩	shi bian	1
 识别证	shi bie zheng	6
 识道	shi dao	5
 识断	shi duan	5

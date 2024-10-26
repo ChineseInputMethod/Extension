@@ -9222,7 +9222,6 @@
 辨激	bian ji	1
 辨诘	bian jie	1
 辨洁	bian jie	1
-辨捷	bian jie	1
 辨絜	bian jie	1
 辨解	bian jie	1
 辨具	bian ju	1
@@ -9234,7 +9233,6 @@
 辨离	bian li	1
 辨丽	bian li	1
 辨利	bian li	1
-辨难	bian nan	1
 辨剖	bian pou	1
 辨洽	bian qia	1
 辨切	bian qie	1
@@ -9247,8 +9245,6 @@
 辨疏	bian shu	1
 辨水	bian shui	1
 辨说	bian shuo	1
-辨讼	bian song	1
-辨诉	bian su	1
 辨愬	bian shuo	1
 辨脱	bian tuo	1
 辨位	bian wei	1
@@ -9256,7 +9252,6 @@
 辨悟	bian wu	1
 辨悉	bian xi	1
 辨晰	bian xi	1
-辨学	bian xue	1
 辨雪	bian xue	1
 辨严	bian yan	1
 辨言	bian yan	1
@@ -9270,7 +9265,6 @@
 辨约	bian yue	1
 辨彰	bian zhang	1
 辨照	bian zhao	1
-辨争	bian zheng	1
 辨证	bian zheng	1
 辨证施治	bian zheng shi zhi	1
 辨治	bian zhi	1
@@ -9279,7 +9273,6 @@
 辨装	bian zhuang	1
 辨奏	bian zou	1
 辩辩	bian bian	1
-辩别	bian bie	1
 辩博	bian bo	1
 辩才天	bian cai tian	1
 辩察	bian cha	1
@@ -9303,7 +9296,6 @@
 辩哥	bian ge	1
 辩画	bian hua	1
 辩慧	bian hui	1
-辩惑	bian huo	1
 辩机	bian ji	1
 辩诘	bian jie	1
 辩絜	bian jie	1
@@ -9342,7 +9334,6 @@
 辩雪	bian xue	1
 辩言	bian yan	1
 辩眼	bian yan	1
-辩验	bian yan	1
 辩谳	bian yan	1
 辩要	bian yao	1
 辩义	bian yi	1
@@ -11452,7 +11443,6 @@
 不必过多地	bu bi guo duo de	1
 不变不革	bu bian bu ge	1
 不便险	bu bian xian	1
-不辩菽麦	bu bian shu mai	1
 不宾之士	bu bin zhi shi	1
 不倸	bu cai	1
 不曾序过	bu ceng xu guo	1
@@ -17711,7 +17701,6 @@
 逞办	cheng ban	1
 逞笔	cheng bi	1
 逞变	cheng bian	1
-逞辨	cheng bian	1
 逞博	cheng bo	1
 逞材	cheng cai	1
 逞残	cheng can	1
@@ -31503,7 +31492,6 @@
 订办	ding ban	1
 订编	ding bian	1
 订辨	ding bian	1
-订辩	ding bian	1
 订道	ding dao	1
 订讹	ding e	1
 订庚	ding geng	1
@@ -41857,7 +41845,6 @@
 岪郁	fu yu	1
 服闇	fu an	1
 服毙	fu bi	1
-服辨	fu bian	1
 服辩	fu bian	1
 服采	fu cai	1
 服惨	fu can	1
@@ -51500,7 +51487,6 @@
 诡暴	gui bao	1
 诡避	gui bi	1
 诡变	gui bian	1
-诡辨	gui bian	1
 诡策	gui ce	1
 诡差	gui cha	1
 诡产	gui chan	1
@@ -54667,7 +54653,6 @@
 濠梁之上	hao liang zhi shang	1
 好艾	hao ai	1
 好便似	hao bian si	1
-好辨	hao bian	1
 好兵	hao bing	1
 好兵帅克	hao bing shuai ke	1
 好仇	hao qiu	1
@@ -58771,7 +58756,6 @@
 互言	hu yan	1
 互折	hu she	1
 户豹	hu bao	1
-户辨	hu bian	1
 户辩	hu bian	1
 户伯	hu bo	1
 户曹	hu cao	1
@@ -83095,7 +83079,6 @@
 口叭叭	kou ba ba	1
 口吧吧	kou ba ba	1
 口报	kou bao	1
-口辨	kou bian	1
 口兵	kou bing	1
 口播	kou bo	1
 口材	kou cai	1
@@ -111578,7 +111561,6 @@
 桲罗	bo luo	1
 桲椤	bo luo	1
 剖爱	pou ai	1
-剖辩	pou bian	1
 剖拨	pou bo	1
 剖裁	pou cai	1
 剖陈	pou chen	1
@@ -115816,7 +115798,6 @@
 强本弱支	qiang ben ruo zhi	1
 强笔	qiang bi	1
 强愎	qiang bi	1
-强辨	qiang bian	1
 强辩到底	qiang bian dao di	1
 强伯	qiang bo	1
 强策	qiang ce	1
@@ -129463,7 +129444,6 @@
 设报	she bao	1
 设变	she bian	1
 设辨	she bian	1
-设辩	she bian	1
 设兵	she bing	1
 设策	she ce	1
 设朝	she chao	1
@@ -139400,7 +139380,6 @@
 私尊	si zun	1
 私坐	si zuo	1
 思悲翁	si bei weng	1
-思辩	si bian	1
 思裁	si cai	1
 思察	si cha	1
 思遟	si zhi	1
@@ -155050,7 +155029,6 @@
 无必	wu bi	1
 无裨	wu bi	1
 无壁	wu bi	1
-无辨	wu bian	1
 无辩	wu bian	1
 无表雪王章	wu biao xue wang zhang	1
 无拨	wu bo	1
@@ -198457,7 +198435,6 @@
 治备	zhi bei	1
 治跸	zhi bi	1
 治辨	zhi bian	1
-治辩	zhi bian	1
 治捕	zhi bu	1
 治藏	zhi cang	1
 治朝	zhi chao	1
