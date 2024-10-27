@@ -10988,7 +10988,6 @@
 大比目鱼	da bi mu yu	3
 大便干燥	da bian gan zao	6
 大便秘结	da bian mi jie	1
-大辨	da bian	5
 大辩	da bian	5
 大表	da biao	5
 大别山脉	da bie shan mai	3
@@ -18779,7 +18778,6 @@
 弗吉尼亚州	fu ji ni ya zhou	2
 弗庭	fu ting	1
 弗豫	fu yu	5
-伏辨	fu bian	5
 伏波	fu bo	1
 伏藏	fu cang	5
 伏雌	fu ci	1
@@ -64644,7 +64642,6 @@
 偎守	wei shou	1
 偎慵堕懒	wei yong duo lan	1
 隈隩	wei yu	1
-微辩	wei bian	5
 微波天线	wei bo tian xian	4
 微察秋毫	wei cha qiu hao	1
 微臣	wei chen	5
@@ -81843,7 +81840,6 @@
 遮影	zhe ying	5
 遮止	zhe zhi	1
 折臂三公	she bi san gong	3
-折辨	she bian	1
 折辩	she bian	1
 折齿	she chi	5
 折冲厌难	zhe chong yan nan	1
