@@ -54580,7 +54580,6 @@
 猞猁狲	she li sun	5
 畬民	she min	1
 畬田	she tian	1
-畬族	she zu	1
 舌本	she ben	4
 舌辩	she bian	5
 舌灿莲花	she can lian hua	7
@@ -77697,7 +77696,6 @@
 犹移	you yi	5
 犹犹	you you	5
 犹与	you yu	5
-犹预	you yu	5
 油碧车	you bi che	1
 油壁车	you bi che	1
 油壁香车	you bi xiang che	1
@@ -79301,7 +79299,6 @@
 豫附	yu fu	1
 豫让	yu rang	1
 豫闻	yu wen	1
-豫先	yu xian	6
 豫游	yu you	1
 豫园	yu yuan	2
 豫州	yu zhou	6

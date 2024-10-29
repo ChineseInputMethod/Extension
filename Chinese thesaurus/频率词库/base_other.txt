@@ -96475,7 +96475,6 @@
 椅子上	yi zi shang	6
 椅子套	yi zi tao	2
 椅子罩子	yi zi zhao zi	2
-弋弋	yi yi	6
 亿拜	yi bai	1
 亿邦	yi bang	2
 亿吨	yi dun	510
