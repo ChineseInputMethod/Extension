@@ -11322,7 +11322,6 @@
 敕书	chi shu	3007
 敕造	chi zao	102
 跅弛	tuo chi	101
-瘛疭	chi zong	10
 瘛瘲	chi zong	100
 冲车	chong che	10
 冲程	chong cheng	3009
@@ -74682,7 +74681,6 @@
 赊销	she xiao	4075
 赊账	she zhang	4026
 猞猁	she li	4046
-畲田	she tian	6
 畲族	she zu	5062
 舌敝唇焦	she bi chun jiao	3028
 舌敝耳聋	she bi er long	2002

@@ -92667,7 +92667,6 @@
 领讨	ling tao	1
 领统	ling tong	1
 领外	ling wai	1
-领闻	ling wen	1
 领握	ling wo	1
 领务	ling wu	1
 领悟说	ling wu shuo	1
@@ -107488,7 +107487,6 @@
 欧金斑鸻	ou jin ban heng	1
 欧金翅雀	ou jin chi que	1
 欧柳莺	ou liu ying	1
-欧骆	ou luo	1
 欧梅	ou mei	1
 欧咪呀给	ou mi ya gei	1
 欧米伽	ou mi ga	1
@@ -107510,7 +107508,6 @@
 欧书	ou shu	1
 欧苏	ou su	1
 欧吐	ou tu	1
-欧脱	ou tuo	1
 欧歍	ou wu	1
 欧泄	ou xie	1
 欧血	ou xue	1
@@ -127711,7 +127708,6 @@
 山上无老虎	shan shang wu lao hu	1
 山上有山	shan shang you shan	1
 山烧	shan shao	1
-山畲	shan she	1
 山畬	shan she	1
 山舍	shan she	1
 山麝	shan she	1
@@ -129250,7 +129246,6 @@
 赊愿	she yuan	1
 赊帐	she zhang	1
 畲刀	she dao	1
-畲耕	she geng	1
 畲火	she huo	1
 畲客	she ke	1
 畲民	she min	1
@@ -133194,7 +133189,6 @@
 石磉	shi sang	1
 石歃	shi sha	1
 石上草	shi shang cao	1
-石畲	shi she	1
 石畬	shi she	1
 石蛇	shi she	1
 石沈大海	shi shen da hai	1
@@ -187417,13 +187411,10 @@
 鳿鴠	yu dan	1
 豫榜	yu bang	1
 豫必	yu bi	1
-豫卜	yu bu	1
 豫参	yu can	1
 豫敕	yu chi	1
-豫筹	yu chou	1
 豫吊	yu diao	1
 豫抚	yu fu	1
-豫观	yu guan	1
 豫和	yu he	1
 豫祸	yu huo	1
 豫藉	yu jie	1
@@ -187433,7 +187424,6 @@
 豫交	yu jiao	1
 豫教	yu jiao	1
 豫戒	yu jie	1
-豫借	yu jie	1
 豫具	yu ju	1
 豫乐	yu le	1
 豫力	yu li	1
@@ -187443,10 +187433,8 @@
 豫寝	yu qin	1
 豫然	yu ran	1
 豫让桥	yu rang qiao	1
-豫设	yu she	1
 豫慎	yu shen	1
 豫事	yu shi	1
-豫视	yu shi	1
 豫数	yu shu	1
 豫顺	yu shun	1
 豫图	yu tu	1
@@ -187458,7 +187446,6 @@
 豫议	yu yi	1
 豫御	yu yu	1
 豫悦	yu yue	1
-豫早	yu zao	1
 豫蚤	yu zao	1
 豫章行	yu zhang xing	1
 豫章邮	yu zhang you	1
@@ -190356,7 +190343,6 @@
 菑民	zi min	1
 菑亩	zi mu	1
 菑攘	zi rang	1
-菑畲	zi she	1
 菑翳	zi yi	1
 仔琫	zai beng	1
 仔敢	zai gan	1
