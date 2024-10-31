@@ -54578,7 +54578,6 @@
 赊买	she mai	2
 赊卖	she mai	3
 猞猁狲	she li sun	5
-畬民	she min	1
 畬田	she tian	1
 舌本	she ben	4
 舌辩	she bian	5
@@ -79298,7 +79297,6 @@
 豫怠	yu dai	1
 豫附	yu fu	1
 豫让	yu rang	1
-豫闻	yu wen	1
 豫游	yu you	1
 豫园	yu yuan	2
 豫州	yu zhou	6

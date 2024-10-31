@@ -11908,7 +11908,6 @@
 不语先生	bu yu xian sheng	1
 不聿	bu yu	1
 不遇时	bu yu shi	1
-不豫则废	bu yu ze fei	1
 不圆通	bu yuan tong	1
 不噮	bu yuan	1
 不约而同地	bu yue er tong de	1
@@ -13048,7 +13047,6 @@
 参宥	can you	1
 参舆	can yu	1
 参语	can yu	1
-参预	can yu	1
 参豫	can yu	1
 参赞大臣	can zan da chen	1
 参择	can ze	1
@@ -21987,7 +21985,6 @@
 春瑞	chun rui	1
 春赏	chun shang	1
 春韶	chun shao	1
-春畲	chun she	1
 春畬	chun she	1
 春设	chun she	1
 春申涧	chun shen jian	1
@@ -36628,7 +36625,6 @@
 凡使	fan shi	1
 凡士	fan shi	1
 凡士通	fan shi tong	1
-凡事豫则立	fan shi yu ze li	1
 凡首	fan shou	1
 凡庶	fan shu	1
 凡数	fan shu	1
@@ -46305,7 +46301,6 @@
 耕三余一	geng san yu yi	1
 耕桑	geng sang	1
 耕穑	geng se	1
-耕畲	geng she	1
 耕畬	geng she	1
 耕十亩田	geng shi mu tian	1
 耕市	geng shi	1
@@ -49967,7 +49962,6 @@
 关余	guan yu	1
 关与	guan yu	1
 关预	guan yu	1
-关豫	guan yu	1
 关原	guan yuan	1
 关源	guan yuan	1
 关约	guan yue	1
@@ -80941,7 +80935,6 @@
 开塞	kai sai	1
 开三次方	kai san ci fang	1
 开山教主	kai shan jiao zhu	1
-开畲	kai she	1
 开畬	kai she	1
 开赦	kai she	1
 开生面	kai sheng mian	1
@@ -107520,7 +107513,6 @@
 欧隅	ou yu	1
 欧虞	ou yu	1
 欧虞法	ou yu fa	1
-欧越	ou yue	1
 欧瞻	ou zhan	1
 欧榛	ou zhen	1
 欧洲安全和合作组织	ou zhou an quan he he zuo zu zhi	1
@@ -128897,7 +128889,6 @@
 烧钱纸	shao qian zhi	1
 烧焫	shao ruo	1
 烧爇	shao ruo	1
-烧畲	shao she	1
 烧畬	shao she	1
 烧铄	shao shuo	1
 烧胎	shao tai	1
@@ -129245,16 +129236,12 @@
 赊远	she yuan	1
 赊愿	she yuan	1
 赊帐	she zhang	1
-畲刀	she dao	1
-畲火	she huo	1
 畲客	she ke	1
 畲民	she min	1
 畲乡	yu xiang	1
-畲菑	she zi	1
 畬刀	she dao	1
 畬耕	she geng	1
 畬火	she huo	1
-畬客	she ke	1
 畬菑	she zi	1
 輋民	she min	1
 舌敝	she bi	1
@@ -187411,7 +187398,6 @@
 鳿鴠	yu dan	1
 豫榜	yu bang	1
 豫必	yu bi	1
-豫参	yu can	1
 豫敕	yu chi	1
 豫吊	yu diao	1
 豫抚	yu fu	1
@@ -187434,7 +187420,6 @@
 豫然	yu ran	1
 豫让桥	yu rang qiao	1
 豫慎	yu shen	1
-豫事	yu shi	1
 豫数	yu shu	1
 豫顺	yu shun	1
 豫图	yu tu	1
@@ -205433,7 +205418,6 @@
 鉏耨	chu nou	1
 鉏强	chu qiang	1
 鉏商	chu shang	1
-鉏畲	chu she	1
 鉏畬	chu she	1
 鉏头	chu tou	1
 鉏吾	chu wu	1
