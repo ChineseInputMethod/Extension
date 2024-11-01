@@ -70978,7 +70978,6 @@
 声讯台	sheng xun tai	160
 声障	sheng zhang	3003
 声中	sheng zhong	101818
-牲命	sheng ming	6
 笙瘢	sheng ban	6
 笙咝畔	sheng si pan	6
 绳操	sheng cao	100
