@@ -139596,7 +139596,6 @@
 死魄	si po	1
 死棋肚里有仙着	si qi du li you xian zhe	1
 死乞百赖	si qi bai lai	1
-死气白赖	si qi bai lai	1
 死求百赖	si qiu bai lai	1
 死权	si quan	1
 死人不管	si ren bu guan	1
