@@ -3959,14 +3959,12 @@
 扳陟	ban zhi	1
 扳庄	ban zhuang	1
 扳桩相脚	ban zhuang xiang jiao	1
-班白	ban bai	1
 班本	ban ben	1
 班笔	ban bi	1
 班禀	ban bing	1
 班剥	ban bao	1
 班伯里	ban bo li	1
 班伯利	ban bo li	1
-班驳	ban bo	1
 班驳陆离	ban bo lu li	1
 班布	ban bu	1
 班簿	ban bu	1
@@ -4021,7 +4019,6 @@
 班赉	ban lai	1
 班兰	ban lan	1
 班阑	ban lan	1
-班斓	ban lan	1
 班烂	ban lan	1
 班劳	ban lao	1
 班历	ban li	1

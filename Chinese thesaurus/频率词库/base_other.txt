@@ -32428,7 +32428,6 @@
 弘一	hong yi	10
 红案儿	hong an er	100
 红白事	hong bai shi	2048
-红班	hong ban	10
 红包儿	hong bao er	100
 红宝	hong bao	10
 红鼻	hong bi	10
