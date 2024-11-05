@@ -4028,7 +4028,6 @@
 班寮	ban liao	1
 班璘	ban lin	1
 班瞵	ban lin	1
-班龙	ban long	1
 班禄	ban lu	1
 班鹭	ban lu	1
 班马	ban ma	1
@@ -4066,7 +4065,6 @@
 班送	ban song	1
 班随	ban sui	1
 班廷	ban ting	1
-班秃	ban tu	1
 班位	ban wei	1
 班文儿	ban wen er	1
 班锡	ban xi	1
@@ -97152,7 +97150,6 @@
 略及	lve ji	1
 略节	lve jie	1
 略玃	lve jue	1
-略窥一班	lve kui yi ban	1
 略历	lve li	1
 略且	lve qie	1
 略寝	lve qin	1

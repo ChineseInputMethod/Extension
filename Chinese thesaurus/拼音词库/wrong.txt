@@ -1060,3 +1060,7 @@
 班白	ban bai	1
 黄班	huang ban	6
 班驳	ban bo	1
+班龙	ban long	1
+班鸠	ban jiu	2
+略窥一班	lve kui yi ban	1
+班秃	ban tu	1
