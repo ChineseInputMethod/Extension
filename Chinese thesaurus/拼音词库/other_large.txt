@@ -3965,7 +3965,6 @@
 班剥	ban bao	1
 班伯里	ban bo li	1
 班伯利	ban bo li	1
-班驳陆离	ban bo lu li	1
 班布	ban bu	1
 班簿	ban bu	1
 班彩	ban cai	1
@@ -4088,7 +4087,6 @@
 班媛	ban yuan	1
 班张	ban zhang	1
 班政	ban zheng	1
-班枝花	ban zhi hua	1
 班直	ban zhi	1
 班指	ban zhi	1
 班制	ban zhi	1
@@ -17642,7 +17640,6 @@
 惩改	cheng gai	1
 惩革	cheng ge	1
 惩羹	cheng geng	1
-惩羹吹韲	cheng geng chui ji	1
 惩羹吹虀	cheng geng chui ji	1
 惩儆	cheng jing	1
 惩警	cheng jing	1
@@ -85857,7 +85854,6 @@
 婪赃	lan zang	1
 婪诈	lan zha	1
 婪浊	lan zhuo	1
-阑班	lan ban	1
 阑斑	lan ban	1
 阑残	lan can	1
 阑出	lan chu	1
