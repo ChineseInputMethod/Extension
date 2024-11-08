@@ -2034,7 +2034,6 @@
 班军	ban jun	1
 班克斯	ban ke si	1
 班列	ban lie	2
-班毛	ban mao	1
 班门	ban men	5
 班师得胜	ban shi de sheng	1
 班史	ban shi	5
@@ -2046,7 +2045,6 @@
 班行	ban hang	1
 班序	ban xu	1
 班扬	ban yang	1
-班衣戏彩	ban yi xi cai	3
 班资	ban zi	1
 般倕	ban chui	1
 般调	ban diao	1

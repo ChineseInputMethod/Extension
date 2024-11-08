@@ -21625,7 +21625,6 @@
 吹画壶	chui hua hu	1
 吹簧	chui huang	1
 吹魂	chui hun	1
-吹韲	chui ji	1
 吹虀	chui ji	1
 吹剑首	chui jian shou	1
 吹角	chui jiao	1
@@ -65009,7 +65008,6 @@
 羁制	ji zhi	1
 韲器	ji qi	1
 韲盐	ji yan	1
-韲音	ji yin	1
 譤蔽	ji bi	1
 鞿绊	ji ban	1
 鞿镳	ji biao	1
@@ -128323,7 +128321,6 @@
 鳝更	shan geng	1
 鳝脯	shan fu	1
 鳝丝	shan si	1
-譱祥	shan xiang	1
 伤哀	shang ai	1
 伤瘢	shang ban	1
 伤别	shang bie	1
@@ -200709,7 +200706,6 @@
 朱霭	zhu ai	1
 朱白	zhu bai	1
 朱班	zhu ban	1
-朱斑	zhu ban	1
 朱贝	zhu bei	1
 朱背啄花鸟	zhu bei zhuo hua niao	1
 朱笔官票	zhu bi guan piao	1
