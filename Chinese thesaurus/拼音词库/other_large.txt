@@ -3967,7 +3967,6 @@
 班伯利	ban bo li	1
 班布	ban bu	1
 班簿	ban bu	1
-班彩	ban cai	1
 班操	ban cao	1
 班曹	ban cao	1
 班草	ban cao	1
@@ -4025,7 +4024,6 @@
 班联	ban lian	1
 班僚	ban liao	1
 班寮	ban liao	1
-班璘	ban lin	1
 班瞵	ban lin	1
 班禄	ban lu	1
 班鹭	ban lu	1
@@ -25862,7 +25860,6 @@
 玳斑	dai ban	1
 玳检	dai jian	1
 玳帘	dai lian	1
-玳瑁班	dai mao ban	1
 玳瑁斑	dai mao ban	1
 玳瑁编	dai mao bian	1
 玳瑁蝉	dai mao chan	1
@@ -38882,7 +38879,6 @@
 斐尾	fei wei	1
 斐韡	fei wei	1
 斐亹	fei wei	1
-斐斖	fei wei	1
 翡帱	fei chou	1
 翡帷	fei wei	1
 篚箧	fei qie	1
@@ -61035,7 +61031,6 @@
 黄魂	huang hun	1
 黄鸡	huang ji	1
 黄齑	huang ji	1
-黄韲	huang ji	1
 黄虀	huang ji	1
 黄虀白饭	huang ji bai fan	1
 黄虀淡饭	huang ji dan fan	1
@@ -184883,7 +184878,6 @@
 臾曳	yu ye	1
 鱼澳	yu ao	1
 鱼霸	yu ba	1
-鱼班	yu ban	1
 鱼斑	yu ban	1
 鱼邦	yu bang	1
 鱼蚌	yu bang	1
