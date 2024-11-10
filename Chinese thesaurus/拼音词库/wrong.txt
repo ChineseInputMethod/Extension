@@ -1081,3 +1081,6 @@
 班璘	ban lin	1
 斐斖	fei wei	1
 黄韲	huang ji	1
+才辨	cai bian	1
+辨丽	bian li	1
+辨慧	bian hui	1
