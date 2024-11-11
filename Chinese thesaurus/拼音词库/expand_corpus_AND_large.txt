@@ -4005,14 +4005,12 @@
 辨核	bian he	1
 辨惑	bian huo	1
 辨论	bian lun	1
-辨敏	bian min	1
 辨日炎凉	bian ri yan liang	1
 辨如悬河	bian ru xuan he	1
 辨若悬河	bian ruo xuan he	1
 辨味	bian wei	6
 辨物居方	bian wu ju fang	1
 辨章	bian zhang	5
-辨折	bian she	1
 辨志	bian zhi	1
 辩才无阂	bian cai wu he	1
 辩斗	bian dou	1
