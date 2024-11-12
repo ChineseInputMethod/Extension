@@ -45751,7 +45751,6 @@
 革响	ge xiang	1
 革枭	ge xiao	1
 革邪	ge xie	1
-革辛	ge xin	1
 革姓	ge xing	1
 革修	ge xiu	1
 革序	ge xu	1
@@ -69575,7 +69574,6 @@
 箭竿	jian gan	1
 箭竿白	jian gan bai	1
 箭笴	jian gan	1
-箭簳	jian gan	1
 箭干	jian gan	1
 箭干白	jian gan bai	1
 箭槀	jian gao	1
@@ -74169,7 +74167,6 @@
 矜纵	jin zong	1
 筋兜	jin dou	1
 筋度	jin du	1
-筋簳	jin gan	1
 筋干	jin gan	1
 筋革	jin ge	1
 筋骼	jin ge	1
@@ -117771,7 +117768,6 @@
 青苹风	qing ping feng	1
 青苹末	qing ping mo	1
 青屏	qing ping	1
-青蓱	qing ping	1
 青蒲	qing pu	1
 青铺	qing pu	1
 青圻	qing qi	1
@@ -145870,7 +145866,6 @@
 田制	tian zhi	1
 田秩	tian zhi	1
 田彘	tian zhi	1
-田稺	tian zhi	1
 田穉	tian zhi	1
 田中女	tian zhong nv	1
 田种	tian zhong	1
@@ -202261,7 +202256,6 @@
 筑壁	zhu bi	1
 筑补	zhu bu	1
 筑臿	zhu cha	1
-筑锸	zhu cha	1
 筑场	zhu chang	1
 筑城壁	zhu cheng bi	1
 筑城曲	zhu cheng qu	1
