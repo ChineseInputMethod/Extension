@@ -20469,7 +20469,6 @@
 督军	du jun	4270
 督课	du ke	10
 督理	du li	7
-督励	du li	6
 督率	du shuai	3000
 督脉	du mai	2000
 督师	du shi	2000

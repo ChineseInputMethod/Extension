@@ -1103,3 +1103,36 @@
 青蓱	qing ping	1
 筋簳	jin gan	1
 筑锸	zhu cha	1
+鼓厉	gu li	1
+惕励	ti li	1
+厉精图治	li jing tu zhi	1
+励兵秣马	li bing mo ma	1
+修励	xiu li	1
+发扬蹈励	fa yang dao li	1
+扬励	yang li	1
+切励	qie li	1
+课励	ke li	1
+克励	ke li	1
+勖厉	xu li	5
+诫厉	jie li	1
+督励	du li	6
+厉翼	li yi	5
+振励	zhen li	1
+厉节	li jie	1
+责厉	ze li	1
+谨励	jin li	1
+警厉	jing li	1
+劝厉	quan li	1
+奬厉	jiang li	1
+讽励	feng li	1
+率励	lv li	1
+勤励	qin li	1
+矫世厉俗	jiao shi li su	1
+矫励	jiao li	1
+砥节厉行	di jie li xing	1
+坚励	jian li	1
+精厉	jing li	1
+感励	gan li	1
+戒厉	jie li	1
+改厉	gai li	1
+敦励	dun li	1

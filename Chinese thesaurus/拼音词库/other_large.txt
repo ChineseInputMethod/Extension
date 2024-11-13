@@ -29197,7 +29197,6 @@
 砥砨	di e	1
 砥绩	di ji	1
 砥奬	di jiang	1
-砥节厉行	di jie li xing	1
 砥节励行	di jie li xing	1
 砥京	di jing	1
 砥课	di ke	1
@@ -34034,7 +34033,6 @@
 敦乐	dun le	1
 敦礼	dun li	1
 敦厉	dun li	1
-敦励	dun li	1
 敦良	dun liang	1
 敦率	dun lv	1
 敦厖	dun mang	1
@@ -36036,7 +36034,6 @@
 发言中肯	fa yan zhong ken	1
 发颜	fa yan	1
 发艳	fa yan	1
-发扬蹈励	fa yang dao li	1
 发养	fa yang	1
 发繇	fa yao	1
 发耀	fa yao	1
@@ -40764,7 +40761,6 @@
 讽解	feng jie	1
 讽纠	feng jiu	1
 讽厉	feng li	1
-讽励	feng li	1
 讽令	feng ling	1
 讽论	feng lun	1
 讽勉	feng mian	1
@@ -43917,7 +43913,6 @@
 改捐	gai juan	1
 改口费	gai kou fei	1
 改历	gai li	1
-改厉	gai li	1
 改励	gai li	1
 改流	gai liu	1
 改路	gai lu	1
@@ -44287,7 +44282,6 @@
 感嘅	gan kai	1
 感刻	gan ke	1
 感厉	gan li	1
-感励	gan li	1
 感恋	gan lian	1
 感麟	gan lin	1
 感麟翁	gan lin weng	1
@@ -48949,7 +48943,6 @@
 鼓佬	gu lao	1
 鼓乐手	gu yue shou	1
 鼓楞楞	gu leng leng	1
-鼓厉	gu li	1
 鼓隶	gu li	1
 鼓栗	gu li	1
 鼓龙胡	gu long hu	1
@@ -67740,7 +67733,6 @@
 坚昆	jian kun	1
 坚垒	jian lei	1
 坚厉	jian li	1
-坚励	jian li	1
 坚良	jian liang	1
 坚林	jian lin	1
 坚密	jian mi	1
@@ -70061,7 +70053,6 @@
 奬眷	jiang juan	1
 奬赉	jiang lai	1
 奬劳	jiang lao	1
-奬厉	jiang li	1
 奬励	jiang li	1
 奬砺	jiang li	1
 奬眄	jiang mian	1
@@ -71532,7 +71523,6 @@
 矫抗	jiao kang	1
 矫夸	jiao kua	1
 矫匡	jiao kuang	1
-矫励	jiao li	1
 矫廉	jiao lian	1
 矫令	jiao ling	1
 矫猛	jiao meng	1
@@ -71547,7 +71537,6 @@
 矫失	jiao shi	1
 矫时	jiao shi	1
 矫士	jiao shi	1
-矫世厉俗	jiao shi li su	1
 矫手	jiao shou	1
 矫思	jiao si	1
 矫腾腾	jiao teng teng	1
@@ -73079,7 +73068,6 @@
 戒儆	jie jing	1
 戒警	jie jing	1
 戒蜡	jie la	1
-戒厉	jie li	1
 戒励	jie li	1
 戒路	jie lu	1
 戒门	jie men	1
@@ -73171,7 +73159,6 @@
 诫警	jie jing	1
 诫勑	jie lai	1
 诫勒	jie le	1
-诫厉	jie li	1
 诫励	jie li	1
 诫律	jie lv	1
 诫社	jie she	1
@@ -74478,7 +74465,6 @@
 谨历	jin li	1
 谨厉	jin li	1
 谨立	jin li	1
-谨励	jin li	1
 谨廉	jin lian	1
 谨敛	jin lian	1
 谨良	jin liang	1
@@ -75941,7 +75927,6 @@
 精蓝	jing lan	1
 精朗	jing lang	1
 精理	jing li	1
-精厉	jing li	1
 精丽	jing li	1
 精励	jing li	1
 精利	jing li	1
@@ -76270,7 +76255,6 @@
 警卡	jing ka	1
 警快	jing kuai	1
 警勑	jing lai	1
-警厉	jing li	1
 警吏	jing li	1
 警丽	jing li	1
 警励	jing li	1
@@ -82196,7 +82180,6 @@
 克里斯汀	ke li si ting	1
 克里斯托弗	ke li si tuo fu	1
 克厉	ke li	1
-克励	ke li	1
 克利斯朵夫	ke li si duo fu	1
 克莉奥佩特拉	ke li ao pei te la	1
 克林德	ke lin de	1
@@ -82500,7 +82483,6 @@
 课口	ke kou	1
 课历	ke li	1
 课厉	ke li	1
-课励	ke li	1
 课利	ke li	1
 课敛	ke lian	1
 课料	ke liao	1
@@ -88569,7 +88551,6 @@
 厉抚	li fu	1
 厉高	li gao	1
 厉精更始	li jing geng shi	1
-厉精图治	li jing tu zhi	1
 厉精为治	li jing wei zhi	1
 厉厉	li li	1
 厉怜王	li lian wang	1
@@ -88830,7 +88811,6 @@
 丽紫	li zi	1
 丽组	li zu	1
 丽罪	li zui	1
-励兵秣马	li bing mo ma	1
 励操	li cao	1
 励勉	li mian	1
 励声	li sheng	1
@@ -96823,7 +96803,6 @@
 率勒	lv le	1
 率礼	shuai li	1
 率厉	lv li	1
-率励	lv li	1
 率亮	lv liang	1
 率陋	lv lou	1
 率履	shuai lv	1
@@ -116491,7 +116470,6 @@
 切勑	qie lai	1
 切类	qie lei	1
 切力效应	qie li xiao ying	1
-切励	qie li	1
 切蚂	qie ma	1
 切衇	qie mai	1
 切劘	qie mo	1
@@ -117243,7 +117221,6 @@
 勤劳不虞匮乏	qin lao bu yu kui fa	1
 勤劳者	qin lao zhe	1
 勤厉	qin li	1
-勤励	qin li	1
 勤廉	qin lian	1
 勤略	qin lve	1
 勤黾	qin mian	1
@@ -122077,7 +122054,6 @@
 劝劳	quan lao	1
 劝乐	quan le	1
 劝力	quan li	1
-劝厉	quan li	1
 劝励	quan li	1
 劝率	quan lv	1
 劝慕	quan mu	1
@@ -145246,7 +145222,6 @@
 惕号	ti hao	1
 惕惊	ti jing	1
 惕兢	ti jing	1
-惕励	ti li	1
 惕虑	ti lv	1
 惕伤	ti shang	1
 惕慑	ti she	1
@@ -167122,7 +167097,6 @@
 修礼	xiu li	1
 修厉	xiu li	1
 修丽	xiu li	1
-修励	xiu li	1
 修利	xiu li	1
 修例	xiu li	1
 修廉	xiu lian	1
@@ -174077,7 +174051,6 @@
 扬空	yang kong	1
 扬累	yang lei	1
 扬历	yang li	1
-扬励	yang li	1
 扬跞	yang luo	1
 扬烈	yang lie	1
 扬舲	yang ling	1
@@ -191346,7 +191319,6 @@
 责咎	ze jiu	1
 责居	ze ju	1
 责课	ze ke	1
-责厉	ze li	1
 责励	ze li	1
 责詈	ze li	1
 责赂	zhai lu	1
@@ -195637,7 +195609,6 @@
 振捄	zhen ju	1
 振举	zhen ju	1
 振理	zhen li	1
-振励	zhen li	1
 振栗	zhen li	1
 振廪	zhen lin	1
 振履	zhen lv	1

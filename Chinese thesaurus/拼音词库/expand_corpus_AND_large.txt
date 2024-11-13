@@ -37462,7 +37462,6 @@
 厉害地	li hai de	2
 厉疾	li ji	5
 厉揭	li jie	5
-厉节	li jie	1
 厉精	li jing	1
 厉民	li min	1
 厉气	li qi	5
@@ -37475,7 +37474,6 @@
 厉言	li yan	5
 厉妖	li yao	5
 厉疫	li yi	5
-厉翼	li yi	5
 厉音	li yin	5
 屴崱	li ze	1
 立本	li ben	6
@@ -71245,7 +71243,6 @@
 酗酒滋事	xu jiu zi shi	1
 酗讼	xu song	1
 酗淫	xu yin	5
-勖厉	xu li	5
 勖率	xu lv	1
 绪业	xu ye	1
 绪余	xu yu	1
