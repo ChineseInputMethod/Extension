@@ -254,7 +254,6 @@
 爱起	ai qi	10
 爱起缝	ai qi feng	6
 爱瞧	ai qiao	6
-爱清	ai qing	2
 爱清洁	ai qing jie	10
 爱情岛	ai qing dao	6
 爱情电影	ai qing dian ying	1
@@ -29711,7 +29710,6 @@
 国企改制	guo qi gai zhi	7
 国企股	guo qi gu	713
 国强	guo qiang	293
-国清	guo qing	2
 国情国力	guo qing guo li	7
 国球	guo qiu	11
 国泉	guo quan	2
