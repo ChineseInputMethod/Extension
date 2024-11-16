@@ -11762,7 +11762,6 @@
 不随溜儿	bu sui liu er	1
 不胎孩	bu tai hai	1
 不探虎穴	bu tan hu xue	1
-不滔	bu tao	1
 不慆	bu tao	1
 不謟	bu tao	1
 不悌	bu ti	1
@@ -98397,7 +98396,6 @@
 獌狿	man yan	1
 漫藏诲盗	man cang hui dao	1
 漫骂	man ma	1
-漫条斯理	man tiao si li	1
 漫应	man ying	1
 慢傲	man ao	1
 慢慠	man ao	1
@@ -145863,7 +145861,6 @@
 恬如	tian ru	1
 恬素	tian su	1
 恬倓	tian tan	1
-恬惔	tian dan	1
 恬虚	tian xu	1
 恬雅	tian ya	1
 恬养	tian yang	1

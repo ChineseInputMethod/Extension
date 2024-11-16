@@ -69,3 +69,7 @@
 红班	hong ban	10
 爱清	ai qing	2
 国清	guo qing	2
+恰商	qia shang	6
+清情	qing qing	6
+情清	qing qing	6
+发清	fa qing	2

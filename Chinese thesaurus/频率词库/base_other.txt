@@ -20313,7 +20313,6 @@
 发签证	fa qian zheng	6
 发悄悄话	fa qiao qiao hua	1
 发轻球	fa qing qiu	6
-发清	fa qing	2
 发球处	fa qiu chu	6
 发球动作	fa qiu dong zuo	7
 发球界线	fa qiu jie xian	7
@@ -62375,7 +62374,6 @@
 恰合时宜	qia he shi yi	10
 恰克图	qia ke tu	7
 恰恰好	qia qia hao	2
-恰商	qia shang	6
 恰舞	qia wu	6
 恰于	qia yu	10
 恰与	qia yu	6
@@ -63597,7 +63595,6 @@
 清清楚楚	qing qing chu chu	7251
 清清静静	qing qing jing jing	7
 清清亮亮	qing qing liang liang	2
-清情	qing qing	6
 清泉岗	qing quan gang	7
 清热解毒	qing re jie du	10
 清热开窍	qing re kai qiao	3
@@ -63718,7 +63715,6 @@
 情奴	qing nu	1
 情牵	qing qian	6
 情怯	qing qie	10
-情清	qing qing	6
 情人花	qing ren hua	6
 情人节礼品	qing ren jie li pin	2
 情人节礼物	qing ren jie li wu	2
