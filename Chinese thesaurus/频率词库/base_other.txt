@@ -8942,7 +8942,6 @@
 陈强	chen qiang	10
 陈桥	chen qiao	6
 陈桥驿	chen qiao yi	6
-陈清	chen qing	1
 陈清泰	chen qing tai	1
 陈情书	chen qing shu	10
 陈情运动	chen qing yun dong	2
@@ -18076,7 +18075,6 @@
 动漫展	dong man zhan	1
 动漫周边	dong man zhou bian	1
 动漫作品	dong man zuo pin	1
-动慢	dong man	1
 动能武器	dong neng wu qi	112
 动配合	dong pei he	2000
 动起来	dong qi lai	3
@@ -51989,7 +51987,6 @@
 隆椿	long chun	2
 隆隆响	long long xiang	7
 隆起物	long qi wu	6
-隆清	long qing	2
 隆森	long sen	2
 隆田	long tian	10
 隆凸	long tu	6
@@ -98898,7 +98895,6 @@
 幽默漫画	you mo man hua	7
 幽默文章	you mo wen zhang	7
 幽默笑话	you mo xiao hua	2
-幽清	you qing	10
 幽然	you ran	3
 幽燧	you sui	2
 幽想	you xiang	10

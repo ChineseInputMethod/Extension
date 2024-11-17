@@ -73,3 +73,7 @@
 清情	qing qing	6
 情清	qing qing	6
 发清	fa qing	2
+幽清	you qing	10
+陈清	chen qing	1
+隆清	long qing	2
+动慢	dong man	1

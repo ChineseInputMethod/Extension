@@ -53278,7 +53278,6 @@
 散马休牛	san ma xiu niu	1
 散漫地	san man de	2
 散漫地说	san man de shuo	7
-散慢地说	san man de shuo	7
 散灭	san mie	1
 散木	san mu	1
 散片	san pian	6

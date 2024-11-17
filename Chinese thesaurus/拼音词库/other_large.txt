@@ -142282,7 +142282,6 @@
 索罗门	suo luo men	1
 索马里亚	suo ma li ya	1
 索马利	suo ma li	1
-索漠	suo mo	1
 索偶	suo ou	1
 索契	suo qi	1
 索强	suo qiang	1
@@ -145588,7 +145587,6 @@
 天诏	tian zhao	1
 天珍	tian zhen	1
 天真地认为	tian zhen de ren wei	1
-天真烂慢	tian zhen lan man	1
 天真烂熳	tian zhen lan man	1
 天阵	tian zhen	1
 天征	tian zheng	1
