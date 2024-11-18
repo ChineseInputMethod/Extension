@@ -24471,7 +24471,6 @@
 踆兔	qun tu	1
 踆巡	qun xun	1
 刌度	cun du	1
-忖恻	cun ce	1
 忖夺	cun duo	1
 忖料	cun liao	1
 忖留	cun liu	1
@@ -145842,7 +145841,6 @@
 恬畅	tian chang	1
 恬冲	tian chong	1
 恬怠	tian dai	1
-恬憺	tian dan	1
 恬荡	tian dang	1
 恬惰	tian duo	1
 恬豁	tian huo	1
@@ -167813,7 +167811,6 @@
 虚罔	xu wang	1
 虚伪类真	xu wei lei zhen	1
 虚无飘渺	xu wu piao miao	1
-虚无恬惔	xu wu tian dan	1
 虚伍	xu wu	1
 虚隙	xu xi	1
 虚闲	xu xian	1
@@ -198648,7 +198645,6 @@
 置社	zhi she	1
 置手	zhi shou	1
 置书邮	zhi shu you	1
-置水之清	zhi shui zhi qing	1
 置榻	zhi ta	1
 置亭	zhi ting	1
 置问	zhi wen	1

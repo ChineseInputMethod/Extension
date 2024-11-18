@@ -8736,7 +8736,6 @@
 彻底解决	che di jie jue	479
 彻底搜查	che di sou cha	10
 彻尾	che wei	10
-彻消	che xiao	6
 彻夜苦读	che ye ku du	10
 彻夜宵禁	che ye xiao jin	7
 掣後腿	che hou tui	5
@@ -63535,7 +63534,6 @@
 清初	qing chu	10
 清楚的	qing chu de	879
 清楚起来	qing chu qi lai	7
-清处	qing chu	6
 清川	qing chuan	2
 清川江	qing chuan jiang	2
 清大	qing da	10
@@ -63671,7 +63669,6 @@
 情报站	qing bao zhan	147
 情潮	qing chao	2
 情仇	qing chou	185
-情处	qing chu	6
 情电影	qing dian ying	6
 情归何处	qing gui he chu	7
 情话绵绵	qing hua mian mian	3

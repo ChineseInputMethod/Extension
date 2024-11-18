@@ -77,3 +77,6 @@
 陈清	chen qing	1
 隆清	long qing	2
 动慢	dong man	1
+清处	qing chu	6
+情处	qing chu	6
+彻消	che xiao	6
