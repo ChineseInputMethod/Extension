@@ -25538,7 +25538,6 @@
 大收煞	da shou sha	1
 大疋	da pi	1
 大菽	da shu	1
-大孰	da shu	1
 大树乡	da shu xiang	1
 大树莺	da shu ying	1
 大数据	da shu ju	1
@@ -28516,7 +28515,6 @@
 登寿	deng shou	1
 登受	deng shou	1
 登枢	deng shu	1
-登孰	deng shu	1
 登熟	deng shu	1
 登祀	deng si	1
 登粟	deng su	1
@@ -39874,7 +39872,6 @@
 丰上钟	feng shang zhong	1
 丰石	feng shi	1
 丰豕	feng shi	1
-丰孰	feng shu	1
 丰澍	feng shu	1
 丰水	feng shui	1
 丰祀	feng si	1
@@ -49071,7 +49068,6 @@
 鹘蹄	hu ti	1
 鹘蹏	hu di	1
 鹘突帐	hu tu zhang	1
-鹘鶟	hu tu	1
 鹘尾叶	hu wei ye	1
 鹘握	hu wo	1
 鹘兀	hu wu	1
@@ -74724,7 +74720,6 @@
 进授	jin shou	1
 进售	jin shou	1
 进绶	jin shou	1
-进孰	jin shu	1
 进熟	jin shu	1
 进戍	jin shu	1
 进祀	jin si	1
@@ -75960,7 +75955,6 @@
 精实	jing shi	1
 精手	jing shou	1
 精疎	jing shu	1
-精孰	jing shu	1
 精思	jing si	1
 精诵	jing song	1
 精汰	jing tai	1
@@ -115319,7 +115313,6 @@
 黔喙	qian hui	1
 黔口	qian kou	1
 黔雷	qian lei	1
-黔黧	qian li	1
 黔娄	qian lou	1
 黔娄妻	qian lou qi	1
 黔落	qian luo	1
@@ -120180,7 +120173,6 @@
 秋势	qiu shi	1
 秋室	qiu shi	1
 秋输	qiu shu	1
-秋孰	qiu shu	1
 秋暑	qiu shu	1
 秋刷	qiu shua	1
 秋爽	qiu shuang	1
@@ -135179,7 +135171,6 @@
 收事	shou shi	1
 收视返听	shou shi fan ting	1
 收拭	shou shi	1
-收孰	shou shu	1
 收赎	shou shu	1
 收熟	shou shu	1
 收私	shou si	1
@@ -141840,7 +141831,6 @@
 岁蚀	sui shi	1
 岁市	sui shi	1
 岁输	sui shu	1
-岁孰	sui shu	1
 岁衰	sui shuai	1
 岁祀	sui si	1
 岁罔	sui wang	1
@@ -156030,7 +156020,6 @@
 五室	wu shi	1
 五兽	wu shou	1
 五叔	wu shu	1
-五孰	wu shu	1
 五熟	wu shu	1
 五熟釜	wu shu fu	1
 五属	wu shu	1
@@ -159194,7 +159183,6 @@
 夏室	xia shi	1
 夏首	xia shou	1
 夏输	xia shu	1
-夏孰	xia shu	1
 夏数	xia shu	1
 夏霜	xia shuang	1
 夏税	xia shui	1
@@ -177887,7 +177875,6 @@
 遗类	yi lei	1
 遗累	yi lei	1
 遗罹	yi li	1
-遗黧	yi li	1
 遗礼	yi li	1
 遗里	yi li	1
 遗理	yi li	1
@@ -197924,7 +197911,6 @@
 至使	zhi shi	1
 至始至终	zhi shi zhi zhong	1
 至事	zhi shi	1
-至孰	zhi shu	1
 至熟	zhi shu	1
 至术	zhi shu	1
 至数	zhi shu	1
@@ -206272,7 +206258,6 @@
 琢削	zhuo xue	1
 琢治	zhuo zhi	1
 筰马	zuo ma	1
-筰桥	zuo qiao	1
 筰竹	zuo zhu	1
 左榜	zuo bang	1
 左边儿	zuo bian er	1

@@ -10495,7 +10495,6 @@
 成事不说	cheng shi bu shuo	100
 成事不足	cheng shi bu zu	331
 成书	cheng shu	3223
-成孰	cheng shu	6
 成熟	cheng shu	19073
 成数	cheng shu	4459
 成双	cheng shuang	436

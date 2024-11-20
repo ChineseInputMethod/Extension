@@ -81627,7 +81627,6 @@
 托运人	tuo yun ren	3
 托运物	tuo yun wu	2
 托运站	tuo yun zhan	6
-托长	tuo chang	10
 托着	tuo zhe	198
 托纸板	tuo zhi ban	6
 托纸撑板	tuo zhi cheng ban	7
@@ -108976,7 +108975,6 @@
 衷心地	zhong xin di	10
 衷心的	zhong xin de	678
 衷心希望	zhong xin xi wang	2
-锺表	zhong biao	7
 锺馗	zhong kui	10
 锺丽缇	zhong li ti	6
 锺山	zhong shan	6
