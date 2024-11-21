@@ -11204,7 +11204,6 @@
 叱骂	chi ma	4007
 叱问	chi wen	4002
 叱责	chi ze	4013
-叱吒	chi zha	100
 叱咤	chi zha	3106
 叱咤风云	chi zha feng yun	2456
 斥地	chi di	102

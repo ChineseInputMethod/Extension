@@ -96113,7 +96113,6 @@
 依照协议	yi zhao xie yi	7
 依照要求	yi zhao yao qiu	7
 咿呀学语	yi ya xue yu	10
-咿咿唔唔	yi yi wu wu	7
 咿咿呀呀	yi yi ya ya	100
 铱粉	yi fen	2
 铱金	yi jin	10

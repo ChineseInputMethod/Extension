@@ -11251,7 +11251,6 @@
 卜士	bu shi	1
 卜世	bu shi	1
 卜室	bu shi	1
-卜簭	bu shi	1
 卜数	bu shu	1
 卜数师	bu shu shi	1
 卜数只偶	bu shu zhi ou	1
@@ -29534,7 +29533,6 @@
 踶马	di ma	1
 踶啮	di nie	1
 踶啮马	di nie ma	1
-踶囓	di nie	1
 敁敠	dian duo	1
 掂度	dian du	1
 掂倈	dian lai	1
@@ -51742,7 +51740,6 @@
 鬼皂荚	gui zao jia	1
 鬼躁	gui zao	1
 鬼责	gui ze	1
-鬼吒狼嚎	gui zha lang hao	1
 鬼张鬼智	gui zhang gui zhi	1
 鬼遮眼	gui zhe yan	1
 鬼针	gui zhen	1
@@ -55880,7 +55877,6 @@
 赫歇耳	he xie er	1
 赫胥	he xu	1
 赫咺	he xuan	1
-赫喧	he xuan	1
 赫諠	he xuan	1
 赫炫	he xuan	1
 赫炎	he yan	1
@@ -71719,9 +71715,7 @@
 叫彩	jiao cai	1
 叫噉	jiao dan	1
 叫更	jiao geng	1
-叫嘷	jiao hao	1
 叫呼	jiao hu	1
-叫嘑	jiao hu	1
 叫謼	jiao hu	1
 叫化	jiao hua	1
 叫化子	jiao hua zi	1
@@ -75659,7 +75653,6 @@
 惊嘷	jing hao	1
 惊号	jing hao	1
 惊恨	jing hen	1
-惊嘑	jing hu	1
 惊怀	jing huai	1
 惊荒	jing huang	1
 惊皇	jing huang	1
@@ -75718,7 +75711,6 @@
 惊乱	jing luan	1
 惊虑	jing lv	1
 惊忙	jing mang	1
-惊槑	jing dai	1
 惊美	jing mei	1
 惊靡	jing mi	1
 惊眠	jing mian	1
@@ -86097,7 +86089,6 @@
 狼顾麕惊	lang gu qian jing	1
 狼顾相	lang gu xiang	1
 狼豪	lang hao	1
-狼嘷	lang hao	1
 狼嚎鬼叫	lang hao gui jiao	1
 狼号鬼哭	lang hao gui ku	1
 狼很	lang hen	1
@@ -107049,7 +107040,6 @@
 怒愤	nu fen	1
 怒艴	nu fu	1
 怒冠三挂	nu guan san gua	1
-怒呺	nu hao	1
 怒恨	nu hen	1
 怒叿叿	nu hong hong	1
 怒吽吽	nu hong hong	1
@@ -125513,7 +125503,6 @@
 三登	san deng	1
 三等分角问题	san deng fen jiao wen ti	1
 三翟	san zhai	1
-三啇	san di	1
 三点会	san dian hui	1
 三点检	san dian jian	1
 三点全露	san dian quan lou	1
@@ -135072,7 +135061,6 @@
 螫噬	shi shi	1
 螫蝎	shi xie	1
 螫中	zhe zhong	1
-簭人	shi ren	1
 齛啮	xie nie	1
 匙面鱼	chi mian yu	1
 匙匣	chi xia	1
@@ -145054,7 +145042,6 @@
 蹄蹶	ti jue	1
 蹄轮	ti lun	1
 蹄啮	ti nie	1
-蹄囓	ti nie	1
 蹄羌	ti qiang	1
 蹄石	ti shi	1
 蹄氏观	ti shi guan	1
@@ -154479,7 +154466,6 @@
 乌合	wu he	1
 乌呼	wu hu	1
 乌虖	wu hu	1
-乌嘑	wu hu	1
 乌浒	wu hu	1
 乌灰鸫	wu hui dong	1
 乌灰鹞	wu hui yao	1
@@ -154714,7 +154700,6 @@
 呜恻	wu ce	1
 呜呃	wu e	1
 呜虖	wu hu	1
-呜嘑哀哉	wu hu ai zai	1
 呜叫	wu jiao	1
 呜哩哇啦	wu li wa la	1
 呜哩呜喇	wu li wu la	1
@@ -154727,7 +154712,6 @@
 呜呜祖拉	wu wu zu la	1
 呜呀呀	wu ya ya	1
 呜咿	wu yi	1
-呜邑	wu yi	1
 呜悒	wu yi	1
 呜嘬	wu zuo	1
 钨錥	wu yu	1
@@ -163914,7 +163898,6 @@
 啸引	xiao yin	1
 啸狖	xiao you	1
 啸云侣	xiao yun lv	1
-啸吒风云	xiao zha feng yun	1
 啸咤	xiao zha	1
 啸指	xiao zhi	1
 詨讹	xiao e	1
@@ -176982,17 +176965,8 @@
 医药分离	yi yao fen li	1
 医隐	yi yin	1
 医之好治不病以为功	yi zhi hao zhi bu bing yi wei gong	1
-吚哩呱喇	yi li gua la	1
 吚哦	yi o	1
-吚喔	yi wo	1
-吚唔	yi wu	1
-吚哑	yi ya	1
-吚轧	yi zha	1
 吚吚呜呜	yi yi wu wu	1
-吚吚哑哑	yi yi ya ya	1
-吚嘤	yi ying	1
-吚呦	yi you	1
-吚嚘	yi you	1
 依黯	yi an	1
 依芘	yi pi	1
 依庇	yi bi	1
@@ -186814,7 +186788,6 @@
 郁噎	yu ye	1
 郁埜	yu ye	1
 郁野	yu ye	1
-郁吚	yu yi	1
 郁咿	yu yi	1
 郁猗	yu yi	1
 郁壹	yu yi	1
@@ -194486,7 +194459,6 @@
 者磨	zhe mo	1
 者末	zhe mo	1
 者者	zhe zhe	1
-啫哩	zhe li	1
 赭案	zhe an	1
 赭黯	zhe an	1
 赭白	zhe bai	1

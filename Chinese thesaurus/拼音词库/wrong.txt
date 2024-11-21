@@ -1210,3 +1210,32 @@
 五孰	wu shu	1
 至孰	zhi shu	1
 进孰	jin shu	1
+惊槑	jing dai	1
+惊嘑	jing hu	1
+怒呺	nu hao	1
+呜嘑哀哉	wu hu ai zai	1
+叱吒	chi zha	100
+吚唔	yi wu	1
+簭人	shi ren	1
+乌嘑	wu hu	1
+卜簭	bu shi	1
+吚嚘	yi you	1
+呜邑	wu yi	1
+啫哩	zhe li	1
+狼嘷	lang hao	1
+吚哑	yi ya	1
+吚哩呱喇	yi li gua la	1
+叫嘷	jiao hao	1
+吚呦	yi you	1
+吚吚哑哑	yi yi ya ya	1
+吚轧	yi zha	1
+叫嘑	jiao hu	1
+吚喔	yi wo	1
+吚嘤	yi ying	1
+啸吒风云	xiao zha feng yun	1
+赫喧	he xuan	1
+蹄囓	ti nie	1
+踶囓	di nie	1
+郁吚	yu yi	1
+鬼吒狼嚎	gui zha lang hao	1
+三啇	san di	1
