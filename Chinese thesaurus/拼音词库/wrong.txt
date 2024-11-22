@@ -1239,3 +1239,20 @@
 郁吚	yu yi	1
 鬼吒狼嚎	gui zha lang hao	1
 三啇	san di	1
+连袵成帷	lian ren cheng wei	1
+伺侯	ci hou	1
+披发左袵	pi fa zuo ren	1
+症侯群	zheng hou qun	1
+戎马倥傯	rong ma kong zong	1
+敛袵	lian ren	1
+怀姙	huai ren	1
+闺袵	gui ren	1
+敷袵	fu ren	1
+带袵	dai ren	1
+连袵	lian ren	1
+遗姙	yi ren	1
+怀袵	huai ren	1
+束袵	shu ren	1
+椎结左袵	zhui jie zuo ren	1
+缺袵	que ren	1
+侰束	jiong shu	1

@@ -22916,7 +22916,6 @@
 次资	ci zi	1
 次祖	ci zu	1
 伺风乌	si feng wu	1
-伺侯	ci hou	1
 伺窥	si kui	1
 伺望	si wang	1
 伺瑕导蠙	si xia dao pin	1
@@ -25882,7 +25881,6 @@
 带佩	dai pei	1
 带气	dai qi	1
 带衽	dai ren	1
-带袵	dai ren	1
 带赛	dai sai	1
 带丝禽	dai si qin	1
 带岁	dai sui	1
@@ -41321,7 +41319,6 @@
 敷洽	fu qia	1
 敷浅	fu qian	1
 敷衽	fu ren	1
-敷袵	fu ren	1
 敷蕤	fu rui	1
 敷蘂	fu rui	1
 敷时	fu shi	1
@@ -51261,7 +51258,6 @@
 闺蜜	gui mi	1
 闺人	gui ren	1
 闺衽	gui ren	1
-闺袵	gui ren	1
 闺声	gui sheng	1
 闺台	gui tai	1
 闺庭	gui ting	1
@@ -59761,8 +59757,6 @@
 怀情	huai qing	1
 怀任	huai ren	1
 怀衽	huai ren	1
-怀姙	huai ren	1
-怀袵	huai ren	1
 怀肉	huai rou	1
 怀濡	huai ru	1
 怀山	huai shan	1
@@ -76872,7 +76866,6 @@
 迥韵	jiong yun	1
 迥躅	jiong zhu	1
 侰涩	jiong se	1
-侰束	jiong shu	1
 炯尔	jiong er	1
 炯晃	jiong huang	1
 炯迹	jiong ji	1
@@ -89387,8 +89380,6 @@
 连绕	lian rao	1
 连稔	lian ren	1
 连衽	lian ren	1
-连袵	lian ren	1
-连袵成帷	lian ren cheng wei	1
 连腮胡	lian sai hu	1
 连山眉	lian shan mei	1
 连山氏	lian shan shi	1
@@ -89866,7 +89857,6 @@
 敛去	lian qu	1
 敛然	lian ran	1
 敛刃	lian ren	1
-敛袵	lian ren	1
 敛锐	lian rui	1
 敛散	lian san	1
 敛闪	lian shan	1
@@ -109198,7 +109188,6 @@
 披冻	pi dong	1
 披堆	pi dui	1
 披对	pi dui	1
-披发左袵	pi fa zuo ren	1
 披纷	pi fen	1
 披敷	pi fu	1
 披服	pi fu	1
@@ -122062,7 +122051,6 @@
 缺圮	que pi	1
 缺然	que ran	1
 缺衽	que ren	1
-缺袵	que ren	1
 缺丧	que sang	1
 缺蚀	que shi	1
 缺事	que shi	1
@@ -123619,7 +123607,6 @@
 戎旅	rong lv	1
 戎律	rong lv	1
 戎略	rong lve	1
-戎马倥傯	rong ma kong zong	1
 戎曼	rong man	1
 戎门	rong men	1
 戎貊	rong mo	1
@@ -137042,7 +137029,6 @@
 束取	shu qu	1
 束刃	shu ren	1
 束衽	shu ren	1
-束袵	shu ren	1
 束如牛腰	shu ru niu yao	1
 束颡	shu sang	1
 束绅	shu shen	1
@@ -177944,7 +177930,6 @@
 遗人	yi ren	1
 遗仁	yi ren	1
 遗妊	yi ren	1
-遗姙	yi ren	1
 遗荣	yi rong	1
 遗儒	yi ru	1
 遗润	yi run	1
@@ -196588,7 +196573,6 @@
 政主	zheng zhu	1
 政拙	zheng zhuo	1
 症痼	zheng gu	1
-症侯群	zheng hou qun	1
 症瘕积聚	zheng jia ji ju	1
 症坚	zheng jian	1
 症癖	zheng pi	1
@@ -202988,7 +202972,6 @@
 椎结	zhui jie	1
 椎结箕踞	zhui jie ji ju	1
 椎结左衽	zhui jie zuo ren	1
-椎结左袵	zhui jie zuo ren	1
 椎结左语	zhui jie zuo yu	1
 椎櫐	zhui lei	1
 椎炼	zhui lian	1

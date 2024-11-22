@@ -44727,7 +44727,6 @@
 俊峰	jun feng	13
 俊男	jun nan	2157
 郡法院	jun fa yuan	6
-郡候	jun hou	7
 郡名	jun ming	6
 郡长	jun zhang	10
 峻彪	jun biao	2
@@ -59493,7 +59492,6 @@
 攀蹬	pan deng	6
 攀定	pan ding	6
 攀法	pan fa	6
-攀付	pan fu	6
 攀付日	pan fu ri	6
 攀改	pan gai	6
 攀纲	pan gang	6
@@ -100102,7 +100100,6 @@
 虞翻	yu fan	3
 虞犯	yu fan	10
 虞国	yu guo	7
-虞侯	yu hou	7
 虞姬	yu ji	10
 虞集	yu ji	2
 愚笨者	yu ben zhe	2
