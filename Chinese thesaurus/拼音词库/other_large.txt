@@ -11183,7 +11183,6 @@
 跛牂	bo zang	1
 跛足从事	bo zu cong shi	1
 箥罗	bo luo	1
-箥箩	bo luo	1
 簸粃	bo bi	1
 簸采	bo cai	1
 簸蝩	bo chong	1
@@ -14174,7 +14173,6 @@
 查普曼	cha pu man	1
 查士丁尼	zha shi ding ni	1
 查手	zha shou	1
-查筭	zha suan	1
 查算	zha suan	1
 查条	zha tiao	1
 查头	zha tou	1
@@ -15360,7 +15358,6 @@
 常戍	chang shu	1
 常俗	chang su	1
 常宿	chang su	1
-常筭	chang suan	1
 常算	chang suan	1
 常岁	chang sui	1
 常所	chang suo	1
@@ -42297,7 +42294,6 @@
 福壤	fu rang	1
 福手福足	fu shou fu zu	1
 福斯塔夫	fu si ta fu	1
-福筭	fu suan	1
 福算	fu suan	1
 福田康夫	fu tian kang fu	1
 福田院	fu tian yuan	1
@@ -55236,7 +55232,6 @@
 何树	he shu	1
 何水部	he shui bu	1
 何水曹	he shui cao	1
-何筭	he suan	1
 何算	he suan	1
 何图	he tu	1
 何妥车	he tuo che	1
@@ -57477,7 +57472,6 @@
 洪私	hong si	1
 洪祀	hong si	1
 洪嗣	hong si	1
-洪筭	hong suan	1
 洪算	hong suan	1
 洪隧	hong sui	1
 洪桃	hong tao	1
@@ -65965,7 +65959,6 @@
 计术	ji shu	1
 计司	ji si	1
 计思	ji si	1
-计筭	ji suan	1
 计算机比喻	ji suan ji bi yu	1
 计算机断层	ji suan ji duan ceng	1
 计算机集成制造	ji suan ji ji cheng zhi zao	1
@@ -65989,7 +65982,6 @@
 计校	ji jiao	1
 计偕簿	ji xie bu	1
 计偕物	ji xie wu	1
-计研心筭	ji yan xin suan	1
 计意	ji yi	1
 计院	ji yuan	1
 计掾	ji yuan	1
@@ -75416,7 +75408,6 @@
 经说	jing shuo	1
 经丝彩色显花	jing si cai se xian hua	1
 经死	jing si	1
-经筭	jing suan	1
 经算	jing suan	1
 经塔	jing ta	1
 经台	jing tai	1
@@ -81811,7 +81802,6 @@
 科首	ke shou	1
 科输	ke shu	1
 科松	ke song	1
-科筭	ke suan	1
 科算	ke suan	1
 科岁	ke sui	1
 科索	ke suo	1
@@ -83044,7 +83034,6 @@
 口水佬	kou shui lao	1
 口松	kou song	1
 口诵心维	kou song xin wei	1
-口筭	kou suan	1
 口碎	kou sui	1
 口谈指画	kou tan zhi hua	1
 口谭	kou tan	1
@@ -94966,7 +94955,6 @@
 禄仕	lu shi	1
 禄数	lu shu	1
 禄粟	lu su	1
-禄筭	lu suan	1
 禄算	lu suan	1
 禄田	lu tian	1
 禄图	lu tu	1
@@ -101563,7 +101551,6 @@
 庙市	miao shi	1
 庙室	miao shi	1
 庙颂	miao song	1
-庙筭	miao suan	1
 庙算	miao suan	1
 庙堂碑	miao tang bei	1
 庙田	miao tian	1
@@ -124934,7 +124921,6 @@
 睿圣	rui sheng	1
 睿识	rui shi	1
 睿思	rui si	1
-睿筭	rui suan	1
 睿算	rui suan	1
 睿听	rui ting	1
 睿图	rui tu	1
@@ -130038,7 +130024,6 @@
 深沈	shen shen	1
 深士	shen shi	1
 深水埗	shen shui bu	1
-深图远筭	shen tu yuan suan	1
 深惟	shen wei	1
 深味	shen wei	1
 深文傅会	shen wen fu hui	1
@@ -130273,7 +130258,6 @@
 神民	shen min	1
 神敏	shen min	1
 神谟	shen mo	1
-神谟庙筭	shen mo miao suan	1
 神魔小说	shen mo xiao shuo	1
 神谋	shen mou	1
 神母	shen mu	1
@@ -130336,7 +130320,6 @@
 神祀	shen si	1
 神耸	shen song	1
 神素	shen su	1
-神筭	shen suan	1
 神邃	shen sui	1
 神胎	shen tai	1
 神桃	shen tao	1
@@ -131907,7 +131890,6 @@
 胜任能力	sheng ren neng li	1
 胜日	sheng ri	1
 胜士	sheng shi	1
-胜筭	sheng suan	1
 胜谈	sheng tan	1
 胜屠	sheng tu	1
 胜邪	sheng xie	1
@@ -145438,7 +145420,6 @@
 天思	tian si	1
 天驷	tian si	1
 天素	tian su	1
-天筭	tian suan	1
 天随	tian sui	1
 天随子	tian sui zi	1
 天邃	tian sui	1
@@ -147171,7 +147152,6 @@
 通俗地说	tong su de shuo	1
 通俗科学	tong su ke xue	1
 通诉	tong su	1
-通筭	tong suan	1
 通梭	tong suo	1
 通太	tong tai	1
 通谈	tong tan	1
@@ -158703,7 +158683,6 @@
 遐苏	xia su	1
 遐俗	xia su	1
 遐泝	xia su	1
-遐筭	xia suan	1
 遐算	xia suan	1
 遐覃	xia qin	1
 遐逖	xia ti	1
@@ -165495,7 +165474,6 @@
 星宿菜	xing xiu cai	1
 星宿川	xing xiu chuan	1
 星宿坛	xing xiu tan	1
-星筭	xing suan	1
 星燧	xing sui	1
 星坛	xing tan	1
 星头啄木鸟	xing tou zhuo mu niao	1
@@ -169950,7 +169928,6 @@
 勋廕	xun yin	1
 勋庸	xun yong	1
 埙篪	xun chi	1
-埙箎	xun chi	1
 焄膻	hun shan	1
 焄羶	hun shan	1
 熏禅	xun chan	1
@@ -170008,7 +169985,6 @@
 窨气	xun qi	1
 窨清	xun qing	1
 壎篪	xun chi	1
-壎箎	xun chi	1
 薰天赫地	xun tian he di	1
 獯羯	xun jie	1
 獯虏	xun lu	1
@@ -177982,7 +177958,6 @@
 遗溲	yi sou	1
 遗叟	yi sou	1
 遗笇	yi suan	1
-遗筭	yi suan	1
 遗算	yi suan	1
 遗穗	yi sui	1
 遗穟	yi sui	1
@@ -183786,7 +183761,6 @@
 邮马	you ma	1
 邮骑	you qi	1
 邮签	you qian	1
-邮籖	you qian	1
 邮券	you quan	1
 邮使	you shi	1
 邮司	you si	1
@@ -188960,7 +188934,6 @@
 越王蛇	yue wang she	1
 越王台	yue wang tai	1
 越王头	yue wang tou	1
-越王余筭	yue wang yu suan	1
 越王余算	yue wang yu suan	1
 越王约发	yue wang yue fa	1
 越王竹	yue wang zhu	1
@@ -189757,7 +189730,6 @@
 运司	yun si	1
 运送局	yun song ju	1
 运艘	yun sou	1
-运筭	yun suan	1
 运算环境	yun suan huan jing	1
 运同	yun tong	1
 运亡为存	yun wang wei cun	1
@@ -193197,7 +193169,6 @@
 长苏	chang su	1
 长素	chang su	1
 长宿	chang su	1
-长筭	chang suan	1
 长算远略	chang suan yuan lve	1
 长随带驮子	chang sui dai duo zi	1
 长遂	chang sui	1
@@ -195915,7 +195886,6 @@
 征忪	zheng song	1
 征搜	zheng sou	1
 征艘	zheng sou	1
-征筭	zheng suan	1
 征算	zheng suan	1
 征痛	zheng tong	1
 征徒	zheng tu	1
@@ -198528,7 +198498,6 @@
 智数	zhi shu	1
 智水	zhi shui	1
 智思	zhi si	1
-智筭	zhi suan	1
 智伪	zhi wei	1
 智効	zhi xiao	1
 智效	zhi xiao	1
@@ -201432,7 +201401,6 @@
 竹皮电壶	zhu pi dian hu	1
 竹皮冠	zhu pi guan	1
 竹皮巾	zhu pi jin	1
-竹笓	zhu bi	1
 竹埤	zhu pi	1
 竹圃	zhu pu	1
 竹浦	zhu pu	1

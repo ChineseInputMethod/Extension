@@ -8938,7 +8938,6 @@
 筹国	chou guo	5
 筹量	chou liang	1
 筹钱	chou qian	2
-筹筭	chou suan	1
 筹饷	chou xiang	6
 筹运	chou yun	6
 踌躇不决	chou chu bu jue	3
@@ -34028,7 +34027,6 @@
 骏驹	jun ju	1
 骏良	jun liang	1
 骏命	jun ming	1
-箘簬	jun lu	1
 咔唑	ka zuo	2
 咖啡伴侣	ka fei ban lv	3
 咖啡豆	ka fei dou	6

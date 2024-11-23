@@ -1256,3 +1256,38 @@
 椎结左袵	zhui jie zuo ren	1
 缺袵	que ren	1
 侰束	jiong shu	1
+计筭	ji suan	1
+运筭	yun suan	1
+竹笓	zhu bi	1
+胜筭	sheng suan	1
+筹筭	chou suan	1
+神筭	shen suan	1
+口筭	kou suan	1
+箥箩	bo luo	1
+睿筭	rui suan	1
+如埙如箎	ru xun ru chi	100
+越王余筭	yue wang yu suan	1
+科筭	ke suan	1
+征筭	zheng suan	1
+天筭	tian suan	1
+壎箎	xun chi	1
+洪筭	hong suan	1
+深图远筭	shen tu yuan suan	1
+何筭	he suan	1
+庙筭	miao suan	1
+神谟庙筭	shen mo miao suan	1
+禄筭	lu suan	1
+福筭	fu suan	1
+箘簬	jun lu	1
+埙箎	xun chi	1
+经筭	jing suan	1
+遗筭	yi suan	1
+常筭	chang suan	1
+计研心筭	ji yan xin suan	1
+通筭	tong suan	1
+遐筭	xia suan	1
+邮籖	you qian	1
+星筭	xing suan	1
+长筭	chang suan	1
+智筭	zhi suan	1
+查筭	zha suan	1

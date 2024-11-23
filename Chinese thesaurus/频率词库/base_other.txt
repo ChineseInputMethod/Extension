@@ -23672,7 +23672,6 @@
 符合要求	fu he yao qiu	10
 符拉迪	fu la di	1
 符录	fu lu	2
-符籙	fu lu	10
 符敏仪	fu min yi	2
 符木	fu mu	2
 符头	fu tou	7
