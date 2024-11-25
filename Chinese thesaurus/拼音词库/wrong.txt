@@ -1292,3 +1292,43 @@
 智筭	zhi suan	1
 查筭	zha suan	1
 跧局	quan ju	1
+雅片	ya pian	1
+雅雀无声	ya que wu sheng	1
+雅片枪	ya pian qiang	1
+鸾旗	luan qi	1
+寒雅	han ya	1
+金鸾殿	jin luan dian	1
+鸾辂	luan lu	1
+勘鞠	kan ju	1
+鞠问	ju wen	1
+鞠讯	ju xun	1
+鞠系	ju xi	1
+鞠狱	ju yu	1
+鞠报	ju bao	1
+鞠按	ju an	1
+鞠治	ju zhi	1
+酌酙	zhuo zhen	1
+进道若踡	jin dao ruo quan	1
+丰覇	feng ba	1
+蛅斯	zhan si	1
+谳鞠	yan ju	1
+讯鞠	xun ju	1
+育鞠	yu ju	1
+诘鞠	jie ju	1
+廷鞠	ting ju	1
+飞檝	fei ji	1
+起覇	qi ba	1
+捓揄	ye yu	1
+推鞠	tui ju	1
+骄覇	jiao ba	1
+乞鞠	qi ju	1
+銮和	luan he	1
+隺料	he liao	1
+八銮	ba luan	1
+和銮	he luan	1
+隺俸	he feng	1
+青銮	qing luan	1
+金雅觜	jin ya zi	1
+銮刀	luan dao	1
+鸾坡	luan po	1
+雅鬟	ya huan	1

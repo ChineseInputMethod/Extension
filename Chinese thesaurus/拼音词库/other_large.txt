@@ -1974,7 +1974,6 @@
 八流	ba liu	1
 八六子	ba liu zi	1
 八鸾	ba luan	1
-八銮	ba luan	1
 八轮船	ba lun chuan	1
 八络	ba luo	1
 八马	ba ma	1
@@ -38310,7 +38309,6 @@
 飞机云	fei ji yun	1
 飞屐	fei ji	1
 飞楫	fei ji	1
-飞檝	fei ji	1
 飞寄	fei ji	1
 飞价	fei jia	1
 飞驾	fei jia	1
@@ -39719,7 +39717,6 @@
 膹炙	fen zhi	1
 丰岸	feng an	1
 丰昂	feng ang	1
-丰覇	feng ba	1
 丰霸	feng ba	1
 丰败	feng bai	1
 丰饱	feng bao	1
@@ -53961,7 +53958,6 @@
 寒雪	han xue	1
 寒浔	han xun	1
 寒芽	han ya	1
-寒雅	han ya	1
 寒岩	han yan	1
 寒蜒	han yan	1
 寒砚	han yan	1
@@ -55323,7 +55319,6 @@
 和铃	he ling	1
 和龙	he long	1
 和陆	he lu	1
-和銮	he luan	1
 和罗	he luo	1
 和买	he mai	1
 和美镇	he mei zhen	1
@@ -55825,8 +55820,6 @@
 贺元	he yuan	1
 贺悦	he yue	1
 贺召	he zhao	1
-隺俸	he feng	1
-隺料	he liao	1
 赫伯斯翼龙	he bo si yi long	1
 赫赤	he chi	1
 赫赤赤	he chi chi	1
@@ -70754,7 +70747,6 @@
 骄傲地说	jiao ao de shuo	1
 骄骜	jiao ao	1
 骄慠	jiao ao	1
-骄覇	jiao ba	1
 骄霸	jiao ba	1
 骄暴	jiao bao	1
 骄悖	jiao bei	1
@@ -72365,7 +72357,6 @@
 诘呵	jie he	1
 诘奸	jie jian	1
 诘究	jie jiu	1
-诘鞠	jie ju	1
 诘鞫	jie ju	1
 诘蹶	jie jue	1
 诘抗	jie kang	1
@@ -73623,7 +73614,6 @@
 金箓	jin lu	1
 金箓云签	jin lu yun qian	1
 金鸾	jin luan	1
-金鸾殿	jin luan dian	1
 金銮宝殿	jin luan bao dian	1
 金銮客	jin luan ke	1
 金銮坡	jin luan po	1
@@ -73847,7 +73837,6 @@
 金鸦	jin ya	1
 金鸦觜	jin ya zi	1
 金牙门	jin ya men	1
-金雅觜	jin ya zi	1
 金颜	jin yan	1
 金眼鹛雀	jin yan mei que	1
 金雁	jin yan	1
@@ -74541,7 +74530,6 @@
 进捣	jin dao	1
 进蹈	jin dao	1
 进道	jin dao	1
-进道若踡	jin dao ruo quan	1
 进德冠	jin de guan	1
 进登	jin deng	1
 进奠	jin dian	1
@@ -78332,8 +78320,6 @@
 鴡鸠	ju jiu	1
 鴡鸠氏	ju jiu shi	1
 鞠爱	ju ai	1
-鞠按	ju an	1
-鞠报	ju bao	1
 鞠草	ju cao	1
 鞠尘	ju chen	1
 鞠城	ju cheng	1
@@ -78363,19 +78349,14 @@
 鞠视	ju shi	1
 鞠室	ju shi	1
 鞠通	ju tong	1
-鞠问	ju wen	1
 鞠戏	ju xi	1
-鞠系	ju xi	1
 鞠凶	ju xiong	1
 鞠讻	ju xiong	1
-鞠讯	ju xun	1
 鞠衣	ju yi	1
-鞠狱	ju yu	1
 鞠域	ju yu	1
 鞠院	ju yuan	1
 鞠仗	ju zhang	1
 鞠杖	ju zhang	1
-鞠治	ju zhi	1
 鞠稚	ju zhi	1
 鞠粥	ju zhou	1
 鞠罪	ju zui	1
@@ -81089,7 +81070,6 @@
 勘会	kan hui	1
 勘剪	kan jian	1
 勘箭	kan jian	1
-勘鞠	kan ju	1
 勘鞫	kan ju	1
 勘破	kan po	1
 勘契	kan qi	1
@@ -95386,7 +95366,6 @@
 鸾林	luan lin	1
 鸾绫	luan ling	1
 鸾龙	luan long	1
-鸾辂	luan lu	1
 鸾鹭	luan lu	1
 鸾媒	luan mei	1
 鸾门	luan men	1
@@ -95398,9 +95377,7 @@
 鸾佩	luan pei	1
 鸾辔	luan pei	1
 鸾軿	luan peng	1
-鸾坡	luan po	1
 鸾栖	luan qi	1
-鸾旗	luan qi	1
 鸾旗车	luan qi che	1
 鸾骞鹤舞	luan qian he wu	1
 鸾跄	luan qiang	1
@@ -95479,9 +95456,7 @@
 脔制	luan zhi	1
 脔炙	luan zhi	1
 銮跸	luan bi	1
-銮刀	luan dao	1
 銮殿	luan dian	1
-銮和	luan he	1
 銮江	luan jiang	1
 銮旍	luan jing	1
 銮迾	luan lie	1
@@ -113473,7 +113448,6 @@
 启佐	qi zuo	1
 启祚	qi zuo	1
 起案	qi an	1
-起覇	qi ba	1
 起拜	qi bai	1
 起办	qi ban	1
 起惫	qi bei	1
@@ -117581,7 +117555,6 @@
 青路	qing lu	1
 青箓	qing lu	1
 青鸾翼	qing luan yi	1
-青銮	qing luan	1
 青纶	qing lun	1
 青罗	qing luo	1
 青罗带	qing luo dai	1
@@ -146702,7 +146675,6 @@
 廷毁	ting hui	1
 廷见	ting jian	1
 廷诘	ting jie	1
-廷鞠	ting ju	1
 廷鞫	ting ju	1
 廷理	ting li	1
 廷吏	ting li	1
@@ -148948,7 +148920,6 @@
 推进舱	tui jin cang	1
 推敬	tui jing	1
 推纠	tui jiu	1
-推鞠	tui ju	1
 推鞫	tui ju	1
 推开天窗说亮话	tui kai tian chuang shuo liang hua	1
 推考	tui kao	1
@@ -170402,7 +170373,6 @@
 讯检	xun jian	1
 讯诘	xun jie	1
 讯结	xun jie	1
-讯鞠	xun ju	1
 讯据	xun ju	1
 讯决	xun jue	1
 讯考	xun kao	1
@@ -171083,7 +171053,6 @@
 雅合	ya he	1
 雅厚	ya hou	1
 雅化	ya hua	1
-雅鬟	ya huan	1
 雅记	ya ji	1
 雅间	ya jian	1
 雅鉴	ya jian	1
@@ -171122,8 +171091,6 @@
 雅诺什	ya nuo shi	1
 雅皮	ya pi	1
 雅篇	ya pian	1
-雅片	ya pian	1
-雅片枪	ya pian qiang	1
 雅契	ya qi	1
 雅器	ya qi	1
 雅俏	ya qiao	1
@@ -171131,7 +171098,6 @@
 雅切	ya qie	1
 雅情	ya qing	1
 雅曲	ya qu	1
-雅雀无声	ya que wu sheng	1
 雅然	ya ran	1
 雅容	ya rong	1
 雅儒	ya ru	1
@@ -173566,7 +173532,6 @@
 谳定	yan ding	1
 谳法	yan fa	1
 谳稿	yan gao	1
-谳鞠	yan ju	1
 谳鞫	yan ju	1
 谳局	yan ju	1
 谳决	yan jue	1
@@ -175552,7 +175517,6 @@
 耶许	ye xu	1
 耶耶乎	ye ye hu	1
 耶禺	ye yu	1
-捓揄	ye yu	1
 揶弄	ye nong	1
 也波哥	ye bo ge	1
 也儿	ye er	1
@@ -186773,7 +186737,6 @@
 育贲	yu ben	1
 育儿嫂	yu er sao	1
 育获	yu huo	1
-育鞠	yu ju	1
 育鞫	yu ju	1
 育空	yu kong	1
 育类	yu lei	1
@@ -192160,7 +192123,6 @@
 旃茵	zhan yin	1
 旃帐	zhan zhang	1
 蛅虿	zhan chai	1
-蛅斯	zhan si	1
 蛅蟴	zhan si	1
 蛅蟖	zhan si	1
 蛅蟖房	zhan si fang	1
@@ -203406,7 +203368,6 @@
 酌贪泉	zhuo tan quan	1
 酌霞	zhuo xia	1
 酌言	zhuo yan	1
-酌酙	zhuo zhen	1
 酌斟	zhuo zhen	1
 烵烁	zhuo shuo	1
 浞豷	zhuo yi	1

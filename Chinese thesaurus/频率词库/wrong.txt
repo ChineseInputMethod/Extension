@@ -88,3 +88,7 @@
 虞侯	yu hou	7
 符籙	fu lu	10
 移局	yi ju	10
+鹅鸾鼻	e luan bi	7
+胰脂霉	yi zhi mei	6
+淀粉霉	dian fen mei	6
+防酶	fang mei	10

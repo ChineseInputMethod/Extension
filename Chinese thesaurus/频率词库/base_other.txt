@@ -17179,7 +17179,6 @@
 淀粉酵素	dian fen jiao su	3
 淀粉类	dian fen lei	1
 淀粉粒质	dian fen li zhi	3
-淀粉霉	dian fen mei	6
 淀粉设备	dian fen she bei	2
 淀粉糖	dian fen tang	3
 淀粉糖浆	dian fen tang jiang	2
@@ -19510,7 +19509,6 @@
 鹅肝酱	e gan jiang	6
 鹅肌肽	e ji tai	6
 鹅翎扇	e ling shan	7
-鹅鸾鼻	e luan bi	7
 鹅苗	e miao	1
 鹅亭	e ting	6
 蛾蝙	e bian	10
@@ -21683,7 +21681,6 @@
 防漏	fang lou	10
 防盲	fang mang	6
 防煤气	fang mei qi	6
-防酶	fang mei	10
 防霉剂	fang mei ji	2
 防木马	fang mu ma	1
 防泥绑腿	fang ni bang tui	2
@@ -96203,7 +96200,6 @@
 胰腺癌	yi xian ai	1
 胰脂肪酶	yi zhi fang mei	2
 胰脂酶素	yi zhi mei su	7
-胰脂霉	yi zhi mei	6
 移车	yi che	10
 移出	yi chu	10
 移到	yi dao	782
