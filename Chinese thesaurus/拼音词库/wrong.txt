@@ -1332,3 +1332,68 @@
 銮刀	luan dao	1
 鸾坡	luan po	1
 雅鬟	ya huan	1
+松栢	song bai	1
+枯耘伤岁	ku yun shang sui	1
+山查	shan zha	1
+卖楂梨	mai zha li	1
+山查糕	shan zha gao	1
+楛死	ku si	1
+椒栢酒	jiao bai jiu	1
+枯耕	ku geng	1
+猴楂	hou zha	1
+陵栢	ling bai	1
+歌謡	ge yao	1
+三謡	san yao	1
+紫芝謡	zi zhi yao	1
+里謡	li yao	1
+踏謡	ta yao	1
+踏謡娘	ta yao niang	1
+摩头	mo tou	1
+魔羯座	mo jie zuo	1
+幺魔	yao mo	1
+謡言	yao yan	1
+謡诼	yao zhuo	1
+謡谚	yao yan	1
+謡风	yao feng	1
+謡传	yao chuan	1
+謡俗	yao su	1
+焰魔天	yan mo tian	1
+新謡	xin yao	1
+童謡	tong yao	1
+音謡	yin yao	1
+迭謡	die yao	1
+造謡	zao yao	1
+造謡惑众	zao yao huo zhong	1
+造謡生事	zao yao sheng shi	1
+造謡生非	zao yao sheng fei	1
+阜财謡	fu cai yao	1
+衢謡	qu yao	1
+行謡	xing yao	1
+风謡	feng yao	1
+鬼謡	gui yao	1
+白云謡	bai yun yao	1
+民謡	min yao	1
+俚謡	li yao	1
+僮謡	tong yao	1
+吴謡	wu yao	1
+吟謡	yin yao	1
+辟謡	pi yao	1
+山謡	shan yao	1
+肤见謭识	fu jian jian shi	1
+村謡	cun yao	1
+复陂謡	fu bei yao	1
+计校	ji jiao	1
+较订	jiao ding	1
+较勘	jiao kan	1
+较场	jiao chang	1
+参较	can jiao	1
+璇机	xuan ji	1
+较短量长	jiao duan liang chang	1
+较雠	jiao chou	1
+检较	jian jiao	1
+雠较	chou jiao	1
+户辚	hu lin	1
+玉玑	yu ji	1
+璇机玉衡	xuan ji yu heng	1
+衡枙	heng e	1
+车枙	che e	1

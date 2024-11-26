@@ -3251,7 +3251,6 @@
 白云司	bai yun si	1
 白云亭	bai yun ting	1
 白云谣	bai yun yao	1
-白云謡	bai yun yao	1
 白酂	bai zan	1
 白枣	bai zao	1
 白皂	bai zao	1
@@ -12917,7 +12916,6 @@
 参迹	can ji	1
 参驾	can jia	1
 参讲	can jiang	1
-参较	can jiao	1
 参诘	can jie	1
 参解	can jie	1
 参觐	can jin	1
@@ -16103,7 +16101,6 @@
 车到山前自有路	che dao shan qian zi you lu	1
 车蹬	che deng	1
 车店	che dian	1
-车枙	che e	1
 车轭	che e	1
 车蕃	che fan	1
 车藩	che fan	1
@@ -20090,7 +20087,6 @@
 雠忌	chou ji	1
 雠家	chou jia	1
 雠贱	chou jian	1
-雠较	chou jiao	1
 雠劫	chou jie	1
 雠刊	chou kan	1
 雠勘	chou kan	1
@@ -24365,7 +24361,6 @@
 村言	cun yan	1
 村样儿	cun yang er	1
 村谣	cun yao	1
-村謡	cun yao	1
 村业	cun ye	1
 村邑	cun yi	1
 村驿	cun yi	1
@@ -30983,7 +30978,6 @@
 迭窨	die xun	1
 迭巘	die yan	1
 迭谣	die yao	1
-迭謡	die yao	1
 迭意	die yi	1
 迭印	die yin	1
 迭颖	die ying	1
@@ -40230,7 +40224,6 @@
 风砚	feng yan	1
 风艳	feng yan	1
 风恙	feng yang	1
-风謡	feng yao	1
 风漪	feng yi	1
 风移	feng yi	1
 风谊	feng yi	1
@@ -41238,7 +41231,6 @@
 肤郭	fu guo	1
 肤果	fu guo	1
 肤合	fu he	1
-肤见謭识	fu jian jian shi	1
 肤浸	fu jin	1
 肤阔	fu kuo	1
 肤理	fu li	1
@@ -43164,7 +43156,6 @@
 阜安	fu an	1
 阜财解愠	fu cai jie yun	1
 阜财谣	fu cai yao	1
-阜财謡	fu cai yao	1
 阜昌	fu chang	1
 阜成	fu cheng	1
 阜垤	fu die	1
@@ -43236,7 +43227,6 @@
 复版	fu ban	1
 复陂	fu bei	1
 复陂谣	fu bei yao	1
-复陂謡	fu bei yao	1
 复被	fu bei	1
 复变	fu bian	1
 复瓿	fu bu	1
@@ -45623,7 +45613,6 @@
 歌响	ge xiang	1
 歌笑	ge xiao	1
 歌墟	ge xu	1
-歌謡	ge yao	1
 歌唫	ge yin	1
 歌鱼	ge yu	1
 歌悦	ge yue	1
@@ -51711,7 +51700,6 @@
 鬼眼	gui yan	1
 鬼魇	gui yan	1
 鬼谣	gui yao	1
-鬼謡	gui yao	1
 鬼药	gui yao	1
 鬼揶揄	gui ye yu	1
 鬼夜哭	gui ye ku	1
@@ -56776,7 +56764,6 @@
 衡从	heng cong	1
 衡道	heng dao	1
 衡度	heng du	1
-衡枙	heng e	1
 衡厄	heng e	1
 衡扼	heng e	1
 衡樊	heng fan	1
@@ -57828,7 +57815,6 @@
 猴蒜	hou suan	1
 猴猨	hou yuan	1
 猴猿	hou yuan	1
-猴楂	hou zha	1
 猴子跳	hou zi tiao	1
 猴子偷桃	hou zi tou tao	1
 瘊赘	hou zhui	1
@@ -58693,7 +58679,6 @@
 户课	hu ke	1
 户口制	hu kou zhi	1
 户郎	hu lang	1
-户辚	hu lin	1
 户橉	hu lin	1
 户马	hu ma	1
 户门	hu men	1
@@ -65972,7 +65957,6 @@
 计献	ji xian	1
 计乡	ji xiang	1
 计相	ji xiang	1
-计校	ji jiao	1
 计偕簿	ji xie bu	1
 计偕物	ji xie wu	1
 计意	ji yi	1
@@ -68252,7 +68236,6 @@
 检奸	jian jian	1
 检俭	jian jian	1
 检简	jian jian	1
-检较	jian jiao	1
 检节	jian jie	1
 检诘	jian jie	1
 检结	jian jie	1
@@ -70942,7 +70925,6 @@
 椒岸	jiao an	1
 椒柏	jiao bai	1
 椒柏酒	jiao bai jiu	1
-椒栢酒	jiao bai jiu	1
 椒杯	jiao bei	1
 椒壁	jiao bi	1
 椒茶	jiao cha	1
@@ -71735,9 +71717,6 @@
 较别	jiao bie	1
 较炳	jiao bing	1
 较驳	jiao bo	1
-较场	jiao chang	1
-较雠	jiao chou	1
-较订	jiao ding	1
 较定	jiao ding	1
 较短絜长	jiao duan xie chang	1
 较讹	jiao e	1
@@ -71750,7 +71729,6 @@
 较辑	jiao ji	1
 较捷	jiao jie	1
 较竞	jiao jing	1
-较勘	jiao kan	1
 较可	jiao ke	1
 较刻	jiao ke	1
 较口	jiao kou	1
@@ -83198,7 +83176,6 @@
 枯稿	ku gao	1
 枯骼	ku ge	1
 枯根	ku gen	1
-枯耕	ku geng	1
 枯梗	ku geng	1
 枯骨税	ku gu shui	1
 枯骨死草	ku gu si cao	1
@@ -83420,7 +83397,6 @@
 楛僈	ku man	1
 楛砮	ku nu	1
 楛矢之贡	hu shi zhi gong	1
-楛死	ku si	1
 楛菀	ku wan	1
 楛羽	ku yu	1
 楛窳	ku yu	1
@@ -88195,7 +88171,6 @@
 里宴	li yan	1
 里燕	li yan	1
 里谣	li yao	1
-里謡	li yao	1
 里也波	li ye bo	1
 里谒	li ye	1
 里役	li yi	1
@@ -88223,7 +88198,6 @@
 俚巷	li xiang	1
 俚亵	li xie	1
 俚谣	li yao	1
-俚謡	li yao	1
 俚野	li ye	1
 俚窳	li yu	1
 俚子	li zi	1
@@ -92196,7 +92170,6 @@
 陵傲	ling ao	1
 陵慠	ling ao	1
 陵柏	ling bai	1
-陵栢	ling bai	1
 陵阪	ling ban	1
 陵陂	ling bei	1
 陵偪	ling bi	1
@@ -98042,7 +98015,6 @@
 卖约	mai yue	1
 卖韵	mai yun	1
 卖贼	mai zei	1
-卖楂梨	mai zha li	1
 卖帐	mai zhang	1
 卖账	mai zhang	1
 卖折	mai she	1
@@ -101689,7 +101661,6 @@
 民言	min yan	1
 民阎	min yan	1
 民碞	min yan	1
-民謡	min yao	1
 民仪	min yi	1
 民义	min yi	1
 民役	min yi	1
@@ -102872,7 +102843,6 @@
 摩娑石	mo suo shi	1
 摩梭	mo suo	1
 摩梭族	mo suo zu	1
-摩头	mo tou	1
 摩托车的士	mo tuo che di shi	1
 摩托车运动	mo tuo che yun dong	1
 摩托罗垃	mo tuo luo la	1
@@ -109701,7 +109671,6 @@
 辟选	pi xuan	1
 辟阳侯	pi yang hou	1
 辟阳之宠	pi yang zhi chong	1
-辟謡	pi yao	1
 辟倚	pi yi	1
 辟异	pi yi	1
 辟隐	pi yin	1
@@ -121251,7 +121220,6 @@
 衢肆	qu si	1
 衢涂	qu tu	1
 衢谣	qu yao	1
-衢謡	qu yao	1
 衢宇	qu yu	1
 衢尊	qu zun	1
 衢樽	qu zun	1
@@ -126013,7 +125981,6 @@
 三杨	san yang	1
 三养	san yang	1
 三谣	san yao	1
-三謡	san yao	1
 三曜	san yao	1
 三一八惨案	san yi ba can an	1
 三一回五一回	san yi hui wu yi hui	1
@@ -127304,8 +127271,6 @@
 山菜	shan cai	1
 山蚕	shan can	1
 山岑	shan cen	1
-山查	shan zha	1
-山查糕	shan zha gao	1
 山厂	shan chang	1
 山巢	shan chao	1
 山琛	shan chen	1
@@ -127626,7 +127591,6 @@
 山殽野湋	shan yao ye wei	1
 山谣	shan yao	1
 山猺	shan yao	1
-山謡	shan yao	1
 山埜	shan ye	1
 山腋	shan ye	1
 山衣	shan yi	1
@@ -140002,7 +139966,6 @@
 松柏后雕	song bai hou diao	1
 松柏之客	song bai zhi ke	1
 松柏之塞	song bai zhi sai	1
-松栢	song bai	1
 松苞	song bao	1
 松北	song bei	1
 松变	song bian	1
@@ -142604,8 +142567,6 @@
 踏谣	ta yao	1
 踏谣娘	ta yao niang	1
 踏摇娘	ta yao niang	1
-踏謡	ta yao	1
-踏謡娘	ta yao niang	1
 踏袎	ta yao	1
 踏营	ta ying	1
 踏影蛊	ta ying gu	1
@@ -147749,7 +147710,6 @@
 童牙	tong ya	1
 童羊	tong yang	1
 童养	tong yang	1
-童謡	tong yao	1
 童幼	tong you	1
 童穉	tong zhi	1
 童子科	tong zi ke	1
@@ -147774,7 +147734,6 @@
 僮讼	tong song	1
 僮娃	tong wa	1
 僮谣	tong yao	1
-僮謡	tong yao	1
 僮役	tong yi	1
 僮约	tong yue	1
 僮指	tong zhi	1
@@ -155501,7 +155460,6 @@
 吴岫	wu xiu	1
 吴羊	wu yang	1
 吴谣	wu yao	1
-吴謡	wu yao	1
 吴冶	wu ye	1
 吴闉	wu yin	1
 吴吟	wu yin	1
@@ -165136,7 +165094,6 @@
 新艳	xin yan	1
 新样儿的	xin yang er de	1
 新谣	xin yao	1
-新謡	xin yao	1
 新义州市	xin yi zhou shi	1
 新译	xin yi	1
 新阴	xin yin	1
@@ -165949,7 +165906,6 @@
 行盐	xing yan	1
 行雁	xing yan	1
 行谣	xing yao	1
-行謡	xing yao	1
 行衣	xing yi	1
 行揖	xing yi	1
 行移	xing yi	1
@@ -169097,8 +169053,6 @@
 璇衡	xuan heng	1
 璇玑全图	xuan ji quan tu	1
 璇玑玉衡	xuan ji yu heng	1
-璇机	xuan ji	1
-璇机玉衡	xuan ji yu heng	1
 璇极	xuan ji	1
 璇阶	xuan jie	1
 璇娟	xuan juan	1
@@ -173498,7 +173452,6 @@
 焰蜡	yan la	1
 焰摩	yan mo	1
 焰摩天	yan mo tian	1
-焰魔天	yan mo tian	1
 焰势	yan shi	1
 焰室	yan shi	1
 焰焰烘烘	yan yan hong hong	1
@@ -174613,7 +174566,6 @@
 幺陋	yao lou	1
 幺蔑	yao mie	1
 幺麽小丑	yao mo xiao chou	1
-幺魔	yao mo	1
 幺匿	yao ni	1
 幺娘	yao niang	1
 幺袅	yao niao	1
@@ -175161,11 +175113,9 @@
 繇役	yao yi	1
 繇于	yao yu	1
 謡谶	yao chen	1
-謡传	yao chuan	1
 謡词	yao ci	1
 謡谍	yao die	1
 謡讟	yao du	1
-謡风	yao feng	1
 謡歌	yao ge	1
 謡喙	yao hui	1
 謡惑	yao huo	1
@@ -175175,15 +175125,11 @@
 謡讼	yao song	1
 謡诵	yao song	1
 謡颂	yao song	1
-謡俗	yao su	1
-謡言	yao yan	1
-謡谚	yao yan	1
 謡妖	yao yao	1
 謡议	yao yi	1
 謡吟	yao yin	1
 謡咏	yao yong	1
 謡语	yao yu	1
-謡诼	yao zhuo	1
 苭茮	yao jiao	1
 杳蔼	yao ai	1
 杳霭	yao ai	1
@@ -180277,7 +180223,6 @@
 音吐	yin tu	1
 音闻	yin wen	1
 音谣	yin yao	1
-音謡	yin yao	1
 音仪	yin yi	1
 音驿	yin yi	1
 音意	yin yi	1
@@ -180535,7 +180480,6 @@
 吟研	yin yan	1
 吟腰	yin yao	1
 吟谣	yin yao	1
-吟謡	yin yao	1
 吟绎	yin yi	1
 吟债	yin zhai	1
 吟轴	yin zhou	1
@@ -186075,7 +186019,6 @@
 玉晖	yu hui	1
 玉徽	yu hui	1
 玉活计	yu huo ji	1
-玉玑	yu ji	1
 玉机	yu ji	1
 玉鸡川	yu ji chuan	1
 玉鸡苗	yu ji miao	1
@@ -190986,10 +190929,6 @@
 造谖	zao xuan	1
 造言	zao yan	1
 造殃	zao yang	1
-造謡	zao yao	1
-造謡惑众	zao yao huo zhong	1
-造謡生非	zao yao sheng fei	1
-造謡生事	zao yao sheng shi	1
 造冶	zao ye	1
 造因	zao yin	1
 造语	zao yu	1
@@ -204120,7 +204059,6 @@
 紫芝翁	zi zhi weng	1
 紫芝心	zi zhi xin	1
 紫芝谣	zi zhi yao	1
-紫芝謡	zi zhi yao	1
 紫质症	zi zhi zheng	1
 紫宙	zi zhou	1
 紫朱	zi zhu	1

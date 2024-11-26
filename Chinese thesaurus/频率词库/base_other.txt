@@ -17345,7 +17345,6 @@
 调会	tiao hui	10
 调货	tiao huo	10
 调机	tiao ji	10
-调较	tiao jiao	10
 调节阀	tiao jie fa	100
 调解人	tiao jie ren	2004
 调解员	tiao jie yuan	10
@@ -48134,7 +48133,6 @@
 郎乡	lang xiang	6
 郎踪	lang zong	10
 狼嚎	lang hao	10
-桹桹	lang lang	100
 廊桥	lang qiao	2
 廊厅	lang ting	6
 廊下	lang xia	10
@@ -56615,7 +56613,6 @@
 魔法阵	mo fa zhen	1
 魔法值	mo fa zhi	1
 魔符	mo fu	6
-魔根	mo gen	1
 魔鬼城	mo gui cheng	1
 魔鬼崇拜	mo gui chong bai	2
 魔鬼队	mo gui dui	6
@@ -56628,7 +56625,6 @@
 魔环	mo huan	6
 魔剑	mo jian	1
 魔剑士	mo jian shi	1
-魔羯	mo jie	6
 魔界	mo jie	10
 魔界村	mo jie cun	1
 魔镜	mo jing	10
@@ -93220,7 +93216,6 @@
 迅驰	xun chi	3
 迅故	xun gu	6
 迅集	xun ji	6
-迅辑	xun ji	6
 迅快如电	xun kuai ru dian	3
 迅猛发展	xun meng fa zhan	2
 迅速按	xun su an	1
@@ -93592,7 +93587,6 @@
 雅筑	ya zhu	6
 雅姿	ya zi	2
 轧毙	ya bi	10
-轧棍	zha gun	10
 轧件	ya jian	10
 轧来	ya lai	10
 轧路	ya lu	10

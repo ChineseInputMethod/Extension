@@ -30938,7 +30938,6 @@
 轿厅	jiao ting	1
 较德焯勤	jiao de zhuo qin	1
 较短比长	jiao duan bi chang	1
-较短量长	jiao duan liang chang	1
 较对	jiao dui	5
 较好地	jiao hao de	2
 较合适地	jiao he shi de	7
@@ -35384,7 +35383,6 @@
 枯叶蛾	ku ye e	3
 枯鱼	ku yu	5
 枯鱼病鹤	ku yu bing he	1
-枯耘伤岁	ku yun shang sui	1
 枯燥地	ku zao de	6
 枯磔	ku zhe	5
 枯枝再春	ku zhi zai chun	1

@@ -92,3 +92,9 @@
 胰脂霉	yi zhi mei	6
 淀粉霉	dian fen mei	6
 防酶	fang mei	10
+魔羯	mo jie	6
+魔根	mo gen	1
+桹桹	lang lang	100
+轧棍	zha gun	10
+调较	tiao jiao	10
+迅辑	xun ji	6

@@ -59955,7 +59955,6 @@
 魔鬼	mo gui	11238
 魔幻	mo huan	564
 魔教	mo jiao	2
-魔羯座	mo jie zuo	1
 魔戒	mo jie	6
 魔君	mo jun	1
 魔窟	mo ku	4254
