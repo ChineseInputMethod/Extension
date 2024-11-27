@@ -20614,7 +20614,6 @@
 锄钩	chu gou	1
 锄荒	chu huang	1
 锄击	chu ji	1
-锄犂	chu li	1
 锄理	chu li	1
 锄耧	chu lou	1
 锄苗	chu miao	1
@@ -41547,7 +41546,6 @@
 扶匡	fu kuang	1
 扶筐	fu kuang	1
 扶徕	fu lai	1
-扶犂	fu li	1
 扶犂手	fu li shou	1
 扶力	fu li	1
 扶留	fu liu	1
@@ -46222,7 +46220,6 @@
 耕藉	geng jie	1
 耕籍	geng ji	1
 耕耒	geng lei	1
-耕犂	geng li	1
 耕力	geng li	1
 耕敛	geng lian	1
 耕寮	geng liao	1
@@ -52742,7 +52739,6 @@
 蛤解	ge jie	1
 蛤精疾	ge jing ji	1
 蛤梨	ge li	1
-蛤棃	ge li	1
 蛤蜊粉	ge li fen	1
 蛤黎酱	ge li jiang	1
 蛤蜃	ge shen	1
@@ -58211,7 +58207,6 @@
 狐襟貉袖	hu jin mo xiu	1
 狐剌	hu la	1
 狐梨	hu li	1
-狐棃	hu li	1
 狐黎	hu li	1
 狐梁	hu liang	1
 狐魅疾	hu mei ji	1
@@ -67438,7 +67433,6 @@
 驾跨	jia kua	1
 驾浪	jia lang	1
 驾犁	jia li	1
-驾犂	jia li	1
 驾鲤	jia li	1
 驾龙	jia long	1
 驾名	jia ming	1
@@ -76415,7 +76409,6 @@
 竞租	jing zu	1
 竟案	jing an	1
 竟旦	jing dan	1
-竟购	jing gou	1
 竟士	jing shi	1
 竟世	jing shi	1
 竟岁	jing sui	1
@@ -87707,47 +87700,30 @@
 鹂鹒	li geng	1
 鹂鷬	li huang	1
 鹂鹠	li liu	1
-犂壁	li bi	1
 犂别	li bie	1
-犂镵	li chan	1
-犂锄	li chu	1
 犂春	li chun	1
 犂旦	li dan	1
-犂轭	li e	1
 犂軶	li e	1
 犂耳	li er	1
 犂槅	li ge	1
-犂耕	li geng	1
 犂錧	li guan	1
 犂黑	li hei	1
 犂湖	li hu	1
-犂鹕	li hu	1
 犂花	li hua	1
-犂铧	li hua	1
-犂镜	li jing	1
 犂犋	li ju	1
 犂老	li lao	1
 犂眉騧	li mei gua	1
 犂面	li mian	1
 犂民	li min	1
 犂明	li ming	1
-犂牛	li niu	1
-犂牛骍角	li niu xing jiao	1
-犂牛之子	li niu zhi zi	1
 犂平	li ping	1
 犂祁	li qi	1
-犂靬	li jian	1
 犂然	li ran	1
-犂扫	li sao	1
 犂舌	li she	1
-犂舌狱	li she yu	1
-犂生骍角	li sheng xing jiao	1
 犂鼠	li shu	1
 犂曙	li shu	1
 犂庭	li ting	1
-犂庭扫穴	li ting sao xue	1
 犂途	li tu	1
-犂涂	li tu	1
 犂元	li yuan	1
 犂子	li zi	1
 犂鉏	li chu	1
@@ -92705,7 +92681,6 @@
 留款	liu kuan	1
 留髠	liu kun	1
 留犁	liu li	1
-留犂挠酒	liu li nao jiu	1
 留里克	liu li ke	1
 留力	liu li	1
 留利	liu li	1
@@ -94237,7 +94212,6 @@
 楼梯台	lou ti tai	1
 慺诚	lou cheng	1
 耧锄	lou chu	1
-耧犂	lou li	1
 蝼顶金	lou ding jin	1
 蝼蛄科	lou gu ke	1
 蝼蚓	lou yin	1
@@ -97753,7 +97727,6 @@
 买骏	mai jun	1
 买骏骨	mai jun gu	1
 买了佛冷	mai le fo leng	1
-买犂卖剑	mai li mai jian	1
 买脸面	mai lian mian	1
 买路	mai lu	1
 买路财	mai lu cai	1
@@ -105433,7 +105406,6 @@
 泥金扇	ni jin shan	1
 泥浕	ni jin	1
 泥烂	ni lan	1
-泥犂	ni li	1
 泥漉	ni lu	1
 泥沦	ni lun	1
 泥马渡江	ni ma du jiang	1
@@ -106235,7 +106207,6 @@
 啮坏	nie huai	1
 啮嚼	nie jiao	1
 啮梨	nie li	1
-啮棃	nie li	1
 啮啮	nie nie	1
 啮缺	nie que	1
 啮杀	nie sha	1
@@ -125602,7 +125573,6 @@
 三羸	san lei	1
 三累	san lei	1
 三犁	san li	1
-三犂	san li	1
 三李	san li	1
 三里雾	san li wu	1
 三吏	san li	1
@@ -143616,8 +143586,6 @@
 棠郊成政	tang jiao cheng zheng	1
 棠梨宫	tang li gong	1
 棠梨馆	tang li guan	1
-棠棃	tang li	1
-棠棃馆	tang li guan	1
 棠橹	tang lu	1
 棠木舫	tang mu fang	1
 棠朹子	tang gui zi	1
@@ -202050,7 +202018,6 @@
 髽首	zhua shou	1
 髽子	zhua zi	1
 跩文	zhuai wen	1
-拽耙扶犂	zhuai pa fu li	1
 拽欛扶犂	zhuai ba fu li	1
 拽白	zhuai bai	1
 拽帛	zhuai bo	1

@@ -98,3 +98,8 @@
 轧棍	zha gun	10
 调较	tiao jiao	10
 迅辑	xun ji	6
+竟争力	jing zheng li	1
+竟相	jing xiang	6
+竟猜	jing cai	1
+竟聘	jing pin	1
+智力竟赛	zhi li jing sai	7

@@ -43081,7 +43081,6 @@
 竞走赛	jing zou sai	6
 竟把	jing ba	191
 竟被	jing bei	402
-竟猜	jing cai	1
 竟成	jing cheng	3
 竟达	jing da	140
 竟会	jing hui	3360
@@ -43089,20 +43088,17 @@
 竟将	jing jiang	205
 竟连	jing lian	7
 竟能	jing neng	256
-竟聘	jing pin	1
 竟去	jing qu	10
 竟然做	jing ran zuo	2
 竟使	jing shi	6
 竟秃	jing tu	6
 竟为	jing wei	10
 竟未	jing wei	100
-竟相	jing xiang	6
 竟要	jing yao	2
 竟有	jing you	736
 竟在	jing zai	7
 竟遭	jing zao	1
 竟真	jing zhen	6
-竟争力	jing zheng li	1
 竟中	jing zhong	6
 婧婧	jing jing	6
 靓妞	liang niu	10
@@ -107915,7 +107911,6 @@
 智力回炉	zhi li hui lu	7
 智力竞猜	zhi li jing cai	7
 智力竞赛	zhi li jing sai	7
-智力竟赛	zhi li jing sai	7
 智力开发	zhi li kai fa	2161
 智力量表	zhi li liang biao	2
 智力水准	zhi li shui zhun	7
