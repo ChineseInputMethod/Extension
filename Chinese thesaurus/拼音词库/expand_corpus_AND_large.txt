@@ -29679,7 +29679,6 @@
 监趸	jian dun	5
 监管体制	jian guan ti zhi	6
 监解	jian jie	1
-监戒	jian jie	5
 监临	jian lin	1
 监铺	jian pu	1
 监人	jian ren	5
@@ -42950,7 +42949,6 @@
 明火持杖	ming huo chi zhang	1
 明火执械	ming huo zhi xie	1
 明间	ming jian	1
-明监	ming jian	5
 明见	ming jian	1
 明降	ming jiang	1
 明角	ming jiao	5
@@ -54095,7 +54093,6 @@
 赏罚不明	shang fa bu ming	1
 赏罚信明	shang fa xin ming	1
 赏罚严明	shang fa yan ming	3
-赏监	shang jian	5
 赏劳	shang lao	1
 赏劳罚罪	shang lao fa zui	1
 赏立诛必	shang li zhu bi	1
@@ -76409,7 +76406,6 @@
 殷都区	yin du qu	3
 殷阜	yin fu	1
 殷浩书空	yin hao shu kong	1
-殷监	yin jian	5
 殷见	yin jian	1
 殷辚	yin lin	1
 殷民阜财	yin min fu cai	1

@@ -32129,7 +32129,6 @@
 洞合	dong he	1
 洞黑	dong hei	1
 洞豁	dong huo	1
-洞监	dong jian	1
 洞精	dong jing	1
 洞究	dong jiu	1
 洞孔	dong kong	1
@@ -40025,7 +40024,6 @@
 风集	feng ji	1
 风迹	feng ji	1
 风绩	feng ji	1
-风监	feng jian	1
 风检	feng jian	1
 风简	feng jian	1
 风鍳	feng jian	1
@@ -67786,7 +67784,6 @@
 监抚	jian fu	1
 监故	jian gu	1
 监锢	jian gu	1
-监观	jian guan	1
 监官	jian guan	1
 监河	jian he	1
 监河侯	jian he hou	1
@@ -67797,7 +67794,6 @@
 监监	jian jian	1
 监检	jian jian	1
 监界	jian jie	1
-监诫	jian jie	1
 监酒	jian jiu	1
 监就	jian jiu	1
 监决	jian jue	1
@@ -76714,7 +76710,6 @@
 镜涵	jing han	1
 镜华	jing hua	1
 镜机	jing ji	1
-镜监	jing jian	1
 镜见	jing jian	1
 镜皦	jing jiao	1
 镜洁	jing jie	1
@@ -101579,7 +101574,6 @@
 民甲	min jia	1
 民艰	min jian	1
 民监	min jian	1
-民鉴	min jian	1
 民经	min jing	1
 民爵	min jue	1
 民科	min ke	1
@@ -124808,7 +124802,6 @@
 睿好	rui hao	1
 睿后	rui hou	1
 睿化	rui hua	1
-睿监	rui jian	1
 睿鉴	rui jian	1
 睿奬	rui jiang	1
 睿镜	rui jing	1
@@ -128226,7 +128219,6 @@
 商蕀	shang ji	1
 商籍	shang ji	1
 商祭	shang ji	1
-商监	shang jian	1
 商鉴	shang jian	1
 商较	shang jiao	1
 商节	shang jie	1
@@ -130106,7 +130098,6 @@
 神奸	shen jian	1
 神奸巨蠧	shen jian ju du	1
 神奸巨猾	shen jian ju hua	1
-神监	shen jian	1
 神检	shen jian	1
 神见	shen jian	1
 神鉴	shen jian	1
@@ -182834,7 +182825,6 @@
 永徽律	yong hui lv	1
 永吉地区	yong ji di qu	1
 永嘉郡	yong jia jun	1
-永监	yong jian	1
 永鉴	yong jian	1
 永靓	yong liang	1
 永靖乡	yong jing xiang	1
@@ -186002,7 +185992,6 @@
 玉架	yu jia	1
 玉尖	yu jian	1
 玉尖面	yu jian mian	1
-玉监	yu jian	1
 玉笺	yu jian	1
 玉牋	yu jian	1
 玉茧	yu jian	1
