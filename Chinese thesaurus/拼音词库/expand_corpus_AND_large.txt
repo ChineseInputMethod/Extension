@@ -13784,7 +13784,6 @@
 刁诈	diao zha	5
 刁钻促狭	diao zuan cu xia	1
 刁嘴	diao zui	1
-凋弊	diao bi	1
 凋变	diao bian	5
 凋兵	diao bing	1
 凋摧	diao cui	5
@@ -15366,7 +15365,6 @@
 趸账	dun zhang	5
 囤户	dun hu	5
 沌沌	dun dun	6
-钝弊	dun bi	5
 钝根	dun gen	1
 钝汉	dun han	1
 钝眊	dun mao	1
@@ -22018,7 +22016,6 @@
 罟客	gu ke	1
 罟师	gu shi	1
 钴鉧潭	gu mu tan	1
-蛊敝	gu bi	1
 蛊疾	gu ji	1
 蛊媚	gu mei	1
 蛊心丧志	gu xin sang zhi	4
@@ -29316,7 +29313,6 @@
 家佣	jia yong	5
 家用电脑	jia yong dian nao	2
 家有敝帚	jia you bi zhou	1
-家有弊帚	jia you bi zhou	1
 家喻户习	jia yu hu xi	1
 家缘	jia yuan	5
 家运	jia yun	6

@@ -1413,7 +1413,6 @@
 耙地	ba di	100
 耙路机	ba lu ji	100
 耙子	pa zi	4111
-罢弊	ba bi	7
 罢兵	ba bing	3
 罢朝	ba chao	10
 罢黜	ba chu	4012
@@ -4701,7 +4700,6 @@
 弊漏	bi lou	100
 弊源	bi yuan	7
 弊政	bi zheng	4010
-弊帚千金	bi zhou qian jin	1
 觱沸	bi fei	10
 觱篥	bi li	2001
 篦子	bi zi	4025
@@ -29840,7 +29838,6 @@
 诟詈	gou li	100
 诟骂	gou ma	4003
 诟如不闻	gou ru bu wen	2000
-垢弊	gou bi	7
 垢面蓬头	gou mian peng tou	1
 垢泥	gou ni	100
 垢腻	gou ni	100
@@ -64209,7 +64206,6 @@
 疲惫	pi bei	10469
 疲惫不堪	pi bei bu kan	2160
 疲敝	pi bi	2004
-疲弊	pi bi	7
 疲病	pi bing	100
 疲沓	pi ta	2000
 疲怠	pi dai	100
