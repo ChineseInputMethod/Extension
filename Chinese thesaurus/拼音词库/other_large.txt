@@ -3995,7 +3995,6 @@
 班赍	ban ji	1
 班籍	ban ji	1
 班纪德	ban ji de	1
-班罽	ban ji	1
 班加罗尔	ban jia luo er	1
 班加西	ban jia xi	1
 班家女师	ban jia nv shi	1
@@ -4012,7 +4011,6 @@
 班爵	ban jue	1
 班克西	ban ke xi	1
 班赉	ban lai	1
-班兰	ban lan	1
 班阑	ban lan	1
 班烂	ban lan	1
 班劳	ban lao	1
@@ -4087,7 +4085,6 @@
 班制	ban zhi	1
 班治	ban zhi	1
 班秩	ban zhi	1
-班竹	ban zhu	1
 班左	ban zuo	1
 班坐	ban zuo	1
 般比	ban bi	1
@@ -158809,7 +158806,6 @@
 下垫	xia dian	1
 下钓子	xia diao zi	1
 下碇税	xia ding shui	1
-下蕃	xia fan	1
 下藩	xia fan	1
 下风雹	xia feng bao	1
 下工夫	xia gong fu	1

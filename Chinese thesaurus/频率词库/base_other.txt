@@ -1619,7 +1619,6 @@
 斑脊潜鸭	ban ji qian ya	7
 斑晶	ban jing	2
 斑澜	ban lan	5
-斑烂	ban lan	5
 斑粝岩	ban li yan	6
 斑驴	ban lv	3
 斑绿	ban lv	10
@@ -43899,7 +43898,6 @@
 居住区	ju zhu qu	2474
 居住小区	ju zhu xiao qu	100
 驹厉	ju li	6
-掬芬	ju fen	2
 掬子	ju zi	2
 裾巴	ju ba	100
 裾礁	ju jiao	100
@@ -78411,7 +78409,6 @@
 陶吴	tao wu	10
 陶砖	tao zhuan	10
 陶醉的	tao zui de	10
-萄萄	tao tao	6
 萄牙十八	tao ya shi ba	7
 淘出	tao chu	6
 淘粪夫	tao fen fu	6
