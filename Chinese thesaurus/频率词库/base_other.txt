@@ -105216,7 +105216,6 @@
 诊音	zhen yin	2
 枕垫	zhen dian	10
 枕着	zhen zhe	10
-轸宜	zhen yi	6
 圳沟	zhen gou	10
 阵词	zhen ci	6
 阵点	zhen dian	3

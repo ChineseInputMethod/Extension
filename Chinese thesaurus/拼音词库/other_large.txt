@@ -185881,7 +185881,6 @@
 玉琯	yu guan	1
 玉圭	yu gui	1
 玉龟山	yu gui shan	1
-玉珪	yu gui	1
 玉果	yu guo	1
 玉海青	yu hai qing	1
 玉函方	yu han fang	1
@@ -200834,7 +200833,6 @@
 珠子菊	zhu zi ju	1
 株待	zhu dai	1
 株柢	zhu di	1
-株枸	zhu gou	1
 株榾	zhu gu	1
 株翦	zhu jian	1
 株拘	zhu ju	1
@@ -200842,7 +200840,6 @@
 株橜	zhu jue	1
 株累	zhu lei	1
 株离	zhu li	1
-株联	zhu lian	1
 株木	zhu mu	1
 株枿	zhu nie	1
 株蘖	zhu nie	1

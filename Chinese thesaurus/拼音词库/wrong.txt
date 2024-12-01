@@ -1517,3 +1517,6 @@
 班竹	ban zhu	1
 班兰	ban lan	1
 班罽	ban ji	1
+株枸	zhu gou	1
+株联	zhu lian	1
+玉珪	yu gui	1
