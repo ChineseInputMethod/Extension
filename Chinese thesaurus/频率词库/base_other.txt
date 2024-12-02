@@ -16394,7 +16394,6 @@
 电镀金	dian du jin	2
 电镀镍	dian du nie	2
 电镀品	dian du pin	6
-电镀器	dian du qi	2
 电镀设备	dian du she bei	2
 电镀铜	dian du tong	2
 电镀物品	dian du wu pin	2
@@ -35350,7 +35349,6 @@
 徽蠓	hui meng	6
 徽羌	hui qiang	5
 徽罅	hui xia	6
-徽写	hui xie	6
 徽因	hui yin	2
 徽蚓驳	hui yin bo	6
 徽悠	hui you	6
@@ -38655,7 +38653,6 @@
 嘉禾舞	jia he wu	100
 嘉华	jia hua	3
 嘉惠	jia hui	100
-嘉获	jia huo	6
 嘉吉	jia ji	1
 嘉嘉	jia jia	6
 嘉奖状	jia jiang zhuang	6
@@ -38664,7 +38661,6 @@
 嘉礼	jia li	7
 嘉里	jia li	6
 嘉利	jia li	6
-嘉联	jia lian	6
 嘉廉	jia lian	2
 嘉良	jia liang	2
 嘉琳	jia lin	1
@@ -46180,9 +46176,7 @@
 克坚	ke jian	2
 克艰	ke jian	6
 克杰	ke jie	6
-克兢	ke jing	6
 克军	ke jun	6
-克克	ke ke	2
 克扣军饷	ke kou jun xiang	7
 克坤	ke kun	2
 克拉别克	ke la bie ke	7
@@ -56866,7 +56860,6 @@
 木材业	mu cai ye	2
 木材佣工	mu cai yong gong	7
 木锤	mu chui	10
-木椿	mu chun	10
 木锉	mu cuo	2
 木岛	mu dao	6
 木岛主	mu dao zhu	2
@@ -62748,7 +62741,6 @@
 浅紫	qian zi	3000
 浅棕	qian zong	101
 遣返回国	qian fan hui guo	6
-遣迹	qian ji	6
 遣送回国	qian song hui guo	3
 遣送站	qian song zhan	1
 遣下去	qian xia qu	7
@@ -74520,7 +74512,6 @@
 熟期	shu qi	10
 熟巧	shu qiao	10
 熟认	shu ren	10
-熟饪	shu ren	10
 熟肉	shu rou	10
 熟时	shu shi	10
 熟熟手	shu shu shou	10
@@ -92681,7 +92672,6 @@
 萱萱	xuan xuan	1
 喧闹纷乱	xuan nao fen luan	6
 喧闹者	xuan nao zhe	6
-喧器	xuan qi	6
 暄闹	xuan nao	6
 儇薄	xuan bo	101
 儇佻	xuan tiao	100

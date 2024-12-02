@@ -45492,7 +45492,6 @@
 暖轿	nuan jiao	1
 暖炕	nuan kang	1
 暖帽	nuan mao	1
-暖昧地	nuan mei de	5
 暖暖	nuan nuan	2
 暖暖地	nuan nuan de	2
 暖女	nuan nv	1
@@ -75320,7 +75319,6 @@
 遗传上地	yi chuan shang de	7
 遗传性疾病	yi chuan xing ji bing	6
 遗传因子	yi chuan yin zi	2
-遗词	yi ci	5
 遗大	wei da	5
 遗德休烈	yi de xiu lie	1
 遗德余烈	yi de yu lie	1
