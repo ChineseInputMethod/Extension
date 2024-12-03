@@ -7987,7 +7987,6 @@
 碧原	bi yuan	1
 碧月	bi yue	1
 碧晕	bi yun	1
-碧云霞	bi yun xia	1
 碧云騢	bi yun xia	1
 碧簪	bi zan	1
 碧塟	bi zang	1
@@ -34111,7 +34110,6 @@
 钝根苗	dun gen miao	1
 钝公子	dun gong zi	1
 钝钩	dun gou	1
-钝惛	dun hun	1
 钝惽	dun hun	1
 钝金	dun jin	1
 钝口拙腮	dun kou zhuo sai	1
@@ -48369,7 +48367,6 @@
 古根罕	gu gen han	1
 古根罕喷气推进研究中心	gu gen han pen qi tui jin yan jiu zhong xin	1
 古蛊	gu gu	1
-古恠	gu guai	1
 古后	gu hou	1
 古胡	gu hu	1
 古欢	gu huan	1
@@ -51533,7 +51530,6 @@
 鬼工球	gui gong qiu	1
 鬼功	gui gong	1
 鬼功石	gui gong shi	1
-鬼恠	gui guai	1
 鬼关	gui guan	1
 鬼鬼啾啾	gui gui jiu jiu	1
 鬼鬼溜溜	gui gui liu liu	1
@@ -56103,7 +56099,6 @@
 黑晻晻	hei an an	1
 黑暗地狱	hei an di yu	1
 黑暗狱	hei an yu	1
-黑黯	hei an	1
 黑白菜	hei bai cai	1
 黑白货	hei bai huo	1
 黑白切	hei bai qie	1
@@ -61670,7 +61665,6 @@
 诙达	hui da	1
 诙调	hui diao	1
 诙怪	hui guai	1
-诙恠	hui guai	1
 诙咍	hui hai	1
 诙谲	hui jue	1
 诙奇	hui qi	1
@@ -62526,7 +62520,6 @@
 彗扫	hui sao	1
 彗云	hui yun	1
 晦闇	hui an	1
-晦黯	hui an	1
 晦藏	hui cang	1
 晦伏	hui fu	1
 晦光	hui guang	1
@@ -75549,7 +75542,6 @@
 惊鵩鸟	jing fu niao	1
 惊仡	jing yi	1
 惊骨	jing gu	1
-惊恠	jing guai	1
 惊诡	jing gui	1
 惊聒	jing guo	1
 惊駴	jing hai	1
@@ -82899,7 +82891,6 @@
 口回	kou hui	1
 口哕	kou yue	1
 口慧	kou hui	1
-口惛	kou hun	1
 口惽	kou hun	1
 口货	kou huo	1
 口机	kou ji	1
@@ -84066,7 +84057,6 @@
 狂蛊	kuang gu	1
 狂顾	kuang gu	1
 狂怪	kuang guai	1
-狂恠	kuang guai	1
 狂海	kuang hai	1
 狂憨	kuang han	1
 狂悍	kuang han	1
@@ -84114,7 +84104,6 @@
 狂佞	kuang ning	1
 狂奴	kuang nu	1
 狂葩	kuang pa	1
-狂朋恠友	kuang peng guai you	1
 狂癖	kuang pi	1
 狂僻	kuang pi	1
 狂魄	kuang po	1
@@ -106101,7 +106090,6 @@
 捏定	nie ding	1
 捏构	nie gou	1
 捏故	nie gu	1
-捏恠排科	nie guai pai ke	1
 捏脊	nie ji	1
 捏脊治疗	nie ji zhi liao	1
 捏脚捏手	nie jiao nie shou	1
@@ -115781,7 +115769,6 @@
 跷垫	qiao dian	1
 跷蹀	qiao die	1
 跷怪	qiao guai	1
-跷恠	qiao guai	1
 跷减	qiao jian	1
 跷趹	qiao gui	1
 跷脉	qiao mai	1
@@ -137868,7 +137855,6 @@
 水骨	shui gu	1
 水牯	shui gu	1
 水蛊病	shui gu bing	1
-水恠	shui guai	1
 水关	shui guan	1
 水观	shui guan	1
 水馆	shui guan	1
@@ -194724,7 +194710,6 @@
 珍感	zhen gan	1
 珍供	zhen gong	1
 珍贡	zhen gong	1
-珍恠	zhen guai	1
 珍圭	zhen gui	1
 珍瑰	zhen gui	1
 珍鲑	zhen gui	1
@@ -195479,7 +195464,6 @@
 镇重	zhen zhong	1
 镇驻	zhen zhu	1
 黮暗	dan an	1
-黮黯	dan an	1
 黮黕	dan dan	1
 黮漶	dan huan	1
 黮昏	dan hun	1

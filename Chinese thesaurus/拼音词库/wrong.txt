@@ -1522,3 +1522,19 @@
 玉珪	yu gui	1
 遗词	yi ci	5
 暖昧地	nuan mei de	5
+碧云霞	bi yun xia	1
+黑黯	hei an	1
+晦黯	hui an	1
+黮黯	dan an	1
+古恠	gu guai	1
+鬼恠	gui guai	1
+惊恠	jing guai	1
+水恠	shui guai	1
+跷恠	qiao guai	1
+捏恠排科	nie guai pai ke	1
+钝惛	dun hun	1
+珍恠	zhen guai	1
+狂恠	kuang guai	1
+狂朋恠友	kuang peng guai you	1
+口惛	kou hun	1
+诙恠	hui guai	1
