@@ -13341,7 +13341,6 @@
 惨冽	can lie	1
 惨裂	can lie	1
 惨凛	can lin	1
-惨廪	can lin	1
 惨懔	can lin	1
 惨戮	can lu	1
 惨緑愁红	can lu chou hong	1
@@ -180706,7 +180705,6 @@
 寅饯	yin jian	1
 寅阶	yin jie	1
 寅惧	yin ju	1
-寅客	yin ke	1
 寅僚	yin liao	1
 寅念	yin nian	1
 寅虔	yin qian	1
