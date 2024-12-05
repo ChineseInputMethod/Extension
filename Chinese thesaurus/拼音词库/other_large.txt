@@ -49382,7 +49382,6 @@
 刮辣辣	gua la la	1
 刮马儿	gua ma er	1
 刮毛龟背	gua mao gui bei	1
-刮劘	gua mo	1
 刮膜	gua mo	1
 刮肉	gua rou	1
 刮视听	gua shi ting	1
@@ -67683,7 +67682,6 @@
 肩息	jian xi	1
 肩下	jian xia	1
 肩项	jian xiang	1
-肩舁	jian yu	1
 肩轝	jian yu	1
 肩子	jian zi	1
 艰碍	jian ai	1
@@ -76431,7 +76429,6 @@
 靖遏	jing e	1
 靖氛	jing fen	1
 靖恭	jing gong	1
-靖共	jing gong	1
 靖郭君	jing guo jun	1
 靖郭氏	jing guo shi	1
 靖嘉	jing jia	1
@@ -139663,7 +139660,6 @@
 寺洼文化	si wa wen hua	1
 寺宇	si yu	1
 汜人	si ren	1
-兕觵	si gong	1
 兕虎	si hu	1
 兕甲	si jia	1
 兕爵	si jue	1
@@ -179718,7 +179714,6 @@
 懿纯	yi chun	1
 懿度	yi du	1
 懿恭	yi gong	1
-懿共	yi gong	1
 懿贵	yi gui	1
 懿和	yi he	1
 懿徽	yi hui	1
@@ -201411,7 +201406,6 @@
 躅足	zhu zu	1
 鱁鮧	zhu yi	1
 劚地	zhu di	1
-劚掘	zhu jue	1
 劚田	zhu tian	1
 斸掘	zhu jue	1
 蠾蝓	zhu yu	1
@@ -205006,7 +205000,6 @@
 足杆	zu gan	1
 足干	zu gan	1
 足高	zu gao	1
-足共	zu gong	1
 足勾	zu gou	1
 足彀	zu gou	1
 足谷翁	zu gu weng	1

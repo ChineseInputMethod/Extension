@@ -27157,7 +27157,6 @@
 恭贺新春	gong he xin chun	7
 恭候当时	gong hou dang shi	7
 恭候光临	gong hou guang lin	7
-恭情	gong qing	2
 恭颂	gong song	10
 恭王	gong wang	10
 恭谒	gong ye	10
@@ -92930,7 +92929,6 @@
 雪兰	xue lan	2
 雪廊	xue lang	6
 雪犁	xue li	10
-雪利	xue li	2
 雪良	xue liang	2
 雪量	xue liang	2
 雪量计	xue liang ji	2
