@@ -17925,7 +17925,6 @@
 纷纷扰扰	fen fen rao rao	7
 纷更	fen geng	5
 纷乱地	fen luan de	6
-纷拏	fen na	1
 纷呶	fen nao	6
 纷葩	fen pa	1
 纷糅	fen rou	1
@@ -36013,7 +36012,6 @@
 拉合尔	la he er	4
 拉赫曼尼诺夫	la he man ni nuo fu	5
 拉活	la huo	5
-拉圾	la ji	6
 拉筋	la jin	6
 拉紧地	la jin de	2
 拉近距离	la jin ju li	6

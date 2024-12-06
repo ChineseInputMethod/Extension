@@ -1548,3 +1548,26 @@
 兕觵	si gong	1
 刮劘	gua mo	1
 劚掘	zhu jue	1
+强姧	qiang jian	1
+纷拏	fen na	1
+烦挐	fan na	1
+蟠挐	pan na	1
+贼姧	zei jian	1
+娇奼	jiao cha	1
+婑嫷	wo duo	1
+宿姧	su jian	1
+骄生惯养	jiao sheng guan yang	1
+娇奢	jiao she	1
+娇淫	jiao yin	1
+骄嫚	jiao man	1
+鸡毛撢子	ji mao dan zi	1
+拚贴	pin tie	1
+丢撘	diu da	1
+钩撘	gou da	1
+拉圾	la ji	6
+坻堮	di e	1
+熙壤	xi rang	1
+摩托罗垃	mo tuo luo la	1
+壤壤	rang rang	100
+坷拉	ke la	1
+熙熙壤壤	xi xi rang rang	1

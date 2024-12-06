@@ -29005,7 +29005,6 @@
 诋罪	di zui	1
 坻场	di chang	1
 坻鄂	di e	1
-坻堮	di e	1
 坻颓	di tui	1
 坻隤	di tui	1
 抵背	di bei	1
@@ -31541,7 +31540,6 @@
 锭子金	ding zi jin	1
 锭子药	ding zi yao	1
 丢包	diu bao	1
-丢撘	diu da	1
 丢答	diu da	1
 丢到家	diu dao jia	1
 丢掉西瓜	diu diao xi gua	1
@@ -36659,7 +36657,6 @@
 烦壤	fan rang	1
 烦任	fan ren	1
 烦茹	fan ru	1
-烦挐	fan na	1
 烦辱	fan ru	1
 烦溽	fan ru	1
 烦缛	fan ru	1
@@ -47554,7 +47551,6 @@
 钩串	gou chuan	1
 钩窗	gou chuang	1
 钩错	gou cuo	1
-钩撘	gou da	1
 钩逮	gou dai	1
 钩带	gou dai	1
 钩牒	gou die	1
@@ -64092,7 +64088,6 @@
 鸡毛报	ji mao bao	1
 鸡毛笔	ji mao bi	1
 鸡毛房	ji mao fang	1
-鸡毛撢子	ji mao dan zi	1
 鸡蒙	ji meng	1
 鸡梦	ji meng	1
 鸡米花	ji mi hua	1
@@ -70625,7 +70620,6 @@
 娇艾	jiao ai	1
 娇爱	jiao ai	1
 娇傲	jiao ao	1
-娇奼	jiao cha	1
 娇姹	jiao cha	1
 娇蝉	jiao chan	1
 娇的的	jiao de di	1
@@ -70646,7 +70640,6 @@
 娇嚬	jiao pin	1
 娇颦	jiao pin	1
 娇揉造作	jiao rou zao zuo	1
-娇奢	jiao she	1
 娇騃	jiao ai	1
 娇荑	jiao yi	1
 娇啼	jiao ti	1
@@ -70655,7 +70648,6 @@
 娇妩	jiao wu	1
 娇细	jiao xi	1
 娇性	jiao xing	1
-娇淫	jiao yin	1
 娇韵	jiao yun	1
 娇稚	jiao zhi	1
 娇子	jiao zi	1
@@ -70757,7 +70749,6 @@
 骄卤	jiao lu	1
 骄虏	jiao lu	1
 骄马	jiao ma	1
-骄嫚	jiao man	1
 骄满	jiao man	1
 骄媢	jiao mao	1
 骄美	jiao mei	1
@@ -70780,7 +70771,6 @@
 骄扇	jiao shan	1
 骄奢淫佚	jiao she yin yi	1
 骄奢淫泆	jiao she yin yi	1
-骄生惯养	jiao sheng guan yang	1
 骄盛	jiao sheng	1
 骄视	jiao shi	1
 骄舒	jiao shu	1
@@ -81952,7 +81942,6 @@
 可宗	ke zong	1
 可足浑	ke zu hun	1
 坷坎	ke kan	1
-坷拉	ke la	1
 岢峩	ke e	1
 岢峻	ke jun	1
 渴不可耐	ke bu ke nai	1
@@ -102751,7 +102740,6 @@
 摩梭族	mo suo zu	1
 摩托车的士	mo tuo che di shi	1
 摩托车运动	mo tuo che yun dong	1
-摩托罗垃	mo tuo luo la	1
 摩翫	mo wan	1
 摩西的律法	mo xi de lv fa	1
 摩西五经	mo xi wu jing	1
@@ -107876,7 +107864,6 @@
 蟠曲	pan qu	1
 蟠屈	pan qu	1
 蟠绕	pan rao	1
-蟠挐	pan na	1
 蟠蛇	pan she	1
 蟠石	pan shi	1
 蟠桃杯	pan tao bei	1
@@ -110176,7 +110163,6 @@
 拚捐	pin juan	1
 拚去	pan qu	1
 拚死	pan si	1
-拚贴	pin tie	1
 拚着一身剐	pin zhe yi shen gua	1
 拼板游戏	pin ban you xi	1
 拼餐	pin can	1
@@ -115551,7 +115537,6 @@
 强济	qiang ji	1
 强家	qiang jia	1
 强贾	qiang jia	1
-强姧	qiang jian	1
 强见	qiang jian	1
 强僭	qiang jian	1
 强将手下无弱兵	qiang jiang shou xia wu ruo bing	1
@@ -141151,7 +141136,6 @@
 宿积	su ji	1
 宿计	su ji	1
 宿奸	su jian	1
-宿姧	su jian	1
 宿狡	su jiao	1
 宿戒	su jie	1
 宿襟	su jin	1
@@ -154057,7 +154041,6 @@
 婐婉	wo wan	1
 婑堕	wo duo	1
 婑媠	wo duo	1
-婑嫷	wo duo	1
 婑娜	wo na	1
 沃畴	wo chou	1
 沃荡	wo dang	1
@@ -157383,14 +157366,12 @@
 熙茂	xi mao	1
 熙穆	xi mu	1
 熙平	xi ping	1
-熙壤	xi rang	1
 熙柔	xi rou	1
 熙盛	xi sheng	1
 熙事	xi shi	1
 熙泰	xi tai	1
 熙天	xi tian	1
 熙恬	xi tian	1
-熙熙壤壤	xi xi rang rang	1
 熙笑	xi xiao	1
 熙颜	xi yan	1
 熙焰	xi yan	1
@@ -191172,7 +191153,6 @@
 贼计	zei ji	1
 贼奸	zei jian	1
 贼坚	zei jian	1
-贼姧	zei jian	1
 贼贱	zei jian	1
 贼脚	zei jiao	1
 贼劫	zei jie	1
