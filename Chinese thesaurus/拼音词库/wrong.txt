@@ -1571,3 +1571,8 @@
 壤壤	rang rang	100
 坷拉	ke la	1
 熙熙壤壤	xi xi rang rang	1
+辉暎	hui ying	1
+遮暎	zhe ying	1
+晖暎	hui ying	1
+齚舌	ze she	1
+余暎	yu ying	1
