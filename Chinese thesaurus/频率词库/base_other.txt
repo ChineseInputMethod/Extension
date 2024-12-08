@@ -6719,7 +6719,6 @@
 部会	bu hui	240
 部机关	bu ji guan	301
 部级	bu ji	4780
-部奖	bu jiang	10
 部门经理	bu men jing li	10
 部门所有	bu men suo you	10
 部优	bu you	3000
