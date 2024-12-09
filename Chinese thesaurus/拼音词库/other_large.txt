@@ -11361,7 +11361,6 @@
 哺禄	bu lu	1
 哺露	bu lu	1
 哺糜	bu mi	1
-哺麋	bu mi	1
 哺母乳	bu mu ru	1
 哺乳假	bu ru jia	1
 哺乳类动物	bu ru lei dong wu	1
@@ -12216,7 +12215,6 @@
 餔乐	bu le	1
 餔禄	bu lu	1
 餔糜	bu mi	1
-餔麋	bu mi	1
 餔食	bu shi	1
 餔饲	bu si	1
 餔饷	bu xiang	1
@@ -100298,7 +100296,6 @@
 縻絷	mi zhi	1
 麋弊	mi bi	1
 麋麨	mi chao	1
-麋费	mi fei	1
 麋肤	mi fu	1
 麋膏	mi gao	1
 麋醢	mi hai	1
@@ -100311,7 +100308,6 @@
 麋捐	mi juan	1
 麋畯	mi jun	1
 麋腊	mi la	1
-麋烂	mi lan	1
 麋鹿闲人	mi lu xian ren	1
 麋鹿性	mi lu xing	1
 麋鹿游	mi lu you	1
@@ -100338,7 +100334,6 @@
 麋苑	mi yuan	1
 麋至	mi zhi	1
 麋质	mi zhi	1
-麋粥	mi zhou	1
 麋灼	mi zhuo	1
 麊冷	mi leng	1
 麊泠	mi ling	1
@@ -124233,7 +124228,6 @@
 乳毛	ru mao	1
 乳糜泻	ru mi xie	1
 乳糜晕	ru mi yun	1
-乳麋	ru mi	1
 乳茗	ru ming	1
 乳女	ru nv	1
 乳漆	ru qi	1
@@ -137086,7 +137080,6 @@
 隃迩	yu er	1
 隃冠	yu guan	1
 隃寇	yu kou	1
-隃糜	yu mi	1
 隃糜丸	yu mi wan	1
 隃墨	yu mo	1
 隃越	yu yue	1
@@ -191725,7 +191718,6 @@
 斋虑	zhai lv	1
 斋马	zhai ma	1
 斋糜	zhai mi	1
-斋麋	zhai mi	1
 斋明	zhai ming	1
 斋娘	zhai niang	1
 斋酿	zhai niang	1
@@ -198695,7 +198687,6 @@
 中陵	zhong ling	1
 中令	zhong ling	1
 中流底柱	zhong liu di zhu	1
-中廇	zhong liu	1
 中伦	zhong lun	1
 中洛	zhong luo	1
 中吕调	zhong lv diao	1
