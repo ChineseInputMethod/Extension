@@ -9448,7 +9448,6 @@
 熛熏	biao xun	1
 熛焰	biao yan	1
 熛焱	biao yan	1
-熛爓	biao yan	1
 熛至	biao zhi	1
 熛鸷	biao zhi	1
 飙飙	biao biao	1
@@ -28357,7 +28356,6 @@
 灯窝	deng wo	1
 灯匣子	deng xia zi	1
 灯灺	deng xie	1
-灯炧	deng xie	1
 灯心	deng xin	1
 灯心草	deng xin cao	1
 灯心绒	deng xin rong	1
@@ -29953,7 +29951,6 @@
 电征	dian zheng	1
 电纸书	dian zhi shu	1
 电鸷	dian zhi	1
-电爥	dian zhu	1
 电转	dian zhuan	1
 电转盘	dian zhuan pan	1
 电子层数	dian zi ceng shu	1
@@ -32141,7 +32138,6 @@
 洞章	dong zhang	1
 洞照	dong zhao	1
 洞中仙	dong zhong xian	1
-洞爥	dong zhu	1
 洞瞩	dong zhu	1
 洞醉	dong zui	1
 恫喝	dong he	1
@@ -38384,7 +38380,6 @@
 飞饷	fei xiang	1
 飞绡	fei xiao	1
 飞灺	fei xie	1
-飞炧	fei xie	1
 飞屧	fei xie	1
 飞行殿	fei xing dian	1
 飞行管制	fei xing guan zhi	1
@@ -50603,7 +50598,6 @@
 光颜	guang yan	1
 光演	guang yan	1
 光艳艳	guang yan yan	1
-光爓	guang yan	1
 光扬	guang yang	1
 光曜	guang yao	1
 光遗传学	guang yi chuan xue	1
@@ -148554,7 +148548,6 @@
 吐噏	tu xi	1
 吐言	tu yan	1
 吐焰	tu yan	1
-吐爓	tu yan	1
 吐咬	tu yao	1
 吐耀	tu yao	1
 吐茵	tu yin	1
@@ -171306,7 +171299,6 @@
 烟艳	yan yan	1
 烟烻	yan yan	1
 烟焱	yan yan	1
-烟爓	yan yan	1
 烟炀	yan yang	1
 烟野	yan ye	1
 烟液	yan ye	1
