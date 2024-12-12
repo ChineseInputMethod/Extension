@@ -3115,7 +3115,6 @@
 白武幡	bai wu fan	1
 白舞	bai wu	1
 白兀鹫	bai wu jiu	1
-白晳	bai xi	1
 白羲	bai xi	1
 白席	bai xi	1
 白霫	bai xi	1
@@ -53990,7 +53989,6 @@
 汉皋	han gao	1
 汉皋佩	han gao pei	1
 汉皋珠	han gao zhu	1
-汉皐	han gao	1
 汉阁	han ge	1
 汉宫妃	han gong fei	1
 汉关	han guan	1
@@ -69504,7 +69502,6 @@
 江婓	jiang fei	1
 江服	jiang fu	1
 江腹	jiang fu	1
-江皐	jiang gao	1
 江歌	jiang ge	1
 江关	jiang guan	1
 江馆	jiang guan	1
@@ -77034,7 +77031,6 @@
 九纲	jiu gang	1
 九皋处士	jiu gao chu shi	1
 九皋禽	jiu gao qin	1
-九皐	jiu gao	1
 九工	jiu gong	1
 九功舞	jiu gong wu	1
 九攻	jiu gong	1
@@ -117207,7 +117203,6 @@
 青缸	qing gang	1
 青釭	qing gang	1
 青皋	qing gao	1
-青皐	qing gao	1
 青缟	qing gao	1
 青阁	qing ge	1
 青舸	qing ge	1
@@ -146511,7 +146506,6 @@
 亭当	ting dang	1
 亭队	ting dui	1
 亭父	ting fu	1
-亭皐	ting gao	1
 亭臯	ting gao	1
 亭侯	ting hou	1
 亭候	ting hou	1
@@ -157147,7 +157141,6 @@
 惜疼	xi teng	1
 惜惋	xi wan	1
 晳白	xi bai	1
-晳人	xi ren	1
 晳晳	xi xi	1
 晳种	xi zhong	1
 晰类	xi lei	1
@@ -157338,7 +157331,6 @@
 熙光	xi guang	1
 熙国	xi guo	1
 熙皞	xi hao	1
-熙皥	xi hao	1
 熙鸿	xi hong	1
 熙华	xi hua	1
 熙缉	xi ji	1
@@ -194365,7 +194357,6 @@
 贞果	zhen guo	1
 贞好	zhen hao	1
 贞皓	zhen hao	1
-贞皜	zhen hao	1
 贞和	zhen he	1
 贞亨	zhen heng	1
 贞恒	zhen heng	1
