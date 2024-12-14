@@ -44622,7 +44622,6 @@
 钢箭	gang jian	1
 钢啷	gang lang	1
 钢利	gang li	1
-钢粱	gang liang	1
 钢七郎当	gang qi lang dang	1
 钢曲尺	gang qu chi	1
 钢炭	gang tan	1
@@ -44894,7 +44893,6 @@
 高廉	gao lian	1
 高梁	gao liang	1
 高梁川	gao liang chuan	1
-高梁面	gao liang mian	1
 高梁市	gao liang shi	1
 高粱帽子	gao liang mao zi	1
 高瞭	gao liao	1
@@ -61007,8 +61005,6 @@
 黄栗留	huang li liu	1
 黄连树	huang lian shu	1
 黄连祖	huang lian zu	1
-黄梁美梦	huang liang mei meng	1
-黄梁一梦	huang liang yi meng	1
 黄粮	huang liang	1
 黄潦	huang liao	1
 黄灵	huang ling	1
@@ -176412,7 +176408,6 @@
 一着被蛇咬	yi zhao bei she yao	1
 一着不慎全盘皆输	yi zhao bu shen quan pan jie shu	1
 一真二实	yi zhen er shi	1
-一枕黄梁	yi zhen huang liang	1
 一之日	yi zhi ri	1
 一之为甚	yi zhi wei shen	1
 一支半节	yi zhi ban jie	1
