@@ -96121,12 +96121,10 @@
 络丝虫	luo si chong	1
 络丝娘	luo si niang	1
 络秀	luo xiu	1
-络驿	luo yi	1
 骆丞	luo cheng	1
 骆田	luo tian	1
 骆驼杖	luo tuo zhang	1
 骆駞	luo tuo	1
-骆驿不绝	luo yi bu jue	1
 骆越	luo yue	1
 珞琭	luo lu	1
 落地鼓	luo di gu	1
@@ -179040,7 +179038,6 @@
 驿料	yi liao	1
 驿岭	yi ling	1
 驿逻	yi luo	1
-驿络	yi luo	1
 驿驴	yi lv	1
 驿马星	yi ma xing	1
 驿梅	yi mei	1
