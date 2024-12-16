@@ -125,3 +125,4 @@
 部奖	bu jiang	10
 甜高梁	tian gao liang	2
 纪业	ji ye	6
+条鱼类	tiao yu lei	6

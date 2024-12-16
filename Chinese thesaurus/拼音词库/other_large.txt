@@ -23082,10 +23082,6 @@
 忩忙	cong mang	1
 怱草	cong cao	1
 怱次	cong ci	1
-怱怱	cong cong	1
-怱促	cong cu	1
-怱遽	cong ju	1
-怱忙	cong mang	1
 怱明	cong ming	1
 怱速	cong su	1
 怱卒	cong zu	1
@@ -165632,7 +165628,6 @@
 行刃	xing ren	1
 行容	xing rong	1
 行丧	xing sang	1
-行色怱怱	xing se cong cong	1
 行色悤悤	xing se cong cong	1
 行膻	xing shan	1
 行羶	xing shan	1
@@ -165889,7 +165884,6 @@
 兴昌	xing chang	1
 兴朝	xing chao	1
 兴冲冲地	xing chong chong de	1
-兴怱怱	xing cong cong	1
 兴代	xing dai	1
 兴道	xing dao	1
 兴都库什	xing du ku shi	1

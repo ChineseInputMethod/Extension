@@ -79587,7 +79587,6 @@
 条形基础	tiao xing ji chu	2
 条锈病	tiao xiu bing	100
 条鱼	tiao yu	10
-条鱼类	tiao yu lei	6
 条状图形	tiao zhuang tu xing	7
 条状物	tiao zhuang wu	6
 条子布	tiao zi bu	2
