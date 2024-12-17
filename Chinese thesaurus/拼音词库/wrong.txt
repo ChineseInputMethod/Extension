@@ -1621,3 +1621,7 @@
 怱促	cong cu	1
 行色怱怱	xing se cong cong	1
 兴怱怱	xing cong cong	1
+雍遏	yong e	1
+雍蔽	yong bi	1
+雍防	yong fang	5
+雍阏	yong e	1

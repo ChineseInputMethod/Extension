@@ -18839,7 +18839,6 @@
 段指针	duan zhi zhen	5
 段中	duan zhong	2
 段中剖	duan zhong pou	6
-断垵	duan an	100
 断层带	duan ceng dai	3
 断层线崖	duan ceng xian ya	2
 断层崖	duan ceng ya	2
