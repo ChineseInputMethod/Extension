@@ -41387,7 +41387,6 @@
 伏狮	fu shi	1
 伏石	fu shi	1
 伏食	fu shi	1
-伏式	fu shi	1
 伏侍	fu shi	1
 伏室	fu shi	1
 伏首贴耳	fu shou tie er	1
@@ -42342,7 +42341,6 @@
 抚然	fu ran	1
 抚师	fu shi	1
 抚世	fu shi	1
-抚式	fu shi	1
 抚事	fu shi	1
 抚视	fu shi	1
 抚拭	fu shi	1
@@ -110722,7 +110720,6 @@
 凭匿	ping ni	1
 凭期	ping qi	1
 凭社	ping she	1
-凭式	ping shi	1
 凭书请客	ping shu qing ke	1
 凭说	ping shuo	1
 凭讬	ping tuo	1

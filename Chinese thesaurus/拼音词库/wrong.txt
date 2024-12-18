@@ -1625,3 +1625,6 @@
 雍蔽	yong bi	1
 雍防	yong fang	5
 雍阏	yong e	1
+凭式	ping shi	1
+伏式	fu shi	1
+抚式	fu shi	1
