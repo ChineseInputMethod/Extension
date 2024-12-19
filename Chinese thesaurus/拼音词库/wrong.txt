@@ -1628,3 +1628,4 @@
 凭式	ping shi	1
 伏式	fu shi	1
 抚式	fu shi	1
+岬嶱	jia ke	1
