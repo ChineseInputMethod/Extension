@@ -127,3 +127,4 @@
 纪业	ji ye	6
 条鱼类	tiao yu lei	6
 断垵	duan an	100
+神祗	shen zhi	10
