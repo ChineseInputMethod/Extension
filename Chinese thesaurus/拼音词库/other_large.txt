@@ -61921,7 +61921,6 @@
 回波舞	hui bo wu	1
 回脖	hui bo	1
 回残	hui can	1
-回膓	hui chang	1
 回池	hui chi	1
 回遟	hui zhi	1
 回处士	hui chu shi	1
@@ -77627,7 +77626,6 @@
 酒罂	jiu ying	1
 酒罃子	jiu ying zi	1
 酒影	jiu ying	1
-酒有别膓	jiu you bie chang	1
 酒盂	jiu yu	1
 酒妪	jiu yu	1
 酒晕妆	jiu yun zhuang	1
@@ -79613,7 +79611,6 @@
 绝编	jue bian	1
 绝膑	jue bin	1
 绝肠	jue chang	1
-绝膓	jue chang	1
 绝倡	jue chang	1
 绝驰	jue chi	1
 绝德	jue de	1
@@ -83052,7 +83049,6 @@
 枯查	ku zha	1
 枯槎	ku cha	1
 枯蝉	ku chan	1
-枯膓	ku chang	1
 枯陈	ku chen	1
 枯骴	ku ci	1
 枯丛	ku cong	1

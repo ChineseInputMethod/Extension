@@ -1629,3 +1629,7 @@
 伏式	fu shi	1
 抚式	fu shi	1
 岬嶱	jia ke	1
+回膓	hui chang	1
+枯膓	ku chang	1
+酒有别膓	jiu you bie chang	1
+绝膓	jue chang	1
