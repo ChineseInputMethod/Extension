@@ -140995,7 +140995,6 @@
 速报司	su bao si	1
 速便	su bian	1
 速宾	su bin	1
-速賔	su bin	1
 速雠	su chou	1
 速斗	su dou	1
 速独	su du	1
@@ -174541,7 +174540,6 @@
 腰折	yao she	1
 腰支	yao zhi	1
 邀宾	yao bin	1
-邀賔	yao bin	1
 邀笛步	yao di bu	1
 邀断	yao duan	1
 邀夺	yao duo	1
