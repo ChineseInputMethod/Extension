@@ -78367,7 +78367,6 @@
 駶骗	ju pian	1
 駶跳	ju tiao	1
 鵙鵙	ju ju	1
-鶪鶪	ju ju	1
 弆藏	ju cang	1
 咀啜	zui chuo	1
 咀啖	zui dan	1
@@ -102144,7 +102143,6 @@
 鸣驹	ming ju	1
 鸣局	ming ju	1
 鸣鵙	ming ju	1
-鸣鶪	ming ju	1
 鸣鴂	ming jue	1
 鸣珂	ming ke	1
 鸣珂里	ming ke li	1
