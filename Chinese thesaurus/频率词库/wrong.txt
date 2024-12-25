@@ -128,3 +128,6 @@
 条鱼类	tiao yu lei	6
 断垵	duan an	100
 神祗	shen zhi	10
+颖川	ying chuan	10
+颖州	ying zhou	10
+颖上	ying shang	1
