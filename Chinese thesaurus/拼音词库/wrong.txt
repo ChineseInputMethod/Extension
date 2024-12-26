@@ -1639,3 +1639,7 @@
 邀賔	yao bin	1
 鶪鶪	ju ju	1
 鸣鶪	ming ju	1
+齄靤	zha pao	1
+齄王	zha wang	1
+齄鼻	zha bi	1
+齄丑	zha chou	1
