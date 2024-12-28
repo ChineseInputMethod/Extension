@@ -4705,7 +4705,6 @@
 傍户而立	bang hu er li	1
 傍扈	bang hu	1
 傍皇	bang huang	1
-傍偟	pang huang	1
 傍徨	bang huang	1
 傍戟	pang ji	1
 傍暨	bang ji	1
@@ -37917,7 +37916,6 @@
 鲂鲆	fang ping	1
 鲂鱼尾	fang yu wei	1
 仿格	fang ge	1
-仿偟	pang huang	1
 仿刻	fang ke	1
 仿生化学	fang sheng hua xue	1
 仿书	fang shu	1
@@ -38005,7 +38003,6 @@
 昉始	fang shi	1
 瓬人	fang ren	1
 舫人	fang ren	1
-旊人	fang ren	1
 髣拂	fang fu	1
 髣髴	fang fei	1
 髣像	fang xiang	1
@@ -143905,7 +143902,6 @@
 陶顿	tao dun	1
 陶范	tao fan	1
 陶瓬	tao fang	1
-陶旊	tao fang	1
 陶缶	tao fou	1
 陶葛	tao ge	1
 陶公	tao gong	1
