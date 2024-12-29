@@ -176569,7 +176569,6 @@
 衣袪	yi qu	1
 衣衽	yi ren	1
 衣袽之戒	yi ru zhi jie	1
-衣襂	yi shan	1
 衣衫蓝缕	yi shan lan lv	1
 衣裳格子	yi shang ge zi	1
 衣裳钩儿	yi shang gou er	1
@@ -205905,7 +205904,6 @@
 左氏癖	zuo shi pi	1
 左事	zuo shi	1
 左授	zuo shou	1
-左襢	zuo tan	1
 左铜鱼	zuo tong yu	1
 左头	zuo tou	1
 左文	zuo wen	1
