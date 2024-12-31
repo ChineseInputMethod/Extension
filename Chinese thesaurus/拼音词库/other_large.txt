@@ -66436,7 +66436,6 @@
 寂寮	ji liao	1
 寂昧	ji mei	1
 寂蔑	ji mie	1
-寂薎	ji mie	1
 寂泊	ji bo	1
 寂阒	ji qu	1
 寂淹	ji yan	1
@@ -190008,7 +190007,6 @@
 载任	zai ren	1
 载社	zai she	1
 载生	zai sheng	1
-载生魄	zai sheng po	1
 载牲	zai sheng	1
 载师	zai shi	1
 载时	zai shi	1
