@@ -86905,7 +86905,6 @@
 羸豕	lei shi	1
 羸驷	lei si	1
 羸缩	lei suo	1
-羸幐	lei teng	1
 羸縢	lei teng	1
 羸尪	lei wang	1
 羸尩	lei wang	1
@@ -112950,7 +112949,6 @@
 綦公	qi gong	1
 綦会	qi hui	1
 綦履	qi lv	1
-綦母	qi mu	1
 綦毋	qi wu	1
 綦溪	qi xi	1
 綦下	qi xia	1
@@ -124114,7 +124112,6 @@
 挐攫	na jue	1
 挐首	na shou	1
 挐音	na yin	1
-蕠藘	ru lv	1
 儒释道	ru shi dao	1
 濡毫	ru hao	1
 孺蒙	ru meng	1
@@ -182129,7 +182126,6 @@
 赢啬	ying se	1
 赢输	ying shu	1
 赢数	ying shu	1
-赢幐	ying teng	1
 赢縢	ying teng	1
 赢虚	ying xu	1
 赢衍	ying yan	1
@@ -200382,7 +200378,6 @@
 朱丝练弦	zhu si lian xian	1
 朱丝绳	zhu si sheng	1
 朱丝弦	zhu si xian	1
-朱丝营社	zhu si ying she	1
 朱丝萦社	zhu si ying she	1
 朱汜	zhu si	1
 朱蒜	zhu suan	1
