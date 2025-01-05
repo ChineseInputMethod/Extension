@@ -51563,7 +51563,6 @@
 羸劣	lei lie	100
 羸弱	lei ruo	4042
 羸瘦	lei shou	100
-礧石	lei shi	100
 耒耨	lei nou	6
 耒耜	lei si	4005
 诔词	lei ci	100

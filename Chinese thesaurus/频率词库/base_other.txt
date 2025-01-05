@@ -71418,7 +71418,6 @@
 石板岩	shi ban yan	100
 石碑上	shi bei shang	10
 石匾	shi bian	10
-石标	shi biao	10
 石蚕	shi can	10
 石场	shi chang	10
 石沉	shi chen	10
@@ -71463,7 +71462,6 @@
 石湾	shi wan	10
 石碗	shi wan	10
 石苇	shi wei	10
-石文	shi wen	10
 石矽	shi xi	10
 石英岩	shi ying yan	100
 石油城	shi you cheng	102
@@ -72819,7 +72817,6 @@
 世恩	shi en	2
 世芳	shi fang	6
 世风不古	shi feng bu gu	10
-世峰	shi feng	2
 世刚	shi gang	6
 世高	shi gao	2
 世恭	shi gong	6
@@ -72933,18 +72930,14 @@
 世坤	shi kun	2
 世琨	shi kun	2
 世良	shi liang	2
-世林	shi lin	2
 世霖	shi lin	6
-世麟	shi lin	6
 世伦	shi lun	6
 世茂	shi mao	6
 世贸中心	shi mao zhong xin	6
 世盟	shi meng	10
-世铭	shi ming	6
 世丕	shi pi	6
 世乒赛	shi ping sai	2369
 世萍	shi ping	2
-世璞	shi pu	6
 世铨	shi quan	2
 世群	shi qun	2
 世人人类	shi ren ren lei	7
@@ -72989,10 +72982,8 @@
 世钊	shi zhao	6
 世振	shi zhen	2
 世侄	shi zhi	10
-世志	shi zhi	6
 世中	shi zhong	2
 世忠	shi zhong	2
-世珠	shi zhu	6
 世柱	shi zhu	2
 仕臣	shi chen	2
 仕丹	shi dan	6
