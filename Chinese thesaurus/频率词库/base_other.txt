@@ -2053,7 +2053,6 @@
 饱饱	bao bao	7
 饱偿	bao chang	6
 饱的	bao de	10
-饱合	bao he	10
 饱和电流	bao he dian liu	100
 饱和度	bao he du	221
 饱和剂	bao he ji	10
