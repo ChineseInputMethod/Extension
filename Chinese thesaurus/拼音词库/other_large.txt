@@ -67298,7 +67298,6 @@
 假妪	jia yu	1
 假喻	jia yu	1
 假钺	jia yue	1
-假塟	jia zang	1
 假赈	jia zhen	1
 假之	jia zhi	1
 假职	jia zhi	1
@@ -114230,7 +114229,6 @@
 迁越	qian yue	1
 迁云	qian yun	1
 迁运	qian yun	1
-迁塟	qian zang	1
 迁召	qian zhao	1
 迁诏	qian zhao	1
 迁正黜色	qian zheng chu se	1

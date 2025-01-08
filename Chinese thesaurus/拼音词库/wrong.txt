@@ -1668,3 +1668,5 @@
 阸陜	e xia	1
 礧石	lei shi	100
 磬欬	qing kai	1
+假塟	jia zang	1
+迁塟	qian zang	1
