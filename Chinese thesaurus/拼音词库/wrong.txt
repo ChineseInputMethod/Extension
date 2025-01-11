@@ -1673,3 +1673,7 @@
 敧斜	qi xie	1
 天牎	tian chuang	1
 天牕	tian chuang	1
+手牓	shou bang	1
+罢勌	ba juan	1
+蝥贼	mao zei	1
+鬲子	ge zi	1

@@ -2441,7 +2441,6 @@
 罢尽	ba jin	1
 罢劵	ba juan	1
 罢倦	ba juan	1
-罢勌	ba juan	1
 罢困	ba kun	1
 罢老	ba lao	1
 罢羸	ba lei	1
@@ -45821,7 +45820,6 @@
 鬲咽	ge yan	1
 鬲要	ge yao	1
 鬲指声	ge zhi sheng	1
-鬲子	ge zi	1
 葛带	ge dai	1
 葛法翁	ge fa weng	1
 葛茀	ge bo	1
@@ -134934,7 +134932,6 @@
 手板葫芦	shou ban hu lu	1
 手板支颐	shou ban zhi yi	1
 手版倒持	shou ban dao chi	1
-手牓	shou bang	1
 手膀子	shou bang zi	1
 手毕	shou bi	1
 手禀	shou bing	1
