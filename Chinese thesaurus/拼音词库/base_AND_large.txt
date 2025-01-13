@@ -15364,7 +15364,7 @@
 大命	da ming	2000
 大谬	da miu	2000
 大谬不然	da miu bu ran	3159
-大模大样	da mo da yang	100
+大模大样	da mu da yang	2613
 大莫与京	da mo yu jing	2002
 大漠	da mo	7835
 大谋不谋	da mou bu mou	2000
@@ -32689,7 +32689,7 @@
 海不扬波	hai bu yang bo	2012
 海菜	hai cai	4039
 海参	hai shen	3160
-海参崴	hai shen wei	2529
+海参崴	hai shen wai	2529
 海沧	hai cang	1
 海草	hai cao	3000
 海汊	hai cha	100
@@ -40904,7 +40904,7 @@
 假面	jia mian	3000
 假面具	jia mian ju	4557
 假名	jia ming	4462
-假模假式	jia mo jia shi	2024
+假模假式	jia mu jia shi	2024
 假撇清	jia pie qing	102
 假期	jia qi	7423
 假球	jia qiu	3361
@@ -44794,7 +44794,7 @@
 劲歌	jin ge	247
 劲骨丰肌	jing gu feng ji	10
 劲急	jing ji	100
-劲健	jin jian	2000
+劲健	jing jian	2000
 劲力	jin li	2105
 劲烈	jing lie	100
 劲旅	jing lv	5811
@@ -57163,7 +57163,7 @@
 谩骂	man ma	5583
 蔓草	man cao	4014
 蔓草难除	man cao nan chu	100
-蔓儿	man er	2003
+蔓儿	wan er	2003
 蔓菁	man jing	2005
 蔓蔓日茂	man man ri mao	2000
 蔓生	man sheng	2000
