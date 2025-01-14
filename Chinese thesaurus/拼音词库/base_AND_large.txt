@@ -93852,7 +93852,7 @@
 象箸玉杯	xiang zhu yu bei	101
 像差	xiang cha	10
 像话	xiang hua	4014
-像模像样	xiang mo xiang yang	802
+像模像样	xiang mu xiang yang	802
 像片	xiang pian	2338
 像煞有介事	xiang sha you jie shi	103
 像生	xiang sheng	124
@@ -115983,7 +115983,7 @@
 走人	zou ren	4581
 走入	zou ru	962
 走散	zou san	2000
-走色	zou se	2002
+走色	zou shai	2002
 走扇	zou shan	2001
 走神	zou shen	2000
 走神儿	zou shen er	129
