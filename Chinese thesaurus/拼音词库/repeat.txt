@@ -5,3 +5,12 @@
 别价	bie jie	100
 澄净	deng jing	1000
 澄清	deng qing	8365
+出圈	chu juan	100
+出头露面	chu tou lou mian	2167
+出血	chu xie	100
+传赞	chuan zan	100
+大伯	da bai	100
+大都	da dou	3000
+大夫	da fu	3000
+大王	da wang	2000
+呆板	ai ban	4808
