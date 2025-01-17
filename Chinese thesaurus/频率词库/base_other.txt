@@ -40299,7 +40299,6 @@
 姜油	jiang you	2
 姜志焕	jiang zhi huan	1
 姜制品	jiang zhi pin	2
-浆湖	jiang hu	10
 浆糊状	jiang hu zhuang	6
 浆料	jiang liao	2000
 浆轮	jiang lun	6

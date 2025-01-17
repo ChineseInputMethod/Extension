@@ -13277,7 +13277,7 @@
 醇美	chun mei	4021
 醇酿	chun niang	7
 醇浓	chun nong	100
-醇朴	chun piao	2000
+醇朴	chun pu	2000
 醇酸	chun suan	100
 醇香	chun xiang	4104
 醇雅	chun ya	2
@@ -14454,7 +14454,7 @@
 沓乱	ta luan	2000
 沓杂	ta za	2000
 沓至	ta zhi	10
-沓子	ta zi	102
+沓子	da zi	102
 怛然失色	da ran shi se	2000
 妲己	da ji	10
 答案	da an	19977
