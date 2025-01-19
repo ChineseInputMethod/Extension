@@ -15080,7 +15080,7 @@
 大副	da fu	4404
 大富翁	da fu weng	611
 大腹便便	da fu pian pian	3317
-大腹贾	da fu jia	2004
+大腹贾	da fu gu	2004
 大盖帽	da gai mao	2021
 大概	da gai	50703
 大概地	da gai de	10
@@ -15165,7 +15165,7 @@
 大患	da huan	4000
 大荒	da huang	2000
 大黄	dai huang	4372
-大黄鱼	dai huang yu	2052
+大黄鱼	da huang yu	2052
 大灰狼	da hui lang	14
 大茴香	da hui xiang	103
 大会	da hui	42052
