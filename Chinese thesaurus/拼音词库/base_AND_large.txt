@@ -15639,7 +15639,7 @@
 大刑	da xing	2194
 大行	da xing	3750
 大行大市	da hang da shi	2000
-大行星	da hang xing	3061
+大行星	da xing xing	3061
 大行政区	da hang zheng qu	2009
 大型	da xing	24151
 大兴	da xing	4833
@@ -16314,7 +16314,7 @@
 耽误	dan wu	9379
 耽延	dan yan	100
 郸城	dan cheng	2007
-酖毒	dan du	10
+酖毒	zhen du	10
 殚财竭力	dan cai jie li	2000
 殚见洽闻	dan jian qia wen	2000
 殚竭	dan jie	100
@@ -17455,7 +17455,7 @@
 地板砖	di ban zhuan	2032
 地磅	di bang	3002
 地保	di bao	3342
-地堡	di pu	3267
+地堡	di bao	3267
 地崩山摧	di beng shan cui	100
 地边	di bian	10
 地标	di biao	3134
@@ -17705,7 +17705,7 @@
 的姐	di jie	10
 的卡	di ka	1827
 的款	di kuan	798
-的情	de qing	682
+的情	di qing	682
 的确	di que	44842
 的确良	di que liang	3017
 的士	di shi	3031
@@ -18129,7 +18129,7 @@
 抵挡	di dang	10247
 抵得上	di de shang	100
 抵敌	di di	10
-抵还	di hai	2005
+抵还	di huan	2005
 抵换	di huan	4002
 抵交	di jiao	100
 抵借	di jie	10
@@ -18297,7 +18297,7 @@
 第二位	di er wei	936
 第二信号系统	di er xin hao xi tong	2004
 第二性	di er xing	101
-第二性征	di er xing zhi	2
+第二性征	di er xing zheng	2
 第二职业	di er zhi ye	3061
 第令	di ling	100
 第三	di san	23000
@@ -18338,7 +18338,7 @@
 第一手	di yi shou	4197
 第一手材料	di yi shou cai liao	100
 第一线	di yi xian	5506
-第一信号系统	di yi shen hao xi tong	2003
+第一信号系统	di yi xin hao xi tong	2003
 第一性	di yi xing	101
 第宅	di zhai	3000
 谛视	di shi	4004
@@ -18409,7 +18409,7 @@
 典身钱	dian shen qian	100
 典试	dian shi	10
 典宪	dian xian	100
-典校	dian xiao	10
+典校	dian jiao	10
 典刑	dian xing	100
 典型	dian xing	16599
 典型化	dian xing hua	2000
@@ -18585,7 +18585,7 @@
 电覆	dian fu	7
 电杆	dian gan	3001
 电感	dian gan	3054
-电镐	dian hao	106
+电镐	dian gao	106
 电稿	dian gao	100
 电告	dian gao	5065
 电工	dian gong	6584

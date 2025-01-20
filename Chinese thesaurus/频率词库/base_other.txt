@@ -62935,7 +62935,6 @@
 敲着	qiao zhe	10
 敲诊板	qiao zhen ban	6
 敲钟者	qiao zhong zhe	6
-敲种	qiao zhong	10
 橇杆	qiao gan	6
 橇运	qiao yun	6
 侨办	qiao ban	3233
