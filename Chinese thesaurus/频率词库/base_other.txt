@@ -49416,7 +49416,7 @@
 立井	li jing	3008
 立克次氏体	li ke ci shi ti	104
 立刻的	li ke de	10
-立口耳首	li kou er shou	1000
+立口耳首	li kou er shou	1
 立枯病	li ku bing	100
 立了	li le	711
 立领	li ling	2061

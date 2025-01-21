@@ -19061,7 +19061,7 @@
 钓竿	diao gan	4745
 钓钩	diao gou	4179
 钓具	diao ju	4015
-钓名沽誉	diao yu gu ming	100
+钓名沽誉	diao ming gu yu	100
 钓名欺世	diao ming qi shi	100
 钓名要誉	diao ming yao yu	1
 钓丝	diao si	2000
@@ -19123,7 +19123,7 @@
 调节器	tiao jie qi	2151
 调节税	tiao jie shui	2144
 调解	tiao jie	8685
-调经	diao jing	3043
+调经	tiao jing	3043
 调酒	tiao jiu	10
 调卷	diao juan	4007
 调开	diao kai	10
@@ -19155,7 +19155,7 @@
 调色	tiao se	3000
 调色板	tiao se ban	2118
 调摄	tiao she	4016
-调升	diao sheng	11
+调升	tiao sheng	11
 调式	diao shi	3043
 调试	tiao shi	8383
 调适	tiao shi	313
@@ -19183,7 +19183,7 @@
 调养	tiao yang	5057
 调音	tiao yin	3000
 调用	diao yong	14006
-调御	diao yu	10
+调御	tiao yu	10
 调阅	diao yue	3129
 调匀	tiao yun	4528
 调运	diao yun	4563
@@ -19224,7 +19224,7 @@
 掉向	diao xiang	100
 掉以轻心	diao yi qing xin	4090
 掉转	diao zhuan	6499
-铫子	yao zi	2002
+铫子	diao zi	2002
 爹地	die di	10
 爹爹	die die	21027
 爹妈	die ma	3580
@@ -19287,7 +19287,7 @@
 叠字	die zi	2000
 碟片	die pian	252
 碟子	die zi	5075
-嵽嵲	di nie	100
+嵽嵲	die nie	100
 蝶粉蜂黄	die fen feng huang	100
 蝶骨	die gu	102
 蝶类	die lei	10
@@ -19763,7 +19763,7 @@
 东帝汶	dong di wen	2093
 东佃	dong dian	100
 东东	dong dong	847
-东都	dong dou	10
+东都	dong du	10
 东渡	dong du	253
 东躲西藏	dong duo xi cang	276
 东躲西跑	dong duo xi pao	100
@@ -20030,7 +20030,7 @@
 动程	dong cheng	6
 动词	dong ci	6000
 动粗	dong cu	3000
-动掸	dong chan	2000
+动掸	dong dan	2000
 动弹	dong tan	10276
 动荡	dong dang	7972
 动荡不安	dong dang bu an	935
@@ -20209,7 +20209,7 @@
 恫疑虚喝	dong yi xu he	2000
 胴体	dong ti	4145
 硐子	dong zi	100
-都柏林	dou bo lin	168
+都柏林	du bo lin	168
 都察院	du cha yuan	3000
 都城	du cheng	5198
 都德	du de	100
@@ -20387,8 +20387,8 @@
 豆浆	dou jiang	5775
 豆酱	dou jiang	3015
 豆角	dou jiao	4110
-豆角儿	dou jue er	2001
-豆秸	dou ji	4006
+豆角儿	dou jiao er	2001
+豆秸	dou jie	4006
 豆茎	dou jing	3
 豆科	dou ke	3027
 豆科植物	dou ke zhi wu	10
@@ -20527,7 +20527,7 @@
 毒药	du yao	11142
 毒液	du ye	3532
 毒瘴	du zhang	100
-毒爪	du zhua	2000
+毒爪	du zhao	2000
 毒汁	du zhi	2519
 毒资	du zi	127
 独霸	du ba	5708
@@ -21093,7 +21093,6 @@
 断还归宗	duan huan gui zong	100
 断航	duan hang	2000
 断喝	duan he	4032
-断鹤继凫	duan he xu fu	1
 断鹤续凫	duan he xu fu	100
 断黑	duan hei	100
 断鸿	duan hong	10
@@ -21443,7 +21442,7 @@
 惇诲	dun hui	10
 惇谨	dun jin	10
 惇睦	dun mu	10
-惇朴	dun piao	10
+惇朴	dun pu	10
 敦本	dun ben	2000
 敦促	dun cu	6315
 敦厚	dun hou	4360
