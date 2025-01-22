@@ -21453,7 +21453,7 @@
 敦勉	dun mian	10
 敦睦	dun mu	4008
 敦聘	dun pin	4003
-敦朴	dun piao	2000
+敦朴	dun pu	2000
 敦请	dun qing	4204
 敦劝	dun quan	2025
 敦诗说礼	dun shi shuo li	100
@@ -21698,7 +21698,7 @@
 多元论	duo yuan lun	3005
 多云	duo yun	4487
 多灾多难	duo zai duo nan	2001
-多咱	duo za	2008
+多咱	duo zan	2008
 多早晚	duo zao wan	2013
 多则	duo ze	435
 多汁	duo zhi	120
@@ -22175,7 +22175,7 @@
 尔虞我诈	er yu wo zha	3391
 尔诈我虞	er zha wo yu	3006
 耳巴	er ba	100
-耳报神	e bao shen	3002
+耳报神	er bao shen	3002
 耳背	er bei	4024
 耳边风	er bian feng	3307
 耳鬓厮磨	er bin si mo	3018
@@ -23167,7 +23167,7 @@
 烦嚣	fan xiao	3073
 烦心	fan xin	4203
 烦言	fan yan	3002
-烦言碎辞	fan yan sui yu	100
+烦言碎辞	fan yan sui ci	100
 烦厌	fan yan	100
 烦忧	fan you	3036
 烦躁	fan zao	9317
@@ -23245,7 +23245,7 @@
 反刍动物	fan chu dong wu	121
 反串	fan chuan	4061
 反唇相讥	fan chun xiang ji	3577
-反弹	fan dan	4650
+反弹	fan tan	4650
 反党	fan dang	3086
 反导	fan dao	6
 反导弹	fan dao dan	10
@@ -23470,7 +23470,7 @@
 犯愁	fan chou	3310
 犯憷	fan chu	3001
 犯错	fan cuo	211
-犯得上	fan dei shang	2005
+犯得上	fan de shang	2005
 犯得着	fan de zhao	3014
 犯嘀咕	fan di gu	103
 犯而不校	fan er bu jiao	114
@@ -23952,7 +23952,7 @@
 放大	fang da	7346
 放大机	fang da ji	100
 放大镜	fang da jing	3245
-放大率	fang da shuai	100
+放大率	fang da lv	100
 放大器	fang da qi	2168
 放大纸	fang da zhi	2004
 放贷	fang dai	4227
@@ -23979,7 +23979,7 @@
 放工	fang gong	4073
 放光	fang guang	2205
 放过	fang guo	19280
-放还	fang hai	2018
+放还	fang huan	2018
 放虎归山	fang hu gui shan	4109
 放虎自卫	fang hu zi wei	2000
 放怀	fang huai	3012
@@ -24092,7 +24092,7 @@
 放置	fang zhi	7308
 放舟	fang zhou	10
 放逐	fang zhu	5145
-放恣	fang ci	4006
+放恣	fang zi	4006
 放纵	fang zong	7754
 放纵驰荡	fang zong chi dang	100
 放走	fang zou	300
@@ -24122,7 +24122,7 @@
 飞碟	fei die	5366
 飞动	fei dong	2000
 飞渡	fei du	3008
-飞遁鸣高	fei dun ming kao	100
+飞遁鸣高	fei dun ming gao	100
 飞蛾	fei e	3654
 飞蛾赴火	fei e fu huo	2000
 飞蛾扑火	fei e pu huo	10
@@ -24378,7 +24378,7 @@
 霏霏	fei fei	4100
 霏微	fei wei	106
 鲱鱼	fei yu	2002
-肥差	fei cha	2007
+肥差	fei chai	2007
 肥肠	fei chang	4029
 肥城	fei cheng	2
 肥大	fei da	6007

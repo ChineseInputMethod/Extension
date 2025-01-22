@@ -35770,7 +35770,6 @@
 贰宗	er zong	1
 贰佐	er zuo	1
 发哀	fa ai	1
-发鞌	fa an	1
 发板	fa ban	1
 发枹	fa bao	1
 发币	fa bi	1
@@ -110268,7 +110267,6 @@
 贫主	pin zhu	1
 贫宗	pin zong	1
 贫族	pin zu	1
-琕琫	bing beng	1
 频并	pin bing	1
 频顣	pin cu	1
 频繁地更换	pin fan de geng huan	1
