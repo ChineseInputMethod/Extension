@@ -24447,7 +24447,7 @@
 匪徒	fei tu	7221
 匪穴	fei xue	3013
 匪伊朝夕	fei yi zhao xi	102
-匪夷匪惠	fei ji fei hui	100
+匪夷匪惠	fei yi fei hui	100
 匪夷所思	fei yi suo si	4940
 诽谤	fei bang	6891
 诽谤之木	fei bang zhi mu	100
@@ -24870,7 +24870,7 @@
 焚书坑儒	fen shu keng ru	2000
 焚香	fen xiang	4081
 焚香顶礼	fen xiang ding li	1
-焚香礼拜	fen xian li bai	100
+焚香礼拜	fen xiang li bai	100
 焚香膜拜	fen xiang mo bai	1
 焚舟	fen zhou	7
 焚舟破釜	fen zhou po fu	2000
@@ -25130,7 +25130,7 @@
 风风韵韵	feng feng yun yun	1
 风干	feng gan	3352
 风高放火	feng gao fang huo	1
-风镐	feng hao	3010
+风镐	feng gao	3010
 风格	feng ge	14351
 风骨	feng gu	4620
 风骨峭峻	feng gu qiao jun	100
@@ -25536,7 +25536,7 @@
 讽诵	feng song	3005
 讽一劝百	feng yi quan bai	100
 讽喻	feng yu	4072
-唪经	beng jing	101
+唪经	feng jing	101
 凤采鸾章	feng cai luan zhang	1
 凤巢	feng chao	10
 凤城	feng cheng	2
@@ -25859,7 +25859,7 @@
 佛老	fo lao	3007
 佛力	fo li	10
 佛戾	fu li	100
-佛罗里达	fu luo li da	2332
+佛罗里达	fo luo li da	2332
 佛罗伦萨	fo luo lun sa	261
 佛门	fo men	6656
 佛门弟子	fo men di zi	100
