@@ -15661,7 +15661,6 @@
 底纹	di wen	10
 底质	di zhi	10
 底子薄	di zi bao	193
-砥触	di chu	6
 砥堰	di yan	6
 骶后孔	di hou kong	6
 帝国时代	di guo shi dai	7

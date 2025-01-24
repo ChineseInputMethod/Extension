@@ -8608,7 +8608,6 @@
 边羡	bian xian	1
 边乡	bian xiang	1
 边饷	bian xiang	1
-边銄	bian xiang	1
 边饟	bian xiang	1
 边効	bian xiao	1
 边效	bian xiao	1
@@ -13907,7 +13906,6 @@
 岑石	cen shi	1
 岑岩	cen yan	1
 岑嵒	cen yan	1
-岑嵓	cen yan	1
 岑欝	cen yu	1
 笒隋	cen sui	1
 涔滴	cen di	1
@@ -14864,7 +14862,6 @@
 巉秀	chan xiu	1
 巉削	chan xue	1
 巉嵒	chan yan	1
-巉嵓	chan yan	1
 巉巗	chan yan	1
 巉崱	chan ze	1
 巉崒	chan zu	1
@@ -29155,7 +29152,6 @@
 砥原	di yuan	1
 砥直	di zhi	1
 砥墆	di di	1
-砥砫	di zhu	1
 砥镞	di zu	1
 菧苨	di ni	1
 弚靡	tui mi	1
@@ -153465,7 +153461,6 @@
 文叙子	wen xu zi	1
 文绪	wen xu	1
 文溆子	wen xu zi	1
-文緖	wen xu	1
 文宣部	wen xuan bu	1
 文选巷	wen xuan xiang	1
 文选学	wen xuan xue	1
@@ -153651,7 +153646,6 @@
 紊弃	wen qi	1
 紊碎	wen sui	1
 紊绪	wen xu	1
-紊緖	wen xu	1
 紊斁	wen yi	1
 脗合	wen he	1
 脗契	wen qi	1

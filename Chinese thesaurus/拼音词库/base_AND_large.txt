@@ -26727,7 +26727,7 @@
 富厚	fu hou	7
 富户	fu hu	2001
 富家	fu jia	141
-富贾	fu jia	10
+富贾	fu gu	10
 富锦	fu jin	6
 富康	fu kang	953
 富可敌国	fu ke di guo	3000
@@ -26746,7 +26746,7 @@
 富饶	fu rao	6498
 富人	fu ren	4044
 富商	fu shang	3303
-富商大贾	fu shang da jia	100
+富商大贾	fu shang da gu	100
 富盛	fu sheng	10
 富实	fu shi	3003
 富士	fu shi	2000
@@ -27169,8 +27169,8 @@
 疳积	gan ji	3000
 尴尬	gan ga	18494
 扞格	han ge	102
-扞拒	gan ju	10
-扞御	gan yu	10
+扞拒	han ju	10
+扞御	han yu	10
 秆子	gan zi	3012
 赶不及	gan bu ji	3015
 赶不上	gan bu shang	4269
