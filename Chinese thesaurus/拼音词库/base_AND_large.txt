@@ -27183,7 +27183,7 @@
 赶出	gan chu	489
 赶到	gan dao	23400
 赶得及	gan de ji	3009
-赶得上	gan dei shang	3037
+赶得上	gan de shang	3037
 赶点	gan dian	4002
 赶赴	gan fu	7445
 赶工	gan gong	4058
@@ -27305,7 +27305,7 @@
 感叹号	gan tan hao	3039
 感叹句	gan tan ju	3003
 感天动地	gan tian dong di	100
-感天泣地	gan tian qi de	10
+感天泣地	gan tian qi di	10
 感同身受	gan tong shen shou	3311
 感悟	gan wu	5200
 感想	gan xiang	7800
@@ -27378,7 +27378,7 @@
 干戈	gan ge	4935
 干股	gan gu	4012
 干果	gan guo	4211
-干咳	gan hai	4213
+干咳	gan ke	4213
 干旱	gan han	7196
 干嚎	gan hao	3006
 干号	gan hao	4002
@@ -27425,7 +27425,7 @@
 干嘛	gan ma	721
 干没	gan mo	100
 干妹子	gan mei zi	100
-干面	qian mian	100
+干面	gan mian	100
 干名采誉	gan ming cai yu	100
 干娘	gan niang	3667
 干女儿	gan nv er	10
@@ -27461,8 +27461,8 @@
 干性油	gan xing you	2001
 干休	gan xiu	10
 干休所	gan xiu suo	2165
-干血浆	qian xue jiang	101
-干哑	qian ya	10
+干血浆	gan xue jiang	101
+干哑	gan ya	10
 干眼症	gan yan zheng	100
 干谒	gan ye	2002
 干预	gan yu	10942
@@ -27474,7 +27474,7 @@
 干燥器	gan zao qi	2509
 干燥症	gan zao zheng	100
 干仗	gan zhang	2009
-干着	qian zhe	10
+干着	gan zhe	10
 干着急	gan zhao ji	2673
 干证	gan zheng	100
 干政	gan zheng	3016
@@ -27611,7 +27611,7 @@
 岗地	gang di	126
 岗尖	gang jian	103
 岗警	gang jing	2034
-岗卡	gang ka	101
+岗卡	gang qia	101
 岗口儿甜	gang kou er tian	100
 岗楼	gang lou	4034
 岗峦	gang luan	100
