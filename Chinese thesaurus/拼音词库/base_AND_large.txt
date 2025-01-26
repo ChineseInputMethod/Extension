@@ -28224,7 +28224,7 @@
 戈瑞	ge rui	2
 仡仡	yi yi	145
 仡佬族	ge lao zu	3029
-圪蹴	ge cu	101
+圪蹴	ge jiu	101
 圪垯	ge da	2001
 圪节	ge jie	2011
 圪针	ge zhen	2001
@@ -28567,7 +28567,6 @@
 各色	ge se	4460
 各色各样	ge se ge yang	2000
 各色人等	ge se ren deng	2001
-各市地	ge shi de	125
 各式各样	ge shi ge yang	5295
 各抒己见	ge shu ji jian	3258
 各司其事	ge si qi shi	10
