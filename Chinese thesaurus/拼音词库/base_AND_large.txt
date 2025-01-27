@@ -28950,7 +28950,7 @@
 工作	gong zuo	293827
 工作表	gong zuo biao	2
 工作餐	gong zuo can	2042
-工作地	gong zuo de	100
+工作地	gong zuo di	100
 工作队	gong zuo dui	2482
 工作服	gong zuo fu	4520
 工作记忆	gong zuo ji yi	2
@@ -29082,7 +29082,7 @@
 公克	gong ke	10
 公库	gong ku	7
 公款	gong kuan	7979
-公了	gong le	2010
+公了	gong liao	2010
 公厘	gong li	2014
 公里	gong li	24152
 公理	gong li	6803

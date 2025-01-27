@@ -22,3 +22,10 @@
 掉色	diao shai	3022
 断行	duan xing	3009
 放血	fang xie	100
+给付	ji fu	3500
+给予	gei yu	2000
+公差	gong cha	3000
+狗血喷头	gou xie pen tou	100
+呱呱	gua gua	3814
+见长	jian chang	6258
+解数	jie shu	100
