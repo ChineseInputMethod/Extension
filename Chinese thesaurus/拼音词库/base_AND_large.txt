@@ -29844,7 +29844,7 @@
 够本	gou ben	4294
 够不上	gou bu shang	2601
 够不着	gou bu zhao	2516
-够得上	gou dei shang	2000
+够得上	gou de shang	2000
 够得着	gou de zhao	2000
 够格	gou ge	4038
 够过儿	gou guo er	100
@@ -30089,7 +30089,7 @@
 古来	gu lai	4105
 古兰经	gu lan jing	3181
 古老	gu lao	13734
-古乐	gu le	112
+古乐	gu yue	112
 古里古怪	gu li gu guai	3247
 古历	gu li	100
 古隶	gu li	10
@@ -30098,7 +30098,7 @@
 古罗马	gu luo ma	164
 古貌古心	gu mao gu xin	104
 古墓	gu mu	3661
-古朴	gu piao	7686
+古朴	gu pu	7686
 古气	gu qi	100
 古钱	gu qian	3000
 古腔古调	gu qiang gu diao	100
@@ -30115,7 +30115,7 @@
 古时候	gu shi hou	2101
 古史	gu shi	12
 古式	gu shi	100
-古是今非	gu shi jing fei	100
+古是今非	gu shi jin fei	100
 古书	gu shu	4859
 古塔	gu ta	10
 古藤	gu teng	100
@@ -30439,7 +30439,7 @@
 故宫禾黍	gu gong he shu	2001
 故国	gu guo	4616
 故伎	gu ji	181
-故伎重演	gu ji zhong yan	2074
+故伎重演	gu ji chong yan	2074
 故迹	gu ji	114
 故家子弟	gu jia zi di	100
 故剑情深	gu jian qing shen	100
