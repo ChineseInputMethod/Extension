@@ -30803,7 +30803,7 @@
 怪脸	guai lian	7
 怪论	guai lun	3094
 怪秘	guai mi	2000
-怪模怪样	guai mo guai yang	3334
+怪模怪样	guai mu guai yang	3334
 怪念头	guai nian tou	100
 怪癖	guai pi	6505
 怪僻	guai pi	6431
@@ -31016,7 +31016,7 @@
 官军	guan jun	4402
 官客	guan ke	100
 官老爷	guan lao ye	100
-官了	guan le	3000
+官了	guan liao	3000
 官吏	guan li	5538
 官僚	guan liao	4813
 官僚政治	guan liao zheng zhi	100
@@ -31402,7 +31402,7 @@
 光束	guang shu	4865
 光速	guang su	4434
 光堂堂	guang tang tang	101
-光趟	guang cheng	2000
+光趟	guang tang	2000
 光天化日	guang tian hua ri	4151
 光通量	guang tong liang	2009
 光头	guang tou	5836
@@ -32166,7 +32166,7 @@
 国库	guo ku	5821
 国库券	guo ku quan	4529
 国老	guo lao	6
-国乐	guo le	2113
+国乐	guo yue	2113
 国礼	guo li	6
 国力	guo li	7694
 国历	guo li	7
