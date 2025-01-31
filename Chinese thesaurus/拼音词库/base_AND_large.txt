@@ -32593,7 +32593,7 @@
 咳唾成珠	ke tuo cheng zhu	101
 咳血	ke xue	10
 嗨哟	hai yo	4003
-还报	hai bao	2139
+还报	huan bao	2139
 还本	huan ben	4472
 还不错	hai bu cuo	867
 还差	hai cha	484
@@ -32612,7 +32612,7 @@
 还家	huan jia	3000
 还价	huan jia	4176
 还口	huan kou	3023
-还款	hai kuan	895
+还款	huan kuan	895
 还来	hai lai	648
 还礼	huan li	5651
 还令	hai ling	10
@@ -32621,12 +32621,12 @@
 还钱	huan qian	152
 还欠	hai qian	153
 还清	huan qing	3522
-还情	hai qing	2007
+还情	huan qing	2007
 还请	hai qing	429
 还去	hai qu	197
 还少	hai shao	162
 还射	hai she	10
-还师	hai shi	10
+还师	huan shi	10
 还是	hai shi	244983
 还手	huan shou	7254
 还受	hai shou	10
@@ -32642,7 +32642,7 @@
 还乡团	huan xiang tuan	107
 还行	hai xing	318
 还阳	huan yang	2012
-还业	hai ye	10
+还业	huan ye	10
 还有	hai you	194450
 还原	huan yuan	6047
 还原剂	huan yuan ji	2002
