@@ -32651,7 +32651,7 @@
 还债	huan zhai	4903
 还账	huan zhang	3014
 还真	hai zhen	1400
-还政	hai zheng	10
+还政	huan zheng	10
 还值	hai zhi	10
 还治其人之身	huan zhi qi ren zhi shen	464
 还嘴	huan zui	4226
@@ -32750,7 +32750,7 @@
 海军	hai jun	11934
 海军航空兵	hai jun hang kong bing	3
 海军陆战队	hai jun lu zhan dui	100
-海军呢	hai jun ne	2008
+海军呢	hai jun ni	2008
 海康	hai kang	10
 海客	hai ke	100
 海空军	hai kong jun	2
@@ -33224,7 +33224,7 @@
 汉白玉	han bai yu	3158
 汉办	han ban	1
 汉堡	han bao	3507
-汉堡包	han pu bao	2185
+汉堡包	han bao bao	2185
 汉碑	han bei	7
 汉藏语系	han zang yu xi	100
 汉朝	han chao	3144
