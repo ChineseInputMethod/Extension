@@ -34497,7 +34497,7 @@
 黑背	hei bei	1
 黑不溜秋	hei bu liu qiu	4057
 黑材料	hei cai liao	100
-黑参	hei can	10
+黑参	hei shen	10
 黑茶	hei cha	1
 黑潮	hei chao	2000
 黑车	hei che	3122
@@ -34952,7 +34952,7 @@
 红宝书	hong bao shu	2000
 红不棱登	hong bu leng deng	3000
 红布	hong bu	4000
-红参	hong can	3038
+红参	hong shen	3038
 红茶	hong cha	5707
 红场	hong chang	4118
 红潮	hong chao	3851
