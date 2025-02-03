@@ -35178,8 +35178,8 @@
 洪波	hong bo	3258
 洪大	hong da	4568
 洪洞	hong tong	2000
-洪都	hong dou	10
-洪都拉斯	hong dou la si	228
+洪都	hong du	10
+洪都拉斯	hong du la si	228
 洪恩	hong en	3136
 洪泛区	hong fan qu	100
 洪范	hong fan	10
@@ -35345,7 +35345,7 @@
 后尘	hou chen	4548
 后成	hou cheng	2
 后翅	hou chi	2
-后传	hou chuan	10
+后传	hou zhuan	10
 后此	hou ci	100
 后代	hou dai	9574
 后挡板	hou dang ban	2
@@ -35479,7 +35479,7 @@
 后退	hou tui	16325
 后臀	hou tun	100
 后尾	hou wei	2000
-后尾儿	hou wei er	2000
+后尾儿	hou yi er	2000
 后卫	hou wei	4596
 后味	hou wei	100
 后魏	hou wei	2000
