@@ -37177,7 +37177,7 @@
 皇城	huang cheng	2202
 皇储	huang chu	4068
 皇帝	huang di	25353
-皇都	huang dou	133
+皇都	huang du	133
 皇恩	huang en	100
 皇甫	huang fu	4052
 皇宫	huang gong	10193
@@ -38461,7 +38461,7 @@
 火大	huo da	10
 火刀	huo dao	109
 火到猪头烂	huo dao zhu tou lan	2
-火地岛	huo de dao	102
+火地岛	huo di dao	102
 火电	huo dian	4387
 火电站	huo dian zhan	2027
 火毒	huo du	100
@@ -39055,8 +39055,8 @@
 鸡鸣戒旦	ji ming jie dan	100
 鸡鸣起舞	ji ming qi wu	1
 鸡鸣犬吠	ji ming quan fei	1
-鸡鸣馌耕	ji ming gou geng	1
-鸡内金	ji na jin	104
+鸡鸣馌耕	ji ming ye geng	1
+鸡内金	ji nei jin	104
 鸡皮	ji pi	3
 鸡皮疙瘩	ji pi ge da	4207
 鸡皮鹤发	ji pi he fa	3143
