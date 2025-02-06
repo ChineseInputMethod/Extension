@@ -44,3 +44,7 @@
 肉脯	rou pu	100
 三朝	san zhao	2046
 上调	shang tiao	2000
+谁边	shei bian	1000
+谁人	shei ren	100
+说客	shui ke	100
+挺劲	ting jing	100

@@ -39275,7 +39275,7 @@
 赍粮藉寇	ji liang jie kou	100
 赍赏	ji shang	100
 赍志而没	ji zhi er mo	102
-攲侧	ji ce	100
+攲侧	qi ce	100
 犄角	ji jiao	4374
 缉捕	ji bu	4585
 缉查	ji cha	4007
@@ -39697,7 +39697,7 @@
 疾驰	ji chi	7871
 疾厄	ji e	6
 疾恶	ji wu	2000
-疾恶好善	ji wu hao shan	100
+疾恶好善	ji e hao shan	100
 疾恶如仇	ji e ru chou	4242
 疾风	ji feng	4784
 疾风劲草	ji feng jing cao	2014
