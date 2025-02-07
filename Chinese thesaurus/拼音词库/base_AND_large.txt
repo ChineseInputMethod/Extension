@@ -39798,7 +39798,7 @@
 集运	ji yun	4036
 集镇	ji zhen	6772
 集中	ji zhong	37066
-集中地	ji zhong de	199
+集中地	ji zhong di	199
 集中器	ji zhong qi	10
 集中营	ji zhong ying	3478
 集中制	ji zhong zhi	3385
@@ -39821,7 +39821,7 @@
 嫉贤傲士	ji xian ao shi	1
 嫉贤妒能	ji xian du neng	3032
 蕺菜	ji cai	4002
-瘠薄	ji bao	3071
+瘠薄	ji bo	3071
 瘠地	ji di	10
 瘠己肥人	ji ji fei ren	100
 瘠人肥己	ji ren fei ji	100
@@ -39841,7 +39841,7 @@
 几倍	ji bei	369
 几笔	ji bi	216
 几不欲生	ji bu yu sheng	10
-几曾	ji zeng	4022
+几曾	ji ceng	4022
 几次	ji ci	3280
 几次三番	ji ci san fan	2027
 几点	ji dian	3620
@@ -40073,7 +40073,7 @@
 记作	ji zuo	7
 伎俩	ji liang	6651
 纪传	ji chuan	10
-纪传体	ji chuan ti	2027
+纪传体	ji zhuan ti	2027
 纪纲	ji gang	3323
 纪功碑	ji gong bei	6
 纪检	ji jian	7513
@@ -40203,7 +40203,7 @@
 济河焚舟	ji he fen zhou	2001
 济急	ji ji	100
 济济	ji ji	3048
-济济跄跄	ji qi qiang qiang	100
+济济跄跄	ji ji qiang qiang	100
 济济一堂	ji ji yi tang	3210
 济苦怜贫	ji ku lian pin	2000
 济困扶危	ji kun fu wei	2074
