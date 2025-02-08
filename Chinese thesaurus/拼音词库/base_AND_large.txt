@@ -40833,7 +40833,7 @@
 甲级战犯	jia ji zhan fan	1
 甲亢	jia kang	2345
 甲壳	jia qiao	4169
-甲壳虫	jia qiao chong	192
+甲壳虫	jia ke chong	192
 甲壳动物	jia qiao dong wu	2004
 甲克	jia ke	6
 甲库	jia ku	100
@@ -41116,7 +41116,7 @@
 坚持下去	jian chi xia qu	2
 坚定	jian ding	20090
 坚定不移	jian ding bu yi	5588
-坚定地	jian deng de	536
+坚定地	jian ding de	536
 坚定性	jian ding xing	4
 坚戈	jian ge	2
 坚固	jian gu	8175
