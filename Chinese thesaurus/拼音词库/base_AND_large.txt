@@ -41389,7 +41389,7 @@
 捡破烂儿	jian po lan er	2002
 捡起来	jian qi lai	7
 捡拾	jian shi	5069
-捡洋落儿	jian yang la er	100
+捡洋落儿	jian yang lao er	100
 检波	jian bo	4025
 检测	jian ce	12432
 检测器	jian ce qi	125
@@ -41402,7 +41402,7 @@
 检察厅	jian cha ting	12
 检察员	jian cha yuan	2173
 检察院	jian cha yuan	6886
-检察长	jian cha chang	2199
+检察长	jian cha zhang	2199
 检场	jian chang	111
 检出	jian chu	6
 检点	jian dian	5942
@@ -41572,7 +41572,7 @@
 简能而任	jian neng er ren	100
 简拼	jian pin	2000
 简评	jian ping	2307
-简朴	jian piao	5964
+简朴	jian pu	5964
 简谱	jian pu	4030
 简任	jian ren	103
 简省	jian sheng	4004
