@@ -42286,7 +42286,7 @@
 匠意	jiang yi	10
 降班	jiang ban	102
 降半旗	jiang ban qi	2016
-降表	jiang biao	104
+降表	xiang biao	104
 降尘	jiang chen	2052
 降低	jiang di	17655
 降低利率	jiang di li lv	10
@@ -42295,7 +42295,7 @@
 降服	xiang fu	3107
 降幅	jiang fu	3868
 降福	jiang fu	3000
-降附	jiang fu	10
+降附	xiang fu	10
 降格	jiang ge	3175
 降格以求	jiang ge yi qiu	2047
 降贵纡尊	jiang gui yu zun	109
@@ -42656,8 +42656,8 @@
 胶印	jiao yin	5118
 胶原	jiao yuan	2207
 胶粘	jiao nian	423
-胶粘地	jiao zhan de	10
-胶着	jiao zhe	2121
+胶粘地	jiao nian de	10
+胶着	jiao zhuo	2121
 胶纸	jiao zhi	10
 胶质	jiao zhi	2172
 胶州	jiao zhou	2082
