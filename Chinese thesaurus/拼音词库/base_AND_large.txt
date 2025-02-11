@@ -42723,7 +42723,7 @@
 角抵	jue di	100
 角动量	jiao dong liang	104
 角斗	jue dou	4388
-角斗士	jiao dou shi	100
+角斗士	jue dou shi	100
 角度	jiao du	18009
 角钢	jiao gang	3063
 角弓	jiao gong	2000
@@ -42916,7 +42916,7 @@
 搅和	jiao huo	4825
 搅哄	jiao hong	100
 搅浑	jiao hun	3021
-搅混	jiao gun	2076
+搅混	jiao hun	2076
 搅局	jiao ju	3117
 搅乱	jiao luan	5742
 搅闹	jiao nao	100
@@ -43641,7 +43641,7 @@
 解饿	jie e	4003
 解发佯狂	jie fa yang kuang	100
 解乏	jie fa	4017
-解法	xie fa	4588
+解法	jie fa	4588
 解放	jie fang	20849
 解放后	jie fang hou	2804
 解放军	jie fang jun	13877
@@ -43676,7 +43676,7 @@
 解离	jie li	2000
 解理	jie li	10
 解铃	jie ling	10
-解铃系铃	jie ling ji ling	3006
+解铃系铃	jie ling xi ling	3006
 解落	jie luo	10
 解码	jie ma	4469
 解码器	jie ma qi	360
