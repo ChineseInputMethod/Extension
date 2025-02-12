@@ -12886,7 +12886,7 @@
 地北天南	di bei tian nan	1
 地变	di bian	1
 地蚕	di can	2
-地藏	di zang #包括一切 地藏xxx ，比如地藏寺、地藏王、地藏菩萨等等	6
+地藏	di zang	6
 地藏菩萨	di zang pu sa	7
 地藏寺	di zang si	1
 地藏王	di zang wang	2

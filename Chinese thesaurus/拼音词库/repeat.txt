@@ -57,3 +57,7 @@
 下调	xia tiao	2000
 纤手	xian shou	2000
 泄露	xie lu	8017
+血晕	xue yun	2029
+寻短见	xin duan jian	2035
+一行	yi hang	100
+移行	yi xing	100

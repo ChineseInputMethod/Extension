@@ -44672,7 +44672,7 @@
 进退应矩	jin tui ying ju	1
 进退有常	jin tui you chang	100
 进退裕如	jin tui yu ru	1
-进退迍邅	jin tui chu zu	1
+进退迍邅	jin tui zhun zhan	1
 进位	jin wei	4092
 进屋	jin wu	442
 进贤	jin xian	3001
