@@ -61,3 +61,8 @@
 寻短见	xin duan jian	2035
 一行	yi hang	100
 移行	yi xing	100
+咱家	zan jia	100
+增长	zeng chang	100
+长脸	chang lian	2000
+着边	zhao bian	100
+吱声	zi sheng	3520

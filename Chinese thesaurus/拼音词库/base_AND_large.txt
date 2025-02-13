@@ -44802,7 +44802,7 @@
 劲松	jing song	1000
 劲挺	jing ting	100
 劲头	jin tou	5964
-劲舞	jing wu	205
+劲舞	jin wu	205
 劲直	jing zhi	100
 劲卒	jing zu	100
 荩草	jin cao	101
@@ -45214,7 +45214,7 @@
 惊喜	jing xi	14262
 惊喜交集	jing xi jiao ji	1003
 惊喜若狂	jing xi ruo kuang	100
-惊喜欲狂	jing xi ruo kuang	100
+惊喜欲狂	jing xi yu kuang	100
 惊吓	jing xia	8726
 惊险	jing xian	7016
 惊险片	jing xian pian	107
