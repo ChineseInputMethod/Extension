@@ -45871,7 +45871,7 @@
 九成	jiu cheng	631
 九城	jiu cheng	1
 九大	jiu da	929
-九大行星	jiu da hang xing	100
+九大行星	jiu da xing xing	100
 九丹	jiu dan	1
 九鼎	jiu ding	4156
 九鼎不足为重	jiu ding bu zu wei zhong	100
@@ -45958,7 +45958,7 @@
 九章	jiu zhang	3
 九折	jiu zhe	10
 九种	jiu zhong	160
-九重	jiu zhong	3000
+九重	jiu chong	3000
 九重霄	jiu chong xiao	3003
 九州	jiu zhou	7175
 九洲四海	jiu zhou si hai	100
@@ -46169,7 +46169,7 @@
 旧貌	jiu mao	3165
 旧梦	jiu meng	3078
 旧年	jiu nian	4031
-旧念复萌	jiu nian fu mang	100
+旧念复萌	jiu nian fu meng	100
 旧派	jiu pai	2001
 旧瓶新酒	jiu ping xin jiu	1
 旧瓶装新酒	jiu ping zhuang xin jiu	124
@@ -46186,7 +46186,7 @@
 旧识	jiu shi	2000
 旧式	jiu shi	5780
 旧事	jiu shi	5344
-旧事重提	jiu shi zhong ti	100
+旧事重提	jiu shi chong ti	100
 旧书	jiu shu	4477
 旧俗	jiu su	4083
 旧损	jiu sun	100
