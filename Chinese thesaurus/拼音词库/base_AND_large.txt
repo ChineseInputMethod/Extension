@@ -46482,7 +46482,7 @@
 局促不安	ju cu bu an	3587
 局地	ju di	2000
 局度	ju du	3002
-局高蹐厚	ju gao gua hou	1
+局高蹐厚	ju gao ji hou	1
 局级	ju ji	607
 局量	ju liang	4002
 局麻	ju ma	3000
@@ -46969,15 +46969,15 @@
 卷轴	juan zhou	4297
 卷子	juan zi	4463
 卷宗	juan zong	5828
-隽拔	juan ba	10
+隽拔	jun ba	10
 隽才	jun cai	100
-隽材	juan cai	10
+隽材	jun cai	10
 隽良	jun liang	10
-隽茂	juan mao	10
-隽敏	juan min	10
+隽茂	jun mao	10
+隽敏	jun min	10
 隽言妙语	jun yan miao yu	100
 隽永	juan yong	4117
-隽语	jun yu	2011
+隽语	juan yu	2011
 倦怠	juan dai	5471
 倦乏	juan fa	2000
 倦鸟	juan niao	10
