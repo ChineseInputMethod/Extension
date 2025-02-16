@@ -47508,7 +47508,6 @@
 咖啡色	ka fei se	2401
 咖啡厅	ka fei ting	2388
 咖啡因	ka fei yin	2160
-咖哩	ka li	10
 咖喱	ga li	3091
 喀吧	ka ba	4002
 喀布尔	ka bu er	2224
@@ -47658,7 +47657,7 @@
 开花衣	kai hua yi	100
 开化	kai hua	5488
 开怀	kai huai	4326
-开怀畅饮	kai huan chang yin	408
+开怀畅饮	kai huai chang yin	408
 开怀儿	kai huai er	100
 开荒	kai huang	5673
 开会	kai hui	11157
