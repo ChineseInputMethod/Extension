@@ -48483,7 +48483,7 @@
 可不是	ke bu shi	4010
 可怖	ke bu	3154
 可操左券	ke cao zuo quan	2000
-可曾	ke zeng	3261
+可曾	ke ceng	3261
 可乘	ke cheng	219
 可乘之机	ke cheng zhi ji	2818
 可乘之隙	ke cheng zhi xi	144
@@ -48840,7 +48840,7 @@
 肯不肯	ken bu ken	100
 肯德基	ken de ji	340
 肯定	ken ding	43963
-肯定地	ken deng de	476
+肯定地	ken ding de	476
 肯干	ken gan	222
 肯构肯堂	ken gou ken tang	1
 肯尼迪	ken ni di	2536
