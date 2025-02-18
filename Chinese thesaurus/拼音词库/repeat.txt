@@ -91,3 +91,13 @@
 调正	tiao zheng	10
 调质	tiao zhi	10
 丁丁	zheng zheng	2279
+定从	ding cong	100
+都会	du hui	31682
+多重	duo zhong	1150
+发颤	fa zhan	100
+拂过	fu guo	10
+伽利略	ga li lve	2104
+胳肢窝	ga zhi wo	2143
+拱圈	gong juan	12
+挂落	gua lao	2000
+贵行	gui hang	10

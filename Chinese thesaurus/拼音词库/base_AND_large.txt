@@ -49226,7 +49226,7 @@
 口角	kou jue	3529
 口角春风	kou jiao chun feng	122
 口角生风	kou jiao sheng feng	100
-口角炎	kou jue yan	101
+口角炎	kou jiao yan	101
 口紧	kou jin	4068
 口噤	kou jin	4
 口径	kou jing	5720
@@ -49444,8 +49444,8 @@
 哭声	ku sheng	6710
 哭诉	ku su	6201
 哭天喊地	ku tian han di	2043
-哭天嚎地	ku tian hao de	10
-哭天哭地	ku tian ku de	111
+哭天嚎地	ku tian hao di	10
+哭天哭地	ku tian ku di	111
 哭天抹泪	ku tian mo lei	3010
 哭笑不得	ku xiao bu de	4216
 哭主	ku zhu	10
