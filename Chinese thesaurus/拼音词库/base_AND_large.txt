@@ -50013,7 +50013,7 @@
 亏心	kui xin	4195
 亏心短行	kui xin duan xing	101
 亏心事	kui xin shi	2469
-亏折	kui zhe	3002
+亏折	kui she	3002
 岿然	kui ran	4014
 岿然不动	kui ran bu dong	2109
 岿然独存	kui ran du cun	3004
@@ -50089,7 +50089,7 @@
 喟叹	kui tan	4029
 馈电	kui dian	100
 馈给	kui gei	10
-馈贫之粮	zuo pin zhi liang	100
+馈贫之粮	kui pin zhi liang	100
 馈送	kui song	4016
 馈线	kui xian	3046
 馈遗	kui yi	2000
@@ -50160,7 +50160,7 @@
 鲲鹏	kun peng	3056
 捆绑	kun bang	6338
 捆缚	kun fu	100
-捆扎	kun zha	4146
+捆扎	kun za	4146
 捆住手脚	kun zhu shou jiao	100
 悃愊	kun bi	2000
 悃愊无华	kun bi wu hua	2000
