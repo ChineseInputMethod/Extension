@@ -51060,7 +51060,7 @@
 老雕	lao diao	100
 老雕虫	lao diao chong	100
 老调	lao diao	4163
-老调重弹	lao diao zhong dan	160
+老调重弹	lao diao zhong tan	160
 老掉牙	lao diao ya	3757
 老爹	lao die	8474
 老东西	lao dong xi	7
@@ -51204,7 +51204,7 @@
 老腔	lao qiang	100
 老亲	lao qin	4195
 老秋	lao qiu	100
-老区	lao ou	7037
+老区	lao qu	7037
 老去	lao qu	3
 老拳	lao quan	4030
 老人	lao ren	86930
@@ -51360,7 +51360,7 @@
 乐得	le de	7706
 乐地	le di	10
 乐颠颠	le dian dian	121
-乐调	le diao	10
+乐调	yue diao	10
 乐队	yue dui	8303
 乐儿	le er	2013
 乐而不淫	le er bu yin	2019
@@ -51383,13 +51383,13 @@
 乐极生悲	le ji sheng bei	2180
 乐极则悲	le ji ze bei	100
 乐境	le jing	10
-乐句	le ju	10
+乐句	yue ju	10
 乐捐	le juan	10
 乐乐	le le	363
 乐乐陶陶	le le tao tao	100
 乐理	yue li	3051
 乐利	le li	10
-乐陵	le ling	10
+乐陵	lao ling	10
 乐律	yue lv	4031
 乐迷	yue mi	2129
 乐命	le ming	10
