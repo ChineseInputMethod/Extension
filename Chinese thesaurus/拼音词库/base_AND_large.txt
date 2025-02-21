@@ -51407,12 +51407,12 @@
 乐山乐水	le shan le shui	100
 乐山市	le shan shi	171
 乐善好施	le shan hao shi	3239
-乐神	le shen	10
-乐圣	le sheng	10
+乐神	yue shen	10
+乐圣	yue sheng	10
 乐师	yue shi	3035
 乐施	le shi	11
 乐事	le shi	5109
-乐手	le shou	2118
+乐手	yue shou	2118
 乐水	yao shui	10
 乐死	le si	10
 乐岁	le sui	2000
@@ -51451,7 +51451,7 @@
 了不长进	liao bu zhang jin	100
 了当	liao dang	5570
 了得	liao de	4514
-了的	le de	2800
+了的	liao de	2800
 了断	liao duan	4229
 了结	liao jie	8377
 了解	liao jie	78211
@@ -51464,7 +51464,7 @@
 了如指掌	liao ru zhi zhang	5307
 了身达命	liao shen da ming	100
 了事	liao shi	9096
-了手	le shou	100
+了手	liao shou	100
 了无	liao wu	2617
 了无惧色	liao wu ju se	28
 了悟	liao wu	2023
