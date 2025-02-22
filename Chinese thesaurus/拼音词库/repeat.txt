@@ -111,3 +111,13 @@
 后爪	hou zhao	10
 厚薄	hou bo	4363
 互见	hu jian	4037
+疾恶	ji e	2000
+见世面	jian shi mian	3039
+将将	jiang jiang	4000
+将进酒	jiang jin jiu	10
+脚行	jiao hang	149
+颈子	geng zi	3000
+隽才	juan cai	100
+卡盘	ka pan	10
+兰若	lan ruo	120
+乐山乐水	yao shan yao shui	100

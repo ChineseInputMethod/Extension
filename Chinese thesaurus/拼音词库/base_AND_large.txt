@@ -51577,7 +51577,7 @@
 蕾丝	lei si	3
 肋骨	lei gu	6682
 肋间肌	lei jian ji	101
-肋膜炎	le mo yan	104
+肋膜炎	lei mo yan	104
 肋木	lei mu	12
 肋脦	le te	100
 肋条	lei tiao	4028
@@ -51667,7 +51667,7 @@
 累赘	lei zhui	6501
 崚嶒	ling ceng	102
 塄坎	leng kan	102
-棱堡	leng pu	2000
+棱堡	leng bao	2000
 棱边	leng bian	2000
 棱缝	leng feng	2000
 棱角	leng jiao	4603
@@ -51681,7 +51681,7 @@
 棱锥	leng zhui	4008
 棱锥台	leng zhui tai	100
 棱子	leng zi	2005
-楞伽	leng jia	10
+楞伽	leng qie	10
 楞头磕脑	leng tou ke nao	1
 楞严	leng yan	1
 冷傲	leng ao	2000
