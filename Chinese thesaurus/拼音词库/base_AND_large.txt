@@ -52554,7 +52554,7 @@
 利欲	li yu	101
 利欲熏心	li yu xun xin	2190
 利源	li yuan	22
-利爪	li zhua	3000
+利爪	li zhao	3000
 利子	li zi	7
 利足	li zu	100
 利嘴	li zui	4006
@@ -52758,7 +52758,7 @@
 连手	lian shou	3000
 连殳	lian shu	6
 连书	lian shu	100
-连属	lian shu	108
+连属	lian zhu	108
 连署	lian shu	100
 连琐	lian suo	6
 连锁	lian suo	7081

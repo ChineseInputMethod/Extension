@@ -121,3 +121,5 @@
 卡盘	ka pan	10
 兰若	lan ruo	120
 乐山乐水	yao shan yao shui	100
+崚嶒	leng ceng	102
+两行	liang hang	268
