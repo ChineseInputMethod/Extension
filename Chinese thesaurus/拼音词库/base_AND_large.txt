@@ -53884,7 +53884,7 @@
 临近	lin jin	7358
 临渴穿井	lin ke chuan jing	100
 临渴掘井	lin ke jue jing	2015
-临了	lin le	2345
+临了	lin liao	2345
 临澧	lin li	11
 临澧县	lin li xian	7
 临门	lin men	4436
@@ -54726,7 +54726,7 @@
 流行性感冒	liu xing xing gan mao	100
 流形	liu xing	3
 流血	liu xie	100
-流血漂橹	liu xie piao lu	100
+流血漂橹	liu xue piao lu	100
 流言	liu yan	6594
 流言蜚语	liu yan fei yu	3271
 流言惑众	liu yan huo zhong	100
@@ -55080,7 +55080,7 @@
 笼头	long tou	4208
 笼养	long yang	3000
 笼罩	long zhao	12781
-笼着手	long zhuo shou	100
+笼着手	long zhe shou	100
 笼中之鸟	long zhong zhi niao	100
 笼子	long zi	5512
 笼嘴	long zui	2002
@@ -55419,7 +55419,7 @@
 鹿肉	lu rou	10
 鹿市	lu shi	10
 鹿死不择音	lu si bu ze yin	100
-鹿死谁手	lu si shei shou	2469
+鹿死谁手	lu si shui shou	2469
 鹿特丹	lu te dan	230
 鹿尾	lu wei	10
 鹿野	lu ye	10
@@ -56182,7 +56182,7 @@
 捋虎须	luo hu xu	2003
 捋下	luo xia	100
 旅伴	lv ban	4220
-旅差费	lv cha fei	2035
+旅差费	lv chai fei	2035
 旅程	lv cheng	6441
 旅充	lv chong	7
 旅次	lv ci	4003
@@ -56274,7 +56274,7 @@
 律诗	lv shi	4305
 律条	lv tiao	4024
 律宗	lv zong	3009
-率部	lv bu	3109
+率部	shuai bu	3109
 率常	shuai chang	100
 率队	shuai dui	250
 率尔	shuai er	2006

@@ -123,3 +123,10 @@
 乐山乐水	yao shan yao shui	100
 崚嶒	leng ceng	102
 两行	liang hang	268
+露背	lou lu	10
+落不是	lao bu shi	2002
+落了	luo le	406
+落了	lao le	406
+落下	luo xia	4270
+落下	lao xia	4270
+漯河	luo he	4306
