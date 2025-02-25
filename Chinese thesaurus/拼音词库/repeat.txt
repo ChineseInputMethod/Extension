@@ -130,3 +130,5 @@
 落下	luo xia	4270
 落下	lao xia	4270
 漯河	luo he	4306
+绿营	lu ying	4025
+马尾巴	ma wei ba	10

@@ -56283,7 +56283,7 @@
 率马以骥	shuai ma yi ji	101
 率然	shuai ran	2004
 率兽食人	shuai shou shi ren	114
-率同	lv tong	10
+率同	shuai tong	10
 率土同庆	shuai tu tong qing	100
 率土宅心	shuai tu zhai xin	100
 率土之滨	shuai tu zhi bin	10
@@ -56291,7 +56291,7 @@
 率性	shuai xing	3102
 率性任意	shuai xing ren yi	100
 率意	shuai yi	10
-率由	lv you	302
+率由	shuai you	302
 率由旧章	shuai you jiu zhang	2014
 率真	shuai zhen	4383
 率直	shuai zhi	3748
@@ -56344,7 +56344,7 @@
 绿茵茵	lv yin yin	2078
 绿莹莹	lv ying ying	4061
 绿营	lv ying	4025
-绿营兵	lv ying bing	100
+绿营兵	lu ying bing	100
 绿油油	lv you you	5548
 绿藻	lv zao	4033
 绿洲	lv zhou	7296
@@ -56415,7 +56415,7 @@
 略知一二	lve zhi yi er	2335
 略字	lve zi	6
 略作	lve zuo	2000
-呒啥	wu sha	101
+呒啥	mu sha	101
 妈的	ma de	2367
 妈拉巴子	ma la ba zi	100
 妈妈	ma ma	42632
@@ -56453,7 +56453,7 @@
 麻将	ma jiang	6293
 麻将牌	ma jiang pai	11
 麻酱	ma jiang	4046
-麻秸	ma ji	4002
+麻秸	ma jie	4002
 麻经儿	ma jing er	2000
 麻辣	ma la	2256
 麻辣辣	ma la la	138
@@ -56611,7 +56611,7 @@
 马口	ma kou	6
 马口铁	ma kou tie	3039
 马裤	ma ku	4207
-马裤呢	ma ku ne	2008
+马裤呢	ma ku ni	2008
 马快	ma kuai	2016
 马拉	ma la	3
 马拉博	ma la bo	100
@@ -56679,7 +56679,7 @@
 马球	ma qiu	2352
 马去马归	ma qu ma gui	1
 马群	ma qun	100
-马日事变	ma mi shi bian	112
+马日事变	ma ri shi bian	112
 马如流水	ma ru liu shui	1
 马入华山	ma ru hua shan	1
 马赛	ma sai	233
@@ -56719,9 +56719,9 @@
 马图	ma tu	1
 马王爷	ma wang ye	10
 马嵬	ma wei	1
-马尾	ma yi	170
+马尾	ma wei	170
 马尾巴	ma yi ba	10
-马尾松	ma yi song	2034
+马尾松	ma wei song	2034
 马尾藻	ma yi zao	111
 马文	ma wen	2
 马戏	ma xi	5525
