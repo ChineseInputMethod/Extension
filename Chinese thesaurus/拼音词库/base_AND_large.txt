@@ -56722,7 +56722,7 @@
 马尾	ma wei	170
 马尾巴	ma yi ba	10
 马尾松	ma wei song	2034
-马尾藻	ma yi zao	111
+马尾藻	ma wei zao	111
 马文	ma wen	2
 马戏	ma xi	5525
 马戏团	ma xi tuan	2883
@@ -57510,7 +57510,7 @@
 锚链	mao lian	2000
 锚链孔	mao lian kong	3
 锚泊	mao bo	4018
-锚泊地	mao po di	100
+锚泊地	mao bo di	100
 髦牛	mao niu	7
 蟊贼	mao zei	4015
 卯上	mao shang	7
@@ -57713,7 +57713,7 @@
 玫瑰色	mei gui se	2580
 玫瑰紫	mei gui zi	2008
 枚举	mei ju	3000
-枚速马工	ma gong mei su	10
+枚速马工	mei su ma gong	10
 眉笔	mei bi	2000
 眉黛	mei dai	100
 眉端	mei duan	4005
