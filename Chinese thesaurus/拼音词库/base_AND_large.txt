@@ -58201,7 +58201,7 @@
 蒙蔽	meng bi	5017
 蒙尘	meng chen	3031
 蒙大拿	meng da na	10
-蒙得维的亚	meng de wei de ya	101
+蒙得维的亚	meng de wei di ya	101
 蒙恩	meng en	10
 蒙垢	meng gou	2000
 蒙古	meng gu	11517
@@ -58247,7 +58247,7 @@
 蒙语	meng yu	2106
 蒙冤	meng yuan	3044
 蒙在鼓里	meng zai gu li	2856
-蒙着	meng zhao	10
+蒙着	meng zhe	10
 盟邦	meng bang	4021
 盟弟	meng di	10
 盟国	meng guo	5676
@@ -58260,7 +58260,7 @@
 盟友	meng you	5809
 盟员	meng yuan	4110
 盟约	meng yue	5474
-盟长	meng chang	12
+盟长	meng zhang	12
 盟主	meng zhu	11050
 朦胧诗	meng long shi	100
 礞石	meng shi	2003
@@ -58533,7 +58533,7 @@
 米虾	mi xia	2000
 米线	mi xian	3123
 米象	mi xiang	100
-米行	mi xing	3054
+米行	mi hang	3054
 米雪	mi xue	10
 米已成炊	mi yi cheng chui	1
 米易县	mi yi xian	6
