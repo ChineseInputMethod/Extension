@@ -58783,7 +58783,7 @@
 免除	mian chu	6185
 免得	mian de	19970
 免的	mian de	10
-免调	mian diao	10
+免调	mian tiao	10
 免掉	mian diao	10
 免费	mian fei	10118
 免费生	mian fei sheng	100
@@ -58994,7 +58994,7 @@
 面誉背毁	mian yu bei hui	1
 面杖	mian zhang	2
 面罩	mian zhao	6828
-面折	mian she	10
+面折	mian zhe	10
 面争庭论	mian zheng ting lun	1
 面值	mian zhi	5457
 面砖	mian zhuan	3070
@@ -59348,7 +59348,7 @@
 名存实亡	ming cun shi wang	3206
 名单	ming dan	11797
 名旦	ming dan	2002
-名都	ming dou	100
+名都	ming du	100
 名额	ming e	6883
 名儿	ming er	229
 名分	ming fen	3827
@@ -59407,7 +59407,7 @@
 名人效应	ming ren xiao ying	100
 名儒	ming ru	2000
 名色	ming se	10
-名刹	ming sha	3000
+名刹	ming cha	3000
 名山	ming shan	4231
 名山大川	ming shan da chuan	2272
 名山胜川	ming shan sheng chuan	102
