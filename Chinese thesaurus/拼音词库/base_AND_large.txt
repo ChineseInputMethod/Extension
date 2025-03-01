@@ -59783,7 +59783,7 @@
 谬种	miu zhong	4017
 谬种流传	miu zhong liu chuan	2015
 摸不着	mo bu zhao	223
-摸不着边	mo bu zhuo bian	100
+摸不着边	mo bu zhao bian	100
 摸不着头脑	mo bu zhao tou nao	962
 摸彩	mo cai	10
 摸底	mo di	5490
@@ -59833,7 +59833,7 @@
 模特	mo te	3890
 模特儿	mo te er	4525
 模型	mo xing	43277
-模压	mu ya	3027
+模压	mo ya	3027
 模样	mu yang	40931
 模印	mo yin	10
 模子	mu zi	4573
@@ -59973,7 +59973,7 @@
 抹鼻子	mo bi zi	100
 抹脖子	mo bo zi	3007
 抹不开	mo bu kai	3006
-抹不下脸	mo bu xia lian	100
+抹不下脸	ma bu xia lian	100
 抹布	ma bu	4647
 抹彩	mo cai	2000
 抹搭	mo da	100
