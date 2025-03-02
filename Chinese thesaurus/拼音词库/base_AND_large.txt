@@ -60657,7 +60657,7 @@
 拿粗挟细	na cu xie xi	10
 拿大	na da	2925
 拿大顶	na da ding	2000
-拿刀动杖	na dao nong zhang	115
+拿刀动杖	na dao dong zhang	115
 拿到	na dao	3620
 拿顶	na ding	4002
 拿斗	na dou	100
