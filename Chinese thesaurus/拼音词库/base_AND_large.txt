@@ -61357,7 +61357,7 @@
 讷口少言	ne kou shao yan	100
 讷讷	ne ne	6080
 讷言敏行	ne yan min xing	100
-呢料	ne liao	10
+呢料	ni liao	10
 呢喃	ni nan	4112
 呢喃细语	ni nan xi yu	11
 呢绒	ni rong	5153
