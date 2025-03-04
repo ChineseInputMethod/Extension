@@ -61960,7 +61960,7 @@
 黏涎子	nian xian zi	101
 黏性	nian xing	2032
 黏液	nian ye	4111
-黏着	nian zhe	2017
+黏着	nian zhuo	2017
 黏着力	nian zhuo li	2001
 黏着语	nian zhuo yu	2001
 黏住	nian zhu	10
@@ -62055,7 +62055,7 @@
 鸟枪换炮	niao qiang huan pao	3028
 鸟穷则啄	niao qiong ze zhuo	103
 鸟雀	niao que	3298
-鸟人	diao ren	10
+鸟人	niao ren	10
 鸟散	niao san	10
 鸟食	niao shi	10
 鸟市	niao shi	100
@@ -62248,7 +62248,7 @@
 妞儿	niu er	3829
 妞妞	niu niu	4151
 妞子	niu zi	4003
-牛扒	niu ba	3000
+牛扒	niu pa	3000
 牛蒡	niu bang	4042
 牛屄	niu bi	10
 牛鼻子	niu bi zi	3753
@@ -62312,7 +62312,7 @@
 牛皮纸	niu pi zhi	3346
 牛脾气	niu pi qi	3247
 牛气	niu qi	4091
-牛圈	niu quan	3000
+牛圈	niu juan	3000
 牛肉	niu rou	7243
 牛肉干	niu rou gan	10
 牛乳	niu ru	2000
@@ -62766,7 +62766,7 @@
 女家	nv jia	4231
 女监	nv jian	10
 女将	nv jiang	4988
-女角	nv jiao	2000
+女角	nv jue	2000
 女教师	nv jiao shi	100
 女警	nv jing	10
 女眷	nv juan	4025
@@ -62774,7 +62774,7 @@
 女裤	nv ku	100
 女篮	nv lan	4106
 女郎	nv lang	13237
-女乐	nv le	10
+女乐	nv yue	10
 女伶	nv ling	108
 女流	nv liu	5135
 女能人	nv neng ren	100
