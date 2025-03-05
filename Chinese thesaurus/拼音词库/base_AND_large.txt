@@ -63173,7 +63173,7 @@
 攀供	pan gong	4001
 攀桂	pan gui	100
 攀花问柳	pan hua wen liu	1
-攀花折柳	pan hua she liu	100
+攀花折柳	pan hua zhe liu	100
 攀话	pan hua	100
 攀交	pan jiao	3004
 攀龙附凤	pan long fu feng	3095
@@ -63426,13 +63426,13 @@
 刨根	pao gen	3000
 刨根儿	pao gen er	2002
 刨根问底	pao gen wen di	3114
-刨工	pao gong	2002
+刨工	bao gong	2002
 刨光	bao guang	100
 刨花	bao hua	5084
 刨花板	bao hua ban	3032
 刨身	bao shen	100
 刨头	bao tou	100
-刨削	pao xue	10
+刨削	bao xiao	10
 刨子	bao zi	4022
 刨祖坟	pao zu fen	100
 咆哮	pao xiao	8740
@@ -63927,7 +63927,7 @@
 碰上	peng shang	980
 碰锁	peng suo	4012
 碰头	peng tou	5465
-碰头会	peng tou kuai	4044
+碰头会	peng tou hui	4044
 碰一鼻子灰	peng yi bi zi hui	3005
 碰硬	peng ying	3000
 碰运气	peng yun qi	2593
@@ -63960,7 +63960,7 @@
 批颊	pi jia	100
 批假	pi jia	3000
 批件	pi jian	4045
-批亢捣虚	pi kang dao xu	100
+批亢捣虚	pi gang dao xu	100
 批量	pi liang	6420
 批量生产	pi liang sheng chan	496
 批鳞请剑	pi lin qing jian	1
@@ -64131,7 +64131,7 @@
 皮筋儿	pi jin er	2002
 皮具	pi ju	3278
 皮开肉绽	pi kai rou zhan	3452
-皮壳	pi qiao	10
+皮壳	pi ke	10
 皮克林	pi ke lin	2
 皮库	pi ku	100
 皮里抽肉	pi li chou rou	3000
@@ -64239,7 +64239,7 @@
 脾胃	pi wei	4344
 脾性	pi xing	4618
 脾脏	pi zang	3073
-膍胵	pi zhi	100
+膍胵	pi chi	100
 貔虎	pi hu	4002
 貔貅	pi xiu	4006
 貔子	pi zi	2001
