@@ -64467,7 +64467,7 @@
 片长	pian chang	13186
 片纸只字	pian zhi zhi zi	3038
 片子	pian zi	5727
-片子地	pian zi de	101
+片子地	pian zi di	101
 骗案	pian an	10
 骗供	pian gong	100
 骗局	pian ju	5957
@@ -64511,7 +64511,7 @@
 飘飘欲仙	piao piao yu xian	6
 飘萍	piao ping	10
 飘萍断梗	piao ping duan geng	1
-飘萍浪迹	piao peng lang ji	1
+飘萍浪迹	piao ping lang ji	1
 飘然	piao ran	9517
 飘洒	piao sa	4360
 飘散	piao san	6066
@@ -64925,7 +64925,7 @@
 平摊	ping tan	2001
 平潭	ping tan	10
 平坦	ping tan	7869
-平坦地	ping tan de	10
+平坦地	ping tan di	10
 平天下	ping tian xia	535
 平添	ping tian	4486
 平粜	ping tiao	3002
