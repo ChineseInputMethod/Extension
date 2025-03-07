@@ -65069,7 +65069,7 @@
 屏东	ping dong	10
 屏藩	ping fan	3004
 屏风	ping feng	5879
-屏迹	ping ji	102
+屏迹	bing ji	102
 屏绝	bing jue	10
 屏门	ping men	3008
 屏幕	ping mu	10098
@@ -65347,7 +65347,7 @@
 菩萨心肠	pu sa xin chang	322
 菩提	pu ti	4250
 菩提树	pu ti shu	2351
-脯氨酸	pu an suan	100
+脯氨酸	fu an suan	100
 脯醢	fu hai	10
 脯子	pu zi	2001
 葡糖	pu tang	2000
@@ -65394,14 +65394,14 @@
 朴陋	pu lou	2001
 朴茂	pu mao	4005
 朴讷	pu ne	2000
-朴散	piao san	10
+朴散	pu san	10
 朴实	pu shi	7873
 朴实无华	pu shi wu hua	3320
 朴素	pu su	8195
 朴素无华	pu su wu hua	11
 朴硝	po xiao	4002
 朴学	pu xue	4012
-朴雅	piao ya	2000
+朴雅	pu ya	2000
 朴直	pu zhi	4018
 朴质	pu zhi	4012
 朴拙	pu zhuo	4001
