@@ -146,3 +146,4 @@
 那行	na hang	10
 频数	pin shu	3047
 破的	po de	10
+普通地	pu tong di	10

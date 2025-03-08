@@ -65525,7 +65525,7 @@
 铺摊子	pu tan zi	100
 铺天盖地	pu tian gai di	3533
 铺位	pu wei	3291
-铺行	pu xing	10
+铺行	pu hang	10
 铺叙	pu xu	3010
 铺展	pu zhan	3184
 铺张	pu zhang	5488
@@ -65563,7 +65563,7 @@
 七大洲	qi da zhou	100
 七颠八倒	qi dian ba dao	2057
 七堵	qi du	10
-七断八续	qi duan ba su	1
+七断八续	qi duan ba xu	1
 七返丹	qi fan dan	1
 七分之一	qi fen zhi yi	10
 七高八低	qi gao ba di	2020
@@ -65717,7 +65717,7 @@
 凄入肝脾	qi ru gan pi	2000
 凄婉	qi wan	4321
 凄惘	qi wang	101
-凄咽	qi yan	10
+凄咽	qi ye	10
 凄艳	qi yan	10
 萋迷	qi mi	6
 萋萋	qi qi	4231
@@ -65801,7 +65801,7 @@
 欺诈	qi zha	6187
 欺诈者	qi zha zhe	6
 嘁哩喀喳	qi li ka cha	3000
-嘁嘁喳喳	qi qi zha zha	2117
+嘁嘁喳喳	qi qi cha cha	2117
 漆包线	qi bao xian	3020
 漆布	qi bu	2068
 漆雕	qi diao	4038
@@ -65915,7 +65915,7 @@
 奇彩	qi cai	2000
 奇耻大辱	qi chi da ru	3797
 奇丑	qi chou	10
-奇点	qi dian	10
+奇点	ji dian	10
 奇峰	qi feng	4712
 奇功	qi gong	4759
 奇怪	qi guai	65688
@@ -66638,7 +66638,7 @@
 器官	qi guan	7689
 器件	qi jian	5760
 器具	qi ju	6076
-器乐	qi le	4219
+器乐	qi yue	4219
 器量	qi liang	5168
 器皿	qi min	4854
 器识	qi shi	2000
