@@ -147,3 +147,5 @@
 频数	pin shu	3047
 破的	po de	10
 普通地	pu tong di	10
+前传	qian zhuan	10
+前爪	qian zhao	3000

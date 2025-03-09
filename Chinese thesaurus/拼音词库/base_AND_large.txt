@@ -66652,7 +66652,7 @@
 器重	qi zhong	5943
 憩室	qi shi	2016
 憩息	qi xi	3000
-蟿螽	ji zhong	100
+蟿螽	qi zhong	100
 掐巴	qia ba	100
 掐菜	qia cai	100
 掐断	qia duan	2000
@@ -67360,7 +67360,7 @@
 欠资	qian zi	4012
 芡粉	qian fen	4001
 芡实	qian shi	4030
-茜草	xi cao	4020
+茜草	qian cao	4020
 倩女离魂	qian nv li hun	2000
 倩人捉刀	qian ren zhuo dao	100
 倩影	qian ying	4186
@@ -67388,7 +67388,7 @@
 歉仄	qian ze	3000
 呛鼻	qiang bi	10
 呛咕	qiang gu	100
-呛咳	qiang hai	2000
+呛咳	qiang ke	2000
 呛呛	qiang qiang	100
 呛人	qiang ren	2000
 羌笛	qiang di	4017
