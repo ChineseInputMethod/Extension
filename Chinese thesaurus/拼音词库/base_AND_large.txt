@@ -67635,7 +67635,7 @@
 跄跄	qiang qiang	100
 悄地	qiao di	10
 悄寂	qiao ji	2001
-悄没声	qiao mei sheng	100
+悄没声	qiao mo sheng	100
 悄悄	qiao qiao	21054
 悄悄地	qiao qiao de	5402
 悄悄话	qiao qiao hua	3542
@@ -68103,7 +68103,7 @@
 秦娥	qin e	10
 秦宫	qin gong	2
 秦观	qin guan	10
-秦桧	qin gui	10
+秦桧	qin kuai	10
 秦国	qin guo	10
 秦汉	qin han	10
 秦淮	qin huai	2
