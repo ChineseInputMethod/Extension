@@ -68186,7 +68186,7 @@
 勤密	qin mi	100
 勤勉	qin mian	5287
 勤能补拙	qin neng bu zhuo	2000
-勤朴	qin piao	2000
+勤朴	qin pu	2000
 勤勤	qin qin	2194
 勤勤恳恳	qin qin ken ken	3242
 勤王	qin wang	4024
@@ -68408,7 +68408,7 @@
 轻举妄动	qing ju wang dong	4919
 轻举远游	qing ju yuan you	100
 轻看	qing kan	3000
-轻口薄舌	qing kou bao she	3001
+轻口薄舌	qing kou bo she	3001
 轻快	qing kuai	9483
 轻快地	qing kuai de	62
 轻狂	qing kuang	6062
@@ -68495,7 +68495,7 @@
 轻重	qing zhong	6864
 轻重倒置	qing zhong dao zhi	2025
 轻重缓急	qing zhong huan ji	4282
-轻重九府	qing chong jiu fu	100
+轻重九府	qing zhong jiu fu	100
 轻重量级	qing zhong liang ji	100
 轻舟	qing zhou	4569
 轻装	qing zhuang	5266
@@ -68576,7 +68576,7 @@
 倾轧	qing ya	4255
 倾摇懈弛	qing yao xie chi	100
 倾注	qing zhu	6516
-卿大夫	qing dai fu	100
+卿大夫	qing da fu	100
 卿家	qing jia	10
 卿卿	qing qing	3000
 卿卿我我	qing qing wo wo	3464
