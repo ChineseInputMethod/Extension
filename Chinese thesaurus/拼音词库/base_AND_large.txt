@@ -68643,7 +68643,7 @@
 清规戒律	qing gui jie lv	3128
 清贵	qing gui	100
 清国	qing guo	6
-清还	qing hai	2099
+清还	qing huan	2099
 清寒	qing han	4024
 清和	qing he	10
 清河	qing he	3514
@@ -68708,7 +68708,7 @@
 清盼	qing pan	100
 清贫	qing pin	5522
 清平	qing ping	3081
-清平乐	qing ping le	11
+清平乐	qing ping yue	11
 清平世界	qing ping shi jie	100
 清屏	qing ping	10
 清漆	qing qi	4033
@@ -69034,7 +69034,7 @@
 庆祝	qing zhu	16413
 庆祝会	qing zhu hui	2053
 磬石	qing shi	10
-磬折	qing she	10
+磬折	qing zhe	10
 罄竭	qing jie	7
 罄尽	qing jin	3005
 罄竹难书	qing zhu nan shu	3063
@@ -69160,7 +69160,7 @@
 丘壑	qiu he	2000
 丘吉尔	qiu ji er	2702
 丘陵	qiu ling	6251
-丘陵地	qiu ling de	100
+丘陵地	qiu ling di	100
 丘民	qiu min	6
 丘墓	qiu mu	4012
 丘脑	qiu nao	4011
@@ -69485,7 +69485,7 @@
 曲奇	qu qi	3000
 曲曲	qu qu	2
 曲曲弯弯	qu qu wan wan	4109
-曲曲折折	qu qu zhe she	2338
+曲曲折折	qu qu zhe zhe	2338
 曲泉	qu quan	6
 曲鳝	qu shan	100
 曲射炮	qu she pao	2003
@@ -69582,7 +69582,7 @@
 屈戌儿	qu qu er	3000
 屈艳班香	qu yan ban xiang	100
 屈原	qu yuan	3734
-屈折	qu she	10
+屈折	qu zhe	10
 屈折语	qu zhe yu	2007
 屈指	qu zhi	4904
 屈指可数	qu zhi ke shu	3574

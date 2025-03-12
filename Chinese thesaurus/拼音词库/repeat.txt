@@ -149,3 +149,4 @@
 普通地	pu tong di	10
 前传	qian zhuan	10
 前爪	qian zhao	3000
+穷途落魄	qiong tu luo po	100
