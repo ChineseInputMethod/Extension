@@ -150,3 +150,4 @@
 前传	qian zhuan	10
 前爪	qian zhao	3000
 穷途落魄	qiong tu luo po	100
+取给	qu ji	134

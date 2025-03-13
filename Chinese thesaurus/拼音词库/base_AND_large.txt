@@ -69629,7 +69629,7 @@
 鼩鼱	qu jing	101
 蘧然	qu ran	101
 氍毹	qu shu	4002
-籧篨	ju chu	100
+籧篨	qu chu	100
 衢道	qu dao	100
 衢巷	qu xiang	10
 衢州	qu zhou	52516
@@ -69989,7 +69989,7 @@
 泉州市	quan zhou shi	10
 拳棒	quan bang	4084
 拳不离手	quan bu li shou	106
-拳参	quan can	10
+拳参	quan shen	10
 拳打	quan da	100
 拳打脚踢	quan da jiao ti	3693
 拳法	quan fa	10
@@ -70154,7 +70154,7 @@
 雀子	qiao zi	4004
 确保	que bao	20442
 确当	que dang	4010
-确地	que de	10
+确地	que di	10
 确定	que ding	47329
 确定性	que ding xing	1092
 确非	que fei	10
