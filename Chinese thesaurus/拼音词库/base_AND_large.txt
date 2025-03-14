@@ -71191,7 +71191,7 @@
 日久岁深	ri jiu sui shen	100
 日久天长	ri jiu tian chang	3116
 日就月将	ri jiu yue jiang	3012
-日居月诸	ri ju yue zhu	100
+日居月诸	ri ji yue zhu	100
 日据时代	ri ju shi dai	7
 日军	ri jun	705
 日均	ri jun	3676
@@ -71210,7 +71210,7 @@
 日轮	ri lun	10
 日落	ri luo	6161
 日落西山	ri luo xi shan	2000
-日没	ri mei	10
+日没	ri mo	10
 日美	ri mei	553
 日冕	ri mian	4098
 日暮	ri mu	3000
@@ -71733,7 +71733,7 @@
 如手如足	ru shou ru zu	2011
 如数	ru shu	5827
 如数家珍	ru shu jia zhen	3515
-如水赴壑	ru shu fu he	102
+如水赴壑	ru shui fu he	102
 如水投石	ru shui tou shi	100
 如斯	ru si	2000
 如汤沃雪	ru tang wo xue	3000
