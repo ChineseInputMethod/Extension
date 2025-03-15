@@ -71739,7 +71739,7 @@
 如汤沃雪	ru tang wo xue	3000
 如天之福	ru tian zhi fu	1
 如同	ru tong	22016
-如闻其声	ru wei qi sheng	124
+如闻其声	ru wen qi sheng	124
 如晤	ru wu	100
 如下	ru xia	18912
 如像	ru xiang	100
@@ -71832,7 +71832,7 @@
 乳齿	ru chi	4017
 乳臭	ru xiu	3207
 乳臭儿	ru xiu er	100
-乳臭未除	ru chou wei chu	104
+乳臭未除	ru xiu wei chu	104
 乳臭未干	ru xiu wei gan	2474
 乳畜	ru chu	2003
 乳犊不怕虎	ru du bu pa hu	102
@@ -72325,7 +72325,7 @@
 腮腺炎	sai xian yan	2047
 塞包袱	sai bao fu	100
 塞北	sai bei	4077
-塞擦音	sai ca yin	2003
+塞擦音	se ca yin	2003
 塞车	sai che	4151
 塞尺	sai chi	3004
 塞尔维亚	sai er wei ya	2157
@@ -72364,7 +72364,7 @@
 赛会	sai hui	4139
 赛季	sai ji	5860
 赛里木湖	sai li mu hu	1
-赛璐玢	sai lu bin	2001
+赛璐玢	sai lu fen	2001
 赛璐珞	sai lu luo	3022
 赛马	sai ma	5303
 赛马场	sai ma chang	821
@@ -72449,8 +72449,8 @@
 三叠纪	san die ji	2000
 三定	san ding	2
 三冬	san dong	100
-三都	san dou	10
-三都赋	san dou fu	10
+三都	san du	10
+三都赋	san du fu	10
 三独	san du	6
 三度	san du	261
 三段	san duan	446
@@ -72548,7 +72548,7 @@
 三焦	san jiao	3115
 三角	san jiao	10911
 三角板	san jiao ban	3020
-三角地	san jiao de	10
+三角地	san jiao di	10
 三角关系	san jiao guan xi	100
 三角函数	san jiao han shu	2044
 三角裤	san jiao ku	2070

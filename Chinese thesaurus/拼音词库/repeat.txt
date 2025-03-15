@@ -151,3 +151,5 @@
 前爪	qian zhao	3000
 穷途落魄	qiong tu luo po	100
 取给	qu ji	134
+三省	san sheng	2000
+三行	san hang	10
