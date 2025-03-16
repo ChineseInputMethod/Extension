@@ -153,3 +153,4 @@
 取给	qu ji	134
 三省	san sheng	2000
 三行	san hang	10
+设卡	she qia	3001

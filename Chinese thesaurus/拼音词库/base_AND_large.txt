@@ -72874,7 +72874,7 @@
 散落	san luo	7147
 散漫	san man	6660
 散闷	san men	4005
-散朴	san piao	10
+散朴	san pu	10
 散气	san qi	3
 散钱	san qian	10
 散曲	san qu	4016
@@ -73218,7 +73218,7 @@
 杀球	sha qiu	7
 杀人	sha ren	29933
 杀人案	sha ren an	2218
-杀人不见血	sha ren bu jian xue	3167
+杀人不见血	sha ren bu jian xie	3167
 杀人不眨眼	sha ren bu zha yan	3040
 杀人犯	sha ren fan	2806
 杀人放火	sha ren fang huo	2
@@ -73226,7 +73226,7 @@
 杀人狂	sha ren kuang	636
 杀人灭口	sha ren mie kou	100
 杀人如麻	sha ren ru ma	2336
-杀人如蓺	sha ren ru tie	1
+杀人如蓺	sha ren ru yi	1
 杀人未遂	sha ren wei sui	7
 杀人盈野	sha ren ying ye	100
 杀人越货	sha ren yue huo	3204
@@ -73752,7 +73752,7 @@
 穇子	can zi	2000
 膻气	shan qi	2045
 膻味	shan wei	3037
-膻中	dan zhong	10
+膻中	tan zhong	10
 羶腥	shan xing	10
 闪避	shan bi	4132
 闪出	shan chu	10
@@ -73840,7 +73840,7 @@
 善感	shan gan	4032
 善根	shan gen	10
 善后	shan hou	5565
-善贾而沽	shan gu er gu	2003
+善贾而沽	shan jia er gu	2003
 善举	shan ju	4073
 善睐	shan lai	10
 善类	shan lei	3014
@@ -74065,7 +74065,7 @@
 墒情	shang qing	4066
 墒土	shang tu	100
 晌饭	shang fan	101
-晌觉	shang jue	100
+晌觉	shang jiao	100
 晌午	shang wu	5810
 赏春	shang chun	10
 赏赐	shang ci	5432
@@ -74447,7 +74447,7 @@
 捎脚	shao jiao	4011
 捎来	shao lai	10
 捎马子	shao ma zi	2011
-捎色	shao se	100
+捎色	shao shai	100
 捎手	shao shou	100
 捎信	shao xin	100
 烧包	shao bao	4009
