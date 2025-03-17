@@ -154,3 +154,7 @@
 三省	san sheng	2000
 三行	san hang	10
 设卡	she qia	3001
+谁的	shui de	1860
+谁都	shui dou	1880
+谁料	shui liao	2754
+谁知	shui zhi	24003
