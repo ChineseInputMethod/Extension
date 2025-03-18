@@ -75237,7 +75237,7 @@
 神采焕发	shen cai huan fa	188
 神采奕然	shen cai yi ran	1
 神采奕奕	shen cai yi yi	2629
-神差鬼使	shen chai gui shi	2050
+神差鬼使	shen chai gui chai	2050
 神池	shen chi	10
 神驰	shen chi	3028
 神驰力困	shen chi li kun	1
@@ -76047,7 +76047,7 @@
 省略	sheng lve	3734
 省略号	sheng lve hao	2011
 省民	sheng min	10
-省墓	sheng mu	101
+省墓	xing mu	101
 省内	sheng nei	1860
 省钱	sheng qian	83776
 省亲	xing qin	4045
