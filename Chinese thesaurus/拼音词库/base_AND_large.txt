@@ -76424,7 +76424,7 @@
 师心自是	shi xin zi shi	10
 师心自用	shi xin zi yong	3001
 师兄	shi xiong	25459
-师兄弟	shi xing di	2100
+师兄弟	shi xiong di	2100
 师训	shi xun	3000
 师严道尊	shi yan dao zun	1
 师爷	shi ye	5474
@@ -76438,7 +76438,7 @@
 师尊	shi zun	10
 诗碑	shi bei	3001
 诗才	shi cai	3000
-诗肠鼓吹	shi cha gu chui	100
+诗肠鼓吹	shi chang gu chui	100
 诗抄	shi chao	2057
 诗词	shi ci	5295
 诗调	shi diao	10
@@ -77028,7 +77028,7 @@
 识多才广	shi duo cai guang	100
 识二五而不知十	shi er wu er bu zhi shi	100
 识货	shi huo	4969
-识记	zhi ji	10
+识记	shi ji	10
 识见	shi jian	3050
 识荆	shi jing	2008
 识荆恨晚	shi jing hen wan	100
