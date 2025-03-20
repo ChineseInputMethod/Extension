@@ -159,3 +159,5 @@
 谁料	shui liao	2754
 谁知	shui zhi	24003
 盛装	sheng zhuang	6047
+收没	shou mo	3000
+叔伯	shu bai	3031

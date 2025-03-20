@@ -77962,7 +77962,7 @@
 弑父	shi fu	10
 弑君	shi jun	10
 弑母	shi mu	10
-释藏	shi cang	2008
+释藏	shi zang	2008
 释出	shi chu	10
 释道	shi dao	10
 释典	shi dian	4015
@@ -78194,7 +78194,7 @@
 手斧	shou fu	100
 手感	shou gan	4094
 手高手低	shou gao shou di	3000
-手镐	shou hao	2000
+手镐	shou gao	2000
 手稿	shou gao	5905
 手工	shou gong	7108
 手工业	shou gong ye	5287
@@ -78686,7 +78686,7 @@
 瘦削	shou xue	7763
 瘦羊博士	shou yang bo shi	1
 瘦长	shou chang	5897
-瘦长子	shou zhang zi	100
+瘦长子	shou chang zi	100
 瘦子	shou zi	4940
 书案	shu an	4415
 书包	shu bao	7798
