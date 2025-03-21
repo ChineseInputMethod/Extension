@@ -161,3 +161,4 @@
 盛装	sheng zhuang	6047
 收没	shou mo	3000
 叔伯	shu bai	3031
+水栅	shui zha	10

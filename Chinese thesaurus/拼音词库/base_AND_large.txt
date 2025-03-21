@@ -78828,7 +78828,7 @@
 枢轴	shu zhou	2000
 叔本华	shu ben hua	10
 叔伯	shu bo	3031
-叔伯兄弟	shu bo xiong di	100
+叔伯兄弟	shu bai xiong di	100
 叔父	shu fu	6176
 叔公	shu gong	4466
 叔舅	shu jiu	7
@@ -79305,7 +79305,7 @@
 数出	shu chu	10
 数词	shu ci	4237
 数叨	shu dao	3001
-数得上	shu dei shang	2010
+数得上	shu de shang	2010
 数得着	shu de zhao	2034
 数典	shu dian	10
 数典忘祖	shu dian wang zu	3083
@@ -80153,12 +80153,12 @@
 税种	shui zhong	5436
 睡菜	shui cai	3
 睡车	shui che	10
-睡大觉	shui da jue	2000
+睡大觉	shui da jiao	2000
 睡袋	shui dai	4246
 睡过头	shui guo tou	4
 睡觉	shui jiao	21940
 睡裤	shui ku	3066
-睡懒觉	shui lan jue	2921
+睡懒觉	shui lan jiao	2921
 睡莲	shui lian	2264
 睡帽	shui mao	3144
 睡美人	shui mei ren	4
@@ -80372,7 +80372,7 @@
 说三道四	shuo san dao si	2299
 说上	shuo shang	10
 说舌	shuo she	2000
-说什么	shuo shi mo	1760
+说什么	shuo shen me	1760
 说时迟	shuo shi chi	4796
 说实话	shuo shi hua	2788
 说事	shuo shi	10
