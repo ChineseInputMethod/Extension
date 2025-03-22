@@ -80391,7 +80391,7 @@
 说下	shuo xia	10
 说闲话	shuo xian hua	4602
 说咸道淡	shuo xian dao dan	100
-说项	shui xiang	4019
+说项	shuo xiang	4019
 说笑	shuo xiao	9756
 说笑话	shuo xiao hua	2984
 说一不二	shuo yi bu er	4284
@@ -80561,7 +80561,7 @@
 私家车	si jia che	382
 私见	si jian	3070
 私交	si jiao	5313
-私了	si le	2166
+私了	si liao	2166
 私立	si li	3615
 私立学校	si li xue xiao	2116
 私利	si li	6038
@@ -80687,7 +80687,7 @@
 思议	si yi	4022
 斯巴达	si ba da	601
 斯宾诺莎	si bin nuo sha	10
-斯宾塞	si bin se	10
+斯宾塞	si bin sai	10
 斯大林	si da lin	2290
 斯德哥尔摩	si de ge er mo	114
 斯堪的纳维亚	si kan di na wei ya	101
@@ -80780,7 +80780,7 @@
 死节	si jie	115
 死结	si jie	4532
 死劲	si jin	10
-死劲儿	si jing er	2005
+死劲儿	si jin er	2005
 死静	si jing	100
 死局	si ju	3004
 死绝	si jue	6
@@ -81257,7 +81257,7 @@
 送给	song gei	20011
 送股	song gu	2000
 送故迎新	song gu ying xin	100
-送还	song hai	2003
+送还	song huan	2003
 送花	song hua	10
 送话器	song hua qi	2015
 送货	song huo	4652
@@ -81531,7 +81531,7 @@
 素昧平生	su mei ping sheng	3855
 素面	su mian	2
 素描	su miao	6718
-素朴	su piao	4172
+素朴	su pu	4172
 素琴	su qin	2
 素人	su ren	1
 素日	su ri	4660
