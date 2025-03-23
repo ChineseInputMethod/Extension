@@ -81874,7 +81874,7 @@
 岁初	sui chu	3016
 岁除	sui chu	4010
 岁寒	sui han	100
-岁寒三友	sui han sa you	2047
+岁寒三友	sui han san you	2047
 岁寒松柏	sui han song bai	100
 岁寒知松柏	sui han zhi song bai	101
 岁计	sui ji	10
@@ -82662,7 +82662,7 @@
 摊档	tan dang	3000
 摊点	tan dian	6579
 摊贩	tan fan	5517
-摊还	tan hai	10
+摊还	tan huan	10
 摊鸡蛋	tan ji dan	10
 摊开	tan kai	3237
 摊牌	tan pai	5540
