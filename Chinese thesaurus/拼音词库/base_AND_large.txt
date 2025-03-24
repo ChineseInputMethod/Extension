@@ -83689,7 +83689,7 @@
 体操队	ti cao dui	124
 体侧	ti ce	2000
 体测	ti ce	225
-体查	ti zha	10
+体查	ti cha	10
 体察	ti cha	5651
 体尝	ti chang	3004
 体臭	ti chou	10
