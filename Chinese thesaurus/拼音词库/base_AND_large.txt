@@ -85676,7 +85676,7 @@
 偷合苟容	tou he gou rong	107
 偷换	tou huan	3000
 偷活	tou huo	100
-偷鸡不着蚀把米	tou ji bu zhe shi ba mi	2000
+偷鸡不着蚀把米	tou ji bu zhao shi ba mi	2000
 偷鸡盗狗	tou ji dao gou	1
 偷鸡摸狗	tou ji mo gou	3292
 偷奸取巧	tou jian qu qiao	3000
