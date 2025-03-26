@@ -86213,7 +86213,7 @@
 土邦	tu bang	2024
 土包	tu bao	3056
 土包子	tu bao zi	2183
-土堡	tu pu	4000
+土堡	tu bao	4000
 土崩瓦解	tu beng wa jie	4193
 土崩鱼烂	tu beng yu lan	10
 土鳖	tu bie	118
@@ -86467,7 +86467,7 @@
 推东主西	tui dong zhu xi	1
 推动	tui dong	33328
 推动力	tui dong li	2584
-推度	tui du	3002
+推度	tui duo	3002
 推断	tui duan	7248
 推恩	tui en	100
 推而广之	tui er guang zhi	187
@@ -86757,7 +86757,7 @@
 托孤寄命	tuo gu ji ming	7
 托故	tuo gu	5069
 托管	tuo guan	5489
-托管地	tuo guan de	2005
+托管地	tuo guan di	2005
 托疾	tuo ji	2002
 托骥之蝇	tuo ji zhi ying	1
 托架	tuo jia	3000
@@ -86990,7 +86990,7 @@
 挖洞	wa dong	3000
 挖耳当招	wa er dang zhao	101
 挖方	wa fang	4008
-挖角	wa jue	2000
+挖角	wa jiao	2000
 挖掘	wa jue	9292
 挖掘机	wa jue ji	313
 挖开	wa kai	7
