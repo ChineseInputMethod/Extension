@@ -87064,7 +87064,7 @@
 瓦屋	wa wu	10
 瓦西里	wa xi li	1
 瓦窑	wa yao	3
-瓦窑堡	wa yao bu	100
+瓦窑堡	wa yao bao	100
 瓦玉集糅	wa yu ji rou	1
 瓦砖	wa zhuan	6
 佤族	wa zu	5116
@@ -87103,7 +87103,7 @@
 歪嘴和尚	wai zui he shang	2000
 歪嘴念邪经	wai zui nian xie jing	100
 喎斜	wai xie	100
-崴泥	wei ni	2002
+崴泥	wai ni	2002
 崴嵬	wei wei	4000
 崴子	wai zi	2006
 外办	wai ban	255
@@ -88917,7 +88917,7 @@
 胃炎	wei yan	3127
 胃液	wei ye	4072
 胃灼热	wei zhuo re	4
-硙硙	ai ai	100
+硙硙	wei wei	100
 谓词	wei ci	5940
 谓予不信	wei yu bu xin	2023
 谓语	wei yu	5280
