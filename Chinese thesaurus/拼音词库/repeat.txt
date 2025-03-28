@@ -163,3 +163,4 @@
 叔伯	shu bai	3031
 水栅	shui zha	10
 通宿	tong xiu	3001
+喔唷	wo yo	2000
