@@ -89827,7 +89827,6 @@
 无本之木	wu ben zhi mu	2049
 无比	wu bi	30103
 无边	wu bian	5729
-无边地	wu bian de	10
 无边风月	wu bian feng yue	113
 无边无际	wu bian wu ji	3780
 无边无垠	wu bian wu yin	2000
@@ -90040,7 +90039,6 @@
 无名指	wu ming zhi	3624
 无名肿毒	wu ming zhong du	2019
 无明	wu ming	825
-无目地	wu mu de	10
 无那	wu na	10
 无乃	wu nai	2011
 无奈	wu nai	28307

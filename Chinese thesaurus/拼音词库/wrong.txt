@@ -1691,3 +1691,5 @@
 边銄	bian xiang	1
 各市地	ge shi de	125
 咖哩	ka li	10
+无边地	wu bian de	10
+无目地	wu mu de	10

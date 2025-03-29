@@ -164,3 +164,4 @@
 水栅	shui zha	10
 通宿	tong xiu	3001
 喔唷	wo yo	2000
+我行	wo hang	427
