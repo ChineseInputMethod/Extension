@@ -90683,7 +90683,7 @@
 武仙座	wu xian zuo	2
 武乡	wu xiang	10
 武乡县	wu xiang xian	6
-武行	wu xing	2075
+武行	wu hang	2075
 武宣县	wu xuan xian	7
 武穴	wu xue	12
 武学	wu xue	230
@@ -91005,7 +91005,7 @@
 西德尼	xi de ni	6
 西点	xi dian	3255
 西东	xi dong	10
-西都	xi dou	10
+西都	xi du	10
 西端	xi duan	2280
 西顿	xi dun	10
 西法	xi fa	115
