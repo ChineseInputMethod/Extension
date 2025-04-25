@@ -142,7 +142,6 @@
 哪会儿	na hui er	2002
 哪些	na xie	11194
 那么着	na me zhe	2017
-那些	na xie	126192
 那行	na hang	10
 频数	pin shu	3047
 破的	po de	10
@@ -167,3 +166,6 @@
 我行	wo hang	427
 细心地	xi xin di	158
 瑕瑜互见	xia yu hu jian	3010
+下乘	xia cheng	4036
+闲散地	xian san di	10
+线呢	xian ni	2054
