@@ -169,3 +169,5 @@
 下乘	xia cheng	4036
 闲散地	xian san di	10
 线呢	xian ni	2054
+相对地	xiang dui di	973
+向外地	xiang wai di	10

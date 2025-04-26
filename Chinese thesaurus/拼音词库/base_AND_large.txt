@@ -92358,7 +92358,7 @@
 仙境	xian jing	5413
 仙居	xian ju	2204
 仙客来	xian ke lai	2027
-仙乐	xian le	10
+仙乐	xian yue	10
 仙流	xian liu	1
 仙露明珠	xian lu ming zhu	132
 仙罗	xian luo	2
@@ -93097,7 +93097,7 @@
 陷阱	xian jing	10780
 陷坑	xian keng	4240
 陷落	xian luo	5685
-陷没	xian mei	3053
+陷没	xian mo	3053
 陷溺	xian ni	10
 陷入	xian ru	19932
 陷入僵局	xian ru jiang ju	2
@@ -93212,7 +93212,7 @@
 乡原	xiang yuan	100
 乡愿	xiang yuan	3007
 乡约	xiang yue	100
-乡长	xiang chang	2705
+乡长	xiang zhang	2705
 乡镇	xiang zhen	27462
 乡镇企业	xiang zhen qi ye	3980
 乡中	xiang zhong	1
