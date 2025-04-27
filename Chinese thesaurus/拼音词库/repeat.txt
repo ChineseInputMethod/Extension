@@ -171,3 +171,6 @@
 线呢	xian ni	2054
 相对地	xiang dui di	973
 向外地	xiang wai di	10
+小行	xiao hang	10
+校本	jiao ben	2464
+谐调	xie tiao	2036
