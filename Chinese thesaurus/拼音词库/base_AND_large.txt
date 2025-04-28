@@ -95867,7 +95867,7 @@
 薪酬	xin chou	962
 薪传	xin chuan	2000
 薪俸	xin feng	4230
-薪给	xin gei	113
+薪给	xin ji	113
 薪金	xin jin	5509
 薪尽火传	xin jin huo chuan	3013
 薪水	xin shui	7753
@@ -96155,9 +96155,9 @@
 行刺	xing ci	4072
 行当	hang dang	4821
 行道	hang dao	2152
-行道树	hang dao shu	2160
+行道树	xing dao shu	2160
 行得通	xing de tong	109
-行东	xing dong	146
+行东	hang dong	146
 行动	xing dong	63031
 行动坐卧	xing dong zuo wo	105
 行都	xing du	2059
@@ -96171,7 +96171,7 @@
 行规	hang gui	4268
 行好	xing hao	4027
 行号	hang hao	10
-行号巷哭	xing hao xiang ku	100
+行号巷哭	hang hao xiang ku	100
 行话	hang hua	4237
 行会	hang hui	5230
 行贿	xing hui	5956

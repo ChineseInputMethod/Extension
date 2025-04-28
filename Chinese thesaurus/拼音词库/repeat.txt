@@ -174,3 +174,6 @@
 小行	xiao hang	10
 校本	jiao ben	2464
 谐调	xie tiao	2036
+新乐	xin yue	10
+行风	hang feng	500
+行内	hang nei	10
