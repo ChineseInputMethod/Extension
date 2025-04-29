@@ -96275,14 +96275,14 @@
 行御史台	xing yu shi tai	100
 行辕	xing yuan	114
 行远自迩	xing yuan zi er	2000
-行院	xing yuan	108
-行约	xing yue	100
+行院	hang yuan	108
+行约	hang yue	100
 行云	xing yun	100
 行云流水	xing yun liu shui	3777
 行在	xing zai	392
 行灶	xing zao	100
 行诈	xing zha	2000
-行栈	xing zhan	3077
+行栈	hang zhan	3077
 行长	hang zhang	5692
 行杖	xing zhang	10
 行者	xing zhe	10969

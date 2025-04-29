@@ -177,3 +177,7 @@
 新乐	xin yue	10
 行风	hang feng	500
 行内	hang nei	10
+行商	xing shang	4322
+行行	hang hang	617
+幸福地	xing fu di	161
+幸运地	xing yun di	214
