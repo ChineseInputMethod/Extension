@@ -97009,7 +97009,7 @@
 褎然举首	you ran ju shou	100
 褎如充耳	you ru chong er	100
 戌时	xu shi	4010
-吁气	yu qi	10
+吁气	xu qi	10
 吁请	yu qing	2045
 吁求	yu qiu	4010
 吁叹	yu tan	10
@@ -97073,7 +97073,7 @@
 虚己	xu ji	100
 虚假	xu jia	7894
 虚骄	xu jiao	3000
-虚骄恃气	xiu jiao shi qi	100
+虚骄恃气	xu jiao shi qi	100
 虚惊	xu jing	5527
 虚距	xu ju	100
 虚空	xu kong	3184
@@ -97401,7 +97401,7 @@
 暄腾	xuan teng	2001
 煊赫	xuan he	2011
 玄奥	xuan ao	4031
-玄参	xuan can	3046
+玄参	xuan shen	3046
 玄德	xuan de	1
 玄关	xuan guan	216
 玄蛤	xuan ge	10
@@ -97464,7 +97464,7 @@
 悬河泻水	xuan he xie shui	100
 悬乎	xuan hu	4017
 悬壶	xuan hu	2021
-悬壶问世	xian hu wen shi	100
+悬壶问世	xuan hu wen shi	100
 悬剑空垄	xuan jian kong long	100
 悬旌万里	xuan jing wan li	100
 悬空	xuan kong	5772
@@ -97641,7 +97641,7 @@
 楦子	xuan zi	4003
 镟子	xuan zi	100
 削白	xiao bai	100
-削薄	xue bao	10
+削薄	xiao bao	10
 削壁	xue bi	362
 削波	xue bo	10
 削除	xue chu	10
