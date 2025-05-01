@@ -182,3 +182,4 @@
 幸福地	xing fu di	161
 幸运地	xing yun di	214
 休闲地	xiu xian di	100
+荨麻	qian ma	4013

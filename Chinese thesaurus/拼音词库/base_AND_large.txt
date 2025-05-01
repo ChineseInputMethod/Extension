@@ -97012,7 +97012,7 @@
 吁气	xu qi	10
 吁请	yu qing	2045
 吁求	yu qiu	4010
-吁叹	yu tan	10
+吁叹	xu tan	10
 吁吁	xu xu	4250
 盱衡	xu heng	100
 盱衡厉色	xu heng li se	2000
@@ -97643,16 +97643,16 @@
 削白	xiao bai	100
 削薄	xiao bao	10
 削壁	xue bi	362
-削波	xue bo	10
+削波	xiao bo	10
 削除	xue chu	10
 削发	xue fa	4399
 削发披缁	xue fa pi zi	10
 削价	xue jia	4070
 削尖	xiao jian	10
-削尖脑袋	xue jian nao dai	100
+削尖脑袋	xiao jian nao dai	100
 削肩	xue jian	2000
 削减	xue jian	8125
-削面	xue mian	3012
+削面	xiao mian	3012
 削木为吏	xue mu wei li	2000
 削皮	xiao pi	100
 削平	xue ping	4194
@@ -97660,7 +97660,7 @@
 削球	xiao qiu	2049
 削弱	xue ruo	7337
 削铁如泥	xue tie ru ni	2555
-削削	xue xue	42
+削削	xiao xiao	42
 削职	xue zhi	3000
 削职为民	xue zhi wei min	100
 削株掘根	xue zhu jue gen	100
@@ -98046,7 +98046,6 @@
 寻尺	xun chi	10
 寻出	xun chu	10
 寻春	xun chun	10
-寻的	xun di	590
 寻短见	xun duan jian	100
 寻芳	xun fang	10
 寻访	xun fang	5855
