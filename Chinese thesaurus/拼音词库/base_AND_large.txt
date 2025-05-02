@@ -98613,11 +98613,11 @@
 轧花机	ya hua ji	3026
 轧机	zha ji	2105
 轧空	ga kong	10
-轧米	zha mi	10
+轧米	ga mi	10
 轧棉	ya mian	100
 轧染	ya ran	100
 轧染机	ya ran ji	100
-轧轧	ya ya	751
+轧轧	ga ga	751
 轧制	zha zhi	2053
 亚伯	ya bo	11
 亚伯拉罕	ya bo la han	10
