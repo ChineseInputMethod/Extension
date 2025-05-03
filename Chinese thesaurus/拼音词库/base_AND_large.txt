@@ -99035,7 +99035,7 @@
 岩羊	yan yang	3007
 炎帝	yan di	4065
 炎风	yan feng	10
-炎熇	yan he	10
+炎熇	yan hu	10
 炎黄	yan huang	4983
 炎黄子孙	yan huang zi sun	213
 炎凉	yan liang	5098
@@ -99229,7 +99229,7 @@
 掩卷	yan juan	100
 掩口	yan kou	7
 掩埋	yan mai	6124
-掩没	yan mei	3000
+掩没	yan mo	3000
 掩面	yan mian	1
 掩目捕雀	yan mu bu que	2000
 掩其无备	yan qi wu bei	2000
@@ -99278,7 +99278,7 @@
 眼花	yan hua	4105
 眼花耳热	yan hua er re	10
 眼花缭乱	yan hua liao luan	4247
-眼犄角儿	yan ji jue er	100
+眼犄角儿	yan ji jiao er	100
 眼疾	yan ji	10
 眼疾手快	yan ji shou kuai	3056
 眼尖	yan jian	4044
@@ -99823,7 +99823,7 @@
 杨采妮	yang cai ni	3
 杨虎城	yang hu cheng	2
 杨花	yang hua	10
-杨花水性	yang hu hui xing	1
+杨花水性	yang hua shui xing	1
 杨花心性	yang hua xin xing	1
 杨家将	yang jia jiang	100
 杨家岭	yang jia ling	100
