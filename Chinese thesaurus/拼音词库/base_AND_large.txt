@@ -100205,7 +100205,7 @@
 邀约	yao yue	4144
 邀准	yao zhun	10
 爻辞	yao ci	10
-尧年舜日	yao nian shun yue	100
+尧年舜日	yao nian shun ri	100
 尧舜	yao shun	4416
 尧天舜日	yao tian shun ri	3005
 肴馔	yao zhuan	4013
@@ -100539,7 +100539,7 @@
 耶稣教	ye su jiao	3030
 揶揄	ye yu	4067
 也罢	ye ba	12577
-也曾	ye zeng	5010
+也曾	ye ceng	5010
 也得	ye de	1200
 也好	ye hao	28333
 也就是	ye jiu shi	6740
@@ -100547,7 +100547,6 @@
 也可	ye ke	15310
 也门	ye men	2296
 也似	ye si	10
-也似地	ye shi de	58
 也是	ye shi	186040
 也许	ye xu	88829
 也已	ye yi	1990
