@@ -101334,7 +101334,7 @@
 一扫而光	yi sao er guang	565
 一扫而空	yi sao er kong	2909
 一色	yi se	4215
-一刹	yi sha	3000
+一刹	yi cha	3000
 一刹那	yi cha na	10556
 一霎	yi sha	5683
 一霎那	yi sha na	2212

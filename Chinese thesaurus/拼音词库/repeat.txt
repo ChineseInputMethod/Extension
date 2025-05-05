@@ -184,3 +184,4 @@
 休闲地	xiu xian di	100
 荨麻	qian ma	4013
 也得	ye dei	1200
+一撮	yi cuo	10
