@@ -102203,7 +102203,7 @@
 以此类推	yi ci lei tui	2149
 以次	yi ci	2394
 以刺世事	yi ci shi shi	100
-以德报德	yi de bao yu	141
+以德报德	yi de bao de	141
 以德报怨	yi de bao yuan	4205
 以德服人	yi de fu ren	10
 以点带面	yi dian dai mian	272
@@ -102280,7 +102280,7 @@
 以少胜多	yi shao sheng duo	100
 以身试法	yi shen shi fa	3051
 以身许国	yi shen xu guo	3000
-以身殉国	yi sheng xun guo	126
+以身殉国	yi shen xun guo	126
 以身殉职	yi shen xun zhi	2142
 以身作则	yi shen zuo ze	5849
 以升量石	yi sheng liang dan	100
@@ -102651,7 +102651,7 @@
 邑人	yi ren	100
 佚名	yi ming	2063
 佚失	yi shi	10
-役畜	yi xu	3018
+役畜	yi chu	3018
 役龄	yi ling	4003
 役男	yi nan	10
 役使	yi shi	4025
@@ -103103,7 +103103,7 @@
 茵茵	yin yin	3380
 荫庇	yin bi	2010
 荫蔽	yin bi	129
-荫蔽地	yin bi de	10
+荫蔽地	yin bi di	10
 荫凉	yin liang	2189
 荫翳	yin yi	4009
 音变	yin bian	3606
@@ -103937,7 +103937,7 @@
 盈虚	ying xu	6
 盈溢	ying yi	100
 盈盈	ying ying	11941
-盈盈秋水	ying ying shui qiu	100
+盈盈秋水	ying ying qiu shui	100
 盈盈一水	ying ying yi shui	129
 盈盈在目	ying ying zai mu	100
 盈余	ying yu	5691
