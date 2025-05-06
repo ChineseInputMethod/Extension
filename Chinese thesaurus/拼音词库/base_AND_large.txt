@@ -104873,7 +104873,7 @@
 油箱	you xiang	4175
 油鞋	you xie	2002
 油性	you xing	4057
-油性地	you xing de	10
+油性地	you xing di	10
 油靴	you xue	100
 油烟	you yan	6386
 油盐酱醋	you yan jiang cu	2001
