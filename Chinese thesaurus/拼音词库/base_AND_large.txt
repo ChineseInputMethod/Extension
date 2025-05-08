@@ -105343,7 +105343,7 @@
 右江	you jiang	1
 右军	you jun	7
 右军习气	you jun xi qi	2000
-右肋	you le	3000
+右肋	you lei	3000
 右面	you mian	7566
 右派	you pai	3366
 右佥都御史	you qian du yu shi	100
@@ -105494,7 +105494,7 @@
 于思	yu sai	2053
 于心不忍	yu xin bu ren	2645
 于心何忍	yu xin he ren	2000
-于心无愧	yu jin wu kui	10
+于心无愧	yu xin wu kui	10
 玙璠	yu fan	2000
 杅穿皮蠹	yu chuan pi du	100
 余波	yu bo	3296
