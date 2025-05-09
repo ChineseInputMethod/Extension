@@ -106477,7 +106477,7 @@
 御前	yu qian	2000
 御容	yu rong	100
 御史	yu shi	237
-御史大夫	yu shi dai fu	2000
+御史大夫	yu shi da fu	2000
 御史台	yu shi tai	100
 御事	yu shi	10
 御侮	yu wu	4014
@@ -106737,7 +106737,7 @@
 原旧	yuan jiu	100
 原刻	yuan ke	10
 原来	yuan lai	126726
-原来地	yuan lai de	10
+原来地	yuan lai di	10
 原来如此	yuan lai ru ci	5
 原理	yuan li	11827
 原粮	yuan liang	4064
@@ -106928,7 +106928,7 @@
 援鳖失龟	yuan bie shi gui	100
 援兵	yuan bing	6632
 援藏	yuan zang	3000
-援古证今	ya gu zheng jin	100
+援古证今	yuan gu zheng jin	100
 援建	yuan jian	4572
 援救	yuan jiu	5884
 援军	yuan jun	5370
@@ -107135,7 +107135,7 @@
 愿心	yuan xin	2142
 愿意	yuan yi	65451
 愿者上钩	yuan zhe shang gou	4
-曱甴	yue zha	10
+曱甴	ga zha	10
 约出	yue chu	10
 约旦	yue dan	3621
 约旦河	yue dan he	319
@@ -107357,7 +107357,7 @@
 越野赛	yue ye sai	2571
 越野赛跑	yue ye sai pao	2006
 越狱	yue yu	4433
-越长	yue chang	10
+越长	yue zhang	10
 越障	yue zhang	3000
 越职	yue zhi	100
 越俎代庖	yue zu dai pao	3149
@@ -107547,7 +107547,7 @@
 匀称	yun chen	5947
 匀调	yun tiao	10
 匀兑	yun dui	4000
-匀和	yun he	3008
+匀和	yun huo	3008
 匀浆	yun jiang	100
 匀净	yun jing	5050
 匀脸	yun lian	2001
