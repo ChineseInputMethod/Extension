@@ -107573,7 +107573,7 @@
 郧县	yun xian	2
 耘锄	yun chu	2002
 耘艺	yun yi	7
-筠连	yun lian	10
+筠连	jun lian	10
 筼筜	yun dang	108
 允承	yun cheng	3000
 允从	yun cong	10
@@ -107591,7 +107591,7 @@
 陨铁	yun tie	4006
 陨星	yun xing	4259
 陨越	yun yue	100
-殒没	yun mei	10
+殒没	yun mo	10
 殒灭	yun mie	2002
 殒命	yun ming	4045
 殒殁	yun mo	100
@@ -107992,7 +107992,7 @@
 在目	zai mu	6
 在那儿	zai na er	878
 在内	zai nei	11690
-在内地	zai nei de	732
+在内地	zai nei di	732
 在前	zai qian	4610
 在人耳目	zai ren er mu	2000
 在日	zai ri	2
