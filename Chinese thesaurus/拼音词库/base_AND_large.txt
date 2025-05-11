@@ -108087,7 +108087,7 @@
 攒聚	cuan ju	4003
 攒眉	cuan mei	3010
 攒眉蹙额	cuan mei cu e	100
-攒眉苦脸	zan mei ku lian	100
+攒眉苦脸	cuan mei ku lian	100
 攒钱	zan qian	2000
 攒三聚五	cuan san ju wu	2003
 攒射	cuan she	4003
@@ -108608,7 +108608,7 @@
 扎根	zha gen	6219
 扎花	zha hua	4010
 扎脚	zha jiao	10
-扎鲁特旗	za lu te qi	10
+扎鲁特旗	zha lu te qi	10
 扎猛子	zha meng zi	2003
 扎脑子	zha nao zi	100
 扎啤	zha pi	114
@@ -108671,7 +108671,7 @@
 诈语	zha yu	4077
 柞蚕	zuo can	4020
 柞木	zha mu	10
-柞树	zha shu	3025
+柞树	zuo shu	3025
 柞水	zha shui	10
 柞丝绸	zuo si chou	3003
 栅格	shan ge	10

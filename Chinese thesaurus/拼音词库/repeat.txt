@@ -188,3 +188,4 @@
 已还	yi huan	10
 永久地	yong jiu di	10
 郁塞	yu sai	10
+怎的	zen di	2172
