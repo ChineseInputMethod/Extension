@@ -108800,7 +108800,7 @@
 沾手	zhan shou	4009
 沾污	zhan wu	100
 沾沾自喜	zhan zhan zi xi	4888
-沾粘	zhan zhan	10
+沾粘	zhan nian	10
 毡包	zhan bao	3086
 毡房	zhan fang	4098
 毡笠	zhan li	2
@@ -109105,7 +109105,7 @@
 张惠妹	zhang hui mei	6
 张家界	zhang jia jie	562
 张家口	zhang jia kou	2611
-张角	zhang jue	10
+张角	zhang jiao	10
 张静初	zhang jing chu	1
 张开	zhang kai	13635
 张看	zhang kan	6
@@ -109201,7 +109201,7 @@
 长臂猿	chang bi yuan	2068
 长编	chang bian	3050
 长膘	zhang biao	3010
-长别	zhang bie	3005
+长别	chang bie	3005
 长滨	chang bin	10
 长柄	chang bing	10
 长波	chang bo	4082
