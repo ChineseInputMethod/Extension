@@ -109261,7 +109261,7 @@
 长话	chang hua	2525
 长话短说	chang hua duan shuo	3169
 长活	chang huo	3015
-长机	chang ji	2015
+长机	zhang ji	2015
 长计	chang ji	10
 长铗	chang jia	100
 长假	chang jia	4489
@@ -109890,7 +109890,7 @@
 折短	she duan	10
 折断	zhe duan	6237
 折兑	zhe dui	3001
-折堕	she duo	10
+折堕	zhe duo	10
 折返	zhe fan	3472
 折缝	zhe feng	2000
 折服	zhe fu	6144
@@ -109908,7 +109908,7 @@
 折戟沉沙	zhe ji chen sha	2000
 折价	zhe jia	4206
 折简	zhe jian	2000
-折箭	she jian	10
+折箭	zhe jian	10
 折角	zhe jiao	10
 折节读书	zhe jie du shu	2000
 折节下士	zhe jie xia shi	100
@@ -109931,7 +109931,7 @@
 折寿	zhe shou	3104
 折受	she shou	101
 折算	zhe suan	5173
-折损	she sun	3000
+折损	zhe sun	3000
 折腾	zhe teng	7805
 折头	zhe tou	2021
 折弯	zhe wan	2000
@@ -110001,10 +110001,10 @@
 这类	zhe lei	4750
 这里	zhe li	202641
 这么	zhe me	231697
-这么点	zhe mo dian	722
+这么点	zhe me dian	722
 这么点儿	zhe me dian er	3009
-这么个	zhe mo ge	395
-这么说	zhe mo shuo	1090
+这么个	zhe me ge	395
+这么说	zhe me shuo	1090
 这么些	zhe me xie	3740
 这么样	zhe me yang	6209
 这么着	zhe me zhao	2080

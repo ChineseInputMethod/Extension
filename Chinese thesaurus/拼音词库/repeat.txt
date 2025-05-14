@@ -190,3 +190,5 @@
 郁塞	yu sai	10
 怎的	zen di	2172
 长出	chang chu	685
+遮没	zhe mo	100
+这么着	zhe me zhe	2080
