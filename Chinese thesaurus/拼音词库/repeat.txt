@@ -192,3 +192,4 @@
 长出	chang chu	685
 遮没	zhe mo	100
 这么着	zhe me zhe	2080
+着地	zhuo di	364

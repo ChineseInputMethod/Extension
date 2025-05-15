@@ -110060,7 +110060,7 @@
 着迷	zhao mi	7502
 着魔	zhao mo	4498
 着墨	zhuo mo	3117
-着恼	zhuo nao	10
+着恼	zhao nao	10
 着呢	zhe ne	7995
 着棋	zhuo qi	100
 着人先鞭	zhuo ren xian bian	101
