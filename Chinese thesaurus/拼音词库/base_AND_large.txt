@@ -110713,7 +110713,7 @@
 整饰	zheng shi	3000
 整数	zheng shu	6796
 整肃	zheng su	4091
-整宿	zheng su	3000
+整宿	zheng xiu	3000
 整套	zheng tao	5455
 整体	zheng ti	18270
 整天	zheng tian	14106
@@ -111167,7 +111167,7 @@
 吱喳	zi zha	10
 吱吱	zhi zhi	100
 吱吱嘎嘎	zhi zhi ga ga	2000
-吱吱声	zi zi sheng	100
+吱吱声	zhi zhi sheng	100
 吱吱喳喳	zhi zhi zha zha	100
 枝杈	zhi cha	4093
 枝城	zhi cheng	10
@@ -111180,7 +111180,7 @@
 枝节	zhi jie	6043
 枝节问题	zhi jie wen ti	100
 枝柯	zhi ke	11
-枝蔓	zhi wan	4028
+枝蔓	zhi man	4028
 枝梢	zhi shao	2000
 枝条	zhi tiao	4530
 枝头	zhi tou	3409
@@ -111339,7 +111339,7 @@
 执而不化	zhi er bu hua	2001
 执罚	zhi fa	10
 执法	zhi fa	21285
-执法不阿	zhi fa bu a	10
+执法不阿	zhi fa bu e	10
 执法不公	zhi fa bu gong	100
 执法犯法	zhi fa fan fa	2001
 执法如山	zhi fa ru shan	2089

@@ -193,3 +193,5 @@
 遮没	zhe mo	100
 这么着	zhe me zhe	2080
 着地	zhuo di	364
+正着	zheng zhe	266
+支着	zhi zhe	2000
