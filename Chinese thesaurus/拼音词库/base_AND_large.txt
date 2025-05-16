@@ -111418,7 +111418,7 @@
 直飞	zhi fei	2269
 直感	zhi gan	2232
 直根	zhi gen	2008
-直贡呢	zhi gong ne	2001
+直贡呢	zhi gong ni	2001
 直勾勾	zhi gou gou	4105
 直挂	zhi gua	100
 直观	zhi guan	7701
@@ -111501,7 +111501,7 @@
 直头	zhi tou	6
 直系	zhi xi	4209
 直系亲属	zhi xi qin shu	3075
-直系血亲	zhi xi xue qing	100
+直系血亲	zhi xi xue qin	100
 直辖	zhi xia	5159
 直辖市	zhi xia shi	9418
 直下	zhi xia	162
@@ -111993,7 +111993,7 @@
 制度化	zhi du hua	3593
 制伏	zhi fu	4737
 制服	zhi fu	11977
-制服呢	zhi fu ne	2013
+制服呢	zhi fu ni	2013
 制府	zhi fu	100
 制高点	zhi gao dian	3587
 制革	zhi ge	4179
@@ -112052,7 +112052,7 @@
 质料	zhi liao	4677
 质明	zhi ming	100
 质难	zhi nan	100
-质朴	zhi piao	6907
+质朴	zhi pu	6907
 质谱	zhi pu	100
 质谱仪	zhi pu yi	100
 质铺	zhi pu	100
@@ -112233,7 +112233,7 @@
 滞留	zhi liu	5997
 滞纳	zhi na	10
 滞纳金	zhi na jin	2164
-滞塞	zhi sai	100
+滞塞	zhi se	100
 滞销	zhi xiao	5444
 滞胀	zhi zhang	3025
 置办	zhi ban	5332
