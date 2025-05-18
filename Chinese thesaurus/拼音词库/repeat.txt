@@ -195,3 +195,6 @@
 着地	zhuo di	364
 正着	zheng zhe	266
 支着	zhi zhe	2000
+重犯	zhong fan	4066
+重计	chong ji	10
+重落	chong luo	113

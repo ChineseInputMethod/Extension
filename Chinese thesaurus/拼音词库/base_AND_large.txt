@@ -112871,7 +112871,7 @@
 种种	zhong zhong	22348
 种猪	zhong zhu	3227
 种子	zhong zi	12755
-种子地	zhong zi de	101
+种子地	zhong zi di	101
 种子队	zhong zi dui	658
 种子田	zhong zi tian	101
 种子选手	zhong zi xuan shou	816
@@ -112944,7 +112944,7 @@
 众醉独醒	zhong zui du xing	100
 重版	chong ban	5054
 重办	zhong ban	4070
-重瓣胃	zhong ban wei	2001
+重瓣胃	chong ban wei	2001
 重磅	zhong bang	3374
 重宝	zhong bao	10
 重臂	zhong bi	2008
@@ -112954,7 +112954,7 @@
 重彩	zhong cai	3156
 重残	zhong can	10
 重操旧业	chong cao jiu ye	251
-重茬	zhong cha	112
+重茬	chong cha	112
 重唱	chong chang	4043
 重臣	zhong chen	4001
 重惩	zhong cheng	4000
@@ -112974,7 +112974,7 @@
 重读	zhong du	4200
 重睹天日	chong du tian ri	109
 重度	zhong du	422
-重耳	zhong er	10
+重耳	chong er	10
 重罚	zhong fa	3363
 重罚不用	zhong fa bu yong	100
 重返	chong fan	6685
@@ -113007,7 +113007,7 @@
 重建	chong jian	9936
 重剑	zhong jian	2598
 重奖	zhong jiang	4638
-重结晶	zhong jie jing	100
+重结晶	chong jie jing	100
 重金	zhong jin	5124
 重金属	zhong jin shu	3143
 重晶石	zhong jing shi	124
@@ -113021,7 +113021,7 @@
 重力加速度	zhong li jia su du	100
 重利	zhong li	4250
 重量	zhong liang	9776
-重楼	zhong lou	10
+重楼	chong lou	10
 重峦叠嶂	chong luan die zhang	2012
 重落	zhong luo	113
 重码	chong ma	3032
