@@ -113052,7 +113052,7 @@
 重审	chong shen	4130
 重生	chong sheng	3537
 重生父母	chong sheng fu mu	3053
-重施故伎	zhong shi gu ji	100
+重施故伎	chong shi gu ji	100
 重拾	chong shi	277
 重试	chong shi	2000
 重视	zhong shi	41396
@@ -113069,7 +113069,7 @@
 重提旧事	chong ti jiu shi	100
 重听	zhong ting	4116
 重头	chong tou	3142
-重头戏	chong tou xi	4510
+重头戏	zhong tou xi	4510
 重托	zhong tuo	5147
 重望	zhong wang	4000
 重围	chong wei	5766
