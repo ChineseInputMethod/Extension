@@ -205,3 +205,5 @@
 重选	chong xuan	2000
 重学	chong xue	10
 重言	chong yan	213
+重载	chong zai	4113
+重装	chong zhuang	383

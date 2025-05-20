@@ -113097,7 +113097,7 @@
 重学	zhong xue	10
 重压	zhong ya	4227
 重言	zhong yan	213
-重檐	zhong yan	3047
+重檐	chong yan	3047
 重眼皮	chong yan pi	100
 重眼皮儿	chong yan pi er	100
 重演	chong yan	5500
@@ -113108,7 +113108,7 @@
 重要	zhong yao	143374
 重要人物	zhong yao ren wu	248
 重要性	zhong yao xing	7037
-重议	zhong yi	10
+重议	chong yi	10
 重译	chong yi	3014
 重音	zhong yin	4151
 重音节	zhong yin jie	100
@@ -113125,7 +113125,7 @@
 重灾区	zhong zai qu	352
 重载	zhong zai	4113
 重责	zhong ze	4034
-重张	zhong zhang	2031
+重张	chong zhang	2031
 重振	chong zhen	3289
 重振旗鼓	chong zhen qi gu	159
 重镇	zhong zhen	5790
@@ -113471,7 +113471,7 @@
 铢两	zhu liang	7
 铢两分寸	zhu liang fen cun	100
 铢两悉称	zhu liang xi chen	119
-铢铢校量	zhu zhu xiao liang	100
+铢铢校量	zhu zhu jiao liang	100
 猪八戒	zhu ba jie	2130
 猪扒	zhu pa	10
 猪卑狗险	zhu bei gou lian	100
