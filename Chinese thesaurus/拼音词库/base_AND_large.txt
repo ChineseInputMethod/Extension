@@ -113474,7 +113474,7 @@
 铢铢校量	zhu zhu jiao liang	100
 猪八戒	zhu ba jie	2130
 猪扒	zhu pa	10
-猪卑狗险	zhu bei gou lian	100
+猪卑狗险	zhu bei gou xian	100
 猪鼻	zhu bi	7
 猪草	zhu cao	3036
 猪场	zhu chang	3365
