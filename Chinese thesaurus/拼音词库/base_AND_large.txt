@@ -114403,7 +114403,7 @@
 撰述	zhuan shu	4044
 撰文	zhuan wen	3636
 撰写	zhuan xie	8462
-撰著	zhuan zhe	4125
+撰著	zhuan zhu	4125
 篆工	zhuan gong	100
 篆刻	zhuan ke	4343
 篆刻家	zhuan ke jia	145
@@ -114773,7 +114773,7 @@
 拙劣	zhuo lie	6700
 拙目	zhuo mu	10
 拙讷	zhuo ne	6
-拙朴	zhuo piao	4001
+拙朴	zhuo pu	4001
 拙涩	zhuo se	2001
 拙行	zhuo xing	10
 拙直	zhuo zhi	100
