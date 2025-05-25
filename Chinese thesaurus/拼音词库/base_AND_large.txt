@@ -423,7 +423,7 @@
 安厝	an cuo	4002
 安达	an da	437
 安打	an da	3
-安大略湖	an da lve hu	10
+安大略湖	an da lue hu	10
 安道尔	an dao er	2614
 安德	an de	2
 安德海	an de hai	1
@@ -3330,8 +3330,8 @@
 暴乱	bao luan	5166
 暴民	bao min	116
 暴怒	bao nu	6003
-暴虐	bao nve	3567
-暴虐无道	bao nve wu dao	100
+暴虐	bao nue	3567
+暴虐无道	bao nue wu dao	100
 暴弃	bao qi	2000
 暴取豪夺	bao qu hao duo	100
 暴热	bao re	3000
@@ -5789,7 +5789,7 @@
 兵临城下	bing lin cheng xia	3174
 兵乱	bing luan	2092
 兵轮	bing lun	6
-兵略	bing lve	10
+兵略	bing lue	10
 兵马	bing ma	6458
 兵马未动	bing ma wei dong	1
 兵马俑	bing ma yong	3320
@@ -6761,7 +6761,7 @@
 不敢当	bu gan dang	4121
 不敢告劳	bu gan gao lao	2000
 不敢苟同	bu gan gou tong	2811
-不敢掠美	bu gan lve mei	2000
+不敢掠美	bu gan lue mei	2000
 不敢旁骛	bu gan pang wu	2000
 不敢问津	bu gan wen jin	2000
 不敢越雷池一步	bu gan yue lei chi yi bu	2045
@@ -7789,7 +7789,7 @@
 才俊	cai jun	2000
 才可	cai ke	2660
 才力	cai li	4218
-才略	cai lve	2402
+才略	cai lue	2402
 才貌	cai mao	3617
 才貌双全	cai mao shuang quan	376
 才能	cai neng	66058
@@ -8247,7 +8247,7 @@
 残年暮景	can nian mu jing	100
 残年余力	can nian yu li	2000
 残念	can nian	1
-残虐	can nve	107
+残虐	can nue	107
 残篇断简	can pian duan jian	2002
 残片	can pian	207
 残品	can pin	4004
@@ -8754,7 +8754,7 @@
 策勒	ce le	10
 策励	ce li	3005
 策论	ce lun	4016
-策略	ce lve	13311
+策略	ce lue	13311
 策马	ce ma	3000
 策马飞舆	ce ma fei yu	1
 策名委质	ce ming wei zhi	1
@@ -10830,7 +10830,7 @@
 逞性妄为	cheng xing wang wei	101
 逞性子	cheng xing zi	2000
 逞凶	cheng xiong	4400
-逞凶肆虐	cheng xiong si nve	100
+逞凶肆虐	cheng xiong si nue	100
 逞英雄	cheng ying xiong	2000
 骋怀	cheng huai	4002
 骋目	cheng mu	4001
@@ -11683,7 +11683,7 @@
 筹建	chou jian	6362
 筹借	chou jie	4019
 筹款	chou kuan	3463
-筹略	chou lve	2000
+筹略	chou lue	2000
 筹码	chou ma	6308
 筹谋	chou mou	4026
 筹募	chou mu	3000
@@ -12589,7 +12589,7 @@
 传令	chuan ling	6384
 传令兵	chuan ling bing	100
 传流	chuan liu	2011
-传略	zhuan lve	153
+传略	zhuan lue	153
 传媒	chuan mei	7030
 传名	chuan ming	4000
 传票	chuan piao	5220
@@ -13718,7 +13718,7 @@
 从良	cong liang	4046
 从令如流	cong ling ru liu	100
 从流忘反	cong liu wang fan	1
-从略	cong lve	2034
+从略	cong lue	2034
 从没	cong mei	3741
 从命	cong ming	4079
 从母	cong mu	2119
@@ -13861,8 +13861,8 @@
 粗陋	cu lou	5240
 粗鲁	cu lu	8953
 粗率	cu shuai	5169
-粗略	cu lve	2459
-粗略地	cu lve de	734
+粗略	cu lue	2459
+粗略地	cu lue de	734
 粗莽	cu mang	2006
 粗毛	cu mao	2000
 粗面粉	cu mian fen	100
@@ -15327,7 +15327,7 @@
 大落	da luo	367
 大吕	da lv	2000
 大率	da shuai	2015
-大略	da lve	2946
+大略	da lue	2946
 大妈	da ma	4963
 大麻	da ma	4773
 大麻风	da ma feng	101
@@ -16328,7 +16328,7 @@
 殚智竭力	dan zhi jie li	2000
 瘅恶彰善	dan e zhang shan	100
 瘅疾	dan ji	2
-瘅疟	dan nve	100
+瘅疟	dan nue	100
 箪豆见色	dan dou jian se	100
 箪瓢屡空	dan piao lv kong	100
 箪食	dan si	2000
@@ -16356,7 +16356,7 @@
 胆量	dan liang	8634
 胆裂魂飞	dan lie hun fei	100
 胆落	dan luo	2000
-胆略	dan lve	2351
+胆略	dan lue	2351
 胆囊	dan nang	4115
 胆囊炎	dan nang yan	973
 胆瓶	dan ping	4022
@@ -16675,7 +16675,7 @@
 党鞭	dang bian	7
 党部	dang bu	2000
 党参	dang shen	3140
-党豺为虐	dang chai wei nve	100
+党豺为虐	dang chai wei nue	100
 党代表	dang dai biao	3561
 党代会	dang dai hui	2787
 党的纪律	dang de ji lv	304
@@ -22421,7 +22421,7 @@
 二手货	er shou huo	2185
 二叔	er shu	1
 二竖	er shu	100
-二竖为虐	er shu wei nve	2000
+二竖为虐	er shu wei nue	2000
 二水	er shui	2
 二四	er si	6
 二胎	er tai	100
@@ -23664,7 +23664,7 @@
 方腊起义	fang la qi yi	108
 方里	fang li	108
 方领矩步	fang ling ju bu	100
-方略	fang lve	3283
+方略	fang lue	3283
 方面	fang mian	107186
 方面军	fang mian jun	2166
 方能	fang neng	1014
@@ -24182,7 +24182,7 @@
 飞轮	fei lun	3270
 飞轮海	fei lun hai	1
 飞落	fei luo	3000
-飞掠	fei lve	10
+飞掠	fei lue	10
 飞马	fei ma	6
 飞马座	fei ma zuo	3
 飞毛腿	fei mao tui	3176
@@ -24859,7 +24859,7 @@
 焚毁	fen hui	5611
 焚林而猎	fen lin er lie	2000
 焚林竭泽	fen lin jie ze	1
-焚掠	fen lve	10
+焚掠	fen lue	10
 焚琴煮鹤	fen qin zhu he	2004
 焚烧	fen shao	6930
 焚身	fen shen	10
@@ -25988,7 +25988,7 @@
 浮泛	fu fan	4141
 浮浮	fu fu	6
 浮瓜沉李	fu gua chen li	2001
-浮光掠影	fu guang lve ying	366
+浮光掠影	fu guang lue ying	366
 浮花浪蕊	fu hua lang rui	106
 浮华	fu hua	4361
 浮滑	fu hua	4007
@@ -26857,7 +26857,7 @@
 旮旯	ga la	3001
 旮旯儿	ga la er	2002
 伽蓝	qie lan	4017
-伽利略	jia li lve	2104
+伽利略	jia li lue	2104
 伽马刀	ga ma dao	154
 伽马射线	ga ma she xian	2017
 伽密	jia mi	100
@@ -27056,7 +27056,7 @@
 概论	gai lun	5359
 概率	gai lv	12915
 概率论	gai lv lun	2050
-概略	gai lve	2322
+概略	gai lue	2322
 概貌	gai mao	5113
 概莫能外	gai mo neng wai	3048
 概念	gai nian	20356
@@ -29272,7 +29272,7 @@
 功令	gong ling	2003
 功率	gong lv	7591
 功率放大器	gong lv fang da qi	100
-功略	gong lve	1
+功略	gong lue	1
 功名	gong ming	6257
 功名富贵	gong ming fu gui	1
 功名利禄	gong ming li lu	1
@@ -29287,7 +29287,7 @@
 攻必克	gong bi ke	100
 攻城	gong cheng	2387
 攻城打援	gong cheng da yuan	100
-攻城略地	gong cheng lve di	124
+攻城略地	gong cheng lue di	124
 攻城野战	gong cheng ye zhan	100
 攻错	gong cuo	4002
 攻打	gong da	6474
@@ -29307,7 +29307,7 @@
 攻克	gong ke	6203
 攻苦食淡	gong ku shi dan	100
 攻擂	gong lei	2000
-攻略	gong lve	6920
+攻略	gong lue	6920
 攻门	gong men	6
 攻难	gong nan	100
 攻剽	gong piao	10
@@ -33324,7 +33324,7 @@
 汗渍	han zi	5235
 汗渍渍	han zi zi	109
 旱魃	han ba	4005
-旱魃为虐	han ba wei nve	2003
+旱魃为虐	han ba wei nue	2003
 旱冰	han bing	4061
 旱冰场	han bing chang	2015
 旱冰鞋	han bing xie	100
@@ -35642,8 +35642,8 @@
 忽忽悠悠	hu hu you you	21
 忽冷忽热	hu leng hu re	2249
 忽律	hu lv	103
-忽略	hu lve	7697
-忽略不计	hu lve bu ji	10
+忽略	hu lue	7697
+忽略不计	hu lue bu ji	10
 忽明忽暗	hu ming hu an	274
 忽然	hu ran	123806
 忽闪	hu shan	4142
@@ -39977,7 +39977,7 @@
 计尽力穷	ji jin li qiong	1
 计量	ji liang	6703
 计量制	ji liang zhi	6
-计略	ji lve	10
+计略	ji lue	10
 计谋	ji mou	7284
 计票	ji piao	210
 计穷	ji qiong	7
@@ -41095,7 +41095,7 @@
 奸邪	jian xie	4307
 奸雄	jian xiong	4159
 奸淫	jian yin	4757
-奸淫掳掠	jian yin lu lve	100
+奸淫掳掠	jian yin lu lue	100
 奸贼	jian zei	4037
 奸诈	jian zha	6375
 歼敌	jian di	2275
@@ -41169,7 +41169,7 @@
 间脑	jian nao	2010
 间皮瘤	jian pi liu	6
 间日	jian ri	3040
-间日疟	jian ri nve	100
+间日疟	jian ri nue	100
 间色	jian se	4008
 间使	jian shi	6
 间隙	jian xi	5987
@@ -41564,7 +41564,7 @@
 简历	jian li	6295
 简练	jian lian	6351
 简陋	jian lou	8825
-简略	jian lve	3713
+简略	jian lue	3713
 简码	jian ma	100
 简慢	jian man	4010
 简明	jian ming	6703
@@ -42123,7 +42123,7 @@
 将乐	jiang le	10
 将领	jiang ling	7158
 将令	jiang ling	4625
-将略	jiang lve	10
+将略	jiang lue	10
 将门	jiang men	3180
 将门虎子	jiang men hu zi	100
 将门无犬子	jiang men wu quan zi	100
@@ -43351,7 +43351,7 @@
 节瘤	jie liu	6
 节录	jie lu	4052
 节律	jie lv	4077
-节略	jie lve	2042
+节略	jie lue	2042
 节旄	jie mao	100
 节目	jie mu	18336
 节目单	jie mu dan	2150
@@ -43403,7 +43403,7 @@
 劫富济贫	jie fu ji pin	2236
 劫后余生	jie hou yu sheng	2000
 劫机	jie ji	4809
-劫掠	jie lve	3506
+劫掠	jie lue	3506
 劫难	jie nan	6382
 劫杀	jie sha	1
 劫数	jie shu	4841
@@ -45052,7 +45052,7 @@
 经纶	jing lun	4137
 经论	jing lun	10
 经络	jing luo	5380
-经略	jing lve	3563
+经略	jing lue	3563
 经脉	jing mai	6252
 经贸	jing mao	20651
 经明行修	jing ming xing xiu	102
@@ -47303,7 +47303,7 @@
 军旅	jun lv	5863
 军律	jun lv	7
 军绿	jun lv	100
-军略	jun lve	10
+军略	jun lue	10
 军马	jun ma	3467
 军帽	jun mao	3245
 军门	jun men	100
@@ -49594,7 +49594,7 @@
 酷好	ku hao	2000
 酷吏	ku li	4018
 酷烈	ku lie	4122
-酷虐	ku nve	2059
+酷虐	ku nue	2059
 酷评	ku ping	100
 酷热	ku re	4753
 酷似	ku si	5033
@@ -54177,11 +54177,11 @@
 凌厉	ling li	15543
 凌轹	ling li	4002
 凌乱	ling luan	7773
-凌虐	ling nve	111
+凌虐	ling nue	111
 凌人	ling ren	3000
 凌辱	ling ru	6355
 凌弱暴寡	ling ruo bao gua	100
-凌上虐下	ling shang nve xia	100
+凌上虐下	ling shang nue xia	100
 凌侮	ling wu	4002
 凌霄	ling xiao	3001
 凌霄花	ling xiao hua	3006
@@ -54333,7 +54333,7 @@
 领扣	ling kou	3000
 领款	ling kuan	3000
 领路	ling lu	6455
-领略	ling lve	2570
+领略	ling lue	2570
 领命	ling ming	2000
 领诺	ling nuo	100
 领跑	ling pao	2000
@@ -54922,7 +54922,7 @@
 六时	liu shi	12
 六世	liu shi	2000
 六书	liu shu	4045
-六韬三略	liu tao san lve	100
+六韬三略	liu tao san lue	100
 六天	liu tian	282
 六条	liu tiao	3620
 六通	liu tong	10
@@ -55328,10 +55328,10 @@
 卤质	lu zhi	3001
 卤族	lu zu	3001
 虏获	lu huo	4006
-虏掠	lu lve	10
+虏掠	lu lue	10
 掳夺	lu duo	10
 掳获	lu huo	10
-掳掠	lu lve	604
+掳掠	lu lue	604
 硵砂	lu sha	10
 鲁班	lu ban	287
 鲁班尺	lu ban chi	2006
@@ -56375,46 +56375,46 @@
 滤色镜	lv se jing	2001
 滤液	lv ye	3001
 滤纸	lv zhi	3001
-掠地	lve di	10
-掠夺	lve duo	4761
-掠夺者	lve duo zhe	529
-掠过	lve guo	13105
-掠美	lve mei	2004
-掠取	lve qu	2015
-掠人之美	lve ren zhi mei	144
-掠杀	lve sha	10
-掠视	lve shi	2001
-掠影	lve ying	2163
-掠影浮光	lve ying fu guang	1
-略称	lve cheng	2007
-略传	lve chuan	10
-略带	lve dai	4693
-略读	lve du	2013
-略高一筹	lve gao yi chou	132
-略过	lve guo	2000
-略迹论心	lve ji lun xin	1
-略迹原情	lve ji yuan qing	101
-略迹原心	lve ji yuan xin	1
-略见一斑	lve jian yi ban	128
-略略	lve lve	4776
-略取	lve qu	10
-略去	lve qu	3321
-略胜一筹	lve sheng yi chou	297
-略识之无	lve shi zhi wu	112
-略同	lve tong	10
-略图	lve tu	2045
-略微	lve wei	6280
-略为	lve wei	4434
-略逊一筹	lve xun yi chou	100
-略阳	lve yang	10
-略阳县	lve yang xian	6
-略有	lve you	3330
-略语	lve yu	2015
-略阵	lve zhen	6
-略知皮毛	lve zhi pi mao	100
-略知一二	lve zhi yi er	2335
-略字	lve zi	6
-略作	lve zuo	2000
+掠地	lue di	10
+掠夺	lue duo	4761
+掠夺者	lue duo zhe	529
+掠过	lue guo	13105
+掠美	lue mei	2004
+掠取	lue qu	2015
+掠人之美	lue ren zhi mei	144
+掠杀	lue sha	10
+掠视	lue shi	2001
+掠影	lue ying	2163
+掠影浮光	lue ying fu guang	1
+略称	lue cheng	2007
+略传	lue chuan	10
+略带	lue dai	4693
+略读	lue du	2013
+略高一筹	lue gao yi chou	132
+略过	lue guo	2000
+略迹论心	lue ji lun xin	1
+略迹原情	lue ji yuan qing	101
+略迹原心	lue ji yuan xin	1
+略见一斑	lue jian yi ban	128
+略略	lue lue	4776
+略取	lue qu	10
+略去	lue qu	3321
+略胜一筹	lue sheng yi chou	297
+略识之无	lue shi zhi wu	112
+略同	lue tong	10
+略图	lue tu	2045
+略微	lue wei	6280
+略为	lue wei	4434
+略逊一筹	lue xun yi chou	100
+略阳	lue yang	10
+略阳县	lue yang xian	6
+略有	lue you	3330
+略语	lue yu	2015
+略阵	lue zhen	6
+略知皮毛	lue zhi pi mao	100
+略知一二	lue zhi yi er	2335
+略字	lue zi	6
+略作	lue zuo	2000
 呒啥	mu sha	101
 妈的	ma de	2367
 妈拉巴子	ma la ba zi	100
@@ -59068,7 +59068,7 @@
 妙龄	miao ling	5171
 妙龄女郎	miao ling nv lang	100
 妙论	miao lun	3000
-妙略	miao lve	10
+妙略	miao lue	10
 妙品	miao pin	100
 妙趣	miao qu	3096
 妙趣横生	miao qu heng sheng	4222
@@ -60197,7 +60197,7 @@
 谋计	mou ji	101
 谋利	mou li	577
 谋虑	mou lv	4003
-谋略	mou lve	2762
+谋略	mou lue	2762
 谋面	mou mian	4139
 谋谟帷幄	mou mo wei wo	1
 谋叛	mou pan	2
@@ -62693,17 +62693,17 @@
 暖洋洋	nuan yang yang	4433
 暖衣饱食	nuan yi bao shi	106
 暖意	nuan yi	2161
-疟疾	nve ji	2439
-疟蚊	nve wen	2016
-疟原虫	nve yuan chong	108
+疟疾	nue ji	2439
+疟蚊	nue wen	2016
+疟原虫	nue yuan chong	108
 疟子	yao zi	4000
-虐待	nve dai	6192
-虐老兽心	nve lao shou xin	1
-虐恋	nve lian	6
-虐杀	nve sha	2032
-虐暑	nve shu	7
-虐刑	nve xing	7
-虐政	nve zheng	2027
+虐待	nue dai	6192
+虐老兽心	nue lao shou xin	1
+虐恋	nue lian	6
+虐杀	nue sha	2032
+虐暑	nue shu	7
+虐刑	nue xing	7
+虐政	nue zheng	2027
 挪蹭	nuo ceng	100
 挪动	nuo dong	6542
 挪借	nuo jie	5042
@@ -64484,7 +64484,7 @@
 骗嘴	pian zui	7
 剽悍	piao han	4836
 剽疾	piao ji	100
-剽掠	piao lve	3000
+剽掠	piao lue	3000
 剽窃	piao qie	5205
 剽取	piao qu	4000
 剽袭	piao xi	4000
@@ -65587,7 +65587,7 @@
 七零八落	qi ling ba luo	3619
 七零八碎	qi ling ba sui	131
 七律	qi lv	4151
-七略	qi lve	2000
+七略	qi lue	2000
 七美	qi mei	10
 七庙	qi miao	100
 七男八婿	qi nan ba xu	1
@@ -67605,7 +67605,7 @@
 抢劫案	qiang jie an	300
 抢劫犯	qiang jie fan	3091
 抢救	qiang jiu	10136
-抢掠	qiang lve	2341
+抢掠	qiang lue	2341
 抢拍	qiang pai	3000
 抢跑	qiang pao	2000
 抢亲	qiang qin	4025
@@ -67981,11 +67981,11 @@
 侵害	qin hai	7179
 侵华	qin hua	2
 侵凌	qin ling	4008
-侵掠	qin lve	2000
-侵略	qin lve	6901
-侵略军	qin lve jun	204
-侵略战争	qin lve zhan zheng	226
-侵略者	qin lve zhe	880
+侵掠	qin lue	2000
+侵略	qin lue	6901
+侵略军	qin lue jun	204
+侵略战争	qin lue zhan zheng	226
+侵略者	qin lue zhe	880
 侵权	qin quan	6620
 侵染	qin ran	100
 侵扰	qin rao	5592
@@ -69798,7 +69798,7 @@
 权利	quan li	21184
 权利法案	quan li fa an	2
 权利要求	quan li yao qiu	2
-权略	quan lve	105
+权略	quan lue	105
 权门	quan men	4053
 权谋	quan mou	4261
 权能	quan neng	4037
@@ -70093,7 +70093,7 @@
 缺课	que ke	3071
 缺口	que kou	8218
 缺漏	que lou	4028
-缺略	que lve	103
+缺略	que lue	103
 缺门	que men	4037
 缺钱	que qian	10
 缺欠	que qian	4142
@@ -73062,7 +73062,7 @@
 扫雷舰	sao lei jian	2000
 扫雷艇	sao lei ting	41
 扫脸	sao lian	100
-扫掠	sao lve	10
+扫掠	sao lue	10
 扫盲	sao mang	5533
 扫眉	sao mei	100
 扫眉才子	sao mei cai zi	112
@@ -73209,7 +73209,7 @@
 杀菌	sha jun	5174
 杀菌剂	sha jun ji	2200
 杀戮	sha lu	5953
-杀掠	sha lve	3000
+杀掠	sha lue	3000
 杀灭	sha mie	2177
 杀妻求将	sha qi qiu jiang	101
 杀气	sha qi	9138
@@ -73717,7 +73717,7 @@
 删简	shan jian	6
 删节	shan jie	5213
 删节号	shan jie hao	2008
-删略	shan lve	2002
+删略	shan lue	2002
 删去	shan qu	361
 删汰	shan tai	4001
 删帖	shan tie	6
@@ -74246,7 +74246,7 @@
 上楼去梯	shang lou qu ti	100
 上漏下湿	shang lou xia shi	109
 上路	shang lu	11151
-上略	shang lve	10
+上略	shang lue	10
 上马	shang ma	10253
 上门	shang men	19553
 上面	shang mian	46847
@@ -75133,7 +75133,7 @@
 深明大义	shen ming da yi	101
 深谋	shen mou	6
 深谋远虑	shen mou yuan lv	3382
-深谋远略	shen mou yuan lve	1
+深谋远略	shen mou yuan lue	1
 深念	shen nian	7
 深浅	shen qian	5962
 深切	shen qie	9419
@@ -76044,8 +76044,8 @@
 省劲	sheng jin	4000
 省劲儿	sheng jin er	100
 省力	sheng li	5509
-省略	sheng lve	3734
-省略号	sheng lve hao	2011
+省略	sheng lue	3734
+省略号	sheng lue hao	2011
 省民	sheng min	10
 省墓	xing mu	101
 省内	sheng nei	1860
@@ -77034,7 +77034,7 @@
 识荆恨晚	shi jing hen wan	100
 识力	shi li	2000
 识量	shi liang	2000
-识略	shi lve	10
+识略	shi lue	10
 识面	shi mian	10
 识破	shi po	7333
 识趣	shi qu	4035
@@ -77270,7 +77270,7 @@
 史莱姆	shi lai mu	1
 史料	shi liao	6130
 史论	shi lun	3002
-史略	shi lve	2000
+史略	shi lue	2000
 史评	shi ping	3009
 史前	shi qian	3309
 史上	shi shang	2
@@ -77666,7 +77666,7 @@
 事件	shi jian	33147
 事理	shi li	5046
 事例	shi li	6492
-事略	shi lve	2094
+事略	shi lue	2094
 事齐事楚	shi qi shi chu	2000
 事前	shi qian	9599
 事情	shi qing	118333
@@ -78932,7 +78932,7 @@
 疏林	shu lin	3
 疏漏	shu lou	5333
 疏落	shu luo	4018
-疏略	shu lve	104
+疏略	shu lue	104
 疏密	shu mi	3000
 疏苗	shu miao	3000
 疏浅	shu qian	2000
@@ -81083,7 +81083,7 @@
 肆暴	si bao	10
 肆口	si kou	100
 肆力	si li	4002
-肆虐	si nve	3447
+肆虐	si nue	3447
 肆扰	si rao	3001
 肆无忌惮	si wu ji dan	5525
 肆行	si xing	3011
@@ -82050,9 +82050,9 @@
 缩聚	suo ju	4006
 缩栗	suo li	10
 缩拢	suo long	2000
-缩略	suo lve	3000
-缩略图	suo lve tu	886
-缩略语	suo lve yu	115
+缩略	suo lue	3000
+缩略图	suo lue tu	886
+缩略语	suo lue yu	115
 缩排	suo pai	10
 缩色	suo se	2000
 缩砂密	su sha mi	2000
@@ -83115,11 +83115,11 @@
 韬晦待时	tao hui dai shi	1
 韬晦之计	tao hui zhi ji	2000
 韬迹隐智	tao ji yin zhi	1
-韬略	tao lve	2161
+韬略	tao lue	2161
 韬神晦迹	tao shen hui ji	1
 韬形灭影	tao xing mie ying	1
 韬曜含光	tao yao han guang	1
-饕风虐雪	tao feng nve xue	1
+饕风虐雪	tao feng nue xue	1
 饕餮	tao tie	4164
 饕餮之徒	tao tie zhi tu	111
 逃奔	tao ben	5164
@@ -86881,7 +86881,7 @@
 脱粒机	tuo li ji	2003
 脱漏	tuo lou	4005
 脱落	tuo luo	7269
-脱略	tuo lve	109
+脱略	tuo lue	109
 脱盲	tuo mang	5101
 脱毛	tuo mao	4256
 脱帽	tuo mao	3034
@@ -87948,7 +87948,7 @@
 枉自	wang zi	4025
 罔极	wang ji	7
 罔极之恩	wang ji zhi en	10
-罔上虐下	wang shang nve xia	100
+罔上虐下	wang shang nue xia	100
 罔替	wang ti	104
 罔效	wang xiao	10
 罔知所措	wang zhi suo cuo	100
@@ -89145,7 +89145,7 @@
 文杰	wen jie	2
 文津阁	wen jin ge	6
 文锦渡	wen jin du	2
-文经武略	wen jing wu lve	1
+文经武略	wen jing wu lue	1
 文经武纬	wen jing wu wei	100
 文静	wen jing	7961
 文句	wen ju	4169
@@ -89219,7 +89219,7 @@
 文水县	wen shui xian	6
 文思	wen si	4563
 文坛	wen tan	4300
-文韬武略	wen tao wu lve	2001
+文韬武略	wen tao wu lue	2001
 文体	wen ti	6331
 文天祥	wen tian xiang	5
 文恬武嬉	wen tian wu xi	3002
@@ -90655,7 +90655,7 @@
 武林旧事记	wu lin jiu shi ji	100
 武陵	wu ling	125
 武隆县	wu long xian	7
-武略	wu lve	3000
+武略	wu lue	3000
 武庙	wu miao	5050
 武鸣	wu ming	6
 武平	wu ping	11
@@ -93622,7 +93622,7 @@
 详解	xiang jie	989
 详尽	xiang jin	7623
 详论	xiang lun	10
-详略	xiang lve	2000
+详略	xiang lue	2000
 详密	xiang mi	3041
 详明	xiang ming	4047
 详情	xiang qing	8002
@@ -96211,7 +96211,7 @@
 行路	xing lu	4163
 行路难	xing lu nan	10
 行旅	xing lv	2047
-行略	xing lve	10
+行略	xing lue	10
 行牧且荛	xing mu qie rao	100
 行囊	xing nang	5666
 行内	xing nei	10
@@ -96529,7 +96529,7 @@
 性命交关	xing ming jiao guan	2214
 性命攸关	xing ming you guan	225
 性能	xing neng	19971
-性虐待	xing nve dai	10
+性虐待	xing nue dai	10
 性气	xing qi	2078
 性器	xing qi	100
 性器官	xing qi guan	2137
@@ -96581,7 +96581,7 @@
 凶猛地	xiong meng de	10
 凶年	xiong nian	4007
 凶年饥岁	xiong nian ji sui	100
-凶虐	xiong nve	101
+凶虐	xiong nue	101
 凶气	xiong qi	3066
 凶器	xiong qi	5734
 凶人	xiong ren	6
@@ -96682,7 +96682,7 @@
 雄辩	xiong bian	5126
 雄兵	xiong bing	3196
 雄才	xiong cai	2001
-雄才大略	xiong cai da lve	466
+雄才大略	xiong cai da lue	466
 雄大	xiong da	3020
 雄断	xiong duan	7
 雄飞	xiong fei	100
@@ -96708,7 +96708,7 @@
 雄峻	xiong jun	3000
 雄丽	xiong li	100
 雄鹿	xiong lu	183
-雄略	xiong lve	10
+雄略	xiong lue	10
 雄马	xiong ma	6
 雄模	xiong mo	2000
 雄奇	xiong qi	3001
@@ -96751,7 +96751,7 @@
 熊罴入梦	xiong pi ru meng	100
 熊罴之士	xiong pi zhi shi	1
 熊市	xiong shi	3248
-熊韬豹略	xiong tao bao lve	1
+熊韬豹略	xiong tao bao lue	1
 熊瞎子	xiong xia zi	2003
 熊心豹胆	xiong xin bao dan	152
 熊熊	xiong xiong	6921
@@ -97139,7 +97139,7 @@
 虚肿	xu zhong	10
 虚舟飘瓦	xu zhou piao wa	100
 虚字	xu zi	4071
-虚嘴掠舌	xu zui lve she	2000
+虚嘴掠舌	xu zui lue she	2000
 虚左以待	xu zuo yi dai	2004
 墟里	xu li	100
 需求	xu qiu	26293
@@ -97841,7 +97841,7 @@
 雪泥	xue ni	3
 雪泥鸿迹	xue ni hong ji	1
 雪泥鸿爪	xue ni hong zhao	3028
-雪虐风饕	xue nve feng tao	100
+雪虐风饕	xue nue feng tao	100
 雪片	xue pian	4525
 雪橇	xue qiao	4733
 雪桥	xue qiao	100
@@ -98002,7 +98002,7 @@
 血渍	xue zi	5351
 血族	xue zu	2000
 谑称	xue cheng	10
-谑而不虐	xue er bu nve	104
+谑而不虐	xue er bu nue	104
 谑语	xue yu	2000
 勋带	xun dai	100
 勋绩	xun ji	4022
@@ -98507,7 +98507,7 @@
 崖壑	ya he	100
 崖刻	ya ke	3007
 崖口	ya kou	10
-崖略	ya lve	101
+崖略	ya lue	101
 崖墓	ya mu	2
 崖限	ya xian	100
 崖崖	ya ya	6
@@ -100454,7 +100454,7 @@
 要脸	yao lian	3000
 要领	yao ling	6521
 要路	yao lu	3137
-要略	yao lve	2290
+要略	yao lue	2290
 要么	yao me	9587
 要面子	yao mian zi	3071
 要命	yao ming	15015
@@ -103329,7 +103329,7 @@
 淫乐	yin le	4000
 淫乱	yin luan	5386
 淫靡	yin mi	100
-淫虐	yin nve	100
+淫虐	yin nue	100
 淫辱	yin ru	100
 淫书	yin shu	3000
 淫威	yin wei	5457
@@ -104393,7 +104393,7 @@
 勇将	yong jiang	3000
 勇决	yong jue	2005
 勇力	yong li	4019
-勇略	yong lve	2000
+勇略	yong lue	2000
 勇猛	yong meng	7560
 勇猛果敢	yong meng guo gan	104
 勇猛精进	yong meng jing jin	131
@@ -106576,7 +106576,7 @@
 渊海	yuan hai	4025
 渊壑	yuan he	7
 渊默	yuan mo	3000
-渊谋远略	yuan mou yuan lve	1
+渊谋远略	yuan mou yuan lue	1
 渊泉	yuan quan	2
 渊深	yuan shen	4083
 渊薮	yuan sou	4103
@@ -107043,7 +107043,7 @@
 远离	yuan li	9124
 远路	yuan lu	2306
 远虑	yuan lv	4130
-远略	yuan lve	104
+远略	yuan lue	104
 远门	yuan men	4562
 远门近枝	yuan men jin zhi	100
 远谋	yuan mou	4024
@@ -107154,7 +107154,7 @@
 约计	yue ji	4020
 约简	yue jian	10
 约见	yue jian	5250
-约略	yue lve	4002
+约略	yue lue	4002
 约摸	yue mo	4040
 约期	yue qi	3015
 约契	yue qi	2000
@@ -109005,12 +109005,12 @@
 战栗	zhan li	4114
 战列舰	zhan lie jian	2079
 战乱	zhan luan	7226
-战略	zhan lve	31822
-战略导弹	zhan lve dao dan	100
-战略家	zhan lve jia	769
-战略物资	zhan lve wu zi	2075
-战略性	zhan lve xing	1768
-战略要点	zhan lve yao dian	2
+战略	zhan lue	31822
+战略导弹	zhan lue dao dan	100
+战略家	zhan lue jia	769
+战略物资	zhan lue wu zi	2075
+战略性	zhan lue xing	1768
+战略要点	zhan lue yao dian	2
 战马	zhan ma	5513
 战幕	zhan mu	3439
 战袍	zhan pao	3243
@@ -111022,7 +111022,7 @@
 政令	zheng ling	5707
 政论	zheng lun	5277
 政论家	zheng lun jia	100
-政略	zheng lve	10
+政略	zheng lue	10
 政派	zheng pai	4005
 政企	zheng qi	5186
 政情	zheng qing	3038
@@ -112197,7 +112197,7 @@
 智力投资	zhi li tou zi	2000
 智力玩具	zhi li wan ju	4
 智利	zhi li	3961
-智略	zhi lve	196
+智略	zhi lue	196
 智谋	zhi mou	5784
 智囊	zhi nang	5329
 智囊团	zhi nang tuan	3160
@@ -112481,7 +112481,7 @@
 中落	zhong luo	316
 中旅社	zhong lv she	100
 中率	zhong lv	10
-中略	zhong lve	2000
+中略	zhong lue	2000
 中卖	zhong mai	6
 中美	zhong mei	5420
 中美洲	zhong mei zhou	2114
@@ -113868,18 +113868,18 @@
 助剂	zhu ji	100
 助祭	zhu ji	2000
 助教	zhu jiao	5639
-助桀为虐	zhu jie wei nve	115
+助桀为虐	zhu jie wei nue	115
 助理	zhu li	10652
 助理工程师	zhu li gong cheng shi	100
 助理研究员	zhu li yan jiu yuan	100
 助力	zhu li	3699
-助虐	zhu nve	10
+助虐	zhu nue	10
 助跑	zhu pao	4051
 助燃	zhu ran	4056
 助人为乐	zhu ren wei le	3362
 助杀	zhu sha	100
 助手	zhu shou	10095
-助天为虐	zhu tian wei nve	104
+助天为虐	zhu tian wei nue	104
 助听器	zhu ting qi	3128
 助推	zhu tui	564
 助推器	zhu tui qi	124
@@ -113893,7 +113893,7 @@
 助战	zhu zhan	4060
 助长	zhu zhang	7283
 助阵	zhu zhen	3484
-助纣为虐	zhu zhou wei nve	681
+助纣为虐	zhu zhou wei nue	681
 住持	zhu chi	5345
 住处	zhu chu	9731
 住地	zhu di	5543

@@ -1,11 +1,11 @@
-质畧	zhi lve	1
+质畧	zhi lue	1
 侵晩	qin wan	1
 傍晩	bang wan	1
 他山之石可以攻玉	ta shan zhi shi ke yi gong yu	1
 华蕚	hua e	1
-睿畧	rui lve	1
+睿畧	rui lue	1
 当晩	dang wan	1
-异畧	yi lve	1
+异畧	yi lue	1
 惊天地泣鬼神	jing tian di qi gui shen	2
 恨相见晩	hen xiang jian wan	1
 恨相知晩	hen xiang zhi wan	1
@@ -15,13 +15,13 @@
 派遗	pai yi	6
 治晩	zhi wan	1
 淹晩	yan wan	1
-鸿畧	hong lve	1
+鸿畧	hong lue	1
 独峯驼	du feng tuo	1
 独峯牛	du feng niu	1
 瑗珲	yuan hui	1
 璱璱	se se	1
 神不知鬼不觉	shen bu zhi gui bu jue	7
-策畧	ce lve	1
+策畧	ce lue	1
 緑蕚梅	lv e mei	1
 纷纷穣穣	fen fen rang rang	1
 络络	luo luo	1
@@ -70,7 +70,7 @@
 前怕狼后怕虎	qian pa lang hou pa hu	3005
 前晩	qian wan	1
 前亲晩后	qian qin wan hou	1
-边畧	bian lve	1
+边畧	bian lue	1
 十二峯	shi er feng	1
 颠崕	dian ya	1
 半晩	ban wan	1
@@ -79,7 +79,7 @@
 桑榆晩景	sang yu wan jing	1
 桑穣	sang rang	1
 桑穣纸	sang rang zhi	1
-圣畧	sheng lve	1
+圣畧	sheng lue	1
 蚤晩	zao wan	1
 喧嚻	xuan xiao	1
 向晩	xiang wan	1
@@ -262,7 +262,7 @@
 秋晩	qiu wan	1
 窝穣	wo rang	1
 窳啙	yu zi	1
-意畧	yi lve	1
+意畧	yi lue	1
 茶毘	cha pi	1
 营酇	ying zan	1
 营火晩会	ying huo wan hui	1
@@ -1062,7 +1062,7 @@
 班驳	ban bo	1
 班龙	ban long	1
 班鸠	ban jiu	2
-略窥一班	lve kui yi ban	1
+略窥一班	lue kui yi ban	1
 班秃	ban tu	1
 班驳陆离	ban bo lu li	1
 惩羹吹韲	cheng geng chui ji	1

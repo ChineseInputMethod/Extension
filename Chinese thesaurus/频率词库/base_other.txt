@@ -110,7 +110,7 @@
 蔼如	ai ru	100
 艾亨鲍姆	ai heng bao mu	10
 艾伦	ai lun	204
-艾略特	ai lve te	631
+艾略特	ai lue te	631
 砹元素	ai yuan su	6
 爱爱医	ai ai yi	1
 爱把	ai ba	10
@@ -361,7 +361,7 @@
 安插亲信	an cha qin xin	10
 安产	an chan	3
 安达信	an da xin	123
-安大略	an da lve	339
+安大略	an da lue	339
 安德雷	an de lei	1
 安德里	an de li	1
 安德里森	an de li sen	7
@@ -472,7 +472,7 @@
 安全部队	an quan bu dui	1067
 安全操作	an quan cao zuo	3
 安全测试	an quan ce shi	2
-安全策略	an quan ce lve	2
+安全策略	an quan ce lue	2
 安全产品	an quan chan pin	2
 安全程序	an quan cheng xu	7
 安全出口	an quan chu kou	4
@@ -2991,7 +2991,7 @@
 被覆盖	bei fu gai	10
 被盖	bei gai	2000
 被告席	bei gao xi	2157
-被忽略了	bei hu lve le	10
+被忽略了	bei hu lue le	10
 被忽视	bei hu shi	10
 被毁	bei hui	470
 被激怒	bei ji nu	10
@@ -3021,7 +3021,7 @@
 被其	bei qi	10
 被器	bei qi	10
 被抢	bei qiang	510
-被侵略者	bei qin lve zhe	100
+被侵略者	bei qin lue zhe	100
 被请	bei qing	10
 被人	bei ren	2680
 被认为	bei ren wei	2280
@@ -6641,7 +6641,7 @@
 布纹面纸	bu wen mian zhi	7
 布纹纸	bu wen zhi	2001
 布线背面	bu xian bei mian	2
-布线策略	bu xian ce lve	7
+布线策略	bu xian ce lue	7
 布线层	bu xian ceng	6
 布线产品	bu xian chan pin	2
 布线程序	bu xian cheng xu	7
@@ -7772,12 +7772,12 @@
 策动力	ce dong li	6
 策发	ce fa	10
 策划者	ce hua zhe	235
-策略获取	ce lve huo qu	7
-策略论	ce lve lun	6
-策略篇	ce lve pian	2
-策略师	ce lve shi	2
-策略图	ce lve tu	6
-策略性	ce lve xing	214
+策略获取	ce lue huo qu	7
+策略论	ce lue lun	6
+策略篇	ce lue pian	2
+策略师	ce lue shi	2
+策略图	ce lue tu	6
+策略性	ce lue xing	214
 策马飞驰	ce ma fei chi	2
 策应防守	ce ying fang shou	7
 岑凯伦	cen kai lun	1
@@ -12153,11 +12153,11 @@
 粗鲁的人	cu lu de ren	10
 粗鲁无礼	cu lu wu li	10
 粗逻辑	cu luo ji	6
-粗略估计	cu lve gu ji	2
-粗略集	cu lve ji	6
-粗略计算	cu lve ji suan	7
-粗略使用	cu lve shi yong	7
-粗略叙述	cu lve xu shu	10
+粗略估计	cu lue gu ji	2
+粗略集	cu lue ji	6
+粗略计算	cu lue ji suan	7
+粗略使用	cu lue shi yong	7
+粗略叙述	cu lue xu shu	10
 粗麻	cu ma	6
 粗麻布	cu ma bu	3
 粗蛮	cu man	2
@@ -12472,7 +12472,7 @@
 存盘退出	cun pan tui chu	7
 存起来	cun qi lai	6
 存取臂	cun qu bi	10
-存取策略	cun qu ce lve	7
+存取策略	cun qu ce lue	7
 存取程序	cun qu cheng xu	2
 存取冲突	cun qu chong tu	2
 存取点	cun qu dian	6
@@ -12847,7 +12847,7 @@
 打通儿	da tong er	100
 打通腿	da tong tui	6
 打腿用力	da tui yong li	7
-打退侵略	da tui qin lve	2
+打退侵略	da tui qin lue	2
 打歪	da wai	2
 打完	da wan	567
 打网球	da wang qiu	2
@@ -18918,7 +18918,7 @@
 断钻	duan zuan	2
 缎带花	duan dai hua	2
 缎伦远	duan lun yuan	6
-缎掠	duan lve	6
+缎掠	duan lue	6
 缎木	duan mu	3
 缎木材	duan mu cai	6
 缎木木材	duan mu mu cai	7
@@ -20470,7 +20470,7 @@
 发炸	fa zha	6
 发债	fa zhai	2
 发展步伐	fa zhan bu fa	7
-发展策略	fa zhan ce lve	2
+发展策略	fa zhan ce lue	2
 发展成	fa zhan cheng	2
 发展成为	fa zhan cheng wei	3
 发展出	fa zhan chu	6
@@ -20525,7 +20525,7 @@
 发展需要	fa zhan xu yao	10
 发展迅猛	fa zhan xun meng	7
 发展迅速	fa zhan xun su	687
-发展战略	fa zhan zhan lve	2
+发展战略	fa zhan zhan lue	2
 发展者	fa zhan zhe	6
 发展中法	fa zhan zhong fa	7
 发展中国	fa zhan zhong guo	7
@@ -21183,8 +21183,8 @@
 反叛者	fan pan zhe	2
 反潜火箭	fan qian huo jian	2
 反潜艇	fan qian ting	2
-反侵略	fan qin lve	2
-反侵略战争	fan qin lve zhan zheng	1
+反侵略	fan qin lue	2
+反侵略战争	fan qin lue zhan zheng	1
 反倾向	fan qing xiang	2
 反倾销案	fan qing xiao an	1
 反倾销法	fan qing xiao fa	4
@@ -22545,7 +22545,7 @@
 非运动	fei yun dong	6
 非再生资源	fei zai sheng zi yuan	108
 非在职	fei zai zhi	6
-非战略性	fei zhan lve xing	7
+非战略性	fei zhan lue xing	7
 非战者	fei zhan zhe	6
 非战争性	fei zhan zheng xing	6
 非蒸馏水	fei zheng liu shui	7
@@ -23620,7 +23620,7 @@
 浮力室	fu li shi	2
 浮力箱	fu li xiang	2
 浮力中心	fu li zhong xin	2
-浮掠	fu lve	10
+浮掠	fu lue	10
 浮锚	fu mao	2
 浮锚旅馆	fu mao lv guan	7
 浮木	fu mu	2
@@ -26403,7 +26403,7 @@
 工业标准	gong ye biao zhun	2
 工业部	gong ye bu	3118
 工业部门	gong ye bu men	242
-工业策略	gong ye ce lve	7
+工业策略	gong ye ce lue	7
 工业产品设计	gong ye chan pin she ji	2
 工业产权	gong ye chan quan	463
 工业产值	gong ye chan zhi	4
@@ -26860,7 +26860,7 @@
 公羚	gong ling	6
 公路桥	gong lu qiao	197
 公驴	gong lv	2
-公略	gong lve	2
+公略	gong lue	2
 公卖局	gong mai ju	7
 公民道德	gong min dao de	2
 公民道德建设	gong min dao de jian she	1
@@ -26922,7 +26922,7 @@
 公因数	gong yin shu	2000
 公因素	gong yin su	6
 公用表	gong yong biao	6
-公用策略	gong yong ce lve	7
+公用策略	gong yong ce lue	7
 公用程序	gong yong cheng xu	2
 公用船	gong yong chuan	2
 公用电话亭	gong yong dian hua ting	3
@@ -27319,7 +27319,7 @@
 共享版	gong xiang ban	6
 共享版版	gong xiang ban ban	1
 共享变量	gong xiang bian liang	2
-共享策略	gong xiang ce lve	7
+共享策略	gong xiang ce lue	7
 共享程序	gong xiang cheng xu	7
 共享道	gong xiang dao	6
 共享段	gong xiang duan	6
@@ -28521,7 +28521,7 @@
 管理办公室	guan li ban gong shi	1
 管理标准	guan li biao zhun	2
 管理部门	guan li bu men	1960
-管理策略	guan li ce lve	2
+管理策略	guan li ce lue	2
 管理层	guan li ceng	1230
 管理程序	guan li cheng xu	2
 管理处	guan li chu	3840
@@ -31800,7 +31800,7 @@
 核心小组	he xin xiao zu	100
 核液	he ye	10
 核医学	he yi xue	2119
-核战略	he zhan lve	10
+核战略	he zhan lue	10
 核质	he zhi	10
 核状	he zhuang	10
 盒盖	he gai	11
@@ -32790,8 +32790,8 @@
 后老	hou lao	6
 后疗法	hou liao fa	2
 后楼梯	hou lou ti	2
-后掠角	hou lve jiao	102
-后掠翼	hou lve yi	2
+后掠角	hou lue jiao	102
+后掠翼	hou lue yi	2
 后马	hou ma	2
 后马上	hou ma shang	6
 后门兵	hou men bing	6
@@ -33054,8 +33054,8 @@
 忽伦二虎	hu lun er hu	2
 忽伦三虎	hu lun san hu	2
 忽伦四虎	hu lun si hu	2
-忽略门	hu lve men	6
-忽略鼠标	hu lve shu biao	2
+忽略门	hu lue men	6
+忽略鼠标	hu lue shu biao	2
 忽忙	hu mang	6
 忽米	hu mi	2000
 忽灭	hu mie	7
@@ -33979,7 +33979,7 @@
 画了个	hua le ge	10
 画里	hua li	10
 画轮廓	hua lun kuo	2
-画略图	hua lve tu	6
+画略图	hua lue tu	6
 画马	hua ma	1
 画漫画	hua man hua	6
 画盲	hua mang	6
@@ -34885,7 +34885,7 @@
 黄蜂队	huang feng dui	1
 黄苷	huang gan	6
 黄岗	huang gang	1
-黄公略	huang gong lve	1
+黄公略	huang gong lue	1
 黄牯牛	huang gu niu	10
 黄诖	huang gua	6
 黄国伦	huang guo lun	1
@@ -36985,7 +36985,7 @@
 即时通	ji shi tong	2
 即时消息	ji shi xiao xi	10
 即时新闻	ji shi xin wen	7
-即时战略	ji shi zhan lve	6
+即时战略	ji shi zhan lue	6
 即使当	ji shi dang	2
 即使你	ji shi ni	5
 即使是	ji shi shi	2480
@@ -39257,7 +39257,7 @@
 检收	jian shou	10
 检索变元	jian suo bian yuan	7
 检索操作	jian suo cao zuo	7
-检索策略	jian suo ce lve	2
+检索策略	jian suo ce lue	2
 检索程序	jian suo cheng xu	7
 检索词	jian suo ci	6
 检索法	jian suo fa	6
@@ -40525,7 +40525,7 @@
 交互影响	jiao hu ying xiang	7
 交互作用	jiao hu zuo yong	4
 交换步	jiao huan bu	6
-交换策略	jiao huan ce lve	7
+交换策略	jiao huan ce lue	7
 交换程序	jiao huan cheng xu	2
 交换存取	jiao huan cun qu	7
 交换点	jiao huan dian	2
@@ -40589,7 +40589,7 @@
 交联绝缘	jiao lian jue yuan	7
 交链漏磁	jiao lian lou ci	7
 交粮	jiao liang	2
-交流策略	jiao liu ce lve	7
+交流策略	jiao liu ce lue	7
 交流电法	jiao liu dian fa	3
 交流电机	jiao liu dian ji	100
 交流电压	jiao liu dian ya	2
@@ -41231,7 +41231,7 @@
 节流器	jie liu qi	6
 节流压力	jie liu ya li	2
 节流装置	jie liu zhuang zhi	4
-节略者	jie lve zhe	6
+节略者	jie lue zhe	6
 节码	jie ma	6
 节煤	jie mei	3000
 节面	jie mian	2
@@ -41290,7 +41290,7 @@
 劫得	jie de	10
 劫后	jie hou	100
 劫来	jie lai	6
-劫掠者	jie lve zhe	6
+劫掠者	jie lue zhe	6
 劫去	jie qu	7
 劫色	jie se	10
 劫走	jie zou	1
@@ -42765,7 +42765,7 @@
 经验值	jing yan zhi	6
 经营不善	jing ying bu shan	380
 经营部	jing ying bu	418
-经营策略	jing ying ce lve	4
+经营策略	jing ying ce lue	4
 经营额	jing ying e	2
 经营范围	jing ying fan wei	3
 经营观念	jing ying guan nian	7
@@ -42794,7 +42794,7 @@
 经营业绩	jing ying ye ji	2
 经营与管理	jing ying yu guan li	6
 经营原则	jing ying yuan ze	7
-经营战略	jing ying zhan lve	2
+经营战略	jing ying zhan lue	2
 经营站	jing ying zhan	6
 经营之道	jing ying zhi dao	3
 经营指标	jing ying zhi biao	2
@@ -43049,7 +43049,7 @@
 竞雄	jing xiong	2
 竞宇	jing yu	6
 竞真	jing zhen	6
-竞争策略	jing zheng ce lve	7
+竞争策略	jing zheng ce lue	7
 竞争的	jing zheng de	10
 竞争法	jing zheng fa	3
 竞争环境	jing zheng huan jing	1
@@ -43062,7 +43062,7 @@
 竞争性抑制	jing zheng xing yi zhi	6
 竞争压力	jing zheng ya li	2
 竞争优势	jing zheng you shi	4
-竞争战略	jing zheng zhan lve	7
+竞争战略	jing zheng zhan lue	7
 竞争中	jing zheng zhong	1
 竞职	jing zhi	1
 竞走赛	jing zou sai	6
@@ -44150,7 +44150,7 @@
 剧烈疼痛	ju lie teng tong	7
 剧烈运动	ju lie yun dong	6
 剧情发展	ju qing fa zhan	7
-剧情攻略	ju qing gong lve	1
+剧情攻略	ju qing gong lue	1
 剧校	ju xiao	11
 剧雪	ju xue	6
 剧暂	ju zan	6
@@ -45288,7 +45288,7 @@
 看了一眼	kan le yi yan	10
 看两眼	kan liang yan	10
 看仑	kan lun	5
-看略	kan lve	5
+看略	kan lue	5
 看骂媒	kan ma mei	6
 看麦娘	kan mai niang	2
 看漫画	kan man hua	1
@@ -46068,7 +46068,7 @@
 可以得到	ke yi de dao	10
 可以估计	ke yi gu ji	10
 可以呼吸	ke yi hu xi	10
-可以忽略	ke yi hu lve	10
+可以忽略	ke yi hu lue	10
 可以忽视	ke yi hu shi	100
 可以获得	ke yi huo de	10
 可以见到	ke yi jian dao	149
@@ -51226,8 +51226,8 @@
 领扣儿	ling kou er	100
 领粮	ling liang	6
 领陆	ling lu	2009
-领略出	ling lve chu	7
-领略到	ling lve dao	7
+领略出	ling lue chu	7
+领略到	ling lue dao	7
 领区	ling qu	10
 领取者	ling qu zhe	6
 领司	ling si	10
@@ -51567,7 +51567,7 @@
 流畅性	liu chang xing	7
 流成	liu cheng	6
 流程改进	liu cheng gai jin	7
-流程攻略	liu cheng gong lve	1
+流程攻略	liu cheng gong lue	1
 流程管理	liu cheng guan li	1
 流出动态曲线	liu chu dong tai qu xian	3
 流出来	liu chu lai	205
@@ -53183,51 +53183,51 @@
 滤膜	lv mo	10
 滤去	lv qu	10
 滤渣	lv zha	2007
-掠岸	lve an	10
-掠出	lve chu	1
-掠夺婚	lve duo hun	101
-掠夺式	lve duo shi	100
-掠夺性	lve duo xing	195
-掠过水面	lve guo shui mian	7
-掠取物	lve qu wu	6
-掠去	lve qu	6
-掠走	lve zou	10
-略表	lve biao	2195
-略表心意	lve biao xin yi	6
-略大	lve da	10
-略低	lve di	10
-略低于	lve di yu	249
-略懂	lve dong	10
-略多于	lve duo yu	10
-略高	lve gao	180
-略高于	lve gao yu	345
-略记	lve ji	10
-略加	lve jia	2000
-略减	lve jian	6
-略见	lve jian	10
-略厩	lve jiu	6
-略具	lve ju	10
-略可	lve ke	10
-略了	lve le	10
-略论	lve lun	2000
-略论稿	lve lun gao	2
-略偏	lve pian	10
-略轻	lve qing	6
-略省	lve sheng	10
-略胜	lve sheng	10
-略施	lve shi	10
-略述	lve shu	10
-略说	lve shuo	10
-略谈	lve tan	10
-略嫌	lve xian	10
-略显	lve xian	433
-略小	lve xiao	10
-略写	lve xie	10
-略修	lve xiu	10
-略逊	lve xun	10
-略长	lve zhang	10
-略知	lve zhi	2000
-略注	lve zhu	10
+掠岸	lue an	10
+掠出	lue chu	1
+掠夺婚	lue duo hun	101
+掠夺式	lue duo shi	100
+掠夺性	lue duo xing	195
+掠过水面	lue guo shui mian	7
+掠取物	lue qu wu	6
+掠去	lue qu	6
+掠走	lue zou	10
+略表	lue biao	2195
+略表心意	lue biao xin yi	6
+略大	lue da	10
+略低	lue di	10
+略低于	lue di yu	249
+略懂	lue dong	10
+略多于	lue duo yu	10
+略高	lue gao	180
+略高于	lue gao yu	345
+略记	lue ji	10
+略加	lue jia	2000
+略减	lue jian	6
+略见	lue jian	10
+略厩	lue jiu	6
+略具	lue ju	10
+略可	lue ke	10
+略了	lue le	10
+略论	lue lun	2000
+略论稿	lue lun gao	2
+略偏	lue pian	10
+略轻	lue qing	6
+略省	lue sheng	10
+略胜	lue sheng	10
+略施	lue shi	10
+略述	lue shu	10
+略说	lue shuo	10
+略谈	lue tan	10
+略嫌	lue xian	10
+略显	lue xian	433
+略小	lue xiao	10
+略写	lue xie	10
+略修	lue xiu	10
+略逊	lue xun	10
+略长	lue zhang	10
+略知	lue zhi	2000
+略注	lue zhu	10
 妈富隆	ma fu long	1
 妈说	ma shuo	10
 妈性	ma xing	6
@@ -56251,7 +56251,7 @@
 名牌西装	ming pai xi zhuang	7
 名牌香水	ming pai xiang shui	2
 名牌效应	ming pai xiao ying	2
-名牌战略	ming pai zhan lve	7
+名牌战略	ming pai zhan lue	7
 名骗	ming pian	6
 名妻	ming qi	6
 名企	ming qi	2
@@ -56743,7 +56743,7 @@
 谋个	mou ge	10
 谋和	mou he	3026
 谋利益	mou li yi	1
-谋略史	mou lve shi	2
+谋略史	mou lue shi	2
 谋叛者	mou pan zhe	6
 谋篇布局	mou pian bu ju	10
 谋求发迹	mou qiu fa ji	2
@@ -59022,14 +59022,14 @@
 暖温带	nuan wen dai	81
 暖玉	xuan yu	10
 暖种	nuan zhong	10
-疟虫	nve chong	10
-虐爱	nve ai	6
-虐打	nve da	2
-虐待孩子	nve dai hai zi	7
-虐待老人	nve dai lao ren	6
-虐待者	nve dai zhe	6
-虐俘	nve fu	1
-虐囚	nve qiu	1
+疟虫	nue chong	10
+虐爱	nue ai	6
+虐打	nue da	2
+虐待孩子	nue dai hai zi	7
+虐待老人	nue dai lao ren	6
+虐待者	nue dai zhe	6
+虐俘	nue fu	1
+虐囚	nue qiu	1
 挪出	nuo chu	10
 挪到	nuo dao	10
 挪东补西	nuo dong bu xi	2
@@ -59317,7 +59317,7 @@
 爬墙虎	pa qiang hu	2013
 爬墙梅	pa qiang mei	1
 爬去	pa qu	10
-爬山策略	pa shan ce lve	7
+爬山策略	pa shan ce lue	7
 爬山法	pa shan fa	2
 爬山过程	pa shan guo cheng	7
 爬山者	pa shan zhe	3
@@ -60724,7 +60724,7 @@
 品花宝鉴	pin hua bao jian	7
 品名表	pin ming biao	6
 品尼高	pin ni gao	1
-品牌策略	pin pai ce lve	1
+品牌策略	pin pai ce lue	1
 品牌代理	pin pai dai li	2
 品牌电脑	pin pai dian nao	2
 品牌管理	pin pai guan li	2
@@ -60742,7 +60742,7 @@
 品牌影响力	pin pai ying xiang li	1
 品牌优势	pin pai you shi	7
 品牌战	pin pai zhan	2
-品牌战略	pin pai zhan lve	7
+品牌战略	pin pai zhan lue	7
 品牌主管	pin pai zhu guan	7
 品评者	pin ping zhe	6
 品三	pin san	2
@@ -61735,7 +61735,7 @@
 企业倒闭	qi ye dao bi	2
 企业动态	qi ye dong tai	1
 企业发展	qi ye fa zhan	10
-企业发展战略	qi ye fa zhan zhan lve	1
+企业发展战略	qi ye fa zhan zhan lue	1
 企业法	qi ye fa	2209
 企业法律顾问	qi ye fa lv gu wen	1
 企业法人	qi ye fa ren	2000
@@ -61796,8 +61796,8 @@
 企业用人	qi ye yong ren	7
 企业邮局	qi ye you ju	1
 企业邮箱	qi ye you xiang	2
-企业战略	qi ye zhan lve	2
-企业战略管理	qi ye zhan lve guan li	2
+企业战略	qi ye zhan lue	2
+企业战略管理	qi ye zhan lue guan li	2
 企业站	qi ye zhan	6
 企业者	qi ye zhe	6
 企业诊断	qi ye zhen duan	2
@@ -63125,11 +63125,11 @@
 侵华日军	qin hua ri jun	7
 侵华战争	qin hua zhan zheng	1
 侵来	qin lai	10
-侵略的	qin lve de	10
-侵略国	qin lve guo	107
-侵略日	qin lve ri	6
-侵略性	qin lve xing	4
-侵略政策	qin lve zheng ce	7
+侵略的	qin lue de	10
+侵略国	qin lue guo	107
+侵略日	qin lue ri	6
+侵略性	qin lue xing	4
+侵略政策	qin lue zheng ce	7
 侵权案	qin quan an	1
 侵权法	qin quan fa	6
 侵权赔偿	qin quan pei chang	7
@@ -64682,8 +64682,8 @@
 全反射	quan fan she	2000
 全范围	quan fan wei	2
 全氟辛酸	quan fu xin suan	2
-全功略	quan gong lve	1
-全攻略	quan gong lve	3
+全功略	quan gong lue	1
+全攻略	quan gong lue	3
 全固态	quan gu tai	1
 全冠	quan guan	3
 全冠清	quan guan qing	2
@@ -64833,7 +64833,7 @@
 全球网	quan qiu wang	6
 全球卫星	quan qiu wei xing	7
 全球预测	quan qiu yu ce	7
-全球战略	quan qiu zhan lve	3
+全球战略	quan qiu zhan lue	3
 全球战争	quan qiu zhan zheng	7
 全球知名	quan qiu zhi ming	1
 全球中文	quan qiu zhong wen	1
@@ -66212,7 +66212,7 @@
 认证证书	ren zheng zheng shu	1
 认证中心	ren zheng zhong xin	1
 认证咨询	ren zheng zi xun	2
-认知策略	ren zhi ce lve	2
+认知策略	ren zhi ce lue	2
 认知过程	ren zhi guo cheng	2
 认知疗法	ren zhi liao fa	3
 认知相符理论	ren zhi xiang fu li lun	3
@@ -66919,7 +66919,7 @@
 儒家经典	ru jia jing dian	100
 儒家经书	ru jia jing shu	100
 儒岭	ru ling	6
-儒略历	ru lve li	102
+儒略历	ru lue li	102
 儒沛	ru pei	6
 儒铨	ru quan	6
 儒弱	ru ruo	6
@@ -68890,7 +68890,7 @@
 商品牌	shang pin pai	6
 商品票据	shang pin piao ju	7
 商品品	shang pin pin	6
-商品侵略	shang pin qin lve	7
+商品侵略	shang pin qin lue	7
 商品收据	shang pin shou ju	7
 商品输出	shang pin shu chu	7
 商品水	shang pin shui	6
@@ -68992,7 +68992,7 @@
 商业利益	shang ye li yi	7
 商业流通	shang ye liu tong	7
 商业旅馆	shang ye lv guan	7
-商业略语	shang ye lve yu	7
+商业略语	shang ye lue yu	7
 商业贸易	shang ye mao yi	2
 商业农业	shang ye nong ye	7
 商业片	shang ye pian	168
@@ -70955,8 +70955,8 @@
 省了	sheng le	10
 省立	sheng li	3000
 省料	sheng liao	10
-省略的	sheng lve de	10
-省略句	sheng lve ju	104
+省略的	sheng lue de	10
+省略句	sheng lue ju	104
 省名	sheng ming	10
 省内外	sheng nei wai	602
 省人	sheng ren	10
@@ -72293,7 +72293,7 @@
 使隆起	shi long qi	6
 使轮流	shi lun liu	6
 使氯作用	shi lv zuo yong	7
-使掠过	shi lve guo	6
+使掠过	shi lue guo	6
 使麻烦	shi ma fan	6
 使麻木	shi ma mu	6
 使麻醉	shi ma zui	2
@@ -74598,7 +74598,7 @@
 述举	shu ju	2
 述宽	shu kuan	2
 述廉	shu lian	1
-述略	shu lve	10
+述略	shu lue	10
 述仁	shu ren	2
 述荣	shu rong	2
 述祥	shu xiang	6
@@ -75909,7 +75909,7 @@
 私活	si huo	3021
 私价	si jia	10
 私酒	si jiu	10
-私掠船	si lve chuan	3
+私掠船	si lue chuan	3
 私密性	si mi xing	2
 私拿	si na	100
 私权利	si quan li	2
@@ -76585,7 +76585,7 @@
 嗽嗽声	sou sou sheng	10
 嗽血	sou xue	10
 苏北	su bei	450
-苏必略湖	su bi lve hu	7
+苏必略湖	su bi lue hu	7
 苏打灰	su da hui	3
 苏丹国	su dan guo	100
 苏丹人	su dan ren	2
@@ -77248,7 +77248,7 @@
 缩减者	suo jian zhe	10
 缩脚	suo jiao	10
 缩孔	suo kong	10
-缩略词	suo lve ci	10
+缩略词	suo lue ci	10
 缩盘	suo pan	10
 缩起	suo qi	10
 缩少	suo shao	10
@@ -77510,7 +77510,7 @@
 锁存逻辑	suo cun luo ji	7
 锁店	suo dian	6
 锁钉	suo ding	10
-锁定策略	suo ding ce lve	7
+锁定策略	suo ding ce lue	7
 锁定点	suo ding dian	6
 锁定端	suo ding duan	6
 锁定阀	suo ding fa	6
@@ -79048,7 +79048,7 @@
 替父从军	ti fu cong jun	7
 替换材料	ti huan cai liao	2
 替换测验	ti huan ce yan	2
-替换策略	ti huan ce lve	7
+替换策略	ti huan ce lue	7
 替换成	ti huan cheng	1
 替换程序	ti huan cheng xu	7
 替换电缆	ti huan dian lan	7
@@ -80266,7 +80266,7 @@
 同伦类	tong lun lei	2
 同伦逆	tong lun ni	3
 同伦群	tong lun qun	2
-同略码	tong lve ma	6
+同略码	tong lue ma	6
 同埋	tong mai	10
 同盟条约	tong meng tiao yue	100
 同眠	tong mian	10
@@ -80301,7 +80301,7 @@
 同三	tong san	1
 同山	tong shan	2
 同上歌手	tong shang ge shou	7
-同上略作	tong shang lve zuo	7
+同上略作	tong shang lue zuo	7
 同生作用	tong sheng zuo yong	2
 同省	tong sheng	10
 同时并进	tong shi bing jin	100
@@ -80796,7 +80796,7 @@
 投射线	tou she xian	100
 投身于	tou shen yu	441
 投影电视	tou ying dian shi	100
-投资策略	tou zi ce lve	204
+投资策略	tou zi ce lue	204
 投资额	tou zi e	3270
 投资规模	tou zi gui mo	530
 投资基金	tou zi ji jin	884
@@ -81322,7 +81322,7 @@
 推举出	tui ju chu	6
 推拉力计	tui la li ji	2
 推理步	tui li bu	6
-推理策略	tui li ce lve	7
+推理策略	tui li ce lue	7
 推理程序	tui li cheng xu	7
 推理法	tui li fa	2
 推理过程	tui li guo cheng	7
@@ -81904,7 +81904,7 @@
 外加压力	wai jia ya li	2
 外甲	wai jia	6
 外键码	wai jian ma	6
-外交策略	wai jiao ce lve	2
+外交策略	wai jiao ce lue	2
 外交代表	wai jiao dai biao	3
 外交的	wai jiao de	10
 外交护照	wai jiao hu zhao	2
@@ -85646,7 +85646,7 @@
 武装检阅	wu zhuang jian yue	7
 武装警察	wu zhuang jing cha	2121
 武装起来	wu zhuang qi lai	7
-武装侵略	wu zhuang qin lve	100
+武装侵略	wu zhuang qin lue	100
 武装者	wu zhuang zhe	2
 武姿	wu zi	2
 武宗	wu zong	7
@@ -86998,7 +86998,7 @@
 下楼来	xia lou lai	7
 下楼梯	xia lou ti	2
 下轮	xia lun	100
-下略	xia lve	10
+下略	xia lue	10
 下马陵	xia ma ling	2
 下帽头	xia mao tou	6
 下每	xia mei	5
@@ -90367,7 +90367,7 @@
 斜坠	xie zhui	10
 谐函数	xie han shu	10
 谐鸣	xie ming	6
-谐虐	xie nve	6
+谐虐	xie nue	6
 谐音字	xie yin zi	6
 谐振闭锁	xie zhen bi suo	7
 谐振变压器	xie zhen bian ya qi	2
@@ -90907,7 +90907,7 @@
 新补充物	xin bu chong wu	7
 新材料	xin cai liao	3670
 新财富	xin cai fu	1
-新策略	xin ce lve	1
+新策略	xin ce lue	1
 新产	xin chan	6
 新产品开发	xin chan pin kai fa	6
 新产品试销	xin chan pin shi xiao	6
@@ -91452,7 +91452,7 @@
 新增加	xin zeng jia	447
 新债务人	xin zhai wu ren	2
 新战法	xin zhan fa	1
-新战略	xin zhan lve	1
+新战略	xin zhan lue	1
 新站	xin zhan	2
 新站点	xin zhan dian	1
 新章	xin zhang	2
@@ -91943,8 +91943,8 @@
 性梦	xing meng	1
 性谋	xing mou	2
 性奴	xing nu	6
-性虐	xing nve	1
-性虐待症	xing nve dai zheng	7
+性虐	xing nue	1
+性虐待症	xing nue dai zheng	7
 性癖	xing pi	6
 性歧视	xing qi shi	6
 性气候	xing qi hou	1
@@ -92043,7 +92043,7 @@
 雄山羊	xiong shan yang	6
 雄狮图	xiong shi tu	6
 雄天鹅	xiong tian e	6
-雄图大略	xiong tu da lve	111
+雄图大略	xiong tu da lue	111
 雄伟的	xiong wei de	10
 雄性不育	xiong xing bu yu	100
 雄性的	xiong xing de	10
@@ -97609,7 +97609,7 @@
 应的	ying de	780
 应电流	ying dian liu	7
 应堆	ying dui	10
-应对策略	ying dui ce lve	2
+应对策略	ying dui ce lue	2
 应对迅速	ying dui xun su	2
 应发	ying fa	2
 应放	ying fang	6
@@ -97916,7 +97916,7 @@
 营商	ying shang	2
 营曙	ying shu	6
 营务官	ying wu guan	7
-营销策略	ying xiao ce lve	2
+营销策略	ying xiao ce lue	2
 营销点	ying xiao dian	2
 营销观念	ying xiao guan nian	7
 营销管理	ying xiao guan li	2
@@ -97929,7 +97929,7 @@
 营销网	ying xiao wang	1
 营销新闻	ying xiao xin wen	7
 营销学	ying xiao xue	10
-营销战略	ying xiao zhan lve	7
+营销战略	ying xiao zhan lue	7
 营销中心	ying xiao zhong xin	6
 营养保健	ying yang bao jian	2
 营养保健品	ying yang bao jian pin	2
@@ -98378,7 +98378,7 @@
 用步测	yong bu ce	6
 用步子测	yong bu zi ce	2
 用猜	yong cai	6
-用策略	yong ce lve	6
+用策略	yong ce lue	6
 用车	yong che	1400
 用程序	yong cheng xu	6
 用出	yong chu	6
@@ -100285,7 +100285,7 @@
 语今	yu jin	2
 语库	yu ku	102
 语录本	yu lu ben	100
-语略字	yu lve zi	6
+语略字	yu lue zi	6
 语群	yu qun	10
 语时	yu shi	6
 语丝	yu si	2001
@@ -100528,7 +100528,7 @@
 预表	yu biao	7
 预藏	yu cang	10
 预测编码	yu ce bian ma	2
-预测策略	yu ce ce lve	7
+预测策略	yu ce ce lue	7
 预测出	yu ce chu	2
 预测额	yu ce e	6
 预测法	yu ce fa	2
@@ -101434,7 +101434,7 @@
 远东工专	yuan dong gong zhuan	7
 远东航空	yuan dong hang kong	7
 远东贸易	yuan dong mao yi	7
-远东战略	yuan dong zhan lve	7
+远东战略	yuan dong zhan lue	7
 远动	yuan dong	6
 远都	yuan dou	10
 远发	yuan fa	2
@@ -103756,22 +103756,22 @@
 战了	zhan le	10
 战历	zhan li	6
 战旅	zhan lv	6
-战略变量	zhan lve bian liang	7
-战略储备	zhan lve chu bei	2
-战略工业	zhan lve gong ye	7
-战略管理	zhan lve guan li	2
-战略轰炸	zhan lve hong zha	7
-战略后方	zhan lve hou fang	100
-战略空军	zhan lve kong jun	6
-战略力量	zhan lve li liang	7
-战略目标	zhan lve mu biao	3
-战略篇	zhan lve pian	6
-战略上	zhan lve shang	2
-战略态势	zhan lve tai shi	7
-战略武器	zhan lve wu qi	100
-战略学	zhan lve xue	102
-战略意义	zhan lve yi yi	10
-战略资源	zhan lve zi yuan	7
+战略变量	zhan lue bian liang	7
+战略储备	zhan lue chu bei	2
+战略工业	zhan lue gong ye	7
+战略管理	zhan lue guan li	2
+战略轰炸	zhan lue hong zha	7
+战略后方	zhan lue hou fang	100
+战略空军	zhan lue kong jun	6
+战略力量	zhan lue li liang	7
+战略目标	zhan lue mu biao	3
+战略篇	zhan lue pian	6
+战略上	zhan lue shang	2
+战略态势	zhan lue tai shi	7
+战略武器	zhan lue wu qi	100
+战略学	zhan lue xue	102
+战略意义	zhan lue yi yi	10
+战略资源	zhan lue zi yuan	7
 战帽	zhan mao	6
 战炮	zhan pao	2016
 战伤	zhan shang	3
@@ -106250,8 +106250,8 @@
 之乱	zhi luan	10
 之论	zhi lun	10
 之旅	zhi lv	2
-之略	zhi lve	6
-之略语	zhi lve yu	6
+之略	zhi lue	6
+之略语	zhi lue yu	6
 之毛	zhi mao	6
 之美	zhi mei	1330
 之门	zhi men	1020
@@ -109110,7 +109110,7 @@
 周边设备	zhou bian she bei	2
 周边设务	zhou bian she wu	7
 周边室	zhou bian shi	100
-周边战略	zhou bian zhan lve	7
+周边战略	zhou bian zhan lue	7
 周程流径	zhou cheng liu jing	7
 周到的	zhou dao de	10
 周德东	zhou de dong	1
@@ -110511,7 +110511,7 @@
 装器具	zhuang qi ju	6
 装曲柄	zhuang qu bing	6
 装燃料	zhuang ran liao	6
-装入策略	zhuang ru ce lve	7
+装入策略	zhuang ru ce lue	7
 装入程序	zhuang ru cheng xu	2
 装入袋	zhuang ru dai	6
 装入袋中	zhuang ru dai zhong	7
@@ -110634,7 +110634,7 @@
 状态变量	zhuang tai bian liang	3
 状态表	zhuang tai biao	7
 状态参数	zhuang tai can shu	100
-状态策略	zhuang tai ce lve	7
+状态策略	zhuang tai ce lue	7
 状态词	zhuang tai ci	107
 状态法	zhuang tai fa	6
 状态改变	zhuang tai gai bian	7
@@ -111559,7 +111559,7 @@
 自酿	zi niang	6
 自酿酒	zi niang jiu	6
 自酿啤酒	zi niang pi jiu	2
-自虐	zi nve	3
+自虐	zi nue	3
 自耦变压器	zi ou bian ya qi	3
 自派	zi pai	10
 自偏压	zi pian ya	2

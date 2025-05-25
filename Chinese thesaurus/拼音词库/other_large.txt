@@ -2380,7 +2380,7 @@
 跋踬	ba zhi	1
 跋烛之咨	ba zhu zhi zi	1
 跋足	ba zu	1
-魃虐	ba nve	1
+魃虐	ba nue	1
 魃蜮	ba yu	1
 墢田士	ba tian shi	1
 把拔	ba ba	1
@@ -4558,7 +4558,7 @@
 邦禄	bang lu	1
 邦论	bang lun	1
 邦闾	bang lv	1
-邦略	bang lve	1
+邦略	bang lue	1
 邦懋	bang mao	1
 邦牧	bang mu	1
 邦墓	bang mu	1
@@ -4782,7 +4782,7 @@
 搒捶	peng chui	1
 搒棰	peng chui	1
 搒决	peng jue	1
-搒掠	peng lve	1
+搒掠	peng lue	1
 搒挞	peng ta	1
 搒童	peng tong	1
 搒械	peng xie	1
@@ -5007,7 +5007,7 @@
 饱计	bao ji	1
 饱覧	bao lan	1
 饱禄	bao lu	1
-饱掠	bao lve	1
+饱掠	bao lue	1
 饱秣	bao mo	1
 饱目	bao mu	1
 饱馁	bao nei	1
@@ -5312,7 +5312,7 @@
 保长对应	bao chang dui ying	1
 保障监督	bao zhang jian du	1
 保者	bao zhe	1
-保证破坏战略	bao zheng po huai zhan lve	1
+保证破坏战略	bao zheng po huai zhan lue	1
 保殖	bao zhi	1
 保治	bao zhi	1
 保终	bao zhong	1
@@ -5724,7 +5724,7 @@
 虣阚	bao kan	1
 虣露	bao lu	1
 虣乱	bao luan	1
-虣虐	bao nve	1
+虣虐	bao nue	1
 虣世	bao shi	1
 爆吧	bao ba	1
 爆表	bao biao	1
@@ -6434,7 +6434,7 @@
 悖谩	bei man	1
 悖冒	bei mao	1
 悖耄	bei mao	1
-悖虐	bei nve	1
+悖虐	bei nue	1
 悖畔	bei pan	1
 悖然	bei ran	1
 悖时	bei shi	1
@@ -7001,8 +7001,8 @@
 逼邻	bi lin	1
 逼凌	bi ling	1
 逼令	bi ling	1
-逼掠	bi lve	1
-逼略	bi lve	1
+逼掠	bi lue	1
+逼略	bi lue	1
 逼码	bi ma	1
 逼闷	bi men	1
 逼面	bi mian	1
@@ -7434,7 +7434,7 @@
 鄙恡	bi lin	1
 鄙流	bi liu	1
 鄙旅	bi lv	1
-鄙略	bi lve	1
+鄙略	bi lue	1
 鄙嫚	bi man	1
 鄙昧	bi mei	1
 鄙靡	bi mi	1
@@ -7442,7 +7442,7 @@
 鄙缪	bi miu	1
 鄙讷	bi ne	1
 鄙佞	bi ning	1
-鄙虐	bi nve	1
+鄙虐	bi nue	1
 鄙迫	bi po	1
 鄙器	bi qi	1
 鄙浅	bi qian	1
@@ -8526,7 +8526,7 @@
 边落	bian luo	1
 边旅	bian lv	1
 边虑	bian lv	1
-边略	bian lve	1
+边略	bian lue	1
 边蛮	bian man	1
 边甿	bian meng	1
 边氓	bian meng	1
@@ -8957,7 +8957,7 @@
 变贯	bian guan	1
 变轨	bian gui	1
 变骇	bian hai	1
-变后掠翼飞机	bian hou lve yi fei ji	1
+变后掠翼飞机	bian hou lue yi fei ji	1
 变互	bian hu	1
 变化身	bian hua shen	1
 变化音	bian hua yin	1
@@ -9255,7 +9255,7 @@
 辩丽	bian li	1
 辩利	bian li	1
 辩列	bian lie	1
-辩略	bian lve	1
+辩略	bian lue	1
 辩敏	bian min	1
 辩佞	bian ning	1
 辩女	bian nv	1
@@ -10688,7 +10688,7 @@
 钵单	bo dan	1
 钵多罗	bo duo luo	1
 钵龙	bo long	1
-钵略	bo lve	1
+钵略	bo lue	1
 钵拏	bo na	1
 钵拿	bo na	1
 钵那	bo na	1
@@ -10720,7 +10720,7 @@
 剥庐	bao lu	1
 剥戮	bao lu	1
 剥乱	bao luan	1
-剥掠	bao lve	1
+剥掠	bao lue	1
 剥麻	bao ma	1
 剥皮囊草	bao pi nang cao	1
 剥皮实草	bao pi shi cao	1
@@ -12247,7 +12247,7 @@
 簿最	bu zui	1
 擦擦笔	ca ca bi	1
 擦腚纸	ca ding zhi	1
-擦掠	ca lve	1
+擦掠	ca lue	1
 擦拳抹掌	ca quan mo zhang	1
 擦丝	ca si	1
 擦碗布	ca wan bu	1
@@ -12426,7 +12426,7 @@
 材力	cai li	1
 材吏	cai li	1
 材良	cai liang	1
-材略	cai lve	1
+材略	cai lue	1
 材茂行絜	cai mao xing jie	1
 材难	cai nan	1
 材女	cai nv	1
@@ -12668,7 +12668,7 @@
 采旒	cai liu	1
 采録	cai lu	1
 采捋	cai lv	1
-采掠	cai lve	1
+采掠	cai lue	1
 采旄	cai mao	1
 采芼	cai mao	1
 采名	cai ming	1
@@ -13102,8 +13102,8 @@
 残戮	can lu	1
 残露	can lu	1
 残落	can luo	1
-残掠	can lve	1
-残略	can lve	1
+残掠	can lue	1
+残略	can lue	1
 残慢	can man	1
 残氓	can meng	1
 残梅	can mei	1
@@ -15616,7 +15616,7 @@
 抄经士	chao jing shi	1
 抄虏	chao lu	1
 抄録	chao lu	1
-抄略	chao lve	1
+抄略	chao lue	1
 抄名	chao ming	1
 抄内	chao nei	1
 抄窃	chao qie	1
@@ -15651,7 +15651,7 @@
 钞虏	chao lu	1
 钞録	chao lu	1
 钞锣	chao luo	1
-钞略	chao lve	1
+钞略	chao lue	1
 钞旁钱	chao pang qian	1
 钞剽	chao piao	1
 钞骑	chao qi	1
@@ -17662,7 +17662,7 @@
 逞妙	cheng miao	1
 逞弄	cheng nong	1
 逞怒	cheng nu	1
-逞虐	cheng nve	1
+逞虐	cheng nue	1
 逞其口舌	cheng qi kou she	1
 逞奇	cheng qi	1
 逞奇眩异	cheng qi xuan yi	1
@@ -17962,7 +17962,7 @@
 笞决	chi jue	1
 笞髡	chi kun	1
 笞戮	chi lu	1
-笞掠	chi lve	1
+笞掠	chi lue	1
 笞扑	chi pu	1
 笞谴	chi qian	1
 笞杀	chi sha	1
@@ -18562,7 +18562,7 @@
 侈袂	chi mei	1
 侈糜	chi mi	1
 侈目	chi mu	1
-侈虐	chi nve	1
+侈虐	chi nue	1
 侈媻	chi pan	1
 侈卿	chi qing	1
 侈然	chi ran	1
@@ -20102,7 +20102,7 @@
 丑慢	chou man	1
 丑逆	chou ni	1
 丑奴儿	chou nu er	1
-丑虐	chou nve	1
+丑虐	chou nue	1
 丑妻近地家中宝	chou qi jin di jia zhong bao	1
 丑娸	chou qi	1
 丑气	chou qi	1
@@ -21718,7 +21718,7 @@
 捶考	chui kao	1
 捶拉	chui la	1
 捶勒	chui le	1
-捶掠	chui lve	1
+捶掠	chui lue	1
 捶牛	chui niu	1
 捶殴	chui ou	1
 捶扑	chui pu	1
@@ -21740,7 +21740,7 @@
 棰顿	chui dun	1
 棰革	chui ge	1
 棰令	chui ling	1
-棰掠	chui lve	1
+棰掠	chui lue	1
 棰骂	chui ma	1
 棰殴	chui ou	1
 棰辔	chui pei	1
@@ -23487,7 +23487,7 @@
 麤缕	cu lv	1
 麤履	cu lv	1
 麤率	cu lv	1
-麤略	cu lve	1
+麤略	cu lue	1
 麤谩	cu man	1
 麤莽	cu mang	1
 麤毛	cu mao	1
@@ -23804,7 +23804,7 @@
 篡军	cuan jun	1
 篡立	cuan li	1
 篡乱	cuan luan	1
-篡虐	cuan nve	1
+篡虐	cuan nue	1
 篡叛	cuan pan	1
 篡畔	cuan pan	1
 篡器	cuan qi	1
@@ -25018,7 +25018,7 @@
 打掳	da lu	1
 打论	da lun	1
 打摞台	da luo tai	1
-打掠	da lve	1
+打掠	da lue	1
 打麻雀运动	da ma que yun dong	1
 打马赛克	da ma sai ke	1
 打谩评跋	da man ping ba	1
@@ -26642,7 +26642,7 @@
 诞诳	dan kuang	1
 诞灵	dan ling	1
 诞率	dan lv	1
-诞略	dan lve	1
+诞略	dan lue	1
 诞马	dan ma	1
 诞蔓	dan man	1
 诞漫	dan man	1
@@ -27600,7 +27600,7 @@
 盗禄	dao lu	1
 盗乱	dao luan	1
 盗律	dao lv	1
-盗掠	dao lve	1
+盗掠	dao lue	1
 盗买	dao mai	1
 盗没	dao mei	1
 盗名字	dao ming zi	1
@@ -27789,7 +27789,7 @@
 道録司	dao lu si	1
 道论	dao lun	1
 道侣	dao lv	1
-道略	dao lve	1
+道略	dao lue	1
 道马	dao ma	1
 道脉	dao mai	1
 道帽	dao mao	1
@@ -28093,7 +28093,7 @@
 德梅因	de mei yin	1
 德能	de neng	1
 德念	de nian	1
-德虐	de nve	1
+德虐	de nue	1
 德器	de qi	1
 德全如醉	de quan ru zui	1
 德让	de rang	1
@@ -31464,7 +31464,7 @@
 定谟	ding mo	1
 定谋	ding mou	1
 定宁	ding ning	1
-定虐	ding nve	1
+定虐	ding nue	1
 定盘针	ding pan zhen	1
 定配	ding pei	1
 定聘	ding pin	1
@@ -32693,14 +32693,14 @@
 毒詈	du li	1
 毒劣	du lie	1
 毒鳞	du lin	1
-毒掠	du lve	1
+毒掠	du lue	1
 毒霾	du mai	1
 毒冒	du mao	1
 毒闷	du men	1
 毒奶	du nai	1
 毒弩	du nu	1
 毒怒	du nu	1
-毒虐	du nve	1
+毒虐	du nue	1
 毒女	du nv	1
 毒殴	du ou	1
 毒婆娘	du po niang	1
@@ -33468,7 +33468,7 @@
 短笠	duan li	1
 短陋	duan lou	1
 短虑	duan lv	1
-短略	duan lve	1
+短略	duan lue	1
 短帽	duan mao	1
 短陌	duan mo	1
 短弄	duan nong	1
@@ -33640,7 +33640,7 @@
 断蜺	duan ni	1
 断霓	duan ni	1
 断年	duan nian	1
-断疟	duan nve	1
+断疟	duan nue	1
 断蓬	duan peng	1
 断篷	duan peng	1
 断篷船	duan peng chuan	1
@@ -34603,7 +34603,7 @@
 讹漏	e lou	1
 讹乱	e luan	1
 讹落	e luo	1
-讹略	e lve	1
+讹略	e lue	1
 讹闹	e nao	1
 讹倪	e ni	1
 讹僻	e pi	1
@@ -34945,7 +34945,7 @@
 恶名昭著	e ming zhao zhu	1
 恶模样	e mu yang	1
 恶木	e mu	1
-恶虐	e nve	1
+恶虐	e nue	1
 恶钱	e qian	1
 恶取笑	e qu xiao	1
 恶稔	e ren	1
@@ -34992,7 +34992,7 @@
 恶心钱	e xin qian	1
 恶歆歆	e xin xin	1
 恶噷噷	e hen hen	1
-恶性疟原虫	e xing nve yuan chong	1
+恶性疟原虫	e xing nue yuan chong	1
 恶性转移	e xing zhuan yi	1
 恶许	e xu	1
 恶血	e xue	1
@@ -36778,7 +36778,7 @@
 繁路	fan lu	1
 繁虑	fan lv	1
 繁绿	fan lv	1
-繁略	fan lve	1
+繁略	fan lue	1
 繁漫	fan man	1
 繁靡	fan mi	1
 繁木	fan mu	1
@@ -37536,7 +37536,7 @@
 方量	fang liang	1
 方领	fang ling	1
 方流	fang liu	1
-方略策	fang lve ce	1
+方略策	fang lue ce	1
 方马	fang ma	1
 方脉	fang mai	1
 方明坛	fang ming tan	1
@@ -39058,7 +39058,7 @@
 分让	fen rang	1
 分扰	fen rao	1
 分塞	fen sai	1
-分散的策略	fen san de ce lve	1
+分散的策略	fen san de ce lue	1
 分散和弦	fen san he xian	1
 分散指挥	fen san zhi hui	1
 分沙	fen sha	1
@@ -40025,7 +40025,7 @@
 风露	feng lu	1
 风挛	feng luan	1
 风銮	feng luan	1
-风略	feng lve	1
+风略	feng lue	1
 风马旗	feng ma qi	1
 风脉	feng mai	1
 风鳗	feng man	1
@@ -40044,7 +40044,7 @@
 风木叹	feng mu tan	1
 风逆	feng ni	1
 风鸟	feng niao	1
-风疟	feng nve	1
+风疟	feng nue	1
 风沤	feng ou	1
 风派	feng pai	1
 风佩	feng pei	1
@@ -41820,8 +41820,8 @@
 俘隶	fu li	1
 俘卤	fu lu	1
 俘掳	fu lu	1
-俘掠	fu lve	1
-俘略	fu lve	1
+俘掠	fu lue	1
+俘略	fu lue	1
 俘庙	fu miao	1
 俘擒	fu qin	1
 俘杀	fu sha	1
@@ -41878,7 +41878,7 @@
 浮根	fu gen	1
 浮汩	fu gu	1
 浮瓜沈李	fu gua shen li	1
-浮光略影	fu guang lve ying	1
+浮光略影	fu guang lue ying	1
 浮光裘	fu guang qiu	1
 浮广	fu guang	1
 浮诡	fu gui	1
@@ -43677,9 +43677,9 @@
 伽蓝香	qie lan xiang	1
 伽梨	qie li	1
 伽黎	jia li	1
-伽里略	jia li lve	1
-伽利略落体实验	jia li lve luo ti shi yan	1
-伽利略探测器	jia li lve tan ce qi	1
+伽里略	jia li lue	1
+伽利略落体实验	jia li lue luo ti shi yan	1
+伽利略探测器	jia li lue tan ce qi	1
 伽罗华	jia luo hua	1
 伽罗华理论	jia luo hua li lun	1
 伽罗瓦	jia luo wa	1
@@ -44544,7 +44544,7 @@
 刚廉	gang lian	1
 刚鬣	gang lie	1
 刚卤	gang lu	1
-刚略	gang lve	1
+刚略	gang lue	1
 刚卯	gang mao	1
 刚敏	gang min	1
 刚明	gang ming	1
@@ -44885,7 +44885,7 @@
 高罗佩	gao luo pei	1
 高侣	gao lv	1
 高率	gao lv	1
-高略	gao lve	1
+高略	gao lue	1
 高莽	gao mang	1
 高禖	gao mei	1
 高密侯	gao mi hou	1
@@ -45857,7 +45857,7 @@
 隔品致敬	ge pin zhi jing	1
 隔墙人	ge qiang ren	1
 隔情	ge qing	1
-隔日疟	ge ri nve	1
+隔日疟	ge ri nue	1
 隔塞	ge sai	1
 隔搔	ge sao	1
 隔生	ge sheng	1
@@ -46854,7 +46854,7 @@
 攻抄	gong chao	1
 攻钞	gong chao	1
 攻车	gong che	1
-攻城掠地	gong cheng lve di	1
+攻城掠地	gong cheng lue di	1
 攻城木	gong cheng mu	1
 攻雠	gong chou	1
 攻刺	gong ci	1
@@ -46882,7 +46882,7 @@
 攻苦食啖	gong ku shi dan	1
 攻理	gong li	1
 攻凌	gong ling	1
-攻掠	gong lve	1
+攻掠	gong lue	1
 攻没	gong mei	1
 攻靡	gong mi	1
 攻劘	gong mo	1
@@ -47822,7 +47822,7 @@
 构媒	gou mei	1
 构募	gou mu	1
 构逆	gou ni	1
-构虐	gou nve	1
+构虐	gou nue	1
 构求	gou qiu	1
 构厦	gou sha	1
 构山	gou shan	1
@@ -47980,7 +47980,7 @@
 沽恩	gu en	1
 沽贩	gu fan	1
 沽矫	gu jiao	1
-沽略	gu lve	1
+沽略	gu lue	1
 沽卖	gu mai	1
 沽美酒	gu mei jiu	1
 沽名吊誉	gu ming diao yu	1
@@ -49232,7 +49232,7 @@
 顾租	gu zu	1
 顾嘴	gu zui	1
 梏拲	gu gong	1
-梏掠	gu lve	1
+梏掠	gu lue	1
 牿服	gu fu	1
 牿害	gu hai	1
 牿亡	gu wang	1
@@ -50663,7 +50663,7 @@
 广利王	guang li wang	1
 广陵涛	guang ling tao	1
 广柳	guang liu	1
-广略	guang lve	1
+广略	guang lue	1
 广漫	guang man	1
 广陌	guang mo	1
 广莫	guang mo	1
@@ -51378,7 +51378,7 @@
 诡路	gui lu	1
 诡乱	gui luan	1
 诡落	gui luo	1
-诡略	gui lve	1
+诡略	gui lue	1
 诡冒	gui mao	1
 诡贸	gui mao	1
 诡貌	gui mao	1
@@ -51561,7 +51561,7 @@
 鬼难	gui nan	1
 鬼鸟	gui niao	1
 鬼奴	gui nu	1
-鬼疟	gui nve	1
+鬼疟	gui nue	1
 鬼判	gui pan	1
 鬼劈口	gui pi kou	1
 鬼皮	gui pi	1
@@ -53196,7 +53196,7 @@
 害累	hai lei	1
 害淋的	hai lin de	1
 害目	hai mu	1
-害虐	hai nve	1
+害虐	hai nue	1
 害气	hai qi	1
 害杀	hai sha	1
 害伤	hai shang	1
@@ -54114,7 +54114,7 @@
 旱龙	han long	1
 旱霾	han mai	1
 旱母	han mu	1
-旱虐	han nve	1
+旱虐	han nue	1
 旱藕	han ou	1
 旱气	han qi	1
 旱歉	han qian	1
@@ -54171,7 +54171,7 @@
 悍目	han mu	1
 悍逆	han ni	1
 悍怒	han nu	1
-悍虐	han nve	1
+悍虐	han nue	1
 悍辟	han pi	1
 悍慓	han piao	1
 悍泼	han po	1
@@ -57195,7 +57195,7 @@
 宏拔	hong ba	1
 宏伯	hong bo	1
 宏材	hong cai	1
-宏材大略	hong cai da lve	1
+宏材大略	hong cai da lue	1
 宏裁	hong cai	1
 宏畅	hong chang	1
 宏陈	hong chen	1
@@ -57226,7 +57226,7 @@
 宏亮	hong liang	1
 宏烈	hong lie	1
 宏流	hong liu	1
-宏略	hong lve	1
+宏略	hong lue	1
 宏迈	hong mai	1
 宏茂	hong mao	1
 宏渺	hong miao	1
@@ -57537,7 +57537,7 @@
 鸿论	hong lun	1
 鸿罗	hong luo	1
 鸿律	hong lv	1
-鸿略	hong lve	1
+鸿略	hong lue	1
 鸿茫	hong mang	1
 鸿厖	hong mang	1
 鸿茂	hong mao	1
@@ -58482,7 +58482,7 @@
 虎烈拉	hu lie la	1
 虎路	hu lu	1
 虎箓	hu lu	1
-虎略	hu lve	1
+虎略	hu lue	1
 虎媒	hu mei	1
 虎女	hu nv	1
 虎跑	hu pao	1
@@ -59430,7 +59430,7 @@
 画轮车	hua lun che	1
 画罗	hua luo	1
 画旅	hua lv	1
-画略	hua lve	1
+画略	hua lue	1
 画墁	hua man	1
 画眉府	hua mei fu	1
 画眉郎	hua mei lang	1
@@ -61150,7 +61150,7 @@
 黄狮子	huang shi zi	1
 黄蓍	huang shi	1
 黄石编	huang shi bian	1
-黄石公三略	huang shi gong san lve	1
+黄石公三略	huang shi gong san lue	1
 黄石经	huang shi jing	1
 黄石老	huang shi lao	1
 黄石书	huang shi shu	1
@@ -61993,7 +61993,7 @@
 回鸾舞	hui luan wu	1
 回乱	hui luan	1
 回虑	hui lv	1
-回略	hui lve	1
+回略	hui lue	1
 回缅	hui mian	1
 回墨印	hui mo yin	1
 回挠	hui nao	1
@@ -62752,7 +62752,7 @@
 昏难	hun nan	1
 昏挠	hun nao	1
 昏孽	hun nie	1
-昏虐	hun nve	1
+昏虐	hun nue	1
 昏懦	hun nuo	1
 昏疲	hun pi	1
 昏弃	hun qi	1
@@ -62815,7 +62815,7 @@
 阍从	hun cong	1
 阍阀	hun fa	1
 阍吏	hun li	1
-阍略	hun lve	1
+阍略	hun lue	1
 阍犬	hun quan	1
 阍守	hun shou	1
 阍竖	hun shu	1
@@ -63073,7 +63073,7 @@
 豁亮亮	huo liang liang	1
 豁露	huo lu	1
 豁落图	huo luo tu	1
-豁略	huo lve	1
+豁略	huo lue	1
 豁蒙楼	huo meng lou	1
 豁冥	huo ming	1
 豁目	huo mu	1
@@ -63644,7 +63644,7 @@
 镬灶	huo zao	1
 镬煮	huo zhu	1
 蠖伏	huo fu	1
-蠖略	huo lve	1
+蠖略	huo lue	1
 蠖曲	huo qu	1
 蠖伸	huo shen	1
 矐睒	huo shan	1
@@ -63929,7 +63929,7 @@
 机伶鬼	ji ling gui	1
 机虑	ji lv	1
 机率	ji lv	1
-机略	ji lve	1
+机略	ji lue	1
 机秘	ji mi	1
 机妙	ji miao	1
 机明	ji ming	1
@@ -64718,7 +64718,7 @@
 畿解	ji jie	1
 畿郡	ji jun	1
 畿劳	ji lao	1
-畿略	ji lve	1
+畿略	ji lue	1
 畿畎	ji quan	1
 畿田	ji tian	1
 畿尉	ji wei	1
@@ -65333,7 +65333,7 @@
 疾痗	ji mei	1
 疾免	ji mian	1
 疾瘼	ji mo	1
-疾疟	ji nve	1
+疾疟	ji nue	1
 疾骑	ji qi	1
 疾俏	ji qiao	1
 疾日	ji ri	1
@@ -65508,7 +65508,7 @@
 集云台	ji yun tai	1
 集诊	ji zhen	1
 集滞	ji zhi	1
-集中的策略	ji zhong de ce lve	1
+集中的策略	ji zhong de ce lue	1
 集中托运	ji zhong tuo yun	1
 集字诗	ji zi shi	1
 趌趌	ji ji	1
@@ -65623,7 +65623,7 @@
 籍礼	ji li	1
 籍敛	ji lian	1
 籍録	ji lu	1
-籍略	ji lve	1
+籍略	ji lue	1
 籍马	ji ma	1
 籍茅	jie mao	1
 籍名	ji ming	1
@@ -68311,7 +68311,7 @@
 硷土	jian tu	1
 硷盐	jian yan	1
 詃惑	jian huo	1
-詃略	jian lve	1
+詃略	jian lue	1
 詃引	jian yin	1
 詃诱	jian you	1
 简傲	jian ao	1
@@ -68424,7 +68424,7 @@
 简令	jian ling	1
 简落	jian luo	1
 简率	jian lv	1
-简略见告	jian lve jian gao	1
+简略见告	jian lue jian gao	1
 简嫚	jian man	1
 简妙	jian miao	1
 简民	jian min	1
@@ -69285,7 +69285,7 @@
 鉴亮	jian liang	1
 鉴临	jian lin	1
 鉴鸾	jian luan	1
-鉴略	jian lve	1
+鉴略	jian lue	1
 鉴毛辨色	jian mao bian se	1
 鉴昧	jian mei	1
 鉴寐	jian mei	1
@@ -69346,7 +69346,7 @@
 僭冒	jian mao	1
 僭名	jian ming	1
 僭逆	jian ni	1
-僭虐	jian nve	1
+僭虐	jian nue	1
 僭叛	jian pan	1
 僭攘	jian rang	1
 僭擅	jian shan	1
@@ -71834,7 +71834,7 @@
 秸鞠	jie ju	1
 秸席	jie xi	1
 秸秷	jie zhi	1
-痎疟	jie nve	1
+痎疟	jie nue	1
 痎痁	jie shan	1
 痎市	jie shi	1
 揭牓	jie bang	1
@@ -72025,7 +72025,7 @@
 节流踏板	jie liu ta ban	1
 节録	jie lu	1
 节落	jie luo	1
-节略本	jie lve ben	1
+节略本	jie lue ben	1
 节马	jie ma	1
 节脉	jie mai	1
 节毛	jie mao	1
@@ -72408,7 +72408,7 @@
 桀逆	jie ni	1
 桀奴	jie nu	1
 桀驽	jie nu	1
-桀虐	jie nve	1
+桀虐	jie nue	1
 桀起	jie qi	1
 桀犬	jie quan	1
 桀然	jie ran	1
@@ -74489,7 +74489,7 @@
 进履之书	jin lv zhi shu	1
 进律	jin lv	1
 进率	jin lv	1
-进略	jin lve	1
+进略	jin lue	1
 进马	jin ma	1
 进迈	jin mai	1
 进门彩	jin men cai	1
@@ -74982,7 +74982,7 @@
 禁牧	jin mu	1
 禁奈	jin nai	1
 禁耐	jin nai	1
-禁虐	jin nve	1
+禁虐	jin nue	1
 禁女	jin nv	1
 禁楄	jin pian	1
 禁圃	jin pu	1
@@ -77968,7 +77968,7 @@
 拘卢舍	ju lu she	1
 拘録	ju lu	1
 拘罗	ju luo	1
-拘略	ju lve	1
+拘略	ju lue	1
 拘卖	ju mai	1
 拘闷	ju men	1
 拘弥	ju mi	1
@@ -78552,7 +78552,7 @@
 巨鳞	ju lin	1
 巨鹿侯	ju lu hou	1
 巨鏕	ju lu	1
-巨略	ju lve	1
+巨略	ju lue	1
 巨髦	ju mao	1
 巨美	ju mei	1
 巨溟	ju ming	1
@@ -79222,7 +79222,7 @@
 蠲苛	juan ke	1
 蠲痾	juan ke	1
 蠲理	juan li	1
-蠲略	juan lve	1
+蠲略	juan lue	1
 蠲忙	juan mang	1
 蠲平	juan ping	1
 蠲弃	juan qi	1
@@ -79328,7 +79328,7 @@
 倦令	juan ling	1
 倦路	juan lu	1
 倦旅	juan lv	1
-倦略	juan lve	1
+倦略	juan lue	1
 倦魔	juan mo	1
 倦目	juan mu	1
 倦憩	juan qi	1
@@ -79741,7 +79741,7 @@
 谲狯	jue kuai	1
 谲狂	jue kuang	1
 谲戾	jue li	1
-谲略	jue lve	1
+谲略	jue lue	1
 谲秘	jue mi	1
 谲密	jue mi	1
 谲谋	jue mou	1
@@ -80655,7 +80655,7 @@
 开罗大学	kai luo da xue	1
 开律	kai lv	1
 开率	kai lv	1
-开略	kai lve	1
+开略	kai lue	1
 开迈	kai mai	1
 开貌	kai mao	1
 开美	kai mei	1
@@ -81424,7 +81424,7 @@
 拷供	kao gong	1
 拷较	kao jiao	1
 拷鞫	kao ju	1
-拷掠	kao lve	1
+拷掠	kao lue	1
 拷囚	kao qiu	1
 拷认	kao ren	1
 拷治	kao zhi	1
@@ -81432,7 +81432,7 @@
 栲栲儿	kao kao er	1
 栲栳圈	kao lao quan	1
 栲栎	kao li	1
-栲掠	kao lve	1
+栲掠	kao lue	1
 栲属	kao shu	1
 栲讯	kao xun	1
 栲折	kao she	1
@@ -82071,7 +82071,7 @@
 刻论	ke lun	1
 刻珉	ke min	1
 刻明	ke ming	1
-刻虐	ke nve	1
+刻虐	ke nue	1
 刻期	ke qi	1
 刻奇	ke qi	1
 刻谦	ke qian	1
@@ -82978,13 +82978,13 @@
 寇莱	kou lai	1
 寇粮	kou liang	1
 寇令	kou ling	1
-寇略	kou lve	1
+寇略	kou lue	1
 寇没	kou mei	1
 寇难	kou nan	1
 寇逆	kou ni	1
 寇枿	kou nie	1
 寇孽	kou nie	1
-寇虐	kou nve	1
+寇虐	kou nue	1
 寇叛	kou pan	1
 寇剽	kou piao	1
 寇扰	kou rao	1
@@ -83186,7 +83186,7 @@
 堀穴	ku xue	1
 堀阅	ku yue	1
 崫礨	jue lei	1
-圐圙	ku lve	1
+圐圙	ku lue	1
 窟藏	ku cang	1
 窟窦	ku dou	1
 窟伏	ku fu	1
@@ -83312,7 +83312,7 @@
 库贮	ku zhu	1
 库子	ku zi	1
 焅毒	ku du	1
-焅虐	ku nve	1
+焅虐	ku nue	1
 喾敕	ku chi	1
 裤口	ku kou	1
 酷暴	ku bao	1
@@ -83335,7 +83335,7 @@
 酷累	ku lei	1
 酷厉	ku li	1
 酷令	ku ling	1
-酷掠	ku lve	1
+酷掠	ku lue	1
 酷殁	ku mo	1
 酷拟	ku ni	1
 酷鹏	ku peng	1
@@ -83477,7 +83477,7 @@
 跨跞	kua luo	1
 跨陵	kua ling	1
 跨领域	kua ling yu	1
-跨略	kua lve	1
+跨略	kua lue	1
 跨马鞍	kua ma an	1
 跨迈	kua mai	1
 跨蹑	kua nie	1
@@ -83656,7 +83656,7 @@
 宽谅	kuan liang	1
 宽令	kuan ling	1
 宽留	kuan liu	1
-宽略	kuan lve	1
+宽略	kuan lue	1
 宽慢	kuan man	1
 宽悯	kuan min	1
 宽明	kuan ming	1
@@ -84186,7 +84186,7 @@
 旷亮	kuang liang	1
 旷林	kuang lin	1
 旷卤	kuang lu	1
-旷略	kuang lve	1
+旷略	kuang lue	1
 旷迈	kuang mai	1
 旷莽	kuang mang	1
 旷漭	kuang mang	1
@@ -87003,7 +87003,7 @@
 泪踪	lei zong	1
 类犴	lei an	1
 类鼻疽单细胞	lei bi ju dan xi bao	1
-类比策略	lei bi ce lve	1
+类比策略	lei bi ce lue	1
 类草	lei cao	1
 类册	lei ce	1
 类成	lei cheng	1
@@ -88310,7 +88310,7 @@
 厉厉	li li	1
 厉怜王	li lian wang	1
 厉目而视	li mu er shi	1
-厉虐	li nve	1
+厉虐	li nue	1
 厉山氏	li shan shi	1
 厉涉	li she	1
 厉世	li shi	1
@@ -88723,7 +88723,7 @@
 戾戾	li li	1
 戾龙	li long	1
 戾谬	li miu	1
-戾虐	li nve	1
+戾虐	li nue	1
 戾契	li qi	1
 戾强	li qiang	1
 戾色	li se	1
@@ -89637,7 +89637,7 @@
 敛口	lian kou	1
 敛泪	lian lei	1
 敛敛	lian lian	1
-敛掠	lian lve	1
+敛掠	lian lue	1
 敛马	lian ma	1
 敛埋	lian mai	1
 敛芒	lian mang	1
@@ -90802,7 +90802,7 @@
 洌气	lie qi	1
 埒等	lie deng	1
 埒类	lie lei	1
-埒略	lie lve	1
+埒略	lie lue	1
 埒美	lie mei	1
 埒名	lie ming	1
 埒亩	lie mu	1
@@ -92723,7 +92723,7 @@
 流量明星	liu liang ming xing	1
 流潦	liu liao	1
 流乱	liu luan	1
-流略	liu lve	1
+流略	liu lue	1
 流马	liu ma	1
 流迈	liu mai	1
 流麦	liu mai	1
@@ -94121,7 +94121,7 @@
 陋俚	lou li	1
 陋庐	lou lu	1
 陋闾	lou lv	1
-陋畧	lou lve	1
+陋畧	lou lue	1
 陋氓	lou meng	1
 陋面贼	lou mian zei	1
 陋民	lou min	1
@@ -94404,7 +94404,7 @@
 虏父	lu fu	1
 虏官	lu guan	1
 虏酒	lu jiu	1
-虏略	lu lve	1
+虏略	lu lue	1
 虏使	lu shi	1
 虏廷	lu ting	1
 虏庭	lu ting	1
@@ -94531,7 +94531,7 @@
 陆陵	lu ling	1
 陆陆	lu lu	1
 陆落	lu luo	1
-陆掠	lu lve	1
+陆掠	lu lue	1
 陆马庙	lu ma miao	1
 陆麦	lu mai	1
 陆门	lu men	1
@@ -94922,7 +94922,7 @@
 録科	lu ke	1
 録兰	lu lan	1
 録録	lu lu	1
-録略	lu lve	1
+録略	lu lue	1
 録民	lu min	1
 録命	lu ming	1
 録目	lu mu	1
@@ -95339,7 +95339,7 @@
 乱溃	luan kui	1
 乱愦	luan kui	1
 乱了营	luan le ying	1
-乱略	luan lve	1
+乱略	luan lue	1
 乱尨	luan meng	1
 乱媒	luan mei	1
 乱门	luan men	1
@@ -95350,7 +95350,7 @@
 乱目	luan mu	1
 乱溺	luan ni	1
 乱孽	luan nie	1
-乱虐	luan nve	1
+乱虐	luan nue	1
 乱片子	luan pian zi	1
 乱七八遭	luan qi ba zao	1
 乱气	luan qi	1
@@ -95782,7 +95782,7 @@
 罗伦斯	luo lun si	1
 罗络	luo luo	1
 罗落	luo luo	1
-罗略	luo lve	1
+罗略	luo lue	1
 罗马斗兽场	luo ma dou shou chang	1
 罗马里奥	luo ma li ao	1
 罗马凉鞋	luo ma liang xie	1
@@ -96805,62 +96805,62 @@
 箻筒	lv tong	1
 鑢锤	lv chui	1
 鑢错	lv cuo	1
-掠草	lve cao	1
-掠笞	lve chi	1
-掠楚	lve chu	1
-掠盗	lve dao	1
-掠地攻城	lve di gong cheng	1
-掠敚	lve duo	1
-掠贩	lve fan	1
-掠服	lve fu	1
-掠海	lve hai	1
-掠考	lve kao	1
-掠拷	lve kao	1
-掠立	lve li	1
-掠卤	lve lu	1
-掠虏	lve lu	1
-掠掳	lve lu	1
-掠卖	lve mai	1
-掠卖华工	lve mai hua gong	1
-掠闹	lve nao	1
-掠剩鬼	lve sheng gui	1
-掠剩使	lve sheng shi	1
-掠虚	lve xu	1
-掠削	lve xue	1
-掠役	lve yi	1
-掠约	lve yue	1
-掠阵	lve zhen	1
-掠彴	lve zhuo	1
-略城	lve cheng	1
-略绰口	lve chuo kou	1
-略等	lve deng	1
-略定	lve ding	1
-略夺	lve duo	1
-略获	lve huo	1
-略及	lve ji	1
-略节	lve jie	1
-略玃	lve jue	1
-略历	lve li	1
-略且	lve qie	1
-略寝	lve qin	1
-略情	lve qing	1
-略人	lve ren	1
-略刃	lve ren	1
-略事	lve shi	1
-略释	lve shi	1
-略属	lve shu	1
-略术	lve shu	1
-略无	lve wu	1
-略物	lve wu	1
-略洗	lve xi	1
-略斜	lve xie	1
-略行	lve xing	1
-略要	lve yao	1
-略野	lve ye	1
-略意	lve yi	1
-略约	lve yue	1
-略则	lve ze	1
-略彴	lve zhuo	1
+掠草	lue cao	1
+掠笞	lue chi	1
+掠楚	lue chu	1
+掠盗	lue dao	1
+掠地攻城	lue di gong cheng	1
+掠敚	lue duo	1
+掠贩	lue fan	1
+掠服	lue fu	1
+掠海	lue hai	1
+掠考	lue kao	1
+掠拷	lue kao	1
+掠立	lue li	1
+掠卤	lue lu	1
+掠虏	lue lu	1
+掠掳	lue lu	1
+掠卖	lue mai	1
+掠卖华工	lue mai hua gong	1
+掠闹	lue nao	1
+掠剩鬼	lue sheng gui	1
+掠剩使	lue sheng shi	1
+掠虚	lue xu	1
+掠削	lue xue	1
+掠役	lue yi	1
+掠约	lue yue	1
+掠阵	lue zhen	1
+掠彴	lue zhuo	1
+略城	lue cheng	1
+略绰口	lue chuo kou	1
+略等	lue deng	1
+略定	lue ding	1
+略夺	lue duo	1
+略获	lue huo	1
+略及	lue ji	1
+略节	lue jie	1
+略玃	lue jue	1
+略历	lue li	1
+略且	lue qie	1
+略寝	lue qin	1
+略情	lue qing	1
+略人	lue ren	1
+略刃	lue ren	1
+略事	lue shi	1
+略释	lue shi	1
+略属	lue shu	1
+略术	lue shu	1
+略无	lue wu	1
+略物	lue wu	1
+略洗	lue xi	1
+略斜	lue xie	1
+略行	lue xing	1
+略要	lue yao	1
+略野	lue ye	1
+略意	lue yi	1
+略约	lue yue	1
+略则	lue ze	1
+略彴	lue zhuo	1
 呒不	wu bu	1
 呒没	wu mei	1
 呒然	fu ran	1
@@ -97223,7 +97223,7 @@
 马路沿儿	ma lu yan er	1
 马罗披	ma luo pi	1
 马络	ma luo	1
-马略卡	ma lve ka	1
+马略卡	ma lue ka	1
 马麻	ma ma	1
 马麦	ma mai	1
 马牦	ma mao	1
@@ -99018,7 +99018,7 @@
 没了收	mei liao shou	1
 没了头	mei liao tou	1
 没六儿	mei liu er	1
-没略	mei lve	1
+没略	mei lue	1
 没没	mei mei	1
 没没无闻	mo mo wu wen	1
 没面	mei mian	1
@@ -99516,7 +99516,7 @@
 昧陋	mei lou	1
 昧履	mei lv	1
 昧履支	mei lv zhi	1
-昧略	mei lve	1
+昧略	mei lue	1
 昧冒	mei mao	1
 昧瞀	mei mao	1
 昧密	mei mi	1
@@ -100509,7 +100509,7 @@
 秘鲁苦蘵	bi lu ku zhi	1
 秘箓	mi lu	1
 秘録	mi lu	1
-秘略	mi lve	1
+秘略	mi lue	1
 秘密藏	mi mi cang	1
 秘密会社	mi mi hui she	1
 秘密教	mi mi jiao	1
@@ -100634,7 +100634,7 @@
 密鳞鳞	mi lin lin	1
 密虑	mi lv	1
 密率	mi lv	1
-密略	mi lve	1
+密略	mi lue	1
 密码货币	mi ma huo bi	1
 密茫茫	mi mang mang	1
 密蒙	mi meng	1
@@ -101165,7 +101165,7 @@
 眇劲	miao jin	1
 眇绝	miao jue	1
 眇论	miao lun	1
-眇略	miao lve	1
+眇略	miao lue	1
 眇曼	miao man	1
 眇漫	miao man	1
 眇茫	miao mang	1
@@ -101924,7 +101924,7 @@
 明纶	ming lun	1
 明论	ming lun	1
 明虑	ming lv	1
-明略	ming lve	1
+明略	ming lue	1
 明盲	ming mang	1
 明茂	ming mao	1
 明懋	ming mao	1
@@ -102544,7 +102544,7 @@
 谬陋	miu lou	1
 谬漏	miu lou	1
 谬乱	miu luan	1
-谬略	miu lve	1
+谬略	miu lue	1
 谬僻	miu pi	1
 谬品	miu pin	1
 谬巧	miu qiao	1
@@ -102588,7 +102588,7 @@
 谟画	mo hua	1
 谟烈	mo lie	1
 谟虑	mo lv	1
-谟略	mo lve	1
+谟略	mo lue	1
 谟明	mo ming	1
 谟谋	mo mou	1
 谟觞	mo shang	1
@@ -102608,7 +102608,7 @@
 摹泐	mo le	1
 摹临	mo lin	1
 摹録	mo lu	1
-摹略	mo lve	1
+摹略	mo lue	1
 摹拟	mo ni	1
 摹神	mo shen	1
 摹索	mo suo	1
@@ -102894,7 +102894,7 @@
 末衖	mo long	1
 末偻	mo lv	1
 末罗瑜	mo luo yu	1
-末略	mo lve	1
+末略	mo lue	1
 末蒙	mo meng	1
 末杪	mo miao	1
 末末	mo mo	1
@@ -106887,42 +106887,42 @@
 煗气	nuan qi	1
 餪房	nuan fang	1
 餪生	nuan sheng	1
-疟病	nve bing	1
-疟龟	nve gui	1
-疟鬼	nve gui	1
-疟寒	nve han	1
-疟患	nve huan	1
-疟疾病	nve ji bing	1
-疟渴	nve ke	1
-疟疠	nve li	1
-疟母	nve mu	1
+疟病	nue bing	1
+疟龟	nue gui	1
+疟鬼	nue gui	1
+疟寒	nue han	1
+疟患	nue huan	1
+疟疾病	nue ji bing	1
+疟渴	nue ke	1
+疟疠	nue li	1
+疟母	nue mu	1
 疟子鬼儿	yao zi gui er	1
 疟子花	yao zi hua	1
-虐魃	nve ba	1
-虐暴	nve bao	1
-虐待罪	nve dai zui	1
-虐割	nve ge	1
-虐害	nve hai	1
-虐疾	nve ji	1
-虐刻	nve ke	1
-虐戾	nve li	1
-虐敛	nve lian	1
-虐烈	nve lie	1
-虐谋	nve mou	1
-虐戕	nve qiang	1
-虐人	nve ren	1
-虐使	nve shi	1
-虐世	nve shi	1
-虐饕	nve tao	1
-虐威	nve wei	1
-虐戏	nve xi	1
-虐心	nve xin	1
-虐行	nve xing	1
-虐谑	nve xue	1
-虐焰	nve yan	1
-虐用	nve yong	1
-虐遇	nve yu	1
-硸磭	nve chuo	1
+虐魃	nue ba	1
+虐暴	nue bao	1
+虐待罪	nue dai zui	1
+虐割	nue ge	1
+虐害	nue hai	1
+虐疾	nue ji	1
+虐刻	nue ke	1
+虐戾	nue li	1
+虐敛	nue lian	1
+虐烈	nue lie	1
+虐谋	nue mou	1
+虐戕	nue qiang	1
+虐人	nue ren	1
+虐使	nue shi	1
+虐世	nue shi	1
+虐饕	nue tao	1
+虐威	nue wei	1
+虐戏	nue xi	1
+虐心	nue xin	1
+虐行	nue xing	1
+虐谑	nue xue	1
+虐焰	nue yan	1
+虐用	nue yong	1
+虐遇	nue yu	1
+硸磭	nue chuo	1
 挪步	nuo bu	1
 挪挱	nuo suo	1
 傩祓	nuo fu	1
@@ -109864,8 +109864,8 @@
 剽利	piao li	1
 剽裂	piao lie	1
 剽卤	piao lu	1
-剽剠	piao lve	1
-剽略	piao lve	1
+剽剠	piao lue	1
+剽略	piao lue	1
 剽卖	piao mai	1
 剽模	piao mo	1
 剽迫	piao po	1
@@ -111489,7 +111489,7 @@
 朴练	piao lian	1
 朴劣	piao lie	1
 朴率	piao lv	1
-朴略	piao lve	1
+朴略	piao lue	1
 朴貌	piao mao	1
 朴门	pu men	1
 朴木	piao mu	1
@@ -111809,7 +111809,7 @@
 七録	qi lu	1
 七轮风	qi lun feng	1
 七轮扇	qi lun shan	1
-七庙略	qi miao lve	1
+七庙略	qi miao lue	1
 七闽	qi min	1
 七命	qi ming	1
 七穆	qi mu	1
@@ -111944,7 +111944,7 @@
 妻服	qi fu	1
 妻公	qi gong	1
 妻宫	qi gong	1
-妻略	qi lve	1
+妻略	qi lue	1
 妻娶	qi qu	1
 妻甥	qi sheng	1
 妻帑	qi tang	1
@@ -112276,7 +112276,7 @@
 齐和	qi he	1
 齐赫特	qi he te	1
 齐衡	qi heng	1
-齐后疟	qi hou nve	1
+齐后疟	qi hou nue	1
 齐货	qi huo	1
 齐鸡开府	qi ji kai fu	1
 齐姬	qi ji	1
@@ -112502,7 +112502,7 @@
 奇离	qi li	1
 奇利	qi li	1
 奇龄	qi ling	1
-奇略	qi lve	1
+奇略	qi lue	1
 奇迈	qi mai	1
 奇厖福艾	qi mang fu ai	1
 奇毛	qi mao	1
@@ -113576,7 +113576,7 @@
 气厉	qi li	1
 气令	qi ling	1
 气律	qi lv	1
-气略	qi lve	1
+气略	qi lue	1
 气茂	qi mao	1
 气貌	qi mao	1
 气门心	qi men xin	1
@@ -115092,7 +115092,7 @@
 浅量	qian liang	1
 浅劣	qian lie	1
 浅虑	qian lv	1
-浅略	qian lve	1
+浅略	qian lue	1
 浅蛮	qian man	1
 浅毛	qian mao	1
 浅瞀	qian mao	1
@@ -115353,7 +115353,7 @@
 戕风	qiang feng	1
 戕祸	qiang huo	1
 戕囊	qiang nang	1
-戕虐	qiang nve	1
+戕虐	qiang nue	1
 戕忍	qiang ren	1
 戕杀	qiang sha	1
 戕生	qiang sheng	1
@@ -115506,7 +115506,7 @@
 强难	qiang nan	1
 强能	qiang neng	1
 强拧的瓜不甜	qiang ning de gua bu tian	1
-强虐	qiang nve	1
+强虐	qiang nue	1
 强迫性储物症	qiang po xing chu wu zheng	1
 强迫性性行为	qiang po xing xing xing wei	1
 强迫自己不断地	qiang po zi ji bu duan de	1
@@ -116290,7 +116290,7 @@
 窃活	qie huo	1
 窃踞	qie ju	1
 窃禄	qie lu	1
-窃掠	qie lve	1
+窃掠	qie lue	1
 窃眸	qie mou	1
 窃辔	qie pei	1
 窃乞	qie qi	1
@@ -116489,7 +116489,7 @@
 侵挠	qin nao	1
 侵恼	qin nao	1
 侵啮	qin nie	1
-侵虐	qin nve	1
+侵虐	qin nue	1
 侵挪	qin nuo	1
 侵叛	qin pan	1
 侵欺	qin qi	1
@@ -116918,7 +116918,7 @@
 勤劳者	qin lao zhe	1
 勤厉	qin li	1
 勤廉	qin lian	1
-勤略	qin lve	1
+勤略	qin lue	1
 勤黾	qin mian	1
 勤母	qin mu	1
 勤纳	qin na	1
@@ -117887,7 +117887,7 @@
 轻吕	qing lv	1
 轻虑	qing lv	1
 轻緑	qing lv	1
-轻略	qing lve	1
+轻略	qing lue	1
 轻嫚	qing man	1
 轻谩	qing man	1
 轻眉	qing mei	1
@@ -120644,8 +120644,8 @@
 驱掳	qu lu	1
 驱録	qu lu	1
 驱率	qu lv	1
-驱掠	qu lve	1
-驱略	qu lve	1
+驱掠	qu lue	1
+驱略	qu lue	1
 驱迈	qu mai	1
 驱忙	qu mang	1
 驱磨	qu mo	1
@@ -120654,7 +120654,7 @@
 驱纳	qu na	1
 驱逆	qu ni	1
 驱奴	qu nu	1
-驱疟	qu nve	1
+驱疟	qu nue	1
 驱配	qu pei	1
 驱剽	qu piao	1
 驱屏	qu ping	1
@@ -121832,7 +121832,7 @@
 阙亏	que kui	1
 阙陋	que lou	1
 阙落	que luo	1
-阙略	que lve	1
+阙略	que lue	1
 阙谬	que miu	1
 阙然	que ran	1
 阙少	que shao	1
@@ -122958,7 +122958,7 @@
 忍愧	ren kui	1
 忍命	ren ming	1
 忍奈	ren nai	1
-忍虐	ren nve	1
+忍虐	ren nue	1
 忍情	ren qing	1
 忍容	ren rong	1
 忍辱草	ren ru cao	1
@@ -123346,7 +123346,7 @@
 戎落	rong luo	1
 戎旅	rong lv	1
 戎律	rong lv	1
-戎略	rong lve	1
+戎略	rong lue	1
 戎曼	rong man	1
 戎门	rong men	1
 戎貊	rong mo	1
@@ -123977,7 +123977,7 @@
 蹂轹	rou li	1
 蹂辚	rou lin	1
 蹂蹸	rou lin	1
-蹂掠	rou lve	1
+蹂掠	rou lue	1
 蹂蹃	rou nuo	1
 蹂若	rou ruo	1
 蹂损	rou sun	1
@@ -124657,7 +124657,7 @@
 睿览	rui lan	1
 睿龄	rui ling	1
 睿虑	rui lv	1
-睿略	rui lve	1
+睿略	rui lue	1
 睿敏	rui min	1
 睿命	rui ming	1
 睿谟	rui mo	1
@@ -124699,7 +124699,7 @@
 叡典	rui dian	1
 叡后	rui hou	1
 叡镜	rui jing	1
-叡略	rui lve	1
+叡略	rui lue	1
 叡敏	rui min	1
 叡明	rui ming	1
 叡圣	rui sheng	1
@@ -126005,7 +126005,7 @@
 散僚	san liao	1
 散寮	san liao	1
 散虑	san lv	1
-散略	san lve	1
+散略	san lue	1
 散麻	san ma	1
 散马	san ma	1
 散脉	san mai	1
@@ -126304,11 +126304,11 @@
 骚垒	sao lei	1
 骚离	sao li	1
 骚乱者	sao luan zhe	1
-骚掠	sao lve	1
+骚掠	sao lue	1
 骚马	sao ma	1
 骚牛	sao niu	1
 骚奴	sao nu	1
-骚虐	sao nve	1
+骚虐	sao nue	1
 骚情	sao qing	1
 骚攘	sao rang	1
 骚扰客蚤	sao rao ke zao	1
@@ -126694,7 +126694,7 @@
 杀敛	sha lian	1
 杀僇	sha lu	1
 杀螺剂	sha luo ji	1
-杀略	sha lve	1
+杀略	sha lue	1
 杀马特	sha ma te	1
 杀牛宰羊	sha niu zai yang	1
 杀胚	sha pei	1
@@ -127514,7 +127514,7 @@
 删翦	shan jian	1
 删举	shan ju	1
 删落	shan luo	1
-删掠	shan lve	1
+删掠	shan lue	1
 删抹	shan mo	1
 删取	shan qu	1
 删诗	shan shi	1
@@ -127574,7 +127574,7 @@
 煽结	shan jie	1
 煽炼	shan lian	1
 煽孽	shan nie	1
-煽虐	shan nve	1
+煽虐	shan nue	1
 煽权	shan quan	1
 煽烁	shan shuo	1
 煽扬	shan yang	1
@@ -127727,7 +127727,7 @@
 扇烈	shan lie	1
 扇笼	shan long	1
 扇面琴	shan mian qin	1
-扇虐	shan nve	1
+扇虐	shan nue	1
 扇庖	shan pao	1
 扇迫	shan po	1
 扇伞	shan san	1
@@ -128819,7 +128819,7 @@
 奢糜	she mi	1
 奢摩他	she mo ta	1
 奢摩它	she mo ta	1
-奢虐	she nve	1
+奢虐	she nue	1
 奢绮	she qi	1
 奢太	she tai	1
 奢汰	she tai	1
@@ -129299,7 +129299,7 @@
 涉贿	she hui	1
 涉厉	she li	1
 涉履	she lv	1
-涉略	she lve	1
+涉略	she lue	1
 涉目	she mu	1
 涉浅	she qian	1
 涉趣	she qu	1
@@ -130338,7 +130338,7 @@
 沈落	shen luo	1
 沈闾	shen lv	1
 沈虑	shen lv	1
-沈略	shen lve	1
+沈略	shen lue	1
 沈埋	shen mai	1
 沈薶	shen wo	1
 沈霾	shen mai	1
@@ -131139,7 +131139,7 @@
 声烈	sheng lie	1
 声灵	sheng ling	1
 声论	sheng lun	1
-声略	sheng lve	1
+声略	sheng lue	1
 声名大震	sheng ming da zhen	1
 声名狼籍	sheng ming lang ji	1
 声名人	sheng ming ren	1
@@ -131518,7 +131518,7 @@
 圣令	sheng ling	1
 圣论	sheng lun	1
 圣虑	sheng lv	1
-圣略	sheng lve	1
+圣略	sheng lue	1
 圣马洛	sheng ma luo	1
 圣门	sheng men	1
 圣米	sheng mi	1
@@ -132253,8 +132253,8 @@
 施糜	shi mi	1
 施靡	shi mi	1
 施命	shi ming	1
-施虐受虐	shi nve shou nve	1
-施虐者	shi nve zhe	1
+施虐受虐	shi nue shou nue	1
+施虐者	shi nue zhe	1
 施炮	shi pao	1
 施皮茨	shi pi ci	1
 施气	shi qi	1
@@ -134626,7 +134626,7 @@
 舐鼎	shi ding	1
 舐足	shi zu	1
 弑逆	shi ni	1
-弑虐	shi nve	1
+弑虐	shi nue	1
 释鞍	shi an	1
 释鞌	shi an	1
 释軷	shi ba	1
@@ -134846,7 +134846,7 @@
 收虏	shou lu	1
 收録	shou lu	1
 收率	shou lv	1
-收掠	shou lve	1
+收掠	shou lue	1
 收募	shou mu	1
 收孥	shou nu	1
 收盆	shou pen	1
@@ -135207,7 +135207,7 @@
 首南鸟	shou nan niao	1
 首逆	shou ni	1
 首匿	shou ni	1
-首虐	shou nve	1
+首虐	shou nue	1
 首邱	shou qiu	1
 首摄	shou she	1
 首实	shou shi	1
@@ -135764,7 +135764,7 @@
 殊邻	shu lin	1
 殊路	shu lu	1
 殊伦	shu lun	1
-殊略	shu lve	1
+殊略	shu lue	1
 殊妙	shu miao	1
 殊名	shu ming	1
 殊命	shu ming	1
@@ -135856,7 +135856,7 @@
 梳空	shu kong	1
 梳翎	shu ling	1
 梳笼	shu long	1
-梳掠	shu lve	1
+梳掠	shu lue	1
 梳沐	shu mu	1
 梳弄	shu nong	1
 梳爬	shu pa	1
@@ -136168,7 +136168,7 @@
 输悃	shu kun	1
 输力	shu li	1
 输虑	shu lv	1
-输掠	shu lve	1
+输掠	shu lue	1
 输芒	shu mang	1
 输墨	shu mo	1
 输墨装置	shu mo zhuang zhi	1
@@ -136337,7 +136337,7 @@
 暑寒	shu han	1
 暑吏	shu li	1
 暑门	shu men	1
-暑疟	shu nve	1
+暑疟	shu nue	1
 暑温	shu wen	1
 暑绤	shu xi	1
 暑雪	shu xue	1
@@ -136649,7 +136649,7 @@
 术径	shu jing	1
 术客	shu ke	1
 术路	shu lu	1
-术略	shu lve	1
+术略	shu lue	1
 术谋	shu mou	1
 术阡	shu qian	1
 术衢	shu qu	1
@@ -138784,7 +138784,7 @@
 私路	si lu	1
 私乱	si luan	1
 私论	si lun	1
-私掠	si lve	1
+私掠	si lue	1
 私谩	si man	1
 私冒	si mao	1
 私门生	si men sheng	1
@@ -138980,7 +138980,7 @@
 思鲈莼	si lu chun	1
 思鲈脍	si lu kuai	1
 思路敏捷	si lu min jie	1
-思略	si lve	1
+思略	si lue	1
 思茅区	si mao qu	1
 思明	si ming	1
 思谟	si mo	1
@@ -139677,7 +139677,7 @@
 肆詈	si li	1
 肆鳞	si lin	1
 肆流	si liu	1
-肆略	si lve	1
+肆略	si lue	1
 肆骂	si ma	1
 肆慢	si man	1
 肆募	si mu	1
@@ -141298,7 +141298,7 @@
 算力	suan li	1
 算禄	suan lu	1
 算録	suan lu	1
-算略	suan lve	1
+算略	suan lue	1
 算缗	suan min	1
 算缗钱	suan min qian	1
 算命家	suan ming jia	1
@@ -141676,7 +141676,7 @@
 邃林	sui lin	1
 邃旒	sui liu	1
 邃路	sui lu	1
-邃略	sui lve	1
+邃略	sui lue	1
 邃茂	sui mao	1
 邃袤	sui mao	1
 邃美	sui mei	1
@@ -142819,7 +142819,7 @@
 贪囊	tan nang	1
 贪溺	tan ni	1
 贪佞	tan ning	1
-贪虐	tan nve	1
+贪虐	tan nue	1
 贪懦	tan nuo	1
 贪悭	tan qian	1
 贪强	tan qiang	1
@@ -143646,7 +143646,7 @@
 饕逢	tao feng	1
 饕据	tao ju	1
 饕湎	tao mian	1
-饕虐	tao nve	1
+饕虐	tao nue	1
 饕窃	tao qie	1
 饕贪	tao tan	1
 饕殄	tao tian	1
@@ -144780,7 +144780,7 @@
 体亮	ti liang	1
 体料	ti liao	1
 体律	ti lv	1
-体略	ti lve	1
+体略	ti lue	1
 体皃	ti mao	1
 体靣	ti mian	1
 体鸣乐器	ti ming yue qi	1
@@ -147787,7 +147787,7 @@
 头牲	tou sheng	1
 头蝨	tou shi	1
 头疋	tou pi	1
-头庶剠	tou shu lve	1
+头庶剠	tou shu lue	1
 头水船	tou shui chuan	1
 头索类	tou suo lei	1
 头汤	tou tang	1
@@ -150421,7 +150421,7 @@
 顽墨	wan mo	1
 顽奴	wan nu	1
 顽驽	wan nu	1
-顽虐	wan nve	1
+顽虐	wan nue	1
 顽懦	wan nuo	1
 顽癖	wan pi	1
 顽仆	wan pu	1
@@ -151096,7 +151096,7 @@
 王録事	wang lu shi	1
 王纶	wang lun	1
 王旅	wang lv	1
-王略	wang lve	1
+王略	wang lue	1
 王马	wang ma	1
 王码	wang ma	1
 王枚	wang mei	1
@@ -151392,7 +151392,7 @@
 往莅	wang li	1
 往烈	wang lie	1
 往路	wang lu	1
-往略	wang lve	1
+往略	wang lue	1
 往宁	wang ning	1
 往篇	wang pian	1
 往人	wang ren	1
@@ -151629,7 +151629,7 @@
 威凌	wei ling	1
 威陵	wei ling	1
 威戮	wei lu	1
-威略	wei lve	1
+威略	wei lue	1
 威玛共和国	wei ma gong he guo	1
 威玛拼法	wei ma pin fa	1
 威玛拼音	wei ma pin yin	1
@@ -151640,7 +151640,7 @@
 威能	wei neng	1
 威宁县	wei ning xian	1
 威怒	wei nu	1
-威虐	wei nve	1
+威虐	wei nue	1
 威奇托	wei qi tuo	1
 威强	wei qiang	1
 威怯	wei qie	1
@@ -152380,7 +152380,7 @@
 纬候	wei hou	1
 纬锦	wei jin	1
 纬经	wei jing	1
-纬略	wei lve	1
+纬略	wei lue	1
 纬术	wei shu	1
 纬说	wei shuo	1
 纬俗	wei su	1
@@ -153111,7 +153111,7 @@
 温腻	wen ni	1
 温念	wen nian	1
 温煗	wen nuan	1
-温疟	wen nve	1
+温疟	wen nue	1
 温黁	wen nun	1
 温朴	wen piao	1
 温切斯特	wen qie si te	1
@@ -155589,7 +155589,7 @@
 五牛旗	wu niu qi	1
 五脓	wu nong	1
 五弄	wu nong	1
-五虐	wu nve	1
+五虐	wu nue	1
 五排	wu pai	1
 五剽	wu piao	1
 五品孙	wu pin sun	1
@@ -157538,7 +157538,7 @@
 袭据	xi ju	1
 袭踞	xi ju	1
 袭履	xi lv	1
-袭掠	xi lve	1
+袭掠	xi lue	1
 袭冒	xi mao	1
 袭破	xi po	1
 袭气	xi qi	1
@@ -157608,7 +157608,7 @@
 洗罗	xi luo	1
 洗虑	xi lv	1
 洗绿	xi lv	1
-洗掠	xi lve	1
+洗掠	xi lue	1
 洗梅	xi mei	1
 洗面汤	xi mian tang	1
 洗目	xi mu	1
@@ -158345,7 +158345,7 @@
 遐陋	xia lou	1
 遐禄	xia lu	1
 遐路	xia lu	1
-遐略	xia lve	1
+遐略	xia lue	1
 遐迈	xia mai	1
 遐甿	xia meng	1
 遐寐	xia mei	1
@@ -160321,7 +160321,7 @@
 险陆	xian lu	1
 险乱	xian luan	1
 险佞	xian ning	1
-险虐	xian nve	1
+险虐	xian nue	1
 险辟	xian pi	1
 险叵	xian po	1
 险魄	xian po	1
@@ -162990,7 +162990,7 @@
 小轮车	xiao lun che	1
 小律诗	xiao lv shi	1
 小绿人	xiao lv ren	1
-小掠	xiao lve	1
+小掠	xiao lue	1
 小毛公	xiao mao gong	1
 小梅花	xiao mei hua	1
 小门脸儿	xiao men lian er	1
@@ -163757,7 +163757,7 @@
 邪逆	xie ni	1
 邪睨	xie ni	1
 邪孽	xie nie	1
-邪虐	xie nve	1
+邪虐	xie nue	1
 邪皮子	xie pi zi	1
 邪蹊	xie qi	1
 邪炁	xie qi	1
@@ -163839,7 +163839,7 @@
 胁敛	xie lian	1
 胁凌	xie ling	1
 胁陵	xie ling	1
-胁略	xie lve	1
+胁略	xie lue	1
 胁求	xie qiu	1
 胁诎	xie qu	1
 胁驱	xie qu	1
@@ -164514,7 +164514,7 @@
 心吕	xin lv	1
 心律不整	xin lv bu zheng	1
 心虑	xin lv	1
-心略	xin lve	1
+心略	xin lue	1
 心马	xin ma	1
 心慢	xin man	1
 心忙	xin mang	1
@@ -166276,7 +166276,7 @@
 雄步	xiong bu	1
 雄猜	xiong cai	1
 雄材	xiong cai	1
-雄材大略	xiong cai da lve	1
+雄材大略	xiong cai da lue	1
 雄苍	xiong cang	1
 雄常	xiong chang	1
 雄臣	xiong chen	1
@@ -167218,7 +167218,7 @@
 须句	xu ju	1
 须鬣	xu lie	1
 须鸁	xu luo	1
-须掠	xu lve	1
+须掠	xu lue	1
 须曼	xu man	1
 须曼那	xu man na	1
 须貌	xu mao	1
@@ -167703,7 +167703,7 @@
 恤赠	xu zeng	1
 酗酣	xu han	1
 酗骂	xu ma	1
-酗虐	xu nve	1
+酗虐	xu nue	1
 酗饮	xu yin	1
 酗醟	xu yong	1
 勖帅	xu shuai	1
@@ -169115,7 +169115,7 @@
 削袂	xue mei	1
 削灭	xue mie	1
 削墨	xue mo	1
-削虐	xue nve	1
+削虐	xue nue	1
 削券	xue quan	1
 削然	xue ran	1
 削书	xue shu	1
@@ -170628,7 +170628,7 @@
 厓谷	ya gu	1
 厓海	ya hai	1
 厓厈	ya han	1
-厓略	ya lve	1
+厓略	ya lue	1
 厓门	ya men	1
 厓山	ya shan	1
 厓厓	ya ya	1
@@ -170664,7 +170664,7 @@
 涯灌	ya guan	1
 涯津	ya jin	1
 涯量	ya liang	1
-涯略	ya lve	1
+涯略	ya lue	1
 涯畔	ya pan	1
 涯泄	ya xie	1
 睚睚	ya ya	1
@@ -171510,7 +171510,7 @@
 延问	yan wen	1
 延吴	yan wu	1
 延嬉	yan xi	1
-延禧攻略	yan xi gong lve	1
+延禧攻略	yan xi gong lue	1
 延想	yan xiang	1
 延选	yan xuan	1
 延迓	yan ya	1
@@ -171629,7 +171629,7 @@
 严拏	yan na	1
 严拿	yan na	1
 严能	yan neng	1
-严虐	yan nve	1
+严虐	yan nue	1
 严配	yan pei	1
 严气	yan qi	1
 严器	yan qi	1
@@ -171981,7 +171981,7 @@
 炎溟	yan ming	1
 炎摩	yan mo	1
 炎农	yan nong	1
-炎虐	yan nve	1
+炎虐	yan nue	1
 炎漂	yan piao	1
 炎气	yan qi	1
 炎区	yan qu	1
@@ -174203,7 +174203,7 @@
 养疗	yang liao	1
 养龄	yang ling	1
 养乱	yang luan	1
-养略	yang lve	1
+养略	yang lue	1
 养蒙	yang meng	1
 养苗	yang miao	1
 养民	yang min	1
@@ -175371,7 +175371,7 @@
 野路诗	ye lu shi	1
 野録	ye lu	1
 野率	ye lv	1
-野掠	ye lve	1
+野掠	ye lue	1
 野蔓	ye man	1
 野甿	ye meng	1
 野氓	ye meng	1
@@ -176082,7 +176082,7 @@
 一脔	yi luan	1
 一络索	yi luo suo	1
 一缕烟	yi lv yan	1
-一略数	yi lve shu	1
+一略数	yi lue shu	1
 一马不鞁两鞍	yi ma bu bei liang an	1
 一马不跨双鞍	yi ma bu kua shuang an	1
 一马难将两鞍鞴	yi ma nan jiang liang an bei	1
@@ -177516,7 +177516,7 @@
 遗侣	yi lv	1
 遗履	yi lv	1
 遗虑	yi lv	1
-遗略	yi lve	1
+遗略	yi lue	1
 遗脉	yi mai	1
 遗芒	yi mang	1
 遗甿	yi meng	1
@@ -177539,7 +177539,7 @@
 遗年	yi nian	1
 遗孼	yi nie	1
 遗砮	yi nu	1
-遗虐	yi nve	1
+遗虐	yi nue	1
 遗诺	yi nuo	1
 遗女	yi nv	1
 遗讴	yi ou	1
@@ -178599,7 +178599,7 @@
 异卵	yi luan	1
 异伦	yi lun	1
 异虑	yi lv	1
-异略	yi lve	1
+异略	yi lue	1
 异民	yi min	1
 异亩	yi mu	1
 异木	yi mu	1
@@ -178661,7 +178661,7 @@
 抑绝	yi jue	1
 抑抗	yi kang	1
 抑沦	yi lun	1
-抑掠	yi lve	1
+抑掠	yi lue	1
 抑没	yi mei	1
 抑配	yi pei	1
 抑譬	yi pi	1
@@ -179400,7 +179400,7 @@
 意力	yi li	1
 意量	yi liang	1
 意虑	yi lv	1
-意略	yi lve	1
+意略	yi lue	1
 意脉	yi mai	1
 意貌	yi mao	1
 意眄	yi mian	1
@@ -180356,7 +180356,7 @@
 银鹿	yin lu	1
 银轮	yin lun	1
 银缕	yin lv	1
-银掠儿	yin lve er	1
+银掠儿	yin lue er	1
 银苗菜	yin miao cai	1
 银民	yin min	1
 银囊	yin nang	1
@@ -180494,8 +180494,8 @@
 淫僇	yin lu	1
 淫戮	yin lu	1
 淫泺	yin luo	1
-淫掠	yin lve	1
-淫略	yin lve	1
+淫掠	yin lue	1
+淫略	yin lue	1
 淫嫚	yin man	1
 淫曼	yin man	1
 淫漫	yin man	1
@@ -180978,7 +180978,7 @@
 隐漏	yin lou	1
 隐録	yin lu	1
 隐虑	yin lv	1
-隐略	yin lve	1
+隐略	yin lue	1
 隐茅	yin mao	1
 隐冒	yin mao	1
 隐昧	yin mei	1
@@ -181314,7 +181314,7 @@
 英伦风格	ying lun feng ge	1
 英伦腔	ying lun qiang	1
 英荦	ying luo	1
-英略	ying lve	1
+英略	ying lue	1
 英迈	ying mai	1
 英旄	ying mao	1
 英茂	ying mao	1
@@ -181351,7 +181351,7 @@
 英心	ying xin	1
 英雄联盟	ying xiong lian meng	1
 英雄谱	ying xiong pu	1
-英雄所见略同	ying xiong suo jian lve tong	1
+英雄所见略同	ying xiong suo jian lue tong	1
 英雄无用武之地	ying xiong wu yong wu zhi di	1
 英秀	ying xiu	1
 英选	ying xuan	1
@@ -182387,7 +182387,7 @@
 拥离	yong li	1
 拥列	yong lie	1
 拥炉	yong lu	1
-拥略	yong lve	1
+拥略	yong lue	1
 拥伞扇	yong san shan	1
 拥繖扇	yong san shan	1
 拥扇	yong shan	1
@@ -182564,7 +182564,7 @@
 壅绝	yong jue	1
 壅君	yong jun	1
 壅离	yong li	1
-壅掠	yong lve	1
+壅掠	yong lue	1
 壅囊	yong nang	1
 壅培	yong pei	1
 壅却	yong que	1
@@ -182799,7 +182799,7 @@
 用壮	yong zhuang	1
 醟贝	yong bei	1
 醟湎	yong mian	1
-醟虐	yong nve	1
+醟虐	yong nue	1
 醟肆	yong si	1
 优爱	you ai	1
 优拔	you ba	1
@@ -183598,7 +183598,7 @@
 游泳裤衩	you yong ku cha	1
 猷绩	you ji	1
 猷虑	you lv	1
-猷畧	you lve	1
+猷畧	you lue	1
 猷为	you wei	1
 猷裕	you yu	1
 蝣晷	you gui	1
@@ -183927,7 +183927,7 @@
 诱励	you li	1
 诱赂	you lu	1
 诱率	you lv	1
-诱略	you lve	1
+诱略	you lue	1
 诱买	you mai	1
 诱媚	you mei	1
 诱慕	you mu	1
@@ -187085,7 +187085,7 @@
 冤鸟	yuan niao	1
 冤孽债	yuan nie zhai	1
 冤孽症候	yuan nie zheng hou	1
-冤虐	yuan nve	1
+冤虐	yuan nue	1
 冤殍	yuan piao	1
 冤魄	yuan po	1
 冤牵	yuan qian	1
@@ -189740,7 +189740,7 @@
 灾亩	zai mu	1
 灾木	zai mu	1
 灾孽	zai nie	1
-灾虐	zai nve	1
+灾虐	zai nue	1
 灾愆	zai qian	1
 灾谴	zai qian	1
 灾杀	zai sha	1
@@ -190751,7 +190751,7 @@
 躁挠	zao nao	1
 躁恼	zao nao	1
 躁怒	zao nu	1
-躁虐	zao nve	1
+躁虐	zao nue	1
 躁剽	zao piao	1
 躁迫	zao po	1
 躁戚	zao qi	1
@@ -191144,7 +191144,7 @@
 谮构	zen gou	1
 谮毁	zen hui	1
 谮间	zen jian	1
-谮虐	zen nve	1
+谮虐	zen nue	1
 谮润	zen run	1
 谮杀	zen sha	1
 谮说	zen shuo	1
@@ -191480,7 +191480,7 @@
 诈戾	zha li	1
 诈乱	zha luan	1
 诈论	zha lun	1
-诈略	zha lve	1
+诈略	zha lue	1
 诈马	zha ma	1
 诈马筵	zha ma yan	1
 诈名	zha ming	1
@@ -191488,7 +191488,7 @@
 诈谋	zha mou	1
 诈逆	zha ni	1
 诈佞	zha ning	1
-诈虐	zha nve	1
+诈虐	zha nue	1
 诈叛	zha pan	1
 诈泣	zha qi	1
 诈钱	zha qian	1
@@ -192279,8 +192279,8 @@
 战克	zhan ke	1
 战恐	zhan kong	1
 战垒	zhan lei	1
-战略核力量	zhan lve he li liang	1
-战略夥伴	zhan lve huo ban	1
+战略核力量	zhan lue he li liang	1
+战略夥伴	zhan lue huo ban	1
 战民	zhan min	1
 战殁	zhan mo	1
 战棚	zhan peng	1
@@ -192326,7 +192326,7 @@
 战棹	zhan zhao	1
 战櫂	zhan zhao	1
 战詟	zhan zhe	1
-战争和战略问题	zhan zheng he zhan lve wen ti	1
+战争和战略问题	zhan zheng he zhan lue wen ti	1
 战争艺术概论	zhan zheng yi shu gai lun	1
 战征	zhan zheng	1
 战舟	zhan zhou	1
@@ -192817,7 +192817,7 @@
 长苏	chang su	1
 长素	chang su	1
 长宿	chang su	1
-长算远略	chang suan yuan lve	1
+长算远略	chang suan yuan lue	1
 长随带驮子	chang sui dai duo zi	1
 长遂	chang sui	1
 长锁	chang suo	1
@@ -193090,7 +193090,7 @@
 帐户	zhang hu	1
 帐饯	zhang jian	1
 帐落	zhang luo	1
-帐略	zhang lve	1
+帐略	zhang lue	1
 帐眉	zhang mei	1
 帐门	zhang men	1
 帐目	zhang mu	1
@@ -193775,7 +193775,7 @@
 遮留	zhe liu	1
 遮笼	zhe long	1
 遮逻	zhe luo	1
-遮略	zhe lve	1
+遮略	zhe lue	1
 遮漫	zhe man	1
 遮冒	zhe mao	1
 遮么	zhe mo	1
@@ -195031,7 +195031,7 @@
 眕盱	zhen xu	1
 畛封	zhen feng	1
 畛畍	zhen jie	1
-畛略	zhen lve	1
+畛略	zhen lue	1
 畛陌	zhen mo	1
 畛畔	zhen pan	1
 畛隰	zhen xi	1
@@ -195483,7 +195483,7 @@
 征路	zheng lu	1
 征轮	zheng lun	1
 征旅	zheng lv	1
-征略	zheng lve	1
+征略	zheng lue	1
 征迈	zheng mai	1
 征梦	zheng meng	1
 征民	zheng min	1
@@ -196477,7 +196477,7 @@
 知怜	zhi lian	1
 知録	zhi lu	1
 知虑	zhi lv	1
-知略	zhi lve	1
+知略	zhi lue	1
 知谋	zhi mou	1
 知其然而不知其所以然	zhi qi ran er bu zhi qi suo yi ran	1
 知其一未睹其二	zhi qi yi wei du qi er	1
@@ -196713,7 +196713,7 @@
 执録	zhi lu	1
 执论	zhi lun	1
 执履	zhi lv	1
-执略	zhi lve	1
+执略	zhi lue	1
 执袂	zhi mei	1
 执盟	zhi meng	1
 执迷不反	zhi mi bu fan	1
@@ -197706,7 +197706,7 @@
 质论	zhi lun	1
 质律	zhi lv	1
 质率	zhi lv	1
-质略	zhi lve	1
+质略	zhi lue	1
 质买	zhi mai	1
 质卖	zhi mai	1
 质貌	zhi mao	1
@@ -197830,7 +197830,7 @@
 治疗炎症	zhi liao yan zheng	1
 治令	zhi ling	1
 治聋酒	zhi long jiu	1
-治略	zhi lve	1
+治略	zhi lue	1
 治名	zhi ming	1
 治目	zhi mu	1
 治牧	zhi mu	1
@@ -198483,7 +198483,7 @@
 中国图书馆图书分类法	zhong guo tu shu guan tu shu fen lei fa	1
 中国无线电频谱管理和监测	zhong guo wu xian dian pin pu guan li he jian ce	1
 中国西北边陲	zhong guo xi bei bian chui	1
-中国小说史略	zhong guo xiao shuo shi lve	1
+中国小说史略	zhong guo xiao shuo shi lue	1
 中国协和医科大学	zhong guo xie he yi ke da xue	1
 中国新民党	zhong guo xin min dang	1
 中国新闻社	zhong guo xin wen she	1
@@ -198864,7 +198864,7 @@
 忠灵	zhong ling	1
 忠论	zhong lun	1
 忠虑	zhong lv	1
-忠略	zhong lve	1
+忠略	zhong lue	1
 忠密	zhong mi	1
 忠谟	zhong mo	1
 忠谋	zhong mou	1
@@ -200499,7 +200499,7 @@
 诛纳	zhu na	1
 诛逆	zhu ni	1
 诛佞	zhu ning	1
-诛虐	zhu nve	1
+诛虐	zhu nue	1
 诛叛	zhu pan	1
 诛辟	zhu pi	1
 诛弃	zhu qi	1
@@ -201419,7 +201419,7 @@
 助辞	zhu ci	1
 助道	zhu dao	1
 助法	zhu fa	1
-助画方略	zhu hua fang lve	1
+助画方略	zhu hua fang lue	1
 助记方法	zhu ji fang fa	1
 助桀	zhu jie	1
 助哭	zhu ku	1
@@ -202166,7 +202166,7 @@
 妆聋作哑	zhuang long zuo ya	1
 妆聋做哑	zhuang long zuo ya	1
 妆銮	zhuang luan	1
-妆掠	zhuang lve	1
+妆掠	zhuang lue	1
 妆么	zhuang me	1
 妆模作样	zhuang mo zuo yang	1
 妆束	zhuang shu	1
@@ -202337,7 +202337,7 @@
 状迹	zhuang ji	1
 状结	zhuang jie	1
 状类	zhuang lei	1
-状略	zhuang lve	1
+状略	zhuang lue	1
 状皃	zhuang mao	1
 状匿	zhuang ni	1
 状铺	zhuang pu	1
@@ -202890,7 +202890,7 @@
 鐯镐	zhuo hao	1
 鐯钩	zhuo gou	1
 蠿蟊	zhuo mao	1
-彴略	zhuo lve	1
+彴略	zhuo lue	1
 汋乐	yue le	1
 汋淘	yue tao	1
 汋约	yue yue	1
@@ -202911,7 +202911,7 @@
 灼据	zhuo ju	1
 灼溃	zhuo kui	1
 灼燎	zhuo liao	1
-灼虐	zhuo nve	1
+灼虐	zhuo nue	1
 灼黥	zhuo qing	1
 灼如	zhuo ru	1
 灼体	zhuo ti	1
@@ -203299,7 +203299,7 @@
 资料量	zi liao liang	1
 资灵	zi ling	1
 资履	zi lv	1
-资略	zi lve	1
+资略	zi lue	1
 资名	zi ming	1
 资命	zi ming	1
 资侔卜郏	zi mou bu jia	1
@@ -204396,7 +204396,7 @@
 总卵黄管	zong luan huang guan	1
 总乱	zong luan	1
 总率	zong lv	1
-总略	zong lve	1
+总略	zong lue	1
 总名	zong ming	1
 总明观	zong ming guan	1
 总辔	zong pei	1
@@ -204461,7 +204461,7 @@
 纵口	zong kou	1
 纵理入口	zong li ru kou	1
 纵鳞	zong lin	1
-纵掠	zong lve	1
+纵掠	zong lue	1
 纵麑	zong ni	1
 纵辔	zong pei	1
 纵遣	zong qian	1
@@ -205334,7 +205334,7 @@
 纂隆	zuan long	1
 纂録	zuan lu	1
 纂论	zuan lun	1
-纂略	zuan lve	1
+纂略	zuan lue	1
 纂拟	zuan ni	1
 纂戎	zuan rong	1
 纂绍	zuan shao	1
