@@ -5512,7 +5512,7 @@
 别恨	bie hen	6
 别集	bie ji	4033
 别家	bie jia	4054
-别价	bie jia	3005
+别价	bie jie	3005
 别将	bie jiang	10
 别具	bie ju	2
 别具肺肠	bie ju fei chang	100
