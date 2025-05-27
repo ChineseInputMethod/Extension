@@ -7,7 +7,6 @@
 出圈	chu juan	100
 出头露面	chu tou lou mian	2167
 出血	chu xie	100
-传赞	chuan zan	100
 大伯	da bai	100
 大都	da dou	3000
 大夫	da fu	3000
