@@ -33,7 +33,6 @@
 流血	liu xue	10556
 露头	lou tou	2000
 茅厕	mao ce	2000
-没药	mei yao	100
 明朝	ming zhao	2490
 摩挲	ma suo	5294
 迫降	po xiang	100
