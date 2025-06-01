@@ -12526,7 +12526,7 @@
 穿云破雾	chuan yun po wu	125
 穿凿	chuan zao	4014
 穿凿附会	chuan zao fu hui	2049
-穿着	chuan zhe	30376
+穿着	chuan zhe	30000
 穿着打扮	chuan zhuo da ban	290
 穿着讲究	chuan zhuo jiang jiu	100
 穿针	chuan zhen	3000

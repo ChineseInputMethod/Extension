@@ -67,7 +67,7 @@
 转文	zhuan wen	2017
 琢磨	zhuo mo	6926
 作乐	zuo le	4049
-穿着	chuan zhuo	30376
+穿着	chuan zhuo	376
 串行	chuan hang	3508
 摧折	cui zhe	114
 打喳喳	da cha cha	2001
