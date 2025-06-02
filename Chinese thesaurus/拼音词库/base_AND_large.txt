@@ -12526,7 +12526,7 @@
 穿云破雾	chuan yun po wu	125
 穿凿	chuan zao	4014
 穿凿附会	chuan zao fu hui	2049
-穿着	chuan zhe	30376
+穿着	chuan zhe	30000
 穿着打扮	chuan zhuo da ban	290
 穿着讲究	chuan zhuo jiang jiu	100
 穿针	chuan zhen	3000
@@ -12747,7 +12747,7 @@
 串戏	chuan xi	2005
 串线	chuan xian	3009
 串乡	chuan xiang	100
-串行	chuan xing	3508
+串行	chuan xing	3000
 串烟	chuan yan	109
 串演	chuan yan	4013
 串游	chuan you	3002
@@ -14045,7 +14045,7 @@
 摧身碎首	cui shen sui shou	100
 摧陷廓清	cui xian kuo qing	106
 摧心剖肝	cui xin pou gan	100
-摧折	cui she	114
+摧折	cui zhe	114
 摧折豪强	cui zhe hao qiang	100
 璀璨	cui can	4564
 璀璨夺目	cui can duo mu	2001
@@ -14854,7 +14854,7 @@
 打砸抢	da za qiang	2026
 打早	da zao	3000
 打造	da zao	4484
-打喳喳	da zha zha	2001
+打喳喳	da cha cha	2001
 打战	da zhan	4044
 打长工	da chang gong	100
 打仗	da zhang	9003
@@ -14967,7 +14967,7 @@
 大彻大悟	da che da wu	3000
 大臣	da chen	12707
 大成	da cheng	1370
-大城	da cheng	4180
+大城	da cheng	4000
 大城市	da cheng shi	3750
 大乘	da cheng	3118
 大吃	da chi	214
@@ -15237,7 +15237,7 @@
 大举	da ju	7135
 大卷	da juan	10
 大决	da jue	2000
-大觉	da jue	236
+大觉	da jue	200
 大嚼	da jue	10
 大军	da jun	11259
 大军区	da jun qu	100
@@ -16282,7 +16282,7 @@
 单行本	dan xing ben	3244
 单行道	dan xing dao	10
 单行线	dan xing xian	3020
-单姓	shan xing	4010
+单姓	shan xing	4000
 单眼	dan yan	3107
 单眼皮	dan yan pi	3148
 单一	dan yi	9210
@@ -16331,7 +16331,7 @@
 瘅疟	dan nue	100
 箪豆见色	dan dou jian se	100
 箪瓢屡空	dan piao lv kong	100
-箪食	dan si	2000
+箪食	dan si	1000
 箪食壶浆	dan si hu jiang	2026
 箪食壶酒	dan si hu jiu	100
 箪食瓢饮	dan si piao yin	2000
@@ -17363,7 +17363,7 @@
 得用	de yong	3225
 得鱼忘筌	de yu wang quan	3004
 得月较先	de yue jiao xian	100
-得着	de zhao	312
+得着	de zhao	300
 得知	de zhi	19391
 得志	de zhi	4769
 得中	de zhong	2000
@@ -18870,13 +18870,13 @@
 垫片	dian pian	3009
 垫平	dian ping	100
 垫球	dian qiu	6
-垫圈	dian juan	4023
+垫圈	dian juan	23
 垫上	dian shang	10
 垫上运动	dian shang yun dong	2002
 垫戏	dian xi	10
 垫支	dian zhi	4028
 垫子	dian zi	5691
-钿头	tian tou	2000
+钿头	dian tou	2000
 淀粉	dian fen	5308
 淀粉酶	dian fen mei	2006
 淀积	dian ji	100
