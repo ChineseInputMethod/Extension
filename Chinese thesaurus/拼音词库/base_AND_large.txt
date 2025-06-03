@@ -19077,11 +19077,11 @@
 钓誉	diao yu	10
 钓誉沽名	diao yu gu ming	1
 窎远	diao yuan	101
-调白	diao bai	10
+调白	tiao bai	10
 调包	diao bao	4043
 调兵	diao bing	10
 调兵遣将	diao bing qian jiang	2341
-调拨	tiao bo	5616
+调拨	tiao bo	5000
 调查	diao cha	42341
 调查表	diao cha biao	537
 调查研究	diao cha yan jiu	1290
@@ -19090,8 +19090,8 @@
 调处	tiao chu	4238
 调达	tiao da	2000
 调档	tiao dang	100
-调得	diao de	10
-调调	tiao diao	3572
+调得	diao de	5
+调调	tiao diao	72
 调动	diao dong	13250
 调度	diao du	13781
 调度员	diao du yuan	649
@@ -19117,7 +19117,7 @@
 调济	tiao ji	10
 调价	tiao jia	6245
 调焦	tiao jiao	3000
-调角	diao jiao	10
+调角	tiao jiao	10
 调教	tiao jiao	5456
 调节	tiao jie	10303
 调节器	tiao jie qi	2151
@@ -19168,7 +19168,7 @@
 调温	tiao wen	3000
 调息	tiao xi	3000
 调戏	tiao xi	5324
-调下	diao xia	10
+调下	diao xia	5
 调弦	tiao xian	10
 调相	tiao xiang	10
 调笑	tiao xiao	4049
@@ -19188,12 +19188,12 @@
 调匀	tiao yun	4528
 调运	diao yun	4563
 调整	tiao zheng	38892
-调正	diao zheng	10
+调正	diao zheng	1
 调值	diao zhi	4011
 调职	diao zhi	4029
 调制	tiao zhi	4942
 调制解调器	tiao zhi jie tiao qi	2469
-调质	diao zhi	10
+调质	diao zhi	5
 调治	tiao zhi	3072
 调转	diao zhuan	4419
 调准	tiao zhun	2000
@@ -19307,7 +19307,7 @@
 丁当长鸣	ding dang chang ming	100
 丁点	ding dian	3000
 丁点儿	ding dian er	2006
-丁丁	ding ding	2279
+丁丁	ding ding	2270
 丁丁当当	ding ding dang dang	175
 丁东	ding dong	114
 丁对	ding dui	2000
@@ -19544,7 +19544,7 @@
 定场白	ding chang bai	3000
 定场诗	ding chang shi	3011
 定出	ding chu	206
-定从	ding zong	100
+定从	ding zong	1
 定存	ding cun	10
 定当	ding dang	2061
 定点	ding dian	6613
