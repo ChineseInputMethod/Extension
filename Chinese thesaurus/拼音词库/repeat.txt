@@ -83,16 +83,14 @@
 调质	tiao zhi	5
 丁丁	zheng zheng	9
 定从	ding cong	99
-都会	du hui	31682
-多重	duo zhong	1150
-发颤	fa zhan	100
-拂过	fu guo	10
-伽利略	ga li lve	2104
-胳肢窝	ga zhi wo	2143
-拱圈	gong juan	12
-挂落	gua lao	2000
-贵行	gui hang	10
-还都	huan du	396
+都会	du hui	1682
+多重	duo zhong	1000
+拂过	fu guo	9
+胳肢窝	ga zhi wo	143
+拱圈	gong juan	2
+挂落	gua lao	1000
+贵行	gui hang	9
+还都	huan du	6
 还付	huan fu	3000
 还来	huan lai	648
 还年	huan nian	10

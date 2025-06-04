@@ -20217,7 +20217,7 @@
 都府	du fu	10
 都给事中	du ji shi zhong	100
 都护	du hu	100
-都会	dou hui	31682
+都会	dou hui	30000
 都江堰	du jiang yan	2239
 都将	dou jiang	3700
 都讲	dou jiang	214
@@ -21705,7 +21705,7 @@
 多值	duo zhi	10
 多种	duo zhong	19386
 多种多样	duo zhong duo yang	2715
-多重	duo chong	1150
+多重	duo chong	150
 多重国籍	duo chong guo ji	100
 多重性	duo chong xing	100
 多助	duo zhu	100
@@ -25892,7 +25892,7 @@
 拂尘	fu chen	6685
 拂动	fu dong	2000
 拂拂	fu fu	3009
-拂过	bi guo	10
+拂过	bi guo	1
 拂面	fu mian	2106
 拂逆	fu ni	3012
 拂士	bi shi	100
@@ -28263,7 +28263,7 @@
 胳膊肘儿	ge bo zhou er	121
 胳膊肘子	ge bo zhou zi	3026
 胳肢	ge zhi	4011
-胳肢窝	ge zhi wo	2143
+胳肢窝	ge zhi wo	2000
 鸽笼	ge long	3
 鸽派	ge pai	2000
 鸽哨	ge shao	100
@@ -29484,7 +29484,7 @@
 拱门	gong men	4824
 拱棚	gong peng	157
 拱桥	gong qiao	4341
-拱圈	gong quan	12
+拱圈	gong quan	10
 拱券	gong xuan	4008
 拱手	gong shou	13511
 拱手而降	gong shou er xiang	100
@@ -30712,7 +30712,7 @@
 挂镰	gua lian	2000
 挂零	gua ling	5014
 挂漏	gua lou	4001
-挂落	gua la	2000
+挂落	gua la	1000
 挂虑	gua lv	4009
 挂绿	gua lv	10
 挂面	gua mian	5162
@@ -31908,7 +31908,7 @@
 贵溪	gui xi	10
 贵显	gui xian	10
 贵校	gui xiao	3314
-贵行	gui xing	10
+贵行	gui xing	1
 贵姓	gui xing	6248
 贵阳	gui yang	5831
 贵阳市	gui yang shi	472
@@ -32601,7 +32601,7 @@
 还带	hai dai	441
 还贷	huan dai	616
 还到	hai dao	233
-还都	hai dou	396
+还都	hai dou	390
 还付	hai fu	3000
 还给	huan gei	10413
 还好	hai hao	4490
