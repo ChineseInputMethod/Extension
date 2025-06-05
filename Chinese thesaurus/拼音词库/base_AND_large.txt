@@ -32602,7 +32602,7 @@
 还贷	huan dai	616
 还到	hai dao	233
 还都	hai dou	390
-还付	hai fu	3000
+还付	hai fu	2000
 还给	huan gei	10413
 还好	hai hao	4490
 还回	hai hui	10
@@ -32613,11 +32613,11 @@
 还价	huan jia	4176
 还口	huan kou	3023
 还款	huan kuan	895
-还来	hai lai	648
+还来	hai lai	640
 还礼	huan li	5651
 还令	hai ling	10
 还骂	hai ma	10
-还年	hai nian	10
+还年	hai nian	5
 还钱	huan qian	152
 还欠	hai qian	153
 还清	huan qing	3522
@@ -32650,7 +32650,7 @@
 还愿	huan yuan	3346
 还债	huan zhai	4903
 还账	huan zhang	3014
-还真	hai zhen	1400
+还真	hai zhen	1390
 还政	huan zheng	10
 还值	hai zhi	10
 还治其人之身	huan zhi qi ren zhi shen	464
@@ -34034,7 +34034,7 @@
 何必	he bi	29182
 何必当初	he bi dang chu	263
 何不	he bu	6220
-何曾	he zeng	4120
+何曾	he ceng	4120
 何尝	he chang	10706
 何啻	he chi	106
 何处	he chu	21623
@@ -35177,7 +35177,7 @@
 洪帮	hong bang	104
 洪波	hong bo	3258
 洪大	hong da	4568
-洪洞	hong tong	2000
+洪洞	hong tong	1980
 洪都	hong du	10
 洪都拉斯	hong du la si	228
 洪恩	hong en	3136
@@ -35504,7 +35504,7 @@
 后院	hou yuan	4371
 后院起火	hou yuan qi huo	2011
 后账	hou zhang	4009
-后爪	hou zhua	10
+后爪	hou zhua	5
 后罩房	hou zhao fang	102
 后者	hou zhe	11234
 后知	hou zhi	7
@@ -35520,7 +35520,7 @@
 后坐力	hou zuo li	3025
 后座	hou zuo	288
 厚爱	hou ai	4354
-厚薄	hou bao	4363
+厚薄	hou bao	363
 厚薄规	hou bo gui	2007
 厚此薄彼	hou ci bo bi	4153
 厚大	hou da	10
@@ -35945,7 +35945,7 @@
 互惠	hu hui	5494
 互惠互利	hu hui hu li	228
 互济	hu ji	3004
-互见	hu xian	4037
+互见	hu xian	37
 互交	hu jiao	2
 互敬互爱	hu jing hu ai	2000
 互利	hu li	9167
@@ -39696,7 +39696,7 @@
 疾步	ji bu	4843
 疾驰	ji chi	7871
 疾厄	ji e	6
-疾恶	ji wu	2000
+疾恶	ji wu	1000
 疾恶好善	ji e hao shan	100
 疾恶如仇	ji e ru chou	4242
 疾风	ji feng	4784

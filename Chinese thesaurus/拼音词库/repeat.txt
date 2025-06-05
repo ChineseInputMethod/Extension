@@ -91,16 +91,15 @@
 挂落	gua lao	1000
 贵行	gui hang	9
 还都	huan du	6
-还付	huan fu	3000
-还来	huan lai	648
-还年	huan nian	10
-还真	huan zhen	1400
-何曾	he ceng	4120
-洪洞	hong dong	2000
-后爪	hou zhao	10
-厚薄	hou bo	4363
-互见	hu jian	4037
-疾恶	ji e	2000
+还付	huan fu	1000
+还来	huan lai	8
+还年	huan nian	5
+还真	huan zhen	10
+洪洞	hong dong	20
+后爪	hou zhao	5
+厚薄	hou bo	4000
+互见	hu jian	4000
+疾恶	ji e	1000
 见世面	jian shi mian	3039
 将将	jiang jiang	4000
 将进酒	jiang jin jiu	10
