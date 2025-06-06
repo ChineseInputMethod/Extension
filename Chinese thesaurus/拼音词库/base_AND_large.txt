@@ -41697,7 +41697,7 @@
 见识	jian shi	15522
 见豕负涂	jian shi fu tu	2000
 见世	xian shi	10
-见世面	xian shi mian	3039
+见世面	jian shi mian	3039
 见事生风	jian shi sheng feng	100
 见数	jian shu	10
 见死不救	jian si bu jiu	3156
@@ -42112,7 +42112,7 @@
 将官	jiang guan	4617
 将会	jiang hui	9150
 将计就计	jiang ji jiu ji	3835
-将将	qiang qiang	4000
+将将	qiang qiang	10
 将进酒	qiang jin jiu	10
 将近	jiang jin	12498
 将就	jiang jiu	7330
@@ -42889,7 +42889,7 @@
 脚窝	jiao wo	2000
 脚下	jiao xia	19849
 脚心	jiao xin	4236
-脚行	jiao xing	149
+脚行	jiao xing	9
 脚癣	jiao xuan	3003
 脚丫	jiao ya	3189
 脚丫子	jiao ya zi	2286
@@ -45438,7 +45438,7 @@
 颈饰	jing shi	10
 颈项	jing xiang	8235
 颈椎	jing zhui	3164
-颈子	jing zi	3000
+颈子	jing zi	1000
 景德镇	jing de zhen	3237
 景点	jing dian	7868
 景东	jing dong	10
@@ -46970,7 +46970,7 @@
 卷子	juan zi	4463
 卷宗	juan zong	5828
 隽拔	jun ba	10
-隽才	jun cai	100
+隽才	jun cai	90
 隽材	jun cai	10
 隽良	jun liang	10
 隽茂	jun mao	10
@@ -47539,7 +47539,7 @@
 卡农	ka nong	10
 卡奴洼	ka nu wa	100
 卡诺	ka nuo	2000
-卡盘	qia pan	10
+卡盘	qia pan	5
 卡片	ka pian	7832
 卡其	ka qi	4214
 卡钳	ka qian	4003
@@ -50603,7 +50603,7 @@
 兰姆酒	lan mu jiu	2
 兰坪	lan ping	2
 兰谱	lan pu	4019
-兰若	lan re	120
+兰若	lan re	20
 兰麝	lan she	7
 兰室	lan shi	100
 兰荪	lan sun	2
@@ -51404,7 +51404,7 @@
 乐融融	le rong rong	2272
 乐沙	yue sha	100
 乐山	le shan	4289
-乐山乐水	le shan le shui	100
+乐山乐水	yao shan yao shui	100
 乐山市	le shan shi	171
 乐善好施	le shan hao shi	3239
 乐神	yue shen	10
@@ -51665,7 +51665,7 @@
 累月	lei yue	10
 累月经年	lei yue jing nian	2003
 累赘	lei zhui	6501
-崚嶒	ling ceng	102
+崚嶒	ling ceng	100
 塄坎	leng kan	102
 棱堡	leng bao	2000
 棱边	leng bian	2000

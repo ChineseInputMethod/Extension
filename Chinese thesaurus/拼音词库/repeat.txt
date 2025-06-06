@@ -100,16 +100,13 @@
 厚薄	hou bo	4000
 互见	hu jian	4000
 疾恶	ji e	1000
-见世面	jian shi mian	3039
-将将	jiang jiang	4000
-将进酒	jiang jin jiu	10
-脚行	jiao hang	149
-颈子	geng zi	3000
-隽才	juan cai	100
-卡盘	ka pan	10
-兰若	lan ruo	120
-乐山乐水	yao shan yao shui	100
-崚嶒	leng ceng	102
+将将	jiang jiang	3990
+脚行	jiao hang	140
+颈子	geng zi	2000
+隽才	juan cai	10
+卡盘	ka pan	5
+兰若	lan ruo	100
+崚嶒	leng ceng	2
 两行	liang hang	268
 露背	lou lu	10
 落不是	lao bu shi	2002
