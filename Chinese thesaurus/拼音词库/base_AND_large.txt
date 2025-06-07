@@ -57624,7 +57624,7 @@
 没错	mei cuo	3973
 没得	mei de	379
 没得说	mei de shuo	51
-没地	mo di	10
+没地	mo di	5
 没的	mei de	174
 没底	mei di	10
 没电	mei dian	10
@@ -57637,7 +57637,7 @@
 没干	mei gan	133
 没功夫	mei gong fu	10
 没关系	mei guan xi	4961
-没过	mo guo	458
+没过	mo guo	400
 没好气	mei hao qi	2000
 没劲	mei jin	4215
 没劲儿	mei jin er	100
@@ -57796,7 +57796,7 @@
 煤房	mei fang	100
 煤矸石	mei gan shi	2115
 煤耗	mei hao	4038
-煤核	mei hu	2000
+煤核	mei hu	1000
 煤核儿	mei hu er	2011
 煤黑子	mei hei zi	100
 煤化	mei hua	203
@@ -57877,7 +57877,7 @@
 美称	mei cheng	5393
 美德	mei de	9074
 美地	mei di	10
-美的	mei di	2720
+美的	mei di	20
 美帝	mei di	6
 美恶	mei e	10
 美发	mei fa	5080
@@ -60035,7 +60035,7 @@
 末位	mo wei	2177
 末席	mo xi	100
 末屑	mo xie	100
-末行	mo xing	10
+末行	mo xing	5
 末学肤受	mo xue fu shou	2003
 末药	mo yao	110
 末叶	mo ye	4011
@@ -60425,7 +60425,7 @@
 木已成舟	mu yi cheng zhou	3180
 木易	mu yi	2
 木鱼	mu yu	4793
-木栅	mu shan	3469
+木栅	mu shan	3000
 木杖	mu zhang	7
 木枕	mu zhen	2005
 木直中绳	mu zhi zhong sheng	100
@@ -60694,15 +60694,15 @@
 拿主意	na zhu yi	3058
 拿走	na zou	627
 哪儿	na er	28002
-哪个	nei ge	18433
-哪会儿	nei hui er	2002
+哪个	nei ge	10000
+哪会儿	nei hui er	1002
 哪里	na li	70259
 哪门子	na men zi	3031
 哪能	na neng	3349
 哪怕	na pa	10607
 哪位	na wei	2930
 哪像	na xiang	10
-哪些	nei xie	11194
+哪些	nei xie	1194
 哪样	na yang	5281
 哪一个	na yi ge	1040
 哪吒	ne zha	2000
@@ -60727,7 +60727,7 @@
 那么多	na me duo	2400
 那么些	na me xie	5263
 那么样	na me yang	2280
-那么着	na me zhao	2017
+那么着	na me zhe	2017
 那摩温	na mo wen	101
 那能	na neng	10
 那曲	na qu	111

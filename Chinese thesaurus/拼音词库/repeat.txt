@@ -116,16 +116,15 @@
 漯河	luo he	4300
 绿营	lu ying	25
 马尾巴	ma wei ba	5
-没地	mei di	10
-没过	mei guo	458
-煤核	mei he	2000
-美的	mei de	2720
-末行	mo hang	10
-木栅	mu zha	3469
-哪个	na ge	18433
-哪会儿	na hui er	2002
-哪些	na xie	11194
-那么着	na me zhe	2017
+没地	mei di	5
+没过	mei guo	58
+煤核	mei he	1000
+美的	mei de	2700
+末行	mo hang	5
+木栅	mu zha	469
+哪个	na ge	8433
+哪会儿	na hui er	1000
+哪些	na xie	10000
 那行	na hang	10
 频数	pin shu	3047
 破的	po de	10
