@@ -107,16 +107,15 @@
 卡盘	ka pan	5
 兰若	lan ruo	100
 崚嶒	leng ceng	2
-两行	liang hang	268
-露背	lou lu	10
-落不是	lao bu shi	2002
-落了	luo le	406
-落了	lao le	406
-落下	luo xia	4270
-落下	lao xia	4270
-漯河	luo he	4306
-绿营	lu ying	4025
-马尾巴	ma wei ba	10
+两行	liang hang	260
+露背	lu bei	5
+落了	luo le	200
+落了	lao le	200
+落下	luo xia	2000
+落下	lao xia	270
+漯河	luo he	4300
+绿营	lu ying	25
+马尾巴	ma wei ba	5
 没地	mei di	10
 没过	mei guo	458
 煤核	mei he	2000

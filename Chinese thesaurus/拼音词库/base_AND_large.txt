@@ -53363,7 +53363,7 @@
 两小无猜	liang xiao wu cai	3141
 两心	liang xin	6
 两星期	liang xing qi	146
-两行	liang xing	268
+两行	liang xing	8
 两性	liang xing	12530
 两性动物	liang xing dong wu	100
 两性花	liang xing hua	100
@@ -55513,7 +55513,7 @@
 鹭序	lu xu	7
 麓原	lu yuan	100
 露白	lou bai	3025
-露背	lou bei	10
+露背	lou bei	5
 露布	lu bu	3003
 露才扬己	lu cai yang ji	2008
 露齿	lu chi	2000
@@ -56030,7 +56030,7 @@
 落榜	luo bang	4338
 落笔	luo bi	4270
 落膘	luo biao	4000
-落不是	luo bu shi	2002
+落不是	lao bu shi	2002
 落草	luo cao	4016
 落差	luo cha	4314
 落产	luo chan	2000
@@ -56079,7 +56079,7 @@
 落炕	lao kang	2000
 落空	luo kong	7759
 落款	luo kuan	5285
-落了	la le	406
+落了	la le	6
 落泪	luo lei	6348
 落落	luo luo	4070
 落落大方	luo luo da fang	2767
@@ -56120,7 +56120,7 @@
 落屋	luo wu	2000
 落伍	luo wu	5639
 落霞	luo xia	10
-落下	la xia	4270
+落下	la xia	2000
 落选	luo xuan	6354
 落雁	luo yan	10
 落叶	luo ye	7089
@@ -56141,7 +56141,7 @@
 落子	lao zi	4055
 落坐	luo zuo	10
 落座	luo zuo	6617
-漯河	ta he	4306
+漯河	ta he	6
 驴唇不对马嘴	lv chun bu dui ma zui	2029
 驴唇马嘴	lv chun ma zui	100
 驴打滚	lv da gun	3185
@@ -56343,7 +56343,7 @@
 绿茵场	lv yin chang	274
 绿茵茵	lv yin yin	2078
 绿莹莹	lv ying ying	4061
-绿营	lv ying	4025
+绿营	lv ying	4000
 绿营兵	lu ying bing	100
 绿油油	lv you you	5548
 绿藻	lv zao	4033
@@ -56720,7 +56720,7 @@
 马王爷	ma wang ye	10
 马嵬	ma wei	1
 马尾	ma wei	170
-马尾巴	ma yi ba	10
+马尾巴	ma yi ba	5
 马尾松	ma wei song	2034
 马尾藻	ma wei zao	111
 马文	ma wen	2
