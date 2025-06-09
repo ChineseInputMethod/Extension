@@ -74766,7 +74766,7 @@
 设计师	she ji shi	4677
 设计者	she ji zhe	3388
 设局	she ju	3000
-设卡	she ka	3001
+设卡	she ka	1001
 设立	she li	17183
 设圈套	she quan tao	100
 设若	she ruo	5159
@@ -74920,16 +74920,16 @@
 麝牛	she niu	4
 麝香	she xiang	5432
 谁边	shui bian	2003
-谁的	shei de	1860
-谁都	shei dou	1880
+谁的	shei de	1000
+谁都	shei dou	1000
 谁个	shui ge	2018
 谁何	shui he	2000
 谁家	shui jia	601
 谁肯	shui ken	10
-谁料	shei liao	2754
+谁料	shui liao	2754
 谁人	shui ren	314
 谁谁	shui shui	2111
-谁知	shei zhi	24003
+谁知	shei zhi	10000
 申办	shen ban	5960
 申报	shen bao	9032
 申报单	shen bao dan	2016
@@ -76215,7 +76215,7 @@
 盛誉	sheng yu	5254
 盛赞	sheng zan	5524
 盛馔	sheng zhuan	4003
-盛装	cheng zhuang	6047
+盛装	cheng zhuang	47
 盛壮	sheng zhuang	2000
 剩菜	sheng cai	100
 剩磁	sheng ci	4007
@@ -78827,7 +78827,7 @@
 枢要	shu yao	4019
 枢轴	shu zhou	2000
 叔本华	shu ben hua	10
-叔伯	shu bo	3031
+叔伯	shu bo	3000
 叔伯兄弟	shu bai xiong di	100
 叔父	shu fu	6176
 叔公	shu gong	4466
@@ -80099,7 +80099,7 @@
 水藻	shui zao	3071
 水泽	shui ze	4144
 水闸	shui zha	4236
-水栅	shui shan	10
+水栅	shui shan	5
 水寨	shui zhai	10
 水战	shui zhan	3209
 水站	shui zhan	6
@@ -85121,7 +85121,7 @@
 通俗读物	tong su du wu	2000
 通俗化	tong su hua	2000
 通俗易懂	tong su yi dong	287
-通宿	tong su	3001
+通宿	tong su	1001
 通体	tong ti	4199
 通天	tong tian	6957
 通条	tong tiao	4062
