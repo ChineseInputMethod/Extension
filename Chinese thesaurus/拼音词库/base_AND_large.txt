@@ -60739,7 +60739,7 @@
 那天	na tian	5980
 那些	na xie	120000
 那些	nei xie	6192
-那行	na xing	10
+那行	na xing	9
 那样	na yang	73792
 那也好	na ye hao	100
 那用	na yong	10
@@ -64713,7 +64713,7 @@
 频频	pin pin	9915
 频谱	pin pu	3229
 频仍	pin reng	3056
-频数	pin shuo	3047
+频数	pin shuo	47
 嫔从	pin cong	7
 嫔娥	pin e	10
 嫔妃	pin fei	2000
@@ -65182,7 +65182,7 @@
 破除迷信	po chu mi xin	2635
 破处	po chu	3
 破胆	po dan	10
-破的	po di	10
+破的	po di	5
 破洞	po dong	10
 破读	po du	101
 破防	po fang	3
@@ -65467,7 +65467,7 @@
 普天下	pu tian xia	7
 普天之下	pu tian zhi xia	100
 普通	pu tong	27493
-普通地	pu tong de	10
+普通地	pu tong de	5
 普通电报	pu tong dian bao	100
 普通法	pu tong fa	778
 普通股	pu tong gu	2287
@@ -67032,7 +67032,7 @@
 前程	qian cheng	8194
 前程万里	qian cheng wan li	125
 前仇	qian chou	4000
-前传	qian chuan	10
+前传	qian chuan	5
 前此	qian ci	3000
 前次	qian ci	2777
 前代	qian dai	10
@@ -67171,7 +67171,7 @@
 前月	qian yue	100
 前瞻	qian zhan	2060
 前站	qian zhan	5782
-前爪	qian zhua	3000
+前爪	qian zhua	2000
 前兆	qian zhao	5324
 前者	qian zhe	8424
 前镇	qian zhen	10
@@ -69101,7 +69101,7 @@
 穷通	qiong tong	7
 穷途	qiong tu	4207
 穷途潦倒	qiong tu liao dao	3056
-穷途落魄	qiong tu luo tuo	100
+穷途落魄	qiong tu luo tuo	1
 穷途末路	qiong tu mo lu	4270
 穷途之哭	qiong tu zhi ku	100
 穷乡僻壤	qiong xiang pi rang	3357
@@ -69647,7 +69647,7 @@
 取而代之	qu er dai zhi	5338
 取法	qu fa	4046
 取法乎上	qu fa hu shang	2
-取给	qu gei	134
+取给	qu gei	100
 取回	qu hui	3100
 取火	qu huo	7
 取经	qu jing	5766
@@ -72665,7 +72665,7 @@
 三生有幸	san sheng you xing	2386
 三牲	san sheng	4143
 三牲五鼎	san sheng wu ding	101
-三省	san xing	2000
+三省	san xing	1000
 三尸暴跳	san shi bao tiao	113
 三尸五鬼	san shi wu gui	1
 三师	san shi	7
@@ -72747,7 +72747,7 @@
 三星	san xing	4676
 三星在户	san xing zai hu	108
 三星在天	san xing zai tian	104
-三行	san xing	10
+三行	san xing	5
 三性	san xing	2
 三玄	san xuan	10
 三熏三沐	san xun san mu	1

@@ -125,16 +125,16 @@
 哪个	na ge	8433
 哪会儿	na hui er	1000
 哪些	na xie	10000
-那行	na hang	10
-频数	pin shu	3047
-破的	po de	10
-普通地	pu tong di	10
-前传	qian zhuan	10
-前爪	qian zhao	3000
-穷途落魄	qiong tu luo po	100
-取给	qu ji	134
-三省	san sheng	2000
-三行	san hang	10
+那行	na hang	1
+频数	pin shu	3000
+破的	po de	5
+普通地	pu tong di	5
+前传	qian zhuan	5
+前爪	qian zhao	1000
+穷途落魄	qiong tu luo po	99
+取给	qu ji	34
+三省	san sheng	1000
+三行	san hang	5
 设卡	she qia	3001
 谁的	shui de	1860
 谁都	shui dou	1880
