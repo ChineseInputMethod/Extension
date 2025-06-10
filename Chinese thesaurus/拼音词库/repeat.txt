@@ -143,16 +143,13 @@
 叔伯	shu bai	31
 水栅	shui zha	5
 通宿	tong xiu	2000
-喔唷	wo yo	2000
-我行	wo hang	427
-细心地	xi xin di	158
-瑕瑜互见	xia yu hu jian	3010
-下乘	xia cheng	4036
-闲散地	xian san di	10
-线呢	xian ni	2054
-相对地	xiang dui di	973
-向外地	xiang wai di	10
-小行	xiao hang	10
+我行	wo hang	7
+下乘	xia cheng	4000
+闲散地	xian san di	5
+线呢	xian ni	2000
+相对地	xiang dui di	73
+向外地	xiang wai di	5
+小行	xiao hang	9
 校本	jiao ben	2464
 谐调	xie tiao	2036
 新乐	xin yue	10

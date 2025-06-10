@@ -89564,7 +89564,7 @@
 我为鱼肉	wo wei yu rou	2057
 我武惟扬	wo wu wei yang	2000
 我心如秤	wo xin ru cheng	100
-我行	wo xing	427
+我行	wo xing	420
 我行我素	wo xing wo su	5674
 我自	wo zi	7
 我醉欲眠	wo zui yu mian	2000
@@ -91963,7 +91963,7 @@
 瑕玷	xia dian	4007
 瑕垢	xia gou	7
 瑕隙	xia xi	7
-瑕瑜互见	xia yu hu xian	3010
+瑕瑜互见	xia yu hu jian	3010
 暇日	xia ri	3000
 暇时	xia shi	10
 暇逸	xia yi	100
@@ -92034,7 +92034,7 @@
 下沉	xia chen	7278
 下陈	xia chen	100
 下衬	xia chen	100
-下乘	xia sheng	4036
+下乘	xia sheng	36
 下程	xia cheng	100
 下厨	xia chu	153
 下处	xia chu	4085
@@ -92640,7 +92640,7 @@
 闲日	xian ri	7
 闲冗	xian rong	7
 闲散	xian san	6732
-闲散地	xian san de	10
+闲散地	xian san de	5
 闲时	xian shi	3000
 闲事	xian shi	12074
 闲适	xian shi	4142
@@ -93049,7 +93049,7 @@
 线缕	xian lv	7
 线麻	xian ma	2
 线民	xian min	2
-线呢	xian ne	2054
+线呢	xian ne	54
 线坯子	xian pi zi	3000
 线圈	xian quan	4152
 线人	xian ren	288
@@ -93256,7 +93256,7 @@
 相等地	xiang deng de	10
 相抵	xiang di	5811
 相对	xiang dui	23444
-相对地	xiang dui de	973
+相对地	xiang dui de	900
 相对而言	xiang dui er yan	303
 相对论	xiang dui lun	3244
 相对湿度	xiang dui shi du	2023
@@ -93774,7 +93774,7 @@
 向使	xiang shi	4056
 向天而唾	xiang tian er tuo	100
 向外	xiang wai	2530
-向外地	xiang wai de	10
+向外地	xiang wai de	5
 向晚	xiang wan	100
 向往	xiang wang	9094
 向午	xiang wu	100
@@ -94595,7 +94595,7 @@
 小心翼翼	xiao xin yi yi	11588
 小信未孚	xiao xin wei fu	100
 小星	xiao xing	2
-小行	xiao xing	10
+小行	xiao xing	1
 小行星	xiao xing xing	3332
 小型	xiao xing	10451
 小型巴士	xiao xing ba shi	3
