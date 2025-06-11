@@ -150,16 +150,15 @@
 相对地	xiang dui di	73
 向外地	xiang wai di	5
 小行	xiao hang	9
-校本	jiao ben	2464
-谐调	xie tiao	2036
-新乐	xin yue	10
-行风	hang feng	500
-行内	hang nei	10
-行商	xing shang	4322
-行行	hang hang	617
-幸福地	xing fu di	161
-幸运地	xing yun di	214
-休闲地	xiu xian di	100
+校本	jiao ben	64
+谐调	xie tiao	2000
+新乐	xin yue	5
+行风	hang feng	250
+行内	hang nei	9
+行商	xing shang	4300
+行行	hang hang	600
+幸福地	xing fu di	1
+幸运地	xing yun di	14
 荨麻	qian ma	4013
 也得	ye dei	1200
 一撮	yi cuo	10

@@ -94740,7 +94740,7 @@
 肖像权	xiao xiang quan	228
 肖扬	xiao yang	2
 肖子	xiao zi	2
-校本	xiao ben	2464
+校本	xiao ben	2400
 校测	jiao ce	100
 校场	jiao chang	4024
 校车	xiao che	10
@@ -95038,7 +95038,7 @@
 斜照	xie zhao	3000
 斜轴	xie zhou	100
 谐波	xie bo	2139
-谐调	xie diao	2036
+谐调	xie diao	36
 谐和	xie he	4117
 谐剧	xie ju	2002
 谐美	xie mei	4015
@@ -95702,7 +95702,7 @@
 新浪潮	xin lang chao	100
 新浪网	xin lang wang	3
 新老交替	xin lao jiao ti	384
-新乐	xin le	10
+新乐	xin le	5
 新力	xin li	4
 新历	xin li	10
 新论	xin lun	2436
@@ -96164,7 +96164,7 @@
 行贩	xing fan	3029
 行方便	xing fang bian	2008
 行房	xing fang	4312
-行风	xing feng	500
+行风	xing feng	250
 行歌	xing ge	100
 行宫	xing gong	5356
 行馆	xing guan	10
@@ -96214,7 +96214,7 @@
 行略	xing lue	10
 行牧且荛	xing mu qie rao	100
 行囊	xing nang	5666
-行内	xing nei	10
+行内	xing nei	1
 行年	xing nian	11
 行骗	xing pian	4224
 行聘	xing pin	3000
@@ -96234,7 +96234,7 @@
 行色匆匆	xing se cong cong	2625
 行山	xing shan	10
 行善	xing shan	4835
-行商	hang shang	4322
+行商	hang shang	22
 行赏	xing shang	10
 行省	xing sheng	10
 行尸走肉	xing shi zou rou	3479
@@ -96263,7 +96263,7 @@
 行星	xing xing	4850
 行刑	xing xing	4075
 行刑队	xing xing dui	100
-行行	xing xing	617
+行行	xing xing	17
 行凶	xing xiong	6901
 行业	hang ye	28779
 行医	xing yi	5947
@@ -96481,7 +96481,7 @@
 幸得	xing de	2139
 幸而	xing er	11409
 幸福	xing fu	36870
-幸福地	xing fu de	161
+幸福地	xing fu de	160
 幸好	xing hao	18014
 幸会	xing hui	3035
 幸进	xing jin	4003
@@ -96492,7 +96492,7 @@
 幸喜	xing xi	4551
 幸有	xing you	10
 幸运	xing yun	13813
-幸运地	xing yun de	214
+幸运地	xing yun de	200
 幸运儿	xing yun er	3306
 幸灾乐祸	xing zai le huo	5804
 性爱	xing ai	3710
@@ -96782,7 +96782,7 @@
 休息	xiu xi	35244
 休息室	xiu xi shi	3452
 休闲	xiu xian	7093
-休闲地	xiu xian de	100
+休闲地	xiu xian di	100
 休想	xiu xiang	13453
 休休	xiu xiu	100
 休休有容	xiu xiu you rong	100
