@@ -98139,7 +98139,7 @@
 询于刍荛	xun yu chu rao	10
 荀彧	xun yu	10
 荀子	xun zi	11
-荨麻	xun ma	4013
+荨麻	xun ma	13
 荨麻疹	xun ma zhen	2969
 恂恂	xun xun	100
 珣玗琪	xun yu qi	100
@@ -100540,7 +100540,7 @@
 揶揄	ye yu	4067
 也罢	ye ba	12577
 也曾	ye ceng	5010
-也得	ye de	1200
+也得	ye de	200
 也好	ye hao	28333
 也就是	ye jiu shi	6740
 也就是说	ye jiu shi shuo	1920
@@ -100951,7 +100951,7 @@
 一蹴而就	yi cu er jiu	4280
 一寸	yi cun	631
 一寸丹心	yi cun dan xin	2000
-一撮	yi zuo	10
+一撮	yi zuo	5
 一错再错	yi cuo zai cuo	10
 一搭两用	yi da liang yong	100
 一搭两用儿	yi da liang yong er	100
@@ -102177,7 +102177,7 @@
 已定	yi ding	3
 已而	yi er	4033
 已故	yi gu	3365
-已还	yi hai	10
+已还	yi hai	1
 已后	yi hou	100
 已婚	yi hun	3627
 已极	yi ji	3
@@ -104309,7 +104309,7 @@
 永靖县	yong jing xian	7
 永久	yong jiu	7747
 永久磁铁	yong jiu ci tie	2001
-永久地	yong jiu de	10
+永久地	yong jiu de	5
 永久性	yong jiu xing	3256
 永诀	yong jue	4214
 永康	yong kang	1020
@@ -106273,7 +106273,7 @@
 郁气	yu qi	3000
 郁然	yu ran	100
 郁热	yu re	3019
-郁塞	yu se	10
+郁塞	yu se	5
 郁血	yu xue	107
 郁抑	yu yi	100
 郁悒	yu yi	5037
@@ -108505,7 +108505,7 @@
 贼子乱臣	zei zi luan chen	1
 贼走关门	zei zou guan men	3000
 怎地	zen di	2188
-怎的	zen de	2172
+怎的	zen de	172
 怎么	zen me	300900
 怎么办	zen me ban	29053
 怎么得了	zen me de liao	100
@@ -109210,7 +109210,7 @@
 长城	chang cheng	10266
 长程	chang cheng	150
 长虫	chang chong	4143
-长出	zhang chu	685
+长出	zhang chu	600
 长处	chang chu	7828
 长春	chang chun	8570
 长辞	chang ci	134
@@ -109850,7 +109850,7 @@
 遮栏	zhe lan	6
 遮路	zhe lu	10
 遮瞒	zhe man	3000
-遮没	zhe mei	100
+遮没	zhe mei	10
 遮目鱼	zhe mu yu	100
 遮篷	zhe peng	3
 遮人耳目	zhe ren er mu	3038
@@ -110007,7 +110007,7 @@
 这么说	zhe me shuo	1090
 这么些	zhe me xie	3740
 这么样	zhe me yang	6209
-这么着	zhe me zhao	2080
+这么着	zhe me zhao	80
 这时	zhe shi	104035
 这说	zhe shuo	10
 这位	zhe wei	7490
