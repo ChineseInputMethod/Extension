@@ -110922,7 +110922,7 @@
 正在	zheng zai	106124
 正则	zheng ze	100
 正长石	zheng chang shi	100
-正着	zheng zhao	266
+正着	zheng zhao	200
 正正	zheng zheng	2
 正正经经	zheng zheng jing jing	430
 正正气气	zheng zheng qi qi	1
@@ -111136,7 +111136,7 @@
 支用	zhi yong	10
 支援	zhi yuan	11537
 支招	zhi zhao	2000
-支着	zhi zhao	2000
+支着	zhi zhao	1000
 支支吾吾	zhi zhi wu wu	3813
 支助	zhi zhu	10
 支柱	zhi zhu	9917
@@ -112978,7 +112978,7 @@
 重罚	zhong fa	3363
 重罚不用	zhong fa bu yong	100
 重返	chong fan	6685
-重犯	chong fan	4066
+重犯	chong fan	2066
 重访	chong fang	10
 重逢	chong feng	5291
 重负	zhong fu	5727
@@ -113001,7 +113001,7 @@
 重击	zhong ji	125
 重机关枪	zhong ji guan qiang	2001
 重机枪	zhong ji qiang	100
-重计	zhong ji	10
+重计	zhong ji	5
 重价	zhong jia	4129
 重见天日	chong jian tian ri	3314
 重建	chong jian	9936
@@ -113023,10 +113023,10 @@
 重量	zhong liang	9776
 重楼	chong lou	10
 重峦叠嶂	chong luan die zhang	2012
-重落	zhong luo	113
+重落	zhong luo	13
 重码	chong ma	3032
 重门击柝	chong men ji tuo	100
-重名	zhong ming	3053
+重名	zhong ming	53
 重男轻女	zhong nan qing nv	2000
 重拍	chong pai	240
 重排	chong pai	10
@@ -113045,7 +113045,7 @@
 重色	zhong se	10
 重伤	zhong shang	13361
 重赏	zhong shang	3689
-重设	zhong she	10
+重设	zhong she	5
 重申	chong shen	10144
 重身	chong shen	100
 重身子	zhong shen zi	2001
@@ -113068,7 +113068,7 @@
 重提	chong ti	2204
 重提旧事	chong ti jiu shi	100
 重听	zhong ting	4116
-重头	chong tou	3142
+重头	chong tou	3000
 重头戏	zhong tou xi	4510
 重托	zhong tuo	5147
 重望	zhong wang	4000
