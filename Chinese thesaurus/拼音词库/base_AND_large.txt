@@ -113093,10 +113093,10 @@
 重型坦克	zhong xing tan ke	100
 重修	chong xiu	4384
 重修旧好	chong xiu jiu hao	3021
-重选	zhong xuan	2000
-重学	zhong xue	10
+重选	zhong xuan	1000
+重学	zhong xue	5
 重压	zhong ya	4227
-重言	zhong yan	213
+重言	zhong yan	13
 重檐	chong yan	3047
 重眼皮	chong yan pi	100
 重眼皮儿	chong yan pi er	100
@@ -113123,7 +113123,7 @@
 重圆	chong yuan	3021
 重灾	zhong zai	10
 重灾区	zhong zai qu	352
-重载	zhong zai	4113
+重载	zhong zai	113
 重责	zhong ze	4034
 重张	chong zhang	2031
 重振	chong zhen	3289
@@ -113134,7 +113134,7 @@
 重制	chong zhi	10
 重置	chong zhi	158
 重重	chong chong	18191
-重装	zhong zhuang	383
+重装	zhong zhuang	83
 重资	zhong zi	121
 重子	zhong zi	2008
 重奏	chong zou	4022
@@ -114728,7 +114728,7 @@
 准备活动	zhun bei huo dong	100
 准备金	zhun bei jin	2398
 准此	zhun ci	6
-准的	zhun di	2467
+准的	zhun di	7
 准点	zhun dian	3051
 准定	zhun ding	2072
 准度	zhun du	10
@@ -115515,7 +115515,7 @@
 自用	zi yong	5575
 自用则小	zi yong ze xiao	100
 自由	zi you	31063
-自由地	zi you de	442
+自由地	zi you de	400
 自由电子	zi you dian zi	2034
 自由度	zi you du	499
 自由泛滥	zi you fan lan	2008
@@ -115836,7 +115836,7 @@
 总务长	zong wu zhang	100
 总线	zong xian	5271
 总校	zong xiao	100
-总行	zong xing	2492
+总行	zong xing	2000
 总需求	zong xu qiu	283
 总压	zong ya	100
 总要	zong yao	1150
@@ -116344,7 +116344,7 @@
 最优	zui you	1230
 最远	zui yuan	306
 最终	zui zhong	21329
-最终地	zui zhong de	10
+最终地	zui zhong de	5
 晬面盎背	zui mian ang bei	1
 罪案	zui an	4353
 罪不可逭	zui bu ke huan	2000
