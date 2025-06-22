@@ -64307,8 +64307,6 @@
 祛热剂	qu re ji	6
 祛痰剂	qu tan ji	100
 祛皱	qu zhou	1
-袪风	qu feng	10
-袪暑	qu shu	10
 趋附权贵	qu fu quan gui	10
 趋附于	qu fu yu	100
 趋高	qu gao	100

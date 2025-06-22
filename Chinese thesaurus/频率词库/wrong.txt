@@ -144,3 +144,5 @@
 浆湖	jiang hu	10
 敲种	qiao zhong	10
 砥触	di chu	6
+袪风	qu feng	10
+袪暑	qu shu	10
