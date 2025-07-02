@@ -10326,7 +10326,6 @@
 阬	kang	ㄎㄤ	0
 阬	keng	ㄎㄥ	0
 坑	keng	ㄎㄥ	11768
-坑	kang	ㄎㄤ	0
 吭	keng	ㄎㄥ	6000
 吭	hang	ㄏㄤ	992
 妔	hang	ㄏㄤ	0
